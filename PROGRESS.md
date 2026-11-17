@@ -25,7 +25,7 @@ Resume point for any new session. Update after every chapter.
 | 9 | Designing Implant Restorations | `chapters/09-implant-restorations.md` | Draft 1 | 25 | 0 | — |
 | 10 | Subtractive Manufacturing: Milling and Grinding | `chapters/10-subtractive-manufacturing.md` | Draft 1 | 26 | 1 | `chapters/10-subtractive-manufacturing.notes.md` |
 | 11 | Additive Manufacturing (3D Printing) | `chapters/11-additive-manufacturing.md` | Draft 1 | 25 | 0 | `chapters/11-additive-manufacturing.notes.md` |
-| 12 | Finishing, Characterisation and Quality Control | `chapters/12-finishing-quality-control.md` | In progress | | | |
+| 12 | Finishing, Characterisation and Quality Control | `chapters/12-finishing-quality-control.md` | Draft 1 | 23 | 0 | `chapters/12-finishing-quality-control.notes.md` |
 | 13 | Glass-Ceramics | `chapters/13-glass-ceramics.md` | In progress | | | |
 | 14 | Zirconia | `chapters/14-zirconia.md` | In progress | | | |
 | 15 | Resin-Based and Hybrid Materials; Metals | `chapters/15-resins-hybrids-metals.md` | In progress | | | |

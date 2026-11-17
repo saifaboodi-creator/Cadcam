@@ -92,7 +92,7 @@ Definitions; history (Duret, Mörmann, the CEREC system); the three parts of eve
 - Biocompatibility and regulation of printable resins
 - Ceramic and zirconia printing: current status
 
-### Chapter 12. Finishing, Characterisation and Quality Control
+### Chapter 12. Finishing, Characterisation and Quality Control *(drafted)*
 - Staining, glazing, polishing protocols
 - Fit checks: digital and physical
 - Troubleshooting common manufacturing failures
