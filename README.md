@@ -25,4 +25,5 @@ Working manuscript for a comprehensive, evidence-based book on computer-aided de
 | 4. Intraoral Scanners | Draft 1 |
 | 5. Laboratory Scanners and Model Digitisation | Draft 1 |
 | 6. Three-Dimensional Imaging Beyond the Teeth | Draft 1 |
-| 7–20 | Not started |
+| 7. Design Software: Principles and Tools | Draft 1 |
+| 8–20 | Not started |

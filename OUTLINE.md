@@ -55,7 +55,7 @@ Definitions; history (Duret, Mörmann, the CEREC system); the three parts of eve
 
 ## Part III — Computer-Aided Design
 
-### Chapter 7. Design Software: Principles and Tools
+### Chapter 7. Design Software: Principles and Tools *(drafted)*
 - Libraries, biogeneric and anatomic proposals
 - Margin detection, insertion axis, undercuts and blockout
 - Parameters: cement space, minimum thickness, connector dimensions
