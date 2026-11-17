@@ -17,6 +17,7 @@ Working manuscript for a comprehensive, evidence-based book on computer-aided de
 | `build/CADCAM-in-Dentistry-Draft.pdf` | Compiled book (all 20 chapters) |
 | `tools/build_pdf.py` | Rebuilds the PDF: `python3 -I tools/build_pdf.py` (needs pandoc + Playwright/Chromium) |
 | `tools/renum.py` | Renumbers citations in Vancouver order of first appearance |
+| `UPDATE-PROCEDURE.md` | Quarterly literature-update procedure; reports go in `updates/` |
 
 ## Status
 
