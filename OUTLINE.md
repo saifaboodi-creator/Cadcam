@@ -144,7 +144,7 @@ Definitions; history (Duret, Mörmann, the CEREC system); the three parts of eve
 
 ## Part VII — Practice and the Future
 
-### Chapter 20. Implementation, Economics, Education and the Future
+### Chapter 20. Implementation, Economics, Education and the Future *(drafted)*
 - Choosing a system: a buyer's checklist
 - Cost-time analyses and return on investment
 - Communication between clinic and laboratory
