@@ -32,8 +32,8 @@ Resume point for any new session. Update after every chapter.
 | 16 | Chairside CAD/CAM in Restorative Dentistry | `chapters/16-chairside-cadcam.md` | Draft 1 | 21 | 1 | `chapters/16-chairside-cadcam.notes.md` |
 | 17 | Digital Implant Dentistry | `chapters/17-digital-implant-dentistry.md` | Draft 1 | 24 | 0 | `chapters/17-digital-implant-dentistry.notes.md` |
 | 18 | Removable Prosthodontics | `chapters/18-removable-prosthodontics.md` | Draft 1 | 26 | 0 | `chapters/18-removable-prosthodontics.notes.md` |
-| 19 | Orthodontics and Other Specialties | `chapters/19-orthodontics-other-specialties.md` | In progress | | | |
+| 19 | Orthodontics and Other Specialties | `chapters/19-orthodontics-other-specialties.md` | Draft 1 | 26 | 0 | `chapters/19-orthodontics-other-specialties.notes.md` |
 | 20 | Implementation, Economics, Education and the Future | `chapters/20-implementation-future.md` | Draft 1 | 27 | 2 | `chapters/20-implementation-future.notes.md` |
 
 ## Blockers
-None so far.
+None. All 20 chapters at Draft 1 (Chapters 10–20 completed in one run; author review pending).
