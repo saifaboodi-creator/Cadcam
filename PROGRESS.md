@@ -31,7 +31,7 @@ Resume point for any new session. Update after every chapter.
 | 15 | Resin-Based and Hybrid Materials; Metals | `chapters/15-resins-hybrids-metals.md` | Draft 1 | 26 | 0 | `chapters/15-resins-hybrids-metals.notes.md` |
 | 16 | Chairside CAD/CAM in Restorative Dentistry | `chapters/16-chairside-cadcam.md` | Draft 1 | 21 | 1 | `chapters/16-chairside-cadcam.notes.md` |
 | 17 | Digital Implant Dentistry | `chapters/17-digital-implant-dentistry.md` | Draft 1 | 24 | 0 | `chapters/17-digital-implant-dentistry.notes.md` |
-| 18 | Removable Prosthodontics | `chapters/18-removable-prosthodontics.md` | In progress | | | |
+| 18 | Removable Prosthodontics | `chapters/18-removable-prosthodontics.md` | Draft 1 | 26 | 0 | `chapters/18-removable-prosthodontics.notes.md` |
 | 19 | Orthodontics and Other Specialties | `chapters/19-orthodontics-other-specialties.md` | In progress | | | |
 | 20 | Implementation, Economics, Education and the Future | `chapters/20-implementation-future.md` | In progress | | | |
 

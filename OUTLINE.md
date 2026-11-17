@@ -129,7 +129,7 @@ Definitions; history (Duret, Mörmann, the CEREC system); the three parts of eve
 - Accuracy of guided surgery; dynamic navigation and robotics
 - Immediate provisionalisation; digital workflows for edentulous arches
 
-### Chapter 18. Removable Prosthodontics
+### Chapter 18. Removable Prosthodontics *(drafted)*
 - Digital complete dentures: milled and printed
 - RPD frameworks: design, SLM and milling
 - Obturators and maxillofacial prostheses
