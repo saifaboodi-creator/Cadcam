@@ -2,11 +2,14 @@
 
 The book is updated every 3 months. Each update session follows these steps exactly.
 
+## Authorization
+The author gave standing approval on 2026-11-17: whenever the quarterly scheduled update message arrives, run this procedure in full and commit and push the changes to `claude/cad-cam-dentistry-book-5d2foe`. Updates run in the main book session (the one that wrote the book), which has push access and the PubMed connector.
+
 ## Goal
 Keep the evidence current. Add important new studies (especially systematic reviews, meta-analyses, RCTs and guidelines), replace superseded data, and fix reference details of online-first papers. Do **not** rewrite chapters, change their structure or invent anything.
 
 ## Steps
-1. **Read first:** `PROGRESS.md`, `STYLE.md`, `figures/FIGURE-STYLE.md` and the latest report in `updates/` (if any). The search window starts at the date of the last report, or 2026-11-17 for the first update.
+1. **Read first:** `PROGRESS.md`, `STYLE.md`, `figures/FIGURE-STYLE.md` and the latest report in `updates/` (if any). The search window starts at the date of the last report, or 2026-10-01 for the first update (to cover papers published while the book was being written).
 2. **Fix pending reference details.** In every `chapters/*.notes.md`, look under "References to check" for papers listed as online-first or missing volume/pages. Look each up on PubMed. Where final details now exist, update the reference entry in the chapter and remove the item from the notes.
 3. **Search for new evidence**, chapter by chapter, using PubMed (`search_articles` with `date_from` = window start). Prioritise systematic reviews and meta-analyses, RCTs, large cohorts and clinical guidelines on each chapter's key topics (see `OUTLINE.md`). Ignore single small in vitro studies unless they change a stated conclusion.
 4. **Decide per finding:**
@@ -32,6 +35,7 @@ Keep the evidence current. Add important new studies (especially systematic revi
    - Update `PROGRESS.md`: reference counts, UNVERIFIED totals and last update date.
 7. **Rebuild** the PDF with `python3 -I tools/build_pdf.py`, then check the page count and that there are no missing images.
 8. **Commit and push** to the book branch (`claude/cad-cam-dentistry-book-5d2foe`). Commit in logical steps, for example one commit per chapter group plus one for the report and PDF.
+   - If `git push` is refused (HTTP 403) but the GitHub tools work, push the changed files with the GitHub `push_files` tool to the same branch, then sync the local copy with `git pull --rebase`.
 9. If PubMed or GitHub is unavailable, write the report with status **BLOCKED** and the reason, commit what is possible, and stop.
 
 ## PubMed access
