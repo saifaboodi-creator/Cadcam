@@ -10,7 +10,7 @@ Each chapter follows the template in `STYLE.md`: learning objectives, numbered s
 ### Chapter 1. Introduction to CAD/CAM in Dentistry *(drafted)*
 Definitions; history (Duret, Mörmann, the CEREC system); the three parts of every system (acquisition, design, manufacture); subtractive and additive manufacturing; chairside, laboratory and centralised production; open and closed systems; overview of materials; summary of the evidence; advantages and limitations.
 
-### Chapter 2. The Digital Workflow and Data Formats
+### Chapter 2. The Digital Workflow and Data Formats *(drafted)*
 - Analogue, hybrid and fully digital workflows
 - File formats: STL, PLY, OBJ, DICOM, 3MF; meshes, point clouds and colour/texture data
 - Open and closed architectures; interoperability; vendor lock-in

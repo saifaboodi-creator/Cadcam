@@ -20,4 +20,5 @@ Working manuscript for a comprehensive, evidence-based book on computer-aided de
 |---|---|
 | Outline | Draft 1 |
 | 1. Introduction to CAD/CAM in Dentistry | Draft 1 |
-| 2–20 | Not started |
+| 2. The Digital Workflow and Data Formats | Draft 1 |
+| 3–20 | Not started |
