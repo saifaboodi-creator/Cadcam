@@ -43,3 +43,10 @@
 
 ## UNVERIFIED items
 None.
+
+## Figures and tables added
+All figures are original SVG diagrams/charts (`figures/`), drawn to `figures/FIGURE-STYLE.md`; no new facts, numbers or references were introduced.
+- **Figure 17.1** (`fig-17-1-planning-workflow.svg`, Section 17.2.1): prosthetically driven planning workflow (scans + wax-up + CBCT → registration → planning crown-first with ≥2 mm margin → static guide / navigation / robot → surgery and provisional). Caption cites [1,4]. The caption first cited [1,4,11,12], which caused renum.py to reorder references; this was reversed exactly and the caption trimmed to [1,4] so the citation order stays identity.
+- **Figure 17.2** (`fig-17-2-deviation-measures.svg`, Section 17.3.2): definitional diagram of entry, apex and angular deviation (planned vs placed implant), deviations exaggerated for clarity (stated in the figure and caption).
+- **Figure 17.3** (`fig-17-3-guidance-accuracy.svg`, Section 17.3.2): two-panel bar chart (separate scales, both from zero) of mean angular deviation (7.46°, 5.94°, 2.57°, 3.67°) and apex deviation (2.22, 1.43, 0.88, 1.36 mm) for freehand, pilot-drill, fully guided and dynamic placement. Data from [6] (Werny 2025, 55 studies), as already given in the text and Table 17.2.
+- No new tables (chapter already had three).

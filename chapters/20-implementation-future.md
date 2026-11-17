@@ -32,7 +32,7 @@ The best system is the one that fits **what you actually do**. Before looking at
 - your current laboratory partners and the formats they accept;
 - who in the team will scan, design and manufacture.
 
-Scanners differ in accuracy, and the best device depends on the clinical situation: a network meta-analysis found significant accuracy differences between scanners, with the ranking changing with arch type [2]. A practice doing mostly complete-arch implant work therefore needs different evidence from one doing mostly single posterior crowns.
+Scanners differ in accuracy, and the best device depends on the clinical situation: a network meta-analysis found significant accuracy differences between scanners, with the ranking changing with arch type [2]. A practice doing mostly complete-arch implant work therefore needs different evidence from one doing mostly single posterior crowns. Figure 20.1 summarises the decision process developed in this section and Section 20.3.
 
 ### 20.2.2 A buyer's checklist
 
@@ -53,6 +53,10 @@ Scanners differ in accuracy, and the best device depends on the clinical situati
 | **Upgrade path** | How often does hardware become obsolete? Are software updates included? | 20.3 |
 
 > **Clinical Tip.** Ask for a **trial period** and test the whole chain (scan, send, design, manufacture, seat) on a few real cases with your own laboratory before signing. Most problems appear at the interfaces between systems, not inside them.
+
+![Decision flowchart for choosing a CAD/CAM system: list indications, check evidence, total cost, break-even units per month, then in-house manufacture or scanning only, followed by a trial period](../figures/fig-20-1-system-selection.svg)
+
+**Figure 20.1** A decision path for choosing a CAD/CAM system. The break-even estimate (Section 20.3.2) decides between in-house manufacture and investing in scanning only; either way, test the whole chain before buying.
 
 ### 20.2.3 Institutional adoption
 
@@ -94,6 +98,24 @@ A simple return-on-investment estimate compares **annual net benefit** with **to
 - patient preference and practice differentiation (hard to quantify but real; patients prefer scanning for many indications) [8].
 
 The decisive variable is usually **utilisation**: a mill that produces three restorations a week has a very different cost per unit from one producing thirty.
+
+Table 20.2 arranges these items as a worksheet.
+
+**Table 20.2** Return-on-investment worksheet (annual figures; fill in with your own data)
+
+| Item | Cost or benefit | How to estimate | Evidence or note |
+|---|---|---|---|
+| Equipment | Cost | Purchase price ÷ realistic useful life | Check upgrade cycle (Table 20.1) |
+| Licences, subscriptions, service | Cost | Annual contract values | Include export or cloud fees |
+| Consumables | Cost | Units per year × (tips, burs, blocks/discs, resins, glazes) | Rises with utilisation |
+| Staff time | Cost | Hours for scanning, design, manufacture, post-processing × hourly cost | Delegation changes this (Chapter 16) |
+| Training and learning curve | Cost | Training hours + slower early cases + remakes | Training improves accuracy and speed [9] |
+| IT and data | Cost | Storage, backup, cybersecurity | Chapter 2 |
+| Laboratory fees avoided | Benefit | Units made in-house × laboratory fee | Main saving for implant crowns [5] |
+| Chair time | Benefit or cost | Minutes saved or lost per indication × chair-hour value | Inconsistent for fixed prostheses [4,6] |
+| Remakes and adjustments | Benefit (if achieved) | Change in remake rate × cost per remake | Track with a remake log (Section 20.4) |
+| New treatments | Benefit | Additional single-visit, guided or aligner cases | Depends on case mix |
+| Patient preference | Benefit | Hard to quantify | Patients prefer scanning for many indications [8] |
 
 > **Clinical Tip.** Calculate the **break-even number of units per month** for each device before buying it, using your own fees, laboratory charges and staff costs. If you cannot reach it within your existing case mix, consider outsourcing manufacture and investing only in scanning.
 
@@ -154,7 +176,7 @@ The consistent message is that simulation and VR are valuable **adjuncts** to, n
 
 ### 20.5.3 A suggested curriculum structure
 
-**Table 20.2** A staged approach to teaching CAD/CAM
+**Table 20.3** A staged approach to teaching CAD/CAM
 
 | Stage | Content | Methods |
 |---|---|---|
@@ -203,7 +225,11 @@ Expect AI to take over more routine steps (margin marking, proposals, nesting, q
 
 ### 20.7.2 The virtual patient and the digital twin
 
-The virtual patient, which combines intraoral scans, CBCT and facial scans, was first described as a static three-dimensional model, with a "4D virtual patient in motion" named as the next step [20]. Combining these data with jaw-motion tracking has since been described as a proof of concept [21]. In implant dentistry, the integration of all digital records into a comprehensive **digital twin** of the patient is seen as pointing towards predictive, patient-specific therapy, while raising economic, educational and ethical challenges, including investment, accessibility and **data security** [22].
+The virtual patient (Figure 20.2), which combines intraoral scans, CBCT and facial scans, was first described as a static three-dimensional model, with a "4D virtual patient in motion" named as the next step [20]. Combining these data with jaw-motion tracking has since been described as a proof of concept [21]. In implant dentistry, the integration of all digital records into a comprehensive **digital twin** of the patient is seen as pointing towards predictive, patient-specific therapy, while raising economic, educational and ethical challenges, including investment, accessibility and **data security** [22].
+
+![Hub diagram: intraoral scans, CBCT, facial scans and jaw motion feed a virtual patient that becomes a digital twin, which supports AI decision support, clinic–laboratory review, manufacture and teledentistry](../figures/fig-20-2-digital-twin.svg)
+
+**Figure 20.2** The virtual patient as an integration hub, developing over time into a digital twin. Data security and human oversight apply throughout [18,20–22].
 
 As Chapter 6 showed, the accuracy of merged datasets is still measured in tenths of a millimetre to millimetres. The digital twin is a powerful idea; its clinical value will depend on making each layer accurate enough for the decisions it is meant to support.
 

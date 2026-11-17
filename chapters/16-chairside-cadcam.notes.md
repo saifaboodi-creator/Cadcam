@@ -35,3 +35,11 @@
 
 ## UNVERIFIED items
 1. Section 16.6.3: "Controlled studies directly comparing single-visit chairside treatment with two-visit laboratory treatment for patient-reported outcomes are scarce" — marked **[UNVERIFIED]**; a PubMed search found no such trial, but absence was not exhaustively confirmed.
+
+## Figures and tables added
+All figures are original SVG diagrams/charts (`figures/`), drawn to `figures/FIGURE-STYLE.md`; no new facts, numbers or references were introduced.
+- **Figure 16.1** (`fig-16-1-chairside-case-selection.svg`, Section 16.2.2): decision flowchart turning the "less suitable when" list into four yes/no questions (scannable margins, provisional phase, multi-unit/complete arch, layered anterior aesthetics). Sources: chapter text, refs [3,4].
+- **Figure 16.2** (`fig-16-2-single-visit-workflow.svg`, Section 16.3): the eight-step single-visit workflow; step 6 highlighted because firing changes fit [5].
+- **Figure 16.3** (`fig-16-3-chairside-long-term.svg`, Section 16.5.1): horizontal bars of 84.4% (16.7 y) [13], 88.7% (17 y) [14], 87.5% (up to 27 y) [15] success and 83.5% 10-year survival of lithium disilicate crowns [16]. The caption notes that success and survival are different end points.
+- No new tables (chapter already had three).
+- Decision: removed a brand name ("Cerec 1") from the chart legend, per STYLE.md.

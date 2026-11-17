@@ -40,3 +40,12 @@
 
 ## UNVERIFIED items
 None.
+
+## Figures and tables added
+All figures are original SVG diagrams/charts (`figures/`), drawn to `figures/FIGURE-STYLE.md`; no new facts, numbers or references were introduced.
+- **Figure 19.1** (`fig-19-1-aligner-workflow.svg`, Section 19.2.3): clear aligner workflow (scan → segmentation → virtual set-up as target → staging → manufacture → wear and monitor), with a rescan/refinement loop.
+- **Figure 19.2** (`fig-19-2-aligner-accuracy.svg`, Section 19.2.3): bar chart of achieved as % of predicted movement: mean 50%, crown tip 56%, rotation 46%, maxillary canine distal rotation 37%, mandibular incisor intrusion 35%, mandibular first molar mesial rotation 28%. Data from [5] only (figures from [4] were not mixed into the chart).
+- **Figure 19.3** (`fig-19-3-guided-endodontic-access.svg`, Section 19.4.1): schematic of guided endodontic access (tooth-supported template, sleeve, straight planned drill path, obliterated and patent canal); labelled "not to scale".
+- **New Table 19.1** (Section 19.2.4): digital indirect bonding studies compared ([7–9]: setting, trays, linear accuracy, torque/other findings).
+- **New Table 19.2** (end of Section 19.6.2): virtual surgical planning, findings of the systematic reviews ([20–24]).
+- **Renumbered:** the former Table 19.1 (summary of applications) is now **Table 19.3**.

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+<title>Choosing a CAD/CAM system: a decision path</title>
+<desc>List your indications and production routes, check independent evidence for those indications, estimate total cost of ownership and the break-even number of units per month. If break-even is reachable, consider in-house manufacture; if not, invest in scanning and outsource manufacture. In both cases test the whole chain in a trial period before buying.</desc>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1f5f8b"/></marker>
+<marker id="g" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker></defs>
+<rect width="800" height="520" fill="#fff"/>
+<g font-size="14" fill="#0b0b0b" text-anchor="middle">
+<rect x="200" y="16" width="400" height="58" rx="8" fill="#e6eef5" stroke="#1f5f8b" stroke-width="2"/>
+<text x="400" y="41" font-weight="600">1  List your indications</text><text x="400" y="61" font-size="12.5" fill="#52514e">case mix; chairside / in-house / outsourced share; lab partners</text>
+<rect x="200" y="96" width="400" height="58" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="400" y="121" font-weight="600">2  Check independent evidence</text><text x="400" y="141" font-size="12.5" fill="#52514e">accuracy for your indications, not the brochure</text>
+<rect x="200" y="176" width="400" height="58" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="400" y="201" font-weight="600">3  Total cost of ownership</text><text x="400" y="221" font-size="12.5" fill="#52514e">equipment, licences, service, consumables, staff, IT</text>
+<rect x="200" y="256" width="400" height="66" rx="8" fill="#ffffff" stroke="#1f5f8b" stroke-width="2"/>
+<text x="400" y="282" font-weight="600">4  Break-even units per month</text><text x="400" y="304" font-size="12.5" fill="#52514e">reachable with your existing case mix?</text>
+<rect x="40" y="360" width="300" height="66" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="190" y="386" font-weight="600">Consider in-house manufacture</text><text x="190" y="406" font-size="12.5" fill="#52514e">mill / printer + scanning</text>
+<rect x="460" y="360" width="300" height="66" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="610" y="386" font-weight="600">Invest in scanning only</text><text x="610" y="406" font-size="12.5" fill="#52514e">outsource manufacture</text>
+<rect x="200" y="452" width="400" height="58" rx="8" fill="#e6eef5" stroke="#1f5f8b" stroke-width="2"/>
+<text x="400" y="477" font-weight="600">5  Trial period: test the whole chain</text><text x="400" y="497" font-size="12.5" fill="#52514e">scan → design → manufacture → seat, with your laboratory</text>
+</g>
+<g stroke="#1f5f8b" stroke-width="2" fill="none" marker-end="url(#a)">
+<line x1="400" y1="74" x2="400" y2="93"/><line x1="400" y1="154" x2="400" y2="173"/><line x1="400" y1="234" x2="400" y2="253"/>
+</g>
+<g stroke="#52514e" stroke-width="2" fill="none" marker-end="url(#g)">
+<polyline points="200,289 190,289 190,357"/><polyline points="600,289 610,289 610,357"/>
+<polyline points="190,426 190,481 197,481"/><polyline points="610,426 610,481 603,481"/>
+</g>
+<g font-size="12.5" font-weight="600"><text x="150" y="282" fill="#52514e">Yes</text><text x="620" y="282" fill="#52514e">No</text></g>
+</svg>

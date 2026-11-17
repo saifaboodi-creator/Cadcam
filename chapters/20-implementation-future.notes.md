@@ -26,7 +26,7 @@
 - **20.6.1:** the description of custom-made devices, EU MDR and FDA is general knowledge, marked UNVERIFIED. No device classes or regulation articles are named on purpose.
 - **20.6.3:** the statement that the prescribing clinician remains legally responsible is a general principle, marked UNVERIFIED. Only the AI-oversight point is cited [18].
 - **20.4.1:** the list of contents for a digital prescription is expert opinion. Only the benefit of mandatory fields is cited [11].
-- **Table 20.1 and Table 20.2** (buyer's checklist and staged curriculum) are synthesised from the book's earlier chapters and are not taken from a single source.
+- **Table 20.1 and Table 20.3** (buyer's checklist and staged curriculum; the curriculum table was renumbered from 20.2 when the ROI worksheet was added) are synthesised from the book's earlier chapters and are not taken from a single source.
 - **The three Clinical Tips and the Lab Note** (trial period, break-even calculation, remake log) are practical advice with no citation.
 - **20.7.1:** the forecast of AI moving from design assistance to decision support is my own projection, not cited.
 - **The sustainability suggestions** in 20.7.3 are practical inferences. Only "choose local laboratories" is directly supported [23].
@@ -41,3 +41,11 @@
 ## UNVERIFIED items
 1. **20.6.1:** specific regulatory classifications and obligations under EU MDR and FDA for each device type, and for in-house (chairside or hospital) manufacture. Marked **[UNVERIFIED — regulatory specifics not confirmed against primary legal texts]**.
 2. **20.6.3:** legal specifics of liability, and contractual allocation of responsibility between clinics, laboratories and software providers. Marked **[UNVERIFIED — general principle; legal specifics vary by jurisdiction]**.
+
+## Figures and tables added
+All figures are original SVG diagrams/charts (`figures/`), drawn to `figures/FIGURE-STYLE.md`; no new facts, numbers or references were introduced.
+- **Figure 20.1** (`fig-20-1-system-selection.svg`, end of Section 20.2.2): decision path for choosing a system (indications → independent evidence → total cost → break-even units per month → in-house manufacture or scanning only → trial period). Drawn from the chapter's own guidance (Sections 20.2–20.3); no citations needed.
+- **Figure 20.2** (`fig-20-2-digital-twin.svg`, Section 20.7.2): the virtual patient / digital twin as an integration hub (data sources → uses), with data security and human oversight. Sources [18,20–22]; the accuracy note repeats Chapter 6.
+- **New Table 20.2** (Section 20.3.2): return-on-investment worksheet built from the cost and benefit items already listed in the text, with the existing citations [4–6,8,9].
+- **Renumbered:** the former Table 20.2 (curriculum) is now **Table 20.3**; the notes line above was updated.
+- Decision: did **not** chart the life cycle assessment figures from [23], because the chapter does not state what the paired values (65.22/78.63 and 77.29/94.67 kg CO₂) correspond to; labelling them would have required information not in the text.

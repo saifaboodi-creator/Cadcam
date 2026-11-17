@@ -38,3 +38,11 @@
 
 ## UNVERIFIED items
 None.
+
+## Figures and tables added
+All figures are original SVG diagrams/charts (`figures/`), drawn to `figures/FIGURE-STYLE.md`; no new facts, numbers or references were introduced.
+- **Figure 18.1** (`fig-18-1-digital-denture-workflow.svg`, Section 18.2.1): digital complete denture workflow (records → design → printed trial denture with feedback → milled / printed / conventionally processed → insertion; stored design for remakes). Sources [1,2].
+- **Figure 18.2** (`fig-18-2-rpd-framework-workflow.svg`, Section 18.4.1): digital RPD framework design steps (survey, blockout/relief, components, thickness) and the three manufacturing routes of 18.4.2.
+- **Figure 18.3** (`fig-18-3-rpd-framework-fit.svg`, Section 18.4.3): bar chart of mean gaps, SLM from conventional impression 79.5 µm, SLM from intraoral scan 85.3 µm, conventional casting 114.2 µm. Data from [14]; the caption and figure note it is a single in vitro study with differences of minimal clinical significance.
+- **New Table 18.2** (end of Section 18.4.4): RPD framework manufacturing routes, summarising evidence already cited in 18.4 ([11,12,14–20]). The "printed pattern + casting" row states that no route-specific outcome data are summarised in the chapter (no claim invented). Placed after 18.4.4 so that no reference is cited before its first appearance in the text.
+- **Renumbered:** the former Table 18.2 (summary) is now **Table 18.3**.
