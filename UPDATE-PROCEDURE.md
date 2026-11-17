@@ -3,7 +3,7 @@
 The book is updated every 3 months. Each update session follows these steps exactly.
 
 ## Authorization
-The author gave standing approval on 2026-11-17: whenever the quarterly scheduled update message arrives, run this procedure in full and commit and push the changes to `claude/cad-cam-dentistry-book-5d2foe`. Updates run in the main book session (the one that wrote the book), which has push access and the PubMed connector.
+The author gave standing approval on 2026-11-17: whenever the quarterly scheduled update message arrives, run this procedure in full and commit and push the changes to `claude/cad-cam-dentistry-book-5d2foe`. Updates run in the dedicated session "CAD/CAM book — quarterly literature updates" (Cadcam environment), which the scheduled task messages every 3 months; it has push access and the PubMed connector. The first update (2026-11) ran there successfully.
 
 ## Goal
 Keep the evidence current. Add important new studies (especially systematic reviews, meta-analyses, RCTs and guidelines), replace superseded data, and fix reference details of online-first papers. Do **not** rewrite chapters, change their structure or invent anything.
