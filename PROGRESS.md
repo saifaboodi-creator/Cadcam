@@ -35,6 +35,10 @@ Resume point for any new session. Update after every chapter.
 | 19 | Orthodontics and Other Specialties | `chapters/19-orthodontics-other-specialties.md` | Draft 1 | 26 | 0 | `chapters/19-orthodontics-other-specialties.notes.md` |
 | 20 | Implementation, Economics, Education and the Future | `chapters/20-implementation-future.md` | Draft 1 | 27 | 2 | `chapters/20-implementation-future.notes.md` |
 
+## Figures and tables
+- 57 original SVG figures in `figures/` (2–3 per chapter; style in `figures/FIGURE-STYLE.md`), 62 tables (at least 3 per chapter). Data charts reuse only numbers and citations already in the text. Each chapter's notes file lists its figures and tables under "Figures and tables added".
+- Preview a figure: `node tools/render_svg.js figures/<file>.svg`. Rebuild the PDF: `python3 -I tools/build_pdf.py` (218 pages).
+
 ## UNVERIFIED totals
 - Marked inline: Ch 10 (1), Ch 16 (1), Ch 20 (2) = 4.
 - Chapters 1–9 (marked inline after the author approved changes): Ch 1 (1 item, 5 inline marks), Ch 3 (2 items, 3 inline marks), Ch 4 (1) = 4.
