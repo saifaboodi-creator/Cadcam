@@ -60,6 +60,9 @@ blockquote p { margin: 0; text-align: left; }
 code { font-family: 'JetBrains Mono','DejaVu Sans Mono',monospace; font-size: 9pt; }
 a { color: var(--accent); text-decoration: none; }
 .chapter { break-before: page; }
+figure { margin: 10pt 0 12pt; break-inside: avoid; text-align: center; }
+figure img { max-width: 100%; max-height: 150mm; height: auto; display: block; margin: 0 auto 5pt; }
+figcaption { font-size: 9pt; color: #3a3f45; text-align: left; line-height: 1.35; }
 p.cap { break-after: avoid; page-break-after: avoid; margin-bottom: 3pt; text-align: left; }
 p.cap + table tr:first-child, p.cap + table thead { break-before: avoid; }
 .chapter h2#references + ol, .refs { font-size: 8.8pt; }
@@ -96,6 +99,9 @@ def chapter_html(path):
     # Highlight UNVERIFIED markers so the author can find them.
     out = re.sub(r"<strong>\[UNVERIFIED\]</strong>|\[UNVERIFIED\]",
                  '<span class="unv">[UNVERIFIED]</span>', out)
+    # Turn "image paragraph + **Figure N.M** caption" into a <figure> that stays on one page.
+    out = re.sub(r'<p>(<img [^>]*>)</p>\s*<p>(<strong>Figure \d+\.\d+</strong>.*?)</p>',
+                 r'<figure>\1<figcaption>\2</figcaption></figure>', out, flags=re.S)
     # Keep table captions ("Table N.N ...") on the same page as their table.
     out = re.sub(r'<p>(<strong>Table \d+\.\d+</strong>.*?)</p>\s*(<table>)',
                  r'<p class="cap">\1</p>\n\2', out, flags=re.S)
