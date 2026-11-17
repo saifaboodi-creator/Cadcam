@@ -14,15 +14,15 @@ Resume point for any new session. Update after every chapter.
 
 | Ch | Title | File | Status | Refs | UNVERIFIED | Notes file |
 |---|---|---|---|---|---|---|
-| 1 | Introduction to CAD/CAM in Dentistry | `chapters/01-introduction.md` | Draft 1 | 22 | 0 | — (caveats given in chat) |
-| 2 | The Digital Workflow and Data Formats | `chapters/02-digital-workflow-and-data.md` | Draft 1 | 19 | 0 | — |
-| 3 | Accuracy in Digital Dentistry | `chapters/03-accuracy.md` | Draft 1 | 30 | 0 | — |
-| 4 | Intraoral Scanners | `chapters/04-intraoral-scanners.md` | Draft 1 | 27 | 0 | — |
-| 5 | Laboratory Scanners and Model Digitisation | `chapters/05-laboratory-scanners.md` | Draft 1 | 14 | 0 | — |
-| 6 | Three-Dimensional Imaging Beyond the Teeth | `chapters/06-imaging-beyond-teeth.md` | Draft 1 | 20 | 0 | — |
-| 7 | Design Software: Principles and Tools | `chapters/07-design-software.md` | Draft 1 | 19 | 0 | — |
-| 8 | Designing Tooth-Supported Restorations | `chapters/08-tooth-supported-restorations.md` | Draft 1 | 16 | 0 | — |
-| 9 | Designing Implant Restorations | `chapters/09-implant-restorations.md` | Draft 1 | 25 | 0 | — |
+| 1 | Introduction to CAD/CAM in Dentistry | `chapters/01-introduction.md` | Draft 1 | 22 | 1 | `chapters/01-introduction.notes.md` |
+| 2 | The Digital Workflow and Data Formats | `chapters/02-digital-workflow-and-data.md` | Draft 1 | 19 | 0 | `chapters/02-digital-workflow-and-data.notes.md` |
+| 3 | Accuracy in Digital Dentistry | `chapters/03-accuracy.md` | Draft 1 | 30 | 2 | `chapters/03-accuracy.notes.md` |
+| 4 | Intraoral Scanners | `chapters/04-intraoral-scanners.md` | Draft 1 | 27 | 1 | `chapters/04-intraoral-scanners.notes.md` |
+| 5 | Laboratory Scanners and Model Digitisation | `chapters/05-laboratory-scanners.md` | Draft 1 | 14 | 0 | `chapters/05-laboratory-scanners.notes.md` |
+| 6 | Three-Dimensional Imaging Beyond the Teeth | `chapters/06-imaging-beyond-teeth.md` | Draft 1 | 20 | 0 | `chapters/06-imaging-beyond-teeth.notes.md` |
+| 7 | Design Software: Principles and Tools | `chapters/07-design-software.md` | Draft 1 | 19 | 0 | `chapters/07-design-software.notes.md` |
+| 8 | Designing Tooth-Supported Restorations | `chapters/08-tooth-supported-restorations.md` | Draft 1 | 16 | 0 | `chapters/08-tooth-supported-restorations.notes.md` |
+| 9 | Designing Implant Restorations | `chapters/09-implant-restorations.md` | Draft 1 | 25 | 0 | `chapters/09-implant-restorations.notes.md` |
 | 10 | Subtractive Manufacturing: Milling and Grinding | `chapters/10-subtractive-manufacturing.md` | Draft 1 | 26 | 1 | `chapters/10-subtractive-manufacturing.notes.md` |
 | 11 | Additive Manufacturing (3D Printing) | `chapters/11-additive-manufacturing.md` | Draft 1 | 25 | 0 | `chapters/11-additive-manufacturing.notes.md` |
 | 12 | Finishing, Characterisation and Quality Control | `chapters/12-finishing-quality-control.md` | Draft 1 | 23 | 0 | `chapters/12-finishing-quality-control.notes.md` |
@@ -34,6 +34,11 @@ Resume point for any new session. Update after every chapter.
 | 18 | Removable Prosthodontics | `chapters/18-removable-prosthodontics.md` | Draft 1 | 26 | 0 | `chapters/18-removable-prosthodontics.notes.md` |
 | 19 | Orthodontics and Other Specialties | `chapters/19-orthodontics-other-specialties.md` | Draft 1 | 26 | 0 | `chapters/19-orthodontics-other-specialties.notes.md` |
 | 20 | Implementation, Economics, Education and the Future | `chapters/20-implementation-future.md` | Draft 1 | 27 | 2 | `chapters/20-implementation-future.notes.md` |
+
+## UNVERIFIED totals
+- Marked inline: Ch 10 (1), Ch 16 (1), Ch 20 (2) = 4.
+- Listed in notes only (Chapters 1–9 frozen, not marked inline): Ch 1 (1), Ch 3 (2), Ch 4 (1) = 4.
+- **Book total: 8.**
 
 ## Blockers
 None. All 20 chapters at Draft 1 (Chapters 10–20 completed in one run; author review pending).
