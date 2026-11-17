@@ -49,7 +49,11 @@ Most current laboratory scanners are **optical**:
 | Typical precision on a cast | About 10 µm or better in clinical comparisons [1] | Lower in the mouth than on the same cast [1] |
 | Soft-tissue displacement | Shows the soft tissue as recorded by the impression | Records undisplaced tissue only |
 
-The fixed, calibrated geometry is the main reason for the difference. In a clinical comparison, repeated full-arch scans in the mouth with an intraoral scanner had a mean precision of about 50 µm. The same scanner on stone casts achieved about 25 µm, and a desktop laboratory scanner about 10 µm [1].
+The fixed, calibrated geometry is the main reason for the difference. In a clinical comparison, repeated full-arch scans in the mouth with an intraoral scanner had a mean precision of about 50 µm. The same scanner on stone casts achieved about 25 µm, and a desktop laboratory scanner about 10 µm [1] (Figure 5.1).
+
+![Bar chart comparing precision of intraoral scanning in the mouth, on casts and with a desktop scanner](../figures/fig-05-1-lab-vs-ios-precision.svg)
+
+**Figure 5.1** Precision of full-arch digitisation of the same patient's arch in three settings. Values are approximate mean deviations between repeated scans. Data from [1].
 
 ---
 
@@ -62,7 +66,11 @@ A comparison of six laboratory scanners (three structured-light, two laser and o
 - that accuracy depended on the individual device's parameters, **not on the type of technology** (light, laser or contact);
 - that smooth, regular surfaces were scanned more accurately than sharp or deep features.
 
-The two areas that matter most clinically, the **margin** and **deep fissures**, are also the hardest for any optical scanner. Lines of sight are limited there and light reflects at steep angles. Good preparation and die design help the scanner as much as they help the technician (Section 5.6).
+![Bar chart of laboratory scanner trueness on axial walls, margin and occlusal groove](../figures/fig-05-2-trueness-by-location.svg)
+
+**Figure 5.2** Mean trueness of six laboratory scanners at three locations on a crown preparation (in vitro). Data from [2].
+
+The two areas that matter most clinically, the **margin** and **deep fissures**, are also the hardest for any optical scanner. Lines of sight are limited there and light reflects at steep angles. Good preparation and die design help the scanner as much as they help the technician (Section 5.6). Figure 5.2 shows the difference between locations.
 
 ---
 
@@ -99,6 +107,20 @@ Some laboratory scanners and software can digitise the **impression itself** and
 
 > **Lab Note.** Direct impression scanning is most reliable for short spans with open, accessible preparations. For multiple deep preparations or long spans, pour and scan a cast, or combine the two methods: scan the impression for the margins and the cast for the arch.
 
+Table 5.2 summarises the two routes.
+
+**Table 5.2** Digitising the cast versus the impression
+
+| | Scanning the cast (indirect) | Scanning the impression (direct) |
+|---|---|---|
+| Steps | Pour, trim, section and ditch dies; scan dies, arch and opposing cast | Scan the impression; software inverts it into a virtual cast |
+| Accuracy | Adds stone changes to impression changes | Similar to stone replicas for accessible preparations; depends on preparation shape [6] |
+| Margins | Dies can be ditched to expose the margin | Deep, narrow areas are hard for the scanner to see into |
+| Surface | Matte, opaque stone suits optical scanning | Glossy or translucent materials need validated settings |
+| Physical model | Available for contacts and characterisation | None, unless printed later |
+| Infection and logistics | Casts must be transported and stored and can carry microorganisms [5] | No cast to pour or store |
+| Best suited to | Long spans, multiple or deep preparations | Short spans with open, accessible preparations |
+
 ### 5.4.3 "Reverse" scanning for implants
 
 A related technique is to scan an implant impression, or a cast made from it, in the laboratory instead of scanning the implants intraorally. For abutment-level implant impressions, an in vitro study found that direct intraoral scanning gave the smallest relative deviations. A stone cast poured from an alginate impression came next, and a putty-only impression scanned directly showed the greatest deviations, especially in the posterior region [8].
@@ -109,7 +131,11 @@ Existing prostheses can also be digitised. In one study, a dual-function scan bo
 
 ## 5.5 Implant Casts and Scan Bodies
 
-In the laboratory, implant positions are digitised by fitting **scan bodies** to the implant analogues in the cast and scanning them. The software then matches a library model of the scan body to the scan and calculates each implant's position and orientation.
+In the laboratory, implant positions are digitised by fitting **scan bodies** to the implant analogues in the cast and scanning them. The software then matches a library model of the scan body to the scan and calculates each implant's position and orientation (Figure 5.3).
+
+![Three-step diagram of seating, scanning and library matching of a scan body](../figures/fig-05-3-scan-body-matching.svg)
+
+**Figure 5.3** How a scan body transfers the implant position. The scanner records only the visible surface of the scan body; the software fits the library model to it and calculates the hidden implant connection and axis. Schematic.
 
 The fit and seating of the scan body matter as much as the scanner. In an in vitro study, repeatedly removing and refitting scan bodies gave a mean discrepancy of **11 µm on laboratory analogues**, compared with **39 µm on the original implants**. The systematic digitising error was 5 µm on the stone cast and 13 µm on the polymer model [10]. This suggests that the analogue–scan body connection in the laboratory is more reproducible than the implant–scan body connection.
 
@@ -183,7 +209,7 @@ Laboratory scanners are measuring instruments and must be looked after as such:
 
 ## 5.9 Choosing Between Intraoral and Laboratory Digitisation
 
-**Table 5.2** When to digitise in the laboratory rather than intraorally
+**Table 5.3** When to digitise in the laboratory rather than intraorally
 
 | Situation | Preferred route | Reason |
 |---|---|---|

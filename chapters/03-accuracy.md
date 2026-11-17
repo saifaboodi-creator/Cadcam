@@ -47,7 +47,11 @@ A target-shooting analogy is helpful (Table 3.1).
 | Widely scattered around the centre | High | Low | Correct on average but unpredictable for any single scan |
 | Widely scattered away from the centre | Low | Low | Inaccurate |
 
-The distinction matters clinically. A scanner with high precision and poor trueness gives reassuringly similar scans that are all wrong in the same way. Repeating the scan does not reveal the error.
+The distinction matters clinically. A scanner with high precision and poor trueness gives reassuringly similar scans that are all wrong in the same way. Repeating the scan does not reveal the error. Figure 3.1 shows the four combinations.
+
+![Four targets illustrating combinations of trueness and precision](../figures/fig-03-1-trueness-precision.svg)
+
+**Figure 3.1** Trueness and precision. The centre of each target is the true geometry and the dots are repeated scans. Poor trueness reflects systematic error; poor precision reflects random error.
 
 ### 3.2.2 Repeatability and reproducibility
 
@@ -83,6 +87,12 @@ To compare two 3D surfaces, the software must first **align** them in the same c
 - **Best-fit alignment** moves one surface until the overall difference from the other is as small as possible. It is the most widely used method because it is automatic. Because it spreads the error across the whole surface, it tends to **hide systematic distortion**. An arch that is bent will look as if it deviates moderately everywhere, rather than being correct at one end and badly wrong at the other.
 - **Reference-point or local alignment** aligns on defined features, such as a group of teeth, reference spheres or a flat surface, and measures deviation away from them. This shows how error builds up along the arch.
 - **Linear and angular measurements** between defined points (sphere centres, implant scan-body axes) do not depend on whole-surface alignment. They are the preferred outcomes for implant studies.
+
+Figure 3.2 shows how the same distorted scan looks under the first two methods.
+
+![Comparison of best-fit and local alignment of a distorted scan](../figures/fig-03-2-alignment.svg)
+
+**Figure 3.2** Best-fit versus local alignment. The test scan has the same distortion in both panels. Best-fit alignment spreads the error so that both ends deviate moderately; local alignment on one segment shows how the error accumulates towards the far end.
 
 ### 3.3.3 Deviation metrics
 
@@ -150,7 +160,11 @@ The words used to describe fit vary widely in the literature. Holmes and colleag
 | **Absolute marginal discrepancy** | Angular combination of vertical discrepancy and over- or underextension: the distance from the restoration margin to the preparation cavosurface angle |
 | **Seating discrepancy** | Vertical distance from the occlusal surface of the preparation to the restoration, reflecting incomplete seating |
 
-Holmes and colleagues considered the **absolute marginal discrepancy** perhaps the best single measure, because it is always the largest value at the margin and reflects the total misfit at that point [17].
+Holmes and colleagues considered the **absolute marginal discrepancy** perhaps the best single measure, because it is always the largest value at the margin and reflects the total misfit at that point [17] (Figure 3.3).
+
+![Cross-section of a crown margin labelled with fit terms](../figures/fig-03-3-holmes-fit.svg)
+
+**Figure 3.3** Fit terminology at a crown margin, after Holmes et al. [17]. The crown is shown incompletely seated and overextended so that every term can be drawn. Schematic, not to scale.
 
 ### 3.5.2 What is clinically acceptable?
 

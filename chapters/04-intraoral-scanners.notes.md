@@ -30,3 +30,10 @@
 
 ## UNVERIFIED items
 1. **Table 4.1 (optical principles), cited to Refs 1 and 4 (Richert 2017; Zimmermann 2015):** the technical descriptions of how each principle measures depth (confocal, triangulation, active wavefront sampling, stereophotogrammetry, OCT) come from general technical knowledge. The **abstracts** of the cited reviews do not detail them. Check against the full texts, or have an optics/engineering co-reviewer confirm. (Kuhr 2016's finding on powder plus active wavefront sampling **is** confirmed in its abstract.)
+
+## Figures and tables added
+- **Figure 4.1** `figures/fig-04-1-scan-strategy.svg`: precision by scanning strategy, 7.9 / 8.5 / 35.0 µm, from Müller 2016 [15] (in vitro, one scanner). The numbers are as in 4.5.2.
+- **Figure 4.2** `figures/fig-04-2-retraction.svg`: marginal fit at a 1.0 mm subgingival finish line, 189 µm without retraction vs 95 µm with cord [17] (in vitro). The 120 µm "acceptability" line was deliberately **not** drawn, because that threshold is UNVERIFIED (Chapter 3).
+- **Figure 4.3** `figures/fig-04-3-bite-records.svg`: occlusal-view schematic of the recommended bite-record locations from the systematic review [18]. **Interpretation to check:** the review's wording "bilateral posterior record including at least 4 teeth" is drawn as 2 teeth per side (4 in total). Confirm against the full text, as the abstract is ambiguous on whether this means per side or in total.
+- No figure was drawn for the optical principles (Table 4.1), because those descriptions are UNVERIFIED.
+- No new tables (the chapter already has 3).

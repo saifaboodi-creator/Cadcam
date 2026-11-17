@@ -78,9 +78,11 @@ However complex, every dental CAD/CAM system has three linked parts [4,5]:
 2. **Design (the CAD software).** Creates the virtual restoration or device from that data.
 3. **Manufacture (the CAM unit).** Turns the virtual design into a physical object.
 
-The three parts may sit in one room or on three continents. A dentist can scan in the surgery, send the file to a laboratory for design, and have the restoration milled in a production centre elsewhere. The chain is digital throughout, and quality can be lost at any link.
+The three parts may sit in one room or on three continents. A dentist can scan in the surgery, send the file to a laboratory for design, and have the restoration milled in a production centre elsewhere. The chain is digital throughout, and quality can be lost at any link (Figure 1.1).
 
-*Figure 1.1 (to be drawn): The CAD/CAM chain. Acquisition → design → manufacture → finishing → clinical delivery, with feedback loops for verification.*
+![The CAD/CAM chain from acquisition to delivery, with feedback loops](../figures/fig-01-1-cadcam-chain.svg)
+
+**Figure 1.1** The CAD/CAM chain. Data acquisition, design and manufacture are followed by finishing and clinical delivery. Dashed arrows show verification and feedback: an unclear scan is repeated before design, and a restoration that fails at try-in is redesigned.
 
 ### 1.3.1 Data acquisition
 
@@ -135,6 +137,12 @@ A comparative review concluded that subtractive methods tend to produce more hom
 Additive manufacturing (3D printing) builds an object layer by layer from a digital model. The main technologies used in dentistry are vat photopolymerisation (stereolithography, digital light processing and LCD printing), material jetting, fused deposition modelling, and selective laser melting or sintering of metal powders [11,12].
 
 Additive methods have several advantages. They waste little material, can produce complex internal geometry, and can build many parts at once. Large objects with very varied surfaces can be made with competitive accuracy [10]. Early reviews predicted that layered manufacturing would cause a "second revolution" in making dental devices, once printable materials of suitable quality were available [11]. Many of those predictions have come true for models, surgical guides, custom trays, occlusal splints, provisional restorations, denture bases and laser-melted metal frameworks [12]. When those reviews were written, printing of ceramics for definitive restorations was not yet clinically established [9]. It is still an active area of research (Chapter 11).
+
+Figure 1.2 contrasts the two approaches.
+
+![Schematic comparing milling from a block with layer-by-layer printing](../figures/fig-01-2-subtractive-additive.svg)
+
+**Figure 1.2** Subtractive and additive manufacturing. Milling removes material from an industrially made block with a bur of finite diameter; printing builds the object layer by layer on supports [5,10,11].
 
 **Table 1.2** Subtractive and additive manufacturing compared
 
@@ -195,10 +203,14 @@ Three questions matter most to clinicians. Do CAD/CAM restorations last? Is the 
 
 ### 1.8.1 Longevity
 
-The longest follow-up data come from early chairside feldspathic ceramic inlays and onlays:
+The longest follow-up data come from early chairside feldspathic ceramic inlays and onlays (Figure 1.3):
 
 - In a German practice, 1,011 CEREC restorations in 299 patients, placed between 1987 and 1990, were followed for up to 18 years. Kaplan–Meier success probability was 84.4% at 16.7 years. Ceramic and tooth fractures were the most common causes of failure. Premolars did better than molars, and vital teeth better than non-vital teeth [16].
 - In a Swiss private practice, 187 Cerec 1 inlays and onlays were followed for up to 17 years, with a Kaplan–Meier success rate of 88.7%. Most failures were ceramic fractures (62% of failures) or tooth fractures (14%) [17].
+
+![Bar chart of long-term Kaplan–Meier success of two chairside inlay and onlay cohorts](../figures/fig-01-3-long-term-success.svg)
+
+**Figure 1.3** Long-term Kaplan–Meier success of early chairside feldspathic inlays and onlays in two private practices. Data from [16,17].
 
 > **Evidence Box.** These are case series from single practices that used first-generation equipment and materials, so they carry a risk of selection and operator bias. Still, they show that adhesively bonded, machined ceramic restorations can perform well over the long term. Modern materials and software should be expected to perform at least as well, but this needs to be confirmed by long-term trials rather than assumed.
 

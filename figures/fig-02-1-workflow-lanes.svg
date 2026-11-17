@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 330" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+<title>Analogue, hybrid and fully digital workflows</title>
+<desc>Three rows show the steps impression, model, design, manufacture and finishing for a single crown. Analogue steps are grey and digital steps are blue. The analogue row is all grey, the hybrid row mixes both, and the fully digital row is all blue with no physical model.</desc>
+<rect width="800" height="330" fill="#ffffff"/>
+<g font-size="13" fill="#52514e" text-anchor="middle" font-weight="600">
+<text x="215" y="28">Impression</text><text x="345" y="28">Model</text><text x="475" y="28">Design</text><text x="605" y="28">Manufacture</text><text x="735" y="28">Finishing</text>
+</g>
+<g font-size="14" font-weight="700" fill="#0b0b0b">
+<text x="12" y="80">Analogue</text><text x="12" y="170">Hybrid</text><text x="12" y="260">Fully digital</text>
+</g>
+<g font-size="13" text-anchor="middle">
+<!-- analogue row -->
+<g fill="#eceae6" stroke="#8a8984" stroke-width="1.5">
+<rect x="155" y="52" width="120" height="48" rx="8"/><rect x="285" y="52" width="120" height="48" rx="8"/><rect x="415" y="52" width="120" height="48" rx="8"/><rect x="545" y="52" width="120" height="48" rx="8"/><rect x="675" y="52" width="120" height="48" rx="8"/>
+</g>
+<g fill="#0b0b0b"><text x="215" y="81">Elastomer</text><text x="345" y="81">Stone cast</text><text x="475" y="81">Wax-up</text><text x="605" y="81">Cast / press</text><text x="735" y="81">On the cast</text></g>
+<!-- hybrid row -->
+<rect x="155" y="142" width="120" height="48" rx="8" fill="#eceae6" stroke="#8a8984" stroke-width="1.5"/>
+<rect x="285" y="142" width="120" height="48" rx="8" fill="#eceae6" stroke="#8a8984" stroke-width="1.5"/>
+<rect x="415" y="142" width="120" height="48" rx="8" fill="#cfe1f7" stroke="#2a78d6" stroke-width="1.5"/>
+<rect x="545" y="142" width="120" height="48" rx="8" fill="#cfe1f7" stroke="#2a78d6" stroke-width="1.5"/>
+<rect x="675" y="142" width="120" height="48" rx="8" fill="#eceae6" stroke="#8a8984" stroke-width="1.5"/>
+<g fill="#0b0b0b"><text x="215" y="163">Elastomer</text><text x="215" y="179" font-size="12" fill="#52514e">or IOS</text><text x="345" y="163">Cast scanned</text><text x="345" y="179" font-size="12" fill="#52514e">or printed</text><text x="475" y="171">CAD</text><text x="605" y="163">Milled or</text><text x="605" y="179">printed</text><text x="735" y="171">On the cast</text></g>
+<!-- digital row -->
+<g fill="#cfe1f7" stroke="#2a78d6" stroke-width="1.5">
+<rect x="155" y="232" width="120" height="48" rx="8"/><rect x="415" y="232" width="120" height="48" rx="8"/><rect x="545" y="232" width="120" height="48" rx="8"/><rect x="675" y="232" width="120" height="48" rx="8"/>
+</g>
+<rect x="285" y="232" width="120" height="48" rx="8" fill="#ffffff" stroke="#8fb8ec" stroke-width="1.5" stroke-dasharray="5 4"/>
+<g fill="#0b0b0b"><text x="215" y="261">Intraoral scan</text><text x="345" y="253" fill="#52514e">none</text><text x="345" y="269" font-size="12" fill="#52514e">(virtual model)</text><text x="475" y="261">CAD</text><text x="605" y="253">Milled or</text><text x="605" y="269">printed</text><text x="735" y="253">Stain, glaze;</text><text x="735" y="269">no cast</text></g>
+</g>
+<g font-size="12.5" fill="#52514e">
+<rect x="155" y="302" width="18" height="14" rx="3" fill="#eceae6" stroke="#8a8984"/><text x="180" y="314">physical (analogue) step</text>
+<rect x="360" y="302" width="18" height="14" rx="3" fill="#cfe1f7" stroke="#2a78d6"/><text x="385" y="314">digital step</text>
+<rect x="490" y="302" width="18" height="14" rx="3" fill="#ffffff" stroke="#8fb8ec" stroke-dasharray="4 3"/><text x="515" y="314">step omitted</text>
+</g>
+</svg>

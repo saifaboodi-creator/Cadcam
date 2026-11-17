@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 270" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+<title>Trueness and precision shown as targets</title>
+<desc>Four targets: shots tightly grouped at the centre; tightly grouped away from the centre; widely scattered around the centre; widely scattered away from the centre.</desc>
+<rect width="800" height="270" fill="#ffffff"/>
+<circle cx="100" cy="110" r="70" fill="#ffffff" stroke="#cfd6de" stroke-width="1.5"/><circle cx="100" cy="110" r="50" fill="#f3f7fa" stroke="#cfd6de" stroke-width="1.5"/><circle cx="100" cy="110" r="30" fill="#e6eef5" stroke="#cfd6de" stroke-width="1.5"/><circle cx="100" cy="110" r="10" fill="#cfe1f7" stroke="#cfd6de" stroke-width="1.5"/>
+<line x1="94" y1="110" x2="106" y2="110" stroke="#52514e"/><line x1="100" y1="104" x2="100" y2="116" stroke="#52514e"/>
+<circle cx="103" cy="108" r="5" fill="#eb6834" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="96" cy="113" r="5" fill="#eb6834" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="102" cy="115" r="5" fill="#eb6834" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="97" cy="106" r="5" fill="#eb6834" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="105" cy="111" r="5" fill="#eb6834" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="99" cy="110" r="5" fill="#eb6834" stroke="#ffffff" stroke-width="1.5"/>
+<text x="100" y="212" font-size="14" font-weight="700" fill="#0b0b0b" text-anchor="middle">High trueness</text>
+<text x="100" y="231" font-size="14" font-weight="700" fill="#0b0b0b" text-anchor="middle">High precision</text>
+<circle cx="300" cy="110" r="70" fill="#ffffff" stroke="#cfd6de" stroke-width="1.5"/><circle cx="300" cy="110" r="50" fill="#f3f7fa" stroke="#cfd6de" stroke-width="1.5"/><circle cx="300" cy="110" r="30" fill="#e6eef5" stroke="#cfd6de" stroke-width="1.5"/><circle cx="300" cy="110" r="10" fill="#cfe1f7" stroke="#cfd6de" stroke-width="1.5"/>
+<line x1="294" y1="110" x2="306" y2="110" stroke="#52514e"/><line x1="300" y1="104" x2="300" y2="116" stroke="#52514e"/>
+<circle cx="333" cy="84" r="5" fill="#eb6834" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="326" cy="89" r="5" fill="#eb6834" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="332" cy="91" r="5" fill="#eb6834" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="327" cy="82" r="5" fill="#eb6834" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="335" cy="87" r="5" fill="#eb6834" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="329" cy="86" r="5" fill="#eb6834" stroke="#ffffff" stroke-width="1.5"/>
+<text x="300" y="212" font-size="14" font-weight="700" fill="#0b0b0b" text-anchor="middle">Low trueness</text>
+<text x="300" y="231" font-size="14" font-weight="700" fill="#0b0b0b" text-anchor="middle">High precision</text>
+<circle cx="500" cy="110" r="70" fill="#ffffff" stroke="#cfd6de" stroke-width="1.5"/><circle cx="500" cy="110" r="50" fill="#f3f7fa" stroke="#cfd6de" stroke-width="1.5"/><circle cx="500" cy="110" r="30" fill="#e6eef5" stroke="#cfd6de" stroke-width="1.5"/><circle cx="500" cy="110" r="10" fill="#cfe1f7" stroke="#cfd6de" stroke-width="1.5"/>
+<line x1="494" y1="110" x2="506" y2="110" stroke="#52514e"/><line x1="500" y1="104" x2="500" y2="116" stroke="#52514e"/>
+<circle cx="530" cy="92" r="5" fill="#eb6834" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="472" cy="120" r="5" fill="#eb6834" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="508" cy="144" r="5" fill="#eb6834" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="486" cy="80" r="5" fill="#eb6834" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="534" cy="124" r="5" fill="#eb6834" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="470" cy="98" r="5" fill="#eb6834" stroke="#ffffff" stroke-width="1.5"/>
+<text x="500" y="212" font-size="14" font-weight="700" fill="#0b0b0b" text-anchor="middle">High trueness</text>
+<text x="500" y="231" font-size="14" font-weight="700" fill="#0b0b0b" text-anchor="middle">Low precision</text>
+<circle cx="700" cy="110" r="70" fill="#ffffff" stroke="#cfd6de" stroke-width="1.5"/><circle cx="700" cy="110" r="50" fill="#f3f7fa" stroke="#cfd6de" stroke-width="1.5"/><circle cx="700" cy="110" r="30" fill="#e6eef5" stroke="#cfd6de" stroke-width="1.5"/><circle cx="700" cy="110" r="10" fill="#cfe1f7" stroke="#cfd6de" stroke-width="1.5"/>
+<line x1="694" y1="110" x2="706" y2="110" stroke="#52514e"/><line x1="700" y1="104" x2="700" y2="116" stroke="#52514e"/>
+<circle cx="748" cy="72" r="5" fill="#eb6834" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="702" cy="102" r="5" fill="#eb6834" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="732" cy="116" r="5" fill="#eb6834" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="708" cy="64" r="5" fill="#eb6834" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="754" cy="100" r="5" fill="#eb6834" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="716" cy="92" r="5" fill="#eb6834" stroke="#ffffff" stroke-width="1.5"/>
+<text x="700" y="212" font-size="14" font-weight="700" fill="#0b0b0b" text-anchor="middle">Low trueness</text>
+<text x="700" y="231" font-size="14" font-weight="700" fill="#0b0b0b" text-anchor="middle">Low precision</text>
+
+
+
+
+<text x="790" y="20" font-size="12" fill="#8a8984" text-anchor="end">centre of target = true geometry; dots = repeated scans</text>
+<text x="100" y="252" font-size="13" fill="#52514e" text-anchor="middle">Accurate</text>
+<text x="300" y="252" font-size="13" fill="#52514e" text-anchor="middle">Systematic error</text>
+<text x="500" y="252" font-size="13" fill="#52514e" text-anchor="middle">Random error</text>
+<text x="700" y="252" font-size="13" fill="#52514e" text-anchor="middle">Inaccurate</text>
+</svg>

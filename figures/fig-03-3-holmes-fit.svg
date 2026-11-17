@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+<title>Fit terminology at a crown margin</title>
+<desc>Half cross-section of a prepared tooth with a shoulder finish line and a crown that is not fully seated and is overextended. Labelled distances: A internal gap, B marginal gap, C vertical marginal discrepancy, D horizontal marginal discrepancy (overextension), E absolute marginal discrepancy.</desc>
+<defs><marker id="d" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f5f8b"/></marker>
+<marker id="p" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker></defs>
+<rect width="800" height="430" fill="#ffffff"/>
+<!-- tooth -->
+<polygon points="60,90 300,90 300,300 400,300 414,410 60,410" fill="#eceae6" stroke="#8a8984" stroke-width="1.5"/>
+<!-- crown -->
+<polygon points="60,30 360,30 418,120 432,220 432,268 330,268 330,68 60,68" fill="#cfe1f7" stroke="#2a78d6" stroke-width="2"/>
+<g font-size="14" fill="#52514e" font-weight="600"><text x="120" y="250">Prepared tooth</text><text x="120" y="56">Crown</text></g>
+<!-- path of insertion -->
+<line x1="230" y1="160" x2="230" y2="100" stroke="#52514e" stroke-width="2" marker-end="url(#p)"/>
+<text x="240" y="140" font-size="12.5" fill="#52514e">path of</text><text x="240" y="155" font-size="12.5" fill="#52514e">insertion</text>
+<!-- cavosurface angle marker -->
+<circle cx="400" cy="300" r="4" fill="#52514e"/>
+<g stroke="#1f5f8b" stroke-width="1.8" fill="none">
+<line x1="302" y1="190" x2="328" y2="190" marker-start="url(#d)" marker-end="url(#d)"/>
+<line x1="365" y1="298" x2="365" y2="270" marker-start="url(#d)" marker-end="url(#d)"/>
+<line x1="455" y1="270" x2="455" y2="298" marker-start="url(#d)" marker-end="url(#d)"/>
+<line x1="402" y1="322" x2="430" y2="322" marker-start="url(#d)" marker-end="url(#d)"/>
+<line x1="430" y1="270" x2="403" y2="297" stroke="#eb6834" stroke-width="2.2" marker-start="url(#d)" marker-end="url(#d)"/>
+</g>
+<line x1="432" y1="268" x2="462" y2="268" stroke="#8a8984" stroke-dasharray="3 3"/><line x1="400" y1="300" x2="462" y2="300" stroke="#8a8984" stroke-dasharray="3 3"/>
+<line x1="400" y1="300" x2="400" y2="330" stroke="#8a8984" stroke-dasharray="3 3"/><line x1="432" y1="268" x2="432" y2="330" stroke="#8a8984" stroke-dasharray="3 3"/>
+<g font-size="14" font-weight="700" fill="#1f5f8b" text-anchor="middle">
+<circle cx="315" cy="214" r="10" fill="#ffffff" stroke="#1f5f8b"/><text x="315" y="219">A</text>
+<circle cx="350" cy="284" r="10" fill="#ffffff" stroke="#1f5f8b"/><text x="350" y="289">B</text>
+<circle cx="475" cy="284" r="10" fill="#ffffff" stroke="#1f5f8b"/><text x="475" y="289">C</text>
+<circle cx="416" cy="344" r="10" fill="#ffffff" stroke="#1f5f8b"/><text x="416" y="349">D</text>
+<circle cx="402" cy="262" r="10" fill="#ffffff" stroke="#eb6834"/><text x="402" y="267" fill="#eb6834">E</text>
+</g>
+<!-- legend -->
+<g font-size="13.5" fill="#0b0b0b">
+<text x="520" y="80" font-weight="700">A Internal gap</text><text x="520" y="97" fill="#52514e">restoration to axial wall</text>
+<text x="520" y="127" font-weight="700">B Marginal gap</text><text x="520" y="144" fill="#52514e">restoration to tooth at the margin</text>
+<text x="520" y="174" font-weight="700">C Vertical marginal discrepancy</text><text x="520" y="191" fill="#52514e">parallel to the path of insertion</text>
+<text x="520" y="221" font-weight="700">D Horizontal marginal discrepancy</text><text x="520" y="238" fill="#52514e">perpendicular to the path</text><text x="520" y="255" fill="#52514e">(here, an overextension)</text>
+<text x="520" y="290" font-weight="700" fill="#eb6834">E Absolute marginal discrepancy</text><text x="520" y="307" fill="#52514e">crown margin to cavosurface angle; the</text><text x="520" y="324" fill="#52514e">largest error at the margin</text>
+</g>
+<text x="520" y="370" font-size="13" fill="#52514e">● cavosurface angle (end of the preparation)</text>
+</svg>

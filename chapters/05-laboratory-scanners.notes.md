@@ -28,3 +28,10 @@
 
 ## UNVERIFIED items
 None.
+
+## Figures and tables added
+- **Figure 5.1** `figures/fig-05-1-lab-vs-ios-precision.svg`: precision of full-arch digitisation of one patient's arch: intraoral in the mouth ≈50 µm, the same scanner on casts ≈25 µm, desktop laboratory scanner ≈10 µm (Flügge 2013, [1]; mean deviations). The numbers are as in 5.2.2.
+- **Figure 5.2** `figures/fig-05-2-trueness-by-location.svg`: laboratory scanner trueness of ≈20 µm on axial walls, 47 µm at the margin and 56 µm in the occlusal groove (González de Villaumbrosia 2016, [2]).
+- **Figure 5.3** `figures/fig-05-3-scan-body-matching.svg`: seating, scanning and library matching of a scan body to compute the implant position. Schematic of 5.5.
+- **Table 5.2** (new): digitising the cast vs the impression. It organises the content of 5.4.1–5.4.2 and the Lab Note, citing [5,6] as the text does. The former Table 5.2 is renumbered **Table 5.3** (it had no in-text mentions to update).
+- The virtual-articulator transfer diagram was considered and not added.

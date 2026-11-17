@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+<title>Long-term success of early chairside ceramic inlays and onlays</title>
+<desc>Horizontal bars: German practice cohort 84.4 percent Kaplan-Meier success at 16.7 years; Swiss practice cohort 88.7 percent at 17 years.</desc>
+<rect width="800" height="300" fill="#ffffff"/>
+<g stroke="#e5e7ea" stroke-width="1">
+<line x1="260" y1="40" x2="260" y2="220"/><line x1="363" y1="40" x2="363" y2="220"/><line x1="466" y1="40" x2="466" y2="220"/><line x1="569" y1="40" x2="569" y2="220"/><line x1="672" y1="40" x2="672" y2="220"/><line x1="775" y1="40" x2="775" y2="220"/>
+</g>
+<g font-size="13" fill="#52514e" text-anchor="middle">
+<text x="260" y="240">0%</text><text x="363" y="240">20%</text><text x="466" y="240">40%</text><text x="569" y="240">60%</text><text x="672" y="240">80%</text><text x="775" y="240">100%</text>
+<text x="517" y="268">Kaplan–Meier success probability (axis starts at 0%)</text>
+</g>
+<line x1="260" y1="40" x2="260" y2="220" stroke="#52514e" stroke-width="1.5"/>
+<path d="M260,62 H690.7 a4,4 0 0 1 4,4 V106 a4,4 0 0 1 -4,4 H260 Z" fill="#2a78d6"/>
+<path d="M260,140 H712.8 a4,4 0 0 1 4,4 V184 a4,4 0 0 1 -4,4 H260 Z" fill="#2a78d6"/>
+<g font-size="14" fill="#0b0b0b" text-anchor="end">
+<text x="248" y="82" font-weight="600">German practice</text>
+<text x="248" y="100" font-size="12.5" fill="#52514e">1,011 restorations, 16.7 y [16]</text>
+<text x="248" y="160" font-weight="600">Swiss practice</text>
+<text x="248" y="178" font-size="12.5" fill="#52514e">187 restorations, 17 y [17]</text>
+</g>
+<g font-size="15" font-weight="700" fill="#ffffff" text-anchor="end">
+<text x="684" y="92">84.4%</text><text x="706" y="170">88.7%</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+<title>Precision of full-arch digitisation in three settings</title>
+<desc>Mean deviation between repeated full-arch scans: intraoral scanner in the mouth about 50 micrometres; the same scanner on stone casts about 25; desktop laboratory scanner on casts about 10.</desc>
+<rect width="800" height="250" fill="#ffffff"/>
+<line x1="330.0" y1="30" x2="330.0" y2="190" stroke="#52514e" stroke-width="1.5"/><text x="330.0" y="210" font-size="13" fill="#52514e" text-anchor="middle">0</text>
+<line x1="401.7" y1="30" x2="401.7" y2="190" stroke="#e5e7ea" stroke-width="1"/><text x="401.7" y="210" font-size="13" fill="#52514e" text-anchor="middle">10</text>
+<line x1="473.3" y1="30" x2="473.3" y2="190" stroke="#e5e7ea" stroke-width="1"/><text x="473.3" y="210" font-size="13" fill="#52514e" text-anchor="middle">20</text>
+<line x1="545.0" y1="30" x2="545.0" y2="190" stroke="#e5e7ea" stroke-width="1"/><text x="545.0" y="210" font-size="13" fill="#52514e" text-anchor="middle">30</text>
+<line x1="616.7" y1="30" x2="616.7" y2="190" stroke="#e5e7ea" stroke-width="1"/><text x="616.7" y="210" font-size="13" fill="#52514e" text-anchor="middle">40</text>
+<line x1="688.3" y1="30" x2="688.3" y2="190" stroke="#e5e7ea" stroke-width="1"/><text x="688.3" y="210" font-size="13" fill="#52514e" text-anchor="middle">50</text>
+<line x1="760.0" y1="30" x2="760.0" y2="190" stroke="#e5e7ea" stroke-width="1"/><text x="760.0" y="210" font-size="13" fill="#52514e" text-anchor="middle">60</text>
+<path d="M330,45 H684.3 a4,4 0 0 1 4,4 V73 a4,4 0 0 1 -4,4 H330 Z" fill="#2a78d6"/>
+<text x="318" y="66" font-size="14" fill="#0b0b0b" text-anchor="end">Intraoral scanner, in the mouth</text>
+<text x="696.3" y="66" font-size="14" font-weight="700" fill="#0b0b0b">50 µm</text>
+<path d="M330,95 H505.2 a4,4 0 0 1 4,4 V123 a4,4 0 0 1 -4,4 H330 Z" fill="#2a78d6"/>
+<text x="318" y="116" font-size="14" fill="#0b0b0b" text-anchor="end">Same intraoral scanner, on casts</text>
+<text x="517.2" y="116" font-size="14" font-weight="700" fill="#0b0b0b">25 µm</text>
+<path d="M330,145 H397.7 a4,4 0 0 1 4,4 V173 a4,4 0 0 1 -4,4 H330 Z" fill="#2a78d6"/>
+<text x="318" y="166" font-size="14" fill="#0b0b0b" text-anchor="end">Desktop laboratory scanner, on casts</text>
+<text x="409.7" y="166" font-size="14" font-weight="700" fill="#0b0b0b">10 µm</text>
+<text x="545" y="236" font-size="13" fill="#52514e" text-anchor="middle">Mean deviation between repeated scans (µm); lower is better</text>
+</svg>

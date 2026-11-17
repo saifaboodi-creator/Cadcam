@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 330" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+<title>The CAD/CAM chain</title>
+<desc>Five linked stages: data acquisition, computer-aided design, computer-aided manufacture, finishing, and clinical delivery, with verification feedback loops back to earlier stages.</desc>
+<defs>
+<marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker>
+<marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f5f8b"/></marker>
+</defs>
+<rect width="800" height="330" fill="#ffffff"/>
+<g font-size="15" fill="#0b0b0b" text-anchor="middle">
+<rect x="20" y="60" width="136" height="110" rx="8" fill="#e6eef5" stroke="#1f5f8b" stroke-width="2"/>
+<text x="88" y="92" font-weight="700">1 Acquisition</text>
+<text x="88" y="118" font-size="13" fill="#52514e">Intraoral or</text>
+<text x="88" y="135" font-size="13" fill="#52514e">laboratory scan</text>
+<text x="88" y="152" font-size="13" fill="#52514e">(CBCT, face)</text>
+<rect x="176" y="60" width="136" height="110" rx="8" fill="#e6eef5" stroke="#1f5f8b" stroke-width="2"/>
+<text x="244" y="92" font-weight="700">2 Design</text>
+<text x="244" y="118" font-size="13" fill="#52514e">CAD software:</text>
+<text x="244" y="135" font-size="13" fill="#52514e">margin, proposal,</text>
+<text x="244" y="152" font-size="13" fill="#52514e">parameters</text>
+<rect x="332" y="60" width="136" height="110" rx="8" fill="#e6eef5" stroke="#1f5f8b" stroke-width="2"/>
+<text x="400" y="92" font-weight="700">3 Manufacture</text>
+<text x="400" y="118" font-size="13" fill="#52514e">CAM: milling,</text>
+<text x="400" y="135" font-size="13" fill="#52514e">grinding or</text>
+<text x="400" y="152" font-size="13" fill="#52514e">3D printing</text>
+<rect x="488" y="60" width="136" height="110" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="556" y="92" font-weight="700">4 Finishing</text>
+<text x="556" y="118" font-size="13" fill="#52514e">Sintering,</text>
+<text x="556" y="135" font-size="13" fill="#52514e">crystallisation,</text>
+<text x="556" y="152" font-size="13" fill="#52514e">stain, glaze, polish</text>
+<rect x="644" y="60" width="136" height="110" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="712" y="92" font-weight="700">5 Delivery</text>
+<text x="712" y="118" font-size="13" fill="#52514e">Try-in, fit and</text>
+<text x="712" y="135" font-size="13" fill="#52514e">occlusion check,</text>
+<text x="712" y="152" font-size="13" fill="#52514e">cementation</text>
+</g>
+<g stroke="#1f5f8b" stroke-width="2" marker-end="url(#b)">
+<line x1="156" y1="115" x2="174" y2="115"/><line x1="312" y1="115" x2="330" y2="115"/>
+<line x1="468" y1="115" x2="486" y2="115"/><line x1="624" y1="115" x2="642" y2="115"/>
+</g>
+<g font-size="12.5" fill="#52514e" text-anchor="middle">
+<text x="166" y="30">mesh data</text><text x="166" y="44">(STL/PLY)</text>
+<text x="322" y="30">CAM file</text><text x="322" y="44">(toolpath)</text>
+</g>
+<g fill="none" stroke="#52514e" stroke-width="1.6" stroke-dasharray="6 4" marker-end="url(#a)">
+<path d="M216,170 L216,215 L88,215 L88,172"/>
+<path d="M712,170 L712,265 L272,265 L272,172"/>
+</g>
+<g font-size="13" fill="#52514e" text-anchor="middle">
+<text x="152" y="235">rescan if margin or bite unclear</text>
+<text x="478" y="285">redesign if fit, contacts or occlusion fail</text>
+</g>
+<text x="400" y="318" font-size="12.5" fill="#8a8984" text-anchor="middle">Solid arrows: digital data flow. Dashed arrows: verification and feedback. Error at any stage carries through to the final restoration.</text>
+</svg>

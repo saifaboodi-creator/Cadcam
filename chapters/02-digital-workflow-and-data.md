@@ -21,6 +21,12 @@ A **workflow** is the sequence of clinical and technical steps that turns a diag
 - **Hybrid (mixed analogue–digital) workflow.** At least one step is digital and at least one is physical. The most common example is a conventional impression, poured in stone and digitised with a laboratory scanner, then designed and milled. Another is a digital impression from which a printed model is made for the technician to finish the restoration on.
 - **Fully (complete) digital workflow.** Every step, from data acquisition to the finished restoration, happens without a physical model. The intraoral scan is designed directly and the restoration is milled or printed and delivered without being checked on a cast.
 
+Figure 2.1 shows which steps are physical and which are digital in each workflow.
+
+![Three rows comparing analogue, hybrid and fully digital workflow steps](../figures/fig-02-1-workflow-lanes.svg)
+
+**Figure 2.1** Analogue, hybrid and fully digital workflows for a single crown. Grey boxes are physical steps; blue boxes are digital steps. In the fully digital workflow there is no physical model.
+
 **Table 2.1** Typical steps in the three workflows for a single crown
 
 | Step | Analogue | Hybrid | Fully digital |
@@ -93,6 +99,12 @@ Key mesh properties include:
 ### 2.3.3 Voxels and volume data
 
 CBCT and medical CT produce **volume** data rather than surfaces. The volume is a three-dimensional grid of small cubes (**voxels**), each holding a grey value related to radiographic density. To use CBCT data alongside surface scans, the structures of interest (bone, teeth, nerve canal, airway) must be **segmented** and converted into surface meshes. Segmentation depends on threshold settings and image artefacts, so a CBCT-derived surface is far less accurate than an intraoral scan of the same teeth.
+
+Figure 2.2 compares the three data structures.
+
+![Point cloud, triangle mesh and voxel grid side by side](../figures/fig-02-2-data-structures.svg)
+
+**Figure 2.2** How 3D data are structured. A point cloud has coordinates but no surface; a triangle mesh joins the points into faces with normals; a voxel volume stores a grey value per cube, from which a surface must be segmented.
 
 ---
 
@@ -186,6 +198,17 @@ The **virtual patient** is a 3D representation of the patient created by merging
 - **CBCT** of bone, roots and anatomical structures (volume, DICOM);
 - **facial scans** of the face at rest and smiling (surface, OBJ/PLY).
 
+Table 2.3 summarises what each dataset contributes.
+
+**Table 2.3** Datasets that make up the virtual patient
+
+| Dataset | Data type | Typical format | What it adds |
+|---|---|---|---|
+| Intraoral scan | Surface | STL, PLY | Teeth and soft tissue in detail [13] |
+| CBCT | Volume (voxels) | DICOM | Bone, roots and anatomical structures [13] |
+| Facial scan | Surface | OBJ, PLY | Face at rest and smiling [13] |
+| Jaw motion tracking | Movement over time | System-specific | Mandibular movement, turning the 3D model into a 4D one [14] |
+
 The first published proof-of-principle in 2014 used teeth present in all three datasets as common landmarks to superimpose the images [13]. The authors described the virtual patient as a tool for treatment simulation, managing patient expectations and communication. They named a "4D virtual patient in motion" as the next step [13]. That step has now been described. Jaw motion tracking (JMT) data have been added to the intraoral, facial and CBCT data, using the virtual casts as the common link to align all four [14].
 
 The virtual patient sits at the centre of several workflows covered later in this book:
@@ -199,8 +222,12 @@ The virtual patient sits at the centre of several workflows covered later in thi
 
 Merging datasets adds a **registration error** on top of the error in each dataset. The evidence shows that this error is much larger than scanner error:
 
-- A clinical study compared virtual patients built from facial and intraoral scans, aligned with extraoral scan-body systems, against CBCT. Trueness ranged from **0.50 to 1.64 mm** and precision from 0.04 to 0.14 mm [18].
+- A clinical study compared virtual patients built from facial and intraoral scans, aligned with extraoral scan-body systems, against CBCT. Trueness ranged from **0.50 to 1.64 mm** and precision from 0.04 to 0.14 mm [18] (Figure 2.3).
 - In a randomised clinical study of 150 patients, automatic AI-based registration of CBCT with intraoral scans was as accurate as manual methods in patients without restorations. When multiple restorations caused artefacts, the operator's experience mattered, and free-ended edentulous areas reduced accuracy [19].
+
+![Diagram of datasets merged into a virtual patient, with an error scale](../figures/fig-02-3-virtual-patient-accuracy.svg)
+
+**Figure 2.3** Building the virtual patient. Intraoral, CBCT, facial and jaw-motion data are registered through common landmarks [13,14]. The scale compares scanner error (tens of micrometres) with the registration trueness of facial–intraoral virtual patients (0.50–1.64 mm) [18].
 
 > **Evidence Box.** Scanner accuracy is measured in tens of micrometres. Virtual patient registration is measured in tenths of millimetres to over a millimetre. A merged facial scan is excellent for aesthetic planning and communication. It is not accurate enough to set the margin of a restoration or to replace a direct clinical check of the facial midline and occlusal plane. Always check which dataset the design is actually built on.
 

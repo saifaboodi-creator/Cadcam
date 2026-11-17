@@ -29,3 +29,9 @@
 
 ## UNVERIFIED items
 1. **Historical details attached to Refs 1–2 (Section 1.2 and Table 1.1):** Duret's work beginning in the "early 1970s", Marco Brandestini's role, and **1985** as the year the first chairside inlay was placed. These are widely reported, but they are **not** stated in the PubMed abstracts of Duret 1988 or Mörmann 2006. Confirm against the full text of Mörmann 2006, or add a historical source.
+
+## Figures and tables added
+- **Figure 1.1** `figures/fig-01-1-cadcam-chain.svg`: the CAD/CAM chain (acquisition → design → manufacture → finishing → delivery) with verification feedback loops. Replaces the earlier placeholder caption. Schematic, based on the chapter text; no new claims.
+- **Figure 1.2** `figures/fig-01-2-subtractive-additive.svg`: milling from a block vs layer-by-layer printing. The captions cite [5,10,11], as in Section 1.4.
+- **Figure 1.3** `figures/fig-01-3-long-term-success.svg`: bar chart of Kaplan–Meier success, 84.4% at 16.7 y (Reiss, [16]) and 88.7% at 17 y (Otto & Schneider, [17]). The numbers are as already cited in 1.8.1, and the axis starts at 0%.
+- No new tables (the chapter already has 3).

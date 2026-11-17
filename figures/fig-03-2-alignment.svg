@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 330" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+<title>Best-fit versus local alignment of a distorted scan</title>
+<desc>The same test scan, which is distorted along its length, is compared with the reference in two ways. Best-fit alignment spreads moderate deviation over both ends. Local alignment on one end shows near-zero deviation there and deviation growing towards the other end.</desc>
+<rect width="800" height="330" fill="#ffffff"/>
+<g font-size="15" font-weight="700" fill="#0b0b0b" text-anchor="middle"><text x="200" y="28">Best-fit alignment</text><text x="600" y="28">Local alignment (left segment)</text></g>
+<line x1="400" y1="15" x2="400" y2="260" stroke="#cfd6de" stroke-width="1.5"/>
+<!-- reference lines -->
+<g stroke="#52514e" stroke-width="3" stroke-linecap="round"><line x1="50" y1="140" x2="350" y2="140"/><line x1="450" y1="140" x2="750" y2="140"/></g>
+<!-- test lines -->
+<g stroke="#eb6834" stroke-width="3" stroke-linecap="round" stroke-dasharray="10 6"><line x1="50" y1="115" x2="350" y2="165"/><line x1="450" y1="140" x2="750" y2="190"/></g>
+<!-- deviation arrows -->
+<g stroke="#1f5f8b" stroke-width="1.8">
+<line x1="60" y1="117" x2="60" y2="138"/><line x1="340" y1="142" x2="340" y2="163"/>
+<line x1="740" y1="142" x2="740" y2="188"/><line x1="600" y1="142" x2="600" y2="163"/>
+</g>
+<g font-size="13" fill="#52514e">
+<text x="68" y="110">moderate deviation</text><text x="200" y="190" text-anchor="middle">moderate deviation at both ends</text>
+<text x="460" y="120">≈ 0 where aligned</text><text x="610" y="160">grows</text><text x="748" y="215" text-anchor="end">largest at far end</text>
+</g>
+<!-- colour bars -->
+<defs>
+<linearGradient id="g1" x1="0" x2="1"><stop offset="0" stop-color="#8fb8ec"/><stop offset="0.5" stop-color="#cfe1f7"/><stop offset="1" stop-color="#8fb8ec"/></linearGradient>
+<linearGradient id="g2" x1="0" x2="1"><stop offset="0" stop-color="#cfe1f7"/><stop offset="0.6" stop-color="#2a78d6"/><stop offset="1" stop-color="#1a4f91"/></linearGradient>
+</defs>
+<rect x="50" y="232" width="300" height="16" rx="3" fill="url(#g1)"/><rect x="450" y="232" width="300" height="16" rx="3" fill="url(#g2)"/>
+<text x="200" y="268" font-size="12.5" fill="#52514e" text-anchor="middle">colour map looks uniformly "acceptable"</text>
+<text x="600" y="268" font-size="12.5" fill="#52514e" text-anchor="middle">colour map reveals the accumulating distortion</text>
+<g font-size="12.5" fill="#52514e">
+<line x1="190" y1="300" x2="230" y2="300" stroke="#52514e" stroke-width="3"/><text x="238" y="304">reference geometry</text>
+<line x1="420" y1="300" x2="460" y2="300" stroke="#eb6834" stroke-width="3" stroke-dasharray="10 6"/><text x="468" y="304">test scan (same distortion in both panels)</text>
+</g>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 330" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+<title>Point cloud, triangle mesh and voxel volume</title>
+<desc>Three panels: a point cloud of separate dots; the same points joined into triangles with vertices, faces and normals; and a voxel grid of small cubes with grey values from which a surface must be segmented.</desc>
+<rect width="800" height="330" fill="#ffffff"/>
+<g font-size="15" font-weight="700" fill="#0b0b0b" text-anchor="middle">
+<text x="135" y="30">Point cloud</text><text x="400" y="30">Triangle mesh</text><text x="665" y="30">Voxel volume</text>
+</g>
+<!-- point cloud -->
+<g fill="#2a78d6">
+<circle cx="60" cy="200" r="4"/><circle cx="95" cy="160" r="4"/><circle cx="130" cy="140" r="4"/><circle cx="170" cy="150" r="4"/><circle cx="205" cy="185" r="4"/>
+<circle cx="80" cy="235" r="4"/><circle cx="120" cy="200" r="4"/><circle cx="160" cy="195" r="4"/><circle cx="195" cy="230" r="4"/>
+<circle cx="105" cy="245" r="4"/><circle cx="145" cy="240" r="4"/><circle cx="175" cy="255" r="4"/>
+</g>
+<!-- mesh -->
+<g stroke="#1a4f91" stroke-width="1.5" fill="#cfe1f7">
+<polygon points="325,200 360,160 385,200"/><polygon points="360,160 395,140 385,200"/><polygon points="395,140 435,150 425,195"/><polygon points="395,140 425,195 385,200"/><polygon points="435,150 470,185 425,195"/>
+<polygon points="325,200 385,200 345,235"/><polygon points="385,200 425,195 410,240"/><polygon points="385,200 410,240 345,235"/><polygon points="425,195 470,185 460,230"/><polygon points="425,195 460,230 410,240"/>
+</g>
+<g fill="#1a4f91"><circle cx="325" cy="200" r="3.5"/><circle cx="360" cy="160" r="3.5"/><circle cx="395" cy="140" r="3.5"/><circle cx="435" cy="150" r="3.5"/><circle cx="470" cy="185" r="3.5"/><circle cx="385" cy="200" r="3.5"/><circle cx="425" cy="195" r="3.5"/><circle cx="345" cy="235" r="3.5"/><circle cx="410" cy="240" r="3.5"/><circle cx="460" cy="230" r="3.5"/></g>
+<line x1="410" y1="175" x2="420" y2="125" stroke="#eb6834" stroke-width="2"/><path d="M420,125 l-6,9 l9,1 z" fill="#eb6834"/>
+<!-- voxels -->
+<g stroke="#ffffff" stroke-width="2">
+<rect x="585" y="125" width="32" height="32" fill="#cfe1f7"/><rect x="617" y="125" width="32" height="32" fill="#8fb8ec"/><rect x="649" y="125" width="32" height="32" fill="#8fb8ec"/><rect x="681" y="125" width="32" height="32" fill="#cfe1f7"/><rect x="713" y="125" width="32" height="32" fill="#cfe1f7"/>
+<rect x="585" y="157" width="32" height="32" fill="#8fb8ec"/><rect x="617" y="157" width="32" height="32" fill="#2a78d6"/><rect x="649" y="157" width="32" height="32" fill="#1a4f91"/><rect x="681" y="157" width="32" height="32" fill="#2a78d6"/><rect x="713" y="157" width="32" height="32" fill="#cfe1f7"/>
+<rect x="585" y="189" width="32" height="32" fill="#8fb8ec"/><rect x="617" y="189" width="32" height="32" fill="#1a4f91"/><rect x="649" y="189" width="32" height="32" fill="#1a4f91"/><rect x="681" y="189" width="32" height="32" fill="#2a78d6"/><rect x="713" y="189" width="32" height="32" fill="#8fb8ec"/>
+<rect x="585" y="221" width="32" height="32" fill="#cfe1f7"/><rect x="617" y="221" width="32" height="32" fill="#2a78d6"/><rect x="649" y="221" width="32" height="32" fill="#2a78d6"/><rect x="681" y="221" width="32" height="32" fill="#8fb8ec"/><rect x="713" y="221" width="32" height="32" fill="#cfe1f7"/>
+</g>
+<path d="M617,165 Q665,140 705,170 Q712,215 690,245 Q645,262 620,240 Q605,205 617,165 Z" fill="none" stroke="#eb6834" stroke-width="2" stroke-dasharray="5 3"/>
+<g font-size="13" fill="#52514e" text-anchor="middle">
+<text x="135" y="285">x, y, z (± colour) only;</text><text x="135" y="302">no surface</text>
+<text x="400" y="285">vertices + faces + normals</text><text x="400" y="302">(STL, PLY, OBJ)</text>
+<text x="665" y="285">grey value per cube (DICOM);</text><text x="665" y="302">surface must be segmented</text>
+</g>
+<g font-size="12.5" fill="#52514e"><text x="427" y="120">normal</text><text x="665" y="112" text-anchor="middle">dashed: segmentation threshold</text></g>
+<g stroke="#8a8984" stroke-width="2" fill="#8a8984"><line x1="240" y1="200" x2="292" y2="200"/><path d="M296,200 l-9,-5 v10 z"/></g>
+<text x="266" y="190" font-size="12" fill="#8a8984" text-anchor="middle">triangulate</text>
+</svg>

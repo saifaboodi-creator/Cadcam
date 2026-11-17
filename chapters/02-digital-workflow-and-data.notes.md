@@ -27,3 +27,9 @@
 
 ## UNVERIFIED items
 None.
+
+## Figures and tables added
+- **Figure 2.1** `figures/fig-02-1-workflow-lanes.svg`: physical vs digital steps in analogue, hybrid and fully digital workflows. Schematic of Section 2.1 and Table 2.1.
+- **Figure 2.2** `figures/fig-02-2-data-structures.svg`: point cloud → triangle mesh → voxel volume. Schematic of Section 2.3.
+- **Figure 2.3** `figures/fig-02-3-virtual-patient-accuracy.svg`: datasets registered into the virtual patient, with an error scale (scanner error in tens of µm vs registration trueness 0.50–1.64 mm [18]). The landmark wording follows [13] (teeth); scan bodies and markers come from the uncited text in 2.8.3. "Tens of µm" for scanner error is illustrative, drawn from Chapters 3–4.
+- **Table 2.3** (new): datasets that make up the virtual patient (data type, format, what each adds). It organises the 2.8.1 content and cites [13,14] as the text does.

@@ -32,3 +32,10 @@
 ## UNVERIFIED items
 1. **Ref 18 (McLean & von Fraunhofer 1971) — the 120 µm threshold (3.5.2):** the PubMed record has **no abstract**, so the 120 µm figure attributed to this paper could not be confirmed from the source. It is the conventionally cited value. Confirm against the full text.
 2. **Refs 1–2 (ISO standards):** not verifiable on PubMed. The edition, title wording and content (e.g., the test objects described for ISO 12836) were not confirmed against the ISO catalogue.
+
+## Figures and tables added
+- **Figure 3.1** `figures/fig-03-1-trueness-precision.svg`: four targets (trueness × precision). A visual form of Table 3.1, with no data.
+- **Figure 3.2** `figures/fig-03-2-alignment.svg`: the same distorted scan under best-fit vs local alignment. Illustrates the methodological point in 3.3.2. Note: that point is itself uncited (see Caveats above).
+- **Figure 3.3** `figures/fig-03-3-holmes-fit.svg`: half cross-section of a crown margin labelling the internal gap, marginal gap, vertical and horizontal marginal discrepancy, and absolute marginal discrepancy, after Holmes et al. [17]. Schematic, not to scale. The crown is drawn deliberately unseated and overextended.
+- A chart of complete-arch implant trueness by method was considered but not added, to keep to 3 figures per chapter.
+- No new tables (the chapter already has 4).

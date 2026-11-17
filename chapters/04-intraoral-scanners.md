@@ -113,7 +113,11 @@ The software stitches new images to existing ones, so the **order** and **contin
 
 ### 4.5.2 Evidence
 
-- In a complete-arch study, three strategies gave similar trueness (about 17–27 µm). Precision, however, was significantly worse when the buccal surfaces were scanned first and the occlusal-palatal surfaces on the return (35.0 µm). It was better when the occlusal-palatal surfaces were scanned first and the buccal on the return (7.9 µm), or with a one-way S-shaped path (8.5 µm). The authors recommended scanning occlusal-palatal first and then buccal [15].
+- In a complete-arch study, three strategies gave similar trueness (about 17–27 µm). Precision, however, was significantly worse when the buccal surfaces were scanned first and the occlusal-palatal surfaces on the return (35.0 µm). It was better when the occlusal-palatal surfaces were scanned first and the buccal on the return (7.9 µm), or with a one-way S-shaped path (8.5 µm). The authors recommended scanning occlusal-palatal first and then buccal [15] (Figure 4.1).
+
+![Bar chart of complete-arch precision for three scanning strategies](../figures/fig-04-1-scan-strategy.svg)
+
+**Figure 4.1** Precision of complete-arch scans with three scanning strategies, using one scanner in vitro. Lower values mean better precision. Data from [15].
 - A second study of four scanners and four strategies found that the best strategy differed between devices. For most scanners the differences were not significant, suggesting that current devices tolerate variations in strategy reasonably well [16].
 
 The practical conclusion is to **follow the manufacturer's recommended strategy for your device**, apply it consistently, and adapt it only when access requires.
@@ -139,7 +143,11 @@ Scan only what the restoration needs, plus enough neighbouring teeth for contact
 The scanner records only what it can see. Unlike elastomeric impression materials, light cannot push the gingiva aside or flow into the sulcus.
 
 - In an in vitro study, finish lines placed 0.5 and 1.0 mm subgingivally showed greater vertical and horizontal discrepancies than equigingival margins, even with a single-cord retraction technique. The authors concluded that subgingival finish lines were not captured accurately [13].
-- In another study, internal trueness and marginal fit of crowns made from scans got worse as the finish line was placed deeper, when **no retraction** was used. At 1.0 mm depth, the marginal fit was 189 µm, beyond the usual acceptable range. With retraction cord, accuracy stayed stable at every depth, and the marginal fit at 1.0 mm was 95 µm [17].
+- In another study, internal trueness and marginal fit of crowns made from scans got worse as the finish line was placed deeper, when **no retraction** was used. At 1.0 mm depth, the marginal fit was 189 µm, beyond the usual acceptable range. With retraction cord, accuracy stayed stable at every depth, and the marginal fit at 1.0 mm was 95 µm [17] (Figure 4.2).
+
+![Bar chart of marginal fit with and without retraction at a 1 mm subgingival margin](../figures/fig-04-2-retraction.svg)
+
+**Figure 4.2** Marginal fit of interim crowns made from scans of a finish line 1.0 mm below the gingival crest, with and without retraction cord (in vitro). Data from [17].
 - Scanners differ considerably in how distinctly and accurately they show subgingival finish lines [6].
 - Narrative reviews list difficulty with deep margins and bleeding as a main limitation of intraoral scanning [2,3].
 
@@ -176,6 +184,12 @@ Its main recommendations were [18]:
 - For **complete-arch** scans, use either a bilateral and frontal record including 2 teeth each, or a bilateral posterior record including at least 4 teeth.
 - For **half-arch** scans, use a posterior record including at least 4 teeth.
 - Greater occlusal force during the record produced a smaller average interocclusal space.
+
+Figure 4.3 shows the recommended record locations.
+
+![Three dental arches showing where buccal bite records should be taken](../figures/fig-04-3-bite-records.svg)
+
+**Figure 4.3** Recommended locations for digital bite records, following the systematic review in [18]. Schematic occlusal views; the shaded teeth are covered by the buccal bite scans.
 
 > **Lab Note.** If the bite alignment looks wrong, for example with heavy penetration of the opposing teeth into each other or no contacts at all, ask for a new bite scan rather than adjusting the occlusion in the design software. Penetrations in a digital bite are usually record errors, not real contacts.
 
