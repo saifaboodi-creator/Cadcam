@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 330" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+<title>The single-visit chairside workflow</title>
+<desc>Eight steps in two rows: diagnosis and pre-operative scan, preparation, isolation and scanning, design, manufacture, try-in and final firing, adhesive cementation, final adjustment and polishing. The fit check after the last firing is highlighted.</desc>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1f5f8b"/></marker></defs>
+<rect width="800" height="330" fill="#fff"/>
+<g font-size="14" fill="#0b0b0b" text-anchor="middle">
+<!-- row 1 -->
+<rect x="20" y="30" width="170" height="96" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="105" y="58" font-weight="700" fill="#1f5f8b">1</text><text x="105" y="80">Diagnosis &amp;</text><text x="105" y="98">pre-operative scan</text>
+<rect x="215" y="30" width="170" height="96" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="300" y="58" font-weight="700" fill="#1f5f8b">2</text><text x="300" y="80">Preparation</text><text x="300" y="98" font-size="12.5" fill="#52514e">CAD/CAM principles</text>
+<rect x="410" y="30" width="170" height="96" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="495" y="58" font-weight="700" fill="#1f5f8b">3</text><text x="495" y="80">Isolate &amp; scan</text><text x="495" y="98" font-size="12.5" fill="#52514e">preparation first</text>
+<rect x="605" y="30" width="170" height="96" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="690" y="58" font-weight="700" fill="#1f5f8b">4</text><text x="690" y="80">Design</text><text x="690" y="98" font-size="12.5" fill="#52514e">margin, contacts,</text><text x="690" y="114" font-size="12.5" fill="#52514e">thickness</text>
+<!-- row 2 (right to left) -->
+<rect x="605" y="200" width="170" height="96" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="690" y="228" font-weight="700" fill="#1f5f8b">5</text><text x="690" y="250">Manufacture</text><text x="690" y="268" font-size="12.5" fill="#52514e">mill / print, crystallise,</text><text x="690" y="284" font-size="12.5" fill="#52514e">sinter</text>
+<rect x="410" y="200" width="170" height="96" rx="8" fill="#e6eef5" stroke="#1f5f8b" stroke-width="2"/>
+<text x="495" y="228" font-weight="700" fill="#1f5f8b">6</text><text x="495" y="250">Try-in, characterise,</text><text x="495" y="268">final firing</text><text x="495" y="284" font-size="12.5" font-weight="600" fill="#1f5f8b">check fit after firing</text>
+<rect x="215" y="200" width="170" height="96" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="300" y="228" font-weight="700" fill="#1f5f8b">7</text><text x="300" y="250">Adhesive</text><text x="300" y="268">cementation</text><text x="300" y="284" font-size="12.5" fill="#52514e">material-specific</text>
+<rect x="20" y="200" width="170" height="96" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="105" y="228" font-weight="700" fill="#1f5f8b">8</text><text x="105" y="250">Adjust occlusion,</text><text x="105" y="268">polish, record</text>
+</g>
+<g stroke="#1f5f8b" stroke-width="2" fill="none" marker-end="url(#a)">
+<line x1="190" y1="78" x2="212" y2="78"/><line x1="385" y1="78" x2="407" y2="78"/><line x1="580" y1="78" x2="602" y2="78"/>
+<line x1="690" y1="126" x2="690" y2="197"/>
+<line x1="605" y1="248" x2="583" y2="248"/><line x1="410" y1="248" x2="388" y2="248"/><line x1="215" y1="248" x2="193" y2="248"/>
+</g>
+<text x="400" y="165" text-anchor="middle" font-size="13" fill="#52514e">Every step is chair time: design, milling and firing can be delegated to a trained assistant</text>
+</svg>

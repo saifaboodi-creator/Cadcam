@@ -39,7 +39,11 @@ CBCT produces a volume of voxels, each with a grey value related to radiographic
 
 ### 6.2.2 Radiation dose
 
-CBCT uses ionising radiation, and doses vary widely. In a study of 14 CBCT devices, effective doses ranged from **19 to 368 µSv**, a 20-fold range. The dose depended strongly on **field-of-view size** and exposure settings [2]. The salivary and thyroid glands were among the largest contributors to effective dose [2].
+CBCT uses ionising radiation, and doses vary widely. In a study of 14 CBCT devices, effective doses ranged from **19 to 368 µSv**, a 20-fold range. The dose depended strongly on **field-of-view size** and exposure settings [2] (Figure 6.1). The salivary and thyroid glands were among the largest contributors to effective dose [2].
+
+![Range of effective doses across 14 dental CBCT devices, from 19 to 368 microsieverts](../figures/fig-06-1-cbct-dose-range.svg)
+
+**Figure 6.1** Effective dose across 14 dental CBCT devices ranged from 19 to 368 µSv, a 20-fold range that depended mainly on field-of-view size and exposure settings. Data from [2].
 
 > **Clinical Tip.** Prescribe CBCT only when the expected benefit justifies the dose. Choose the **smallest field of view** and the lowest exposure that answer the clinical question. A single-implant site needs a small field. Facial-skeletal planning needs a large one. Never take a CBCT only to improve the fit of a surface scan or to "complete" a virtual patient for presentation.
 
@@ -77,7 +81,16 @@ Registration methods include:
 - **Fiducial or marker-based registration:** radiopaque markers or scan appliances worn during both CBCT and scanning;
 - **Automatic AI-based registration.**
 
-In a randomised study of 150 patients, fully automatic AI-based registration was as accurate as conventional methods **in patients without restorations**. With multiple restoration artefacts, operator experience mattered. Free-ended edentulous areas also reduced accuracy [6].
+In a randomised study of 150 patients, fully automatic AI-based registration was as accurate as conventional methods **in patients without restorations**. With multiple restoration artefacts, operator experience mattered. Free-ended edentulous areas also reduced accuracy [6]. Table 6.1 summarises the options.
+
+**Table 6.1** Methods for registering CBCT with surface scans
+
+| Method | How it works | Practical notes |
+|---|---|---|
+| **Point-based** | The operator selects three or more matching points (such as cusp tips) on both datasets | Manual; check the result visually on the CBCT slices |
+| **Surface-based** | The software minimises the distance between segmented CBCT teeth and scanned teeth | Depends on segmentation; restoration artefacts reduced the performance of automated segmentation (6.2.4) [4] |
+| **Fiducial / marker-based** | Radiopaque markers or a scan appliance worn during both CBCT and scanning | Use when few teeth remain or metal restorations are extensive |
+| **Automatic (AI-based)** | Trained software aligns the datasets without manual input | As accurate as conventional methods without restorations; with multiple restoration artefacts operator experience mattered; free-ended edentulous areas reduced accuracy [6] |
 
 > **Clinical Tip.** After every registration, check the fit visually. Scroll through the CBCT slices and confirm that the scanned tooth surfaces lie exactly on the radiographic tooth outlines, especially away from metal restorations. In patients with few teeth or extensive metal, use radiopaque fiducial markers or a scan appliance.
 
@@ -91,7 +104,7 @@ Anterior restorations, complete dentures and orthodontic treatment must harmonis
 
 ### 6.3.2 Technologies
 
-**Table 6.1** Facial scanning technologies
+**Table 6.2** Facial scanning technologies
 
 | Technology | Principle | Strengths | Limitations |
 |---|---|---|---|
@@ -152,7 +165,7 @@ JMT is a promising tool for complex prosthodontic and occlusal cases. Evidence t
 
 **Digital smile design (DSD)** is a planning approach. Facial and dental photographs, videos and 3D data are analysed with reference lines and proportions to design the ideal tooth position, size and shape in relation to the face. The design is then transferred to a 3D wax-up, mock-up and final restorations.
 
-A typical DSD workflow:
+A typical DSD workflow (Figure 6.2):
 
 1. **Documentation.** Standardised facial and intraoral photographs, plus videos of speech and spontaneous smiling. Video captures lip dynamics that static photographs miss [17].
 2. **2D analysis.** Facial midline, interpupillary line, smile line, lip support, tooth proportions, gingival levels.
@@ -160,6 +173,10 @@ A typical DSD workflow:
 4. **3D design.** The 2D plan is transferred to a digital wax-up on the intraoral scan, ideally registered to a facial scan.
 5. **Mock-up and test drive.** The design is printed or milled as a model or template, and an intraoral mock-up is made in provisional material for the patient to evaluate.
 6. **Treatment and transfer.** Preparation guides, provisionals and definitive restorations are made from the approved design.
+
+![Six-step digital smile design workflow in two rows, with the intraoral mock-up highlighted](../figures/fig-06-2-dsd-workflow.svg)
+
+**Figure 6.2** The digital smile design workflow, from documentation to definitive restorations. The intraoral mock-up (step 5) is where the patient approves the design. Steps 1 and 3 follow [17].
 
 ### 6.5.2 Software
 
@@ -184,7 +201,7 @@ No matter how sophisticated the digital design, the **intraoral mock-up** is whe
 
 ### 6.6.1 Which dataset drives which decision?
 
-**Table 6.2** Data sources and the decisions they should drive
+**Table 6.3** Data sources and the decisions they should drive
 
 | Decision | Primary dataset | Typical accuracy | Supporting data |
 |---|---|---|---|
@@ -195,7 +212,11 @@ No matter how sophisticated the digital design, the **intraoral mock-up** is whe
 | Incisal edge, midline, smile line | Facial scan, photographs, video | ~0.5–2 mm [8,9,12] | Intraoral mock-up |
 | Patient acceptance | Mock-up | Clinical judgement | DSD presentation |
 
-The rule is simple: **use each dataset for decisions within its accuracy**, and never let a less accurate dataset override a more accurate one where they overlap. The facial scan suggests where the incisal edge should be. The intraoral scan and the mock-up decide exactly where it is.
+The rule is simple: **use each dataset for decisions within its accuracy**, and never let a less accurate dataset override a more accurate one where they overlap. The facial scan suggests where the incisal edge should be. The intraoral scan and the mock-up decide exactly where it is. Figure 6.3 places the typical error of each dataset on a common scale.
+
+![Typical error of surface scans, jaw tracking, CBCT segmentation and facial scan registration on a logarithmic scale](../figures/fig-06-3-dataset-accuracy.svg)
+
+**Figure 6.3** Typical error of each dataset in the virtual patient, on a logarithmic scale. The pale band for surface scans is indicative (tens of micrometres; Chapters 3–5). The open circle marks the mean RMS of CBCT tooth segmentation. Data from [4,8,9,12,13]; see Table 6.3.
 
 ### 6.6.2 Practical integration workflow (aesthetic implant case)
 
@@ -222,7 +243,7 @@ Combining datasets multiplies the volume of data and the risk of privacy breache
 - Facial scanners, including smartphone apps, can achieve clinically acceptable accuracy for planning [7,8]. Accuracy is lowest in the lower third of the face for some apps [9]. **Extraoral markers** improve face–tooth registration [11].
 - Jaw-motion tracking records individual movement with device accuracies of about **50–330 µm**. It is promising for complex cases but supported by limited, high-risk-of-bias evidence [13,14].
 - Digital smile design improves **communication and satisfaction** [19,20]. The **mock-up** remains the decisive clinical test.
-- Use each dataset only for decisions within its accuracy (Table 6.2).
+- Use each dataset only for decisions within its accuracy (Table 6.3).
 
 ---
 
@@ -235,7 +256,7 @@ Combining datasets multiplies the volume of data and the risk of privacy breache
 5. How do extraoral markers improve the registration of a dental scan to a facial scan?
 6. Describe the main technologies used for jaw-motion tracking. What does current evidence say about their clinical benefit?
 7. Outline a digital smile design workflow from documentation to definitive restorations. At which step is the patient's approval most reliably obtained?
-8. Using Table 6.2, explain which dataset should decide (a) the cervical margin of an implant crown, (b) the implant's apical position, and (c) the incisal edge position of a central incisor.
+8. Using Table 6.3, explain which dataset should decide (a) the cervical margin of an implant crown, (b) the implant's apical position, and (c) the incisal edge position of a central incisor.
 
 ---
 

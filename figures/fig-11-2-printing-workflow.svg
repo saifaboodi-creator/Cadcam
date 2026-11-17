@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 330" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+  <title>The seven steps of a dental 3D print</title>
+  <desc>Flow diagram: design, slicing, printing, washing, post-curing, support removal and finishing, and quality control. The washing and post-curing steps are highlighted because they control mechanical properties, dimensions and biocompatibility.</desc>
+  <defs>
+    <marker id="a2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker>
+  </defs>
+  <rect width="800" height="330" fill="#ffffff"/>
+  <g font-size="14" fill="#0b0b0b">
+    <!-- row 1 -->
+    <g transform="translate(20,30)">
+      <rect width="165" height="86" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+      <text x="14" y="24" font-weight="700">1  Design</text>
+      <text x="14" y="46" font-size="12.5" fill="#52514e">Dental CAD software</text>
+      <text x="14" y="64" font-size="12.5" fill="#52514e">Export STL or 3MF</text>
+    </g>
+    <g transform="translate(218,30)">
+      <rect width="165" height="86" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+      <text x="14" y="24" font-weight="700">2  Slicing</text>
+      <text x="14" y="46" font-size="12.5" fill="#52514e">Orientation, supports,</text>
+      <text x="14" y="64" font-size="12.5" fill="#52514e">nesting, layer, exposure</text>
+    </g>
+    <g transform="translate(416,30)">
+      <rect width="165" height="86" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+      <text x="14" y="24" font-weight="700">3  Printing</text>
+      <text x="14" y="46" font-size="12.5" fill="#52514e">Validated printer</text>
+      <text x="14" y="64" font-size="12.5" fill="#52514e">and resin settings</text>
+    </g>
+    <g transform="translate(615,30)">
+      <rect width="165" height="86" rx="8" fill="#e6eef5" stroke="#1f5f8b" stroke-width="2"/>
+      <text x="14" y="24" font-weight="700">4  Washing</text>
+      <text x="14" y="46" font-size="12.5" fill="#52514e">Remove uncured</text>
+      <text x="14" y="64" font-size="12.5" fill="#52514e">surface resin</text>
+    </g>
+    <!-- row 2 (right to left) -->
+    <g transform="translate(615,180)">
+      <rect width="165" height="86" rx="8" fill="#e6eef5" stroke="#1f5f8b" stroke-width="2"/>
+      <text x="14" y="24" font-weight="700">5  Post-curing</text>
+      <text x="14" y="46" font-size="12.5" fill="#52514e">Light ± heat in the</text>
+      <text x="14" y="64" font-size="12.5" fill="#52514e">validated curing unit</text>
+    </g>
+    <g transform="translate(410,180)">
+      <rect width="165" height="86" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+      <text x="14" y="24" font-weight="700">6  Supports off,</text>
+      <text x="34" y="42" font-weight="700">finishing</text>
+      <text x="14" y="64" font-size="12.5" fill="#52514e">Smooth, polish, stain</text>
+    </g>
+    <g transform="translate(205,180)">
+      <rect width="165" height="86" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+      <text x="14" y="24" font-weight="700">7  Quality control</text>
+      <text x="14" y="46" font-size="12.5" fill="#52514e">Fit, accuracy, surface</text>
+      <text x="14" y="64" font-size="12.5" fill="#52514e">(Chapter 12)</text>
+    </g>
+    <g transform="translate(20,192)">
+      <rect width="140" height="62" rx="8" fill="#ffffff" stroke="#1baf7a" stroke-width="2"/>
+      <text x="70" y="27" text-anchor="middle" font-weight="700">Device ready</text>
+      <text x="70" y="46" text-anchor="middle" font-size="12.5" fill="#52514e">record batch data</text>
+    </g>
+  </g>
+  <g stroke="#52514e" stroke-width="2" fill="none" marker-end="url(#a2)">
+    <line x1="185" y1="73" x2="214" y2="73"/>
+    <line x1="383" y1="73" x2="412" y2="73"/>
+    <line x1="581" y1="73" x2="611" y2="73"/>
+    <line x1="697" y1="116" x2="697" y2="176"/>
+    <line x1="615" y1="223" x2="579" y2="223"/>
+    <line x1="410" y1="223" x2="374" y2="223"/>
+    <line x1="205" y1="223" x2="164" y2="223"/>
+  </g>
+  <text x="20" y="306" font-size="12.5" fill="#52514e">Highlighted steps (4–5) control residual monomer, strength and dimensions. Shortening them creates, in effect, an untested device.</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 280" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+<title>Fit of selective laser melted and cast RPD frameworks</title>
+<desc>Mean gaps in one in vitro study: SLM frameworks from a conventional impression 79.5 micrometres, SLM from an intraoral scan 85.3 micrometres, conventionally cast 114.2 micrometres.</desc>
+<rect width="800" height="280" fill="#fff"/>
+<g stroke="#e5e7ea"><line x1="370" y1="30" x2="370" y2="200"/><line x1="470" y1="30" x2="470" y2="200"/><line x1="570" y1="30" x2="570" y2="200"/><line x1="670" y1="30" x2="670" y2="200"/></g>
+<line x1="270" y1="30" x2="270" y2="200" stroke="#cfd6de"/>
+<g font-size="12" fill="#52514e" text-anchor="middle"><text x="270" y="218">0</text><text x="370" y="218">25</text><text x="470" y="218">50</text><text x="570" y="218">75</text><text x="670" y="218">100</text><text x="770" y="218">125</text></g>
+<line x1="770" y1="30" x2="770" y2="200" stroke="#e5e7ea"/>
+<text x="520" y="244" text-anchor="middle" font-size="12.5" fill="#52514e">Mean gap (µm); lower = closer fit; axis starts at 0</text>
+<g font-size="13.5" fill="#0b0b0b" text-anchor="end">
+<text x="258" y="60">SLM, conventional impression</text>
+<text x="258" y="115">SLM, intraoral scan</text>
+<text x="258" y="170">Conventional casting</text>
+</g>
+<g fill="#2a78d6">
+<path d="M270,42 H584 a4,4 0 0 1 4,4 V66 a4,4 0 0 1 -4,4 H270 z"/>
+<path d="M270,97 H607.2 a4,4 0 0 1 4,4 V121 a4,4 0 0 1 -4,4 H270 z"/>
+</g>
+<path d="M270,152 H722.8 a4,4 0 0 1 4,4 V176 a4,4 0 0 1 -4,4 H270 z" fill="#eb6834"/>
+<g font-size="13.5" font-weight="700" fill="#0b0b0b"><text x="596" y="61">79.5</text><text x="619" y="116">85.3</text><text x="734" y="171">114.2</text></g>
+<text x="400" y="270" text-anchor="middle" font-size="12.5" fill="#52514e">Single in vitro study; the authors judged the differences of minimal clinical significance.</text>
+</svg>

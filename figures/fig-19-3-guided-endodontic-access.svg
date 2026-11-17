@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+<title>Guided endodontic access in a tooth with pulp canal obliteration</title>
+<desc>Schematic section of an incisor with an obliterated coronal canal and a patent apical canal. A tooth-supported printed template carries a sleeve that guides the drill along a straight planned path, derived from registered CBCT and surface scan data, to the patent canal.</desc>
+<rect width="800" height="500" fill="#fff"/>
+<!-- template -->
+<path d="M200,128 V70 H480 V128 H400 L372,104 H308 L280,128 Z" fill="#e6eef5" stroke="#1f5f8b" stroke-width="2"/>
+<!-- tooth -->
+<path d="M318,112 L362,112 C385,145 400,200 400,240 C396,320 370,410 344,470 C342,474 338,474 336,470 C310,410 284,320 280,240 C280,200 295,145 318,112 Z" fill="#fbf8f1" stroke="#52514e" stroke-width="2"/>
+<!-- obliterated canal -->
+<rect x="333" y="165" width="14" height="135" rx="3" fill="#dcd8cf"/>
+<!-- patent canal -->
+<path d="M337,300 L343,300 L341,458 L339,458 Z" fill="#eb6834"/>
+<!-- sleeve -->
+<rect x="326" y="34" width="28" height="74" fill="#8a8984" stroke="#52514e" stroke-width="1.5"/>
+<rect x="333" y="34" width="14" height="74" fill="#ffffff"/>
+<!-- drill path -->
+<line x1="340" y1="14" x2="340" y2="300" stroke="#1f5f8b" stroke-width="2.5" stroke-dasharray="8 5"/>
+<polygon points="333,292 347,292 340,304" fill="#1f5f8b"/>
+<g stroke="#52514e" stroke-width="1">
+<line x1="354" y1="50" x2="500" y2="50"/><line x1="440" y1="95" x2="500" y2="110"/>
+<line x1="347" y1="230" x2="500" y2="210"/><line x1="342" y1="380" x2="500" y2="330"/><line x1="340" y1="160" x2="500" y2="160"/>
+</g>
+<g font-size="14" fill="#0b0b0b">
+<text x="508" y="46" font-weight="600">Sleeve</text><text x="508" y="64" font-size="12.5" fill="#52514e">matched to the drill diameter</text>
+<text x="508" y="106" font-weight="600">Printed template</text><text x="508" y="124" font-size="12.5" fill="#52514e">tooth-supported; must seat fully</text>
+<text x="508" y="156" font-weight="600" fill="#1f5f8b">Planned drill path</text><text x="508" y="174" font-size="12.5" fill="#52514e">straight line from CBCT + scan</text>
+<text x="508" y="206" font-weight="600">Obliterated canal</text><text x="508" y="224" font-size="12.5" fill="#52514e">calcified; not visible clinically</text>
+<text x="508" y="326" font-weight="600">Patent canal</text><text x="508" y="344" font-size="12.5" fill="#52514e">target located on CBCT</text>
+</g>
+<text x="40" y="96" font-size="12.5" fill="#52514e">template extends to</text><text x="40" y="113" font-size="12.5" fill="#52514e">adjacent teeth</text>
+<text x="400" y="494" text-anchor="middle" font-size="12.5" fill="#52514e">Schematic, not to scale</text>
+</svg>

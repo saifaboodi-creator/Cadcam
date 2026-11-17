@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+<title>Clear aligner workflow</title>
+<desc>Scan, segmentation, virtual set-up of the target position, staging, printed models with thermoformed or directly printed aligners, then monitoring and rescanning, with refinements looping back to a new set-up.</desc>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1f5f8b"/></marker></defs>
+<rect width="800" height="300" fill="#fff"/>
+<g font-size="14" fill="#0b0b0b" text-anchor="middle">
+<rect x="10" y="40" width="120" height="84" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="70" y="74">Scan</text><text x="70" y="94" font-size="12.5" fill="#52514e">intraoral or</text><text x="70" y="110" font-size="12.5" fill="#52514e">model</text>
+<rect x="142" y="40" width="120" height="84" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="202" y="74">Segment</text><text x="202" y="94" font-size="12.5" fill="#52514e">teeth (often</text><text x="202" y="110" font-size="12.5" fill="#52514e">AI-assisted)</text>
+<rect x="274" y="40" width="120" height="84" rx="8" fill="#e6eef5" stroke="#1f5f8b" stroke-width="2"/>
+<text x="334" y="74" font-weight="600">Virtual set-up</text><text x="334" y="94" font-size="12.5" fill="#1f5f8b">the target, not a</text><text x="334" y="110" font-size="12.5" fill="#1f5f8b">prediction</text>
+<rect x="406" y="40" width="120" height="84" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="466" y="74">Staging</text><text x="466" y="94" font-size="12.5" fill="#52514e">intermediate</text><text x="466" y="110" font-size="12.5" fill="#52514e">positions</text>
+<rect x="538" y="40" width="120" height="84" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="598" y="66">Manufacture</text><text x="598" y="86" font-size="12" fill="#52514e">printed models,</text><text x="598" y="102" font-size="12" fill="#52514e">thermoformed or</text><text x="598" y="118" font-size="12" fill="#52514e">printed aligners</text>
+<rect x="670" y="40" width="120" height="84" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="730" y="74">Wear &amp;</text><text x="730" y="94">monitor</text><text x="730" y="110" font-size="12.5" fill="#52514e">compliance</text>
+<rect x="400" y="200" width="270" height="70" rx="8" fill="#ffffff" stroke="#1f5f8b" stroke-width="2"/>
+<text x="535" y="228" font-weight="600" fill="#1f5f8b">Rescan → refinement</text><text x="535" y="250" font-size="12.5" fill="#52514e">tracking falls short of the plan</text>
+</g>
+<g stroke="#1f5f8b" stroke-width="2" fill="none" marker-end="url(#a)">
+<line x1="130" y1="82" x2="139" y2="82"/><line x1="262" y1="82" x2="271" y2="82"/><line x1="394" y1="82" x2="403" y2="82"/><line x1="526" y1="82" x2="535" y2="82"/><line x1="658" y1="82" x2="667" y2="82"/>
+<polyline points="730,124 730,235 673,235"/>
+<polyline points="400,235 334,235 334,127"/>
+</g>
+<text x="200" y="232" text-anchor="middle" font-size="12.5" fill="#52514e">new set-up and aligner series;</text>
+<text x="200" y="250" text-anchor="middle" font-size="12.5" fill="#52514e">plan overcorrection where needed</text>
+</svg>

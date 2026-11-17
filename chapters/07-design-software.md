@@ -29,7 +29,11 @@ Most dental CAD programs share a common structure:
 8. **Parameter checks.** Thickness, connectors and cement space.
 9. **Output.** Export to CAM software with material, machine and nesting information.
 
-The order varies between programs, but the logic is the same. The clinician or technician who understands each step can work in any software.
+The order varies between programs, but the logic is the same (Figure 7.1). The clinician or technician who understands each step can work in any software.
+
+![Nine steps of a typical CAD design arranged in a serpentine flow, with margin definition highlighted](../figures/fig-07-1-cad-workflow.svg)
+
+**Figure 7.1** The nine steps of a typical CAD design. The order varies between programs; margin definition (step 4) is the most critical step.
 
 > **Clinical Tip.** Dentists who send cases to a laboratory should still learn to *read* a design. They should be able to view the margin, thickness map, contacts and occlusion on screen and approve or reject the design before it is made. Most laboratory platforms now allow this.
 
@@ -97,7 +101,16 @@ AI design uses neural networks trained on large numbers of scans and technician-
 - A narrative review of generative deep-learning approaches found that most used **generative adversarial networks (GANs)** or **transformer** architectures, working on depth maps, point clouds or voxels. Reported reconstruction errors were roughly **half** those of conventional digital methods [4].
 - In one study, a 3D GAN designed premolar crowns that matched natural tooth morphology more closely than either a biogeneric or a technician design. The biogeneric crowns had steeper cusps (67°) than the natural teeth (54°) or the GAN crowns (49°). In finite-element simulation, the GAN crowns' stress distribution was closest to that of natural teeth [5].
 
-Section 7.8 discusses the clinical evidence on AI design.
+Section 7.8 discusses the clinical evidence on AI design. Table 7.1 compares the four sources of a shape proposal.
+
+**Table 7.1** Sources of the restoration shape proposal
+
+| Source | How it works | Best suited to | Limitations |
+|---|---|---|---|
+| **Tooth library** | A digitised natural or idealised tooth is placed and adapted to the margin, neighbours and antagonist | Routine cases; choice of tooth style | Generic starting shape that usually needs editing |
+| **Biogeneric model** | A statistical model of tooth shape reconstructs the missing surface from the remaining tooth, neighbours and antagonists [3] | Posterior teeth with remaining structure | In one study, biogeneric crowns had steeper cusps (67°) than natural teeth (54°) [5] |
+| **Copy** | Pre-operative scan, provisional, approved wax-up or mock-up, or the mirrored contralateral tooth | Good existing anatomy or an approved design; mirroring for anterior teeth | Needs a usable source shape |
+| **AI generation** | Neural networks (GANs, transformers) trained on scans and technician designs [4] | Fast first drafts, especially single crowns (7.8) | Needs human checking; weaker for contacts, inlays and multi-unit FDPs (7.8) |
 
 ---
 
@@ -118,9 +131,13 @@ Good design editing is a craft skill. It depends on knowing dental morphology, o
 
 ## 7.6 Design Parameters
 
-Design parameters are the numbers that turn a shape into a restoration that can be made and will survive. They must suit the **material**, the **manufacturing method** and the **machine**. Always check the material manufacturer's current instructions. Chapters 13–15 and Appendix A give material-specific guidance.
+Design parameters are the numbers that turn a shape into a restoration that can be made and will survive. They must suit the **material**, the **manufacturing method** and the **machine**. Always check the material manufacturer's current instructions. Chapters 13–15 and Appendix A give material-specific guidance. Figure 7.2 shows the main parameters on a crown cross-section.
 
-**Table 7.1** Main design parameters
+![Cross-section of a crown on a preparation labelled with path of insertion, minimum occlusal thickness, cement space, margin line and a blocked-out undercut](../figures/fig-07-2-design-parameters.svg)
+
+**Figure 7.2** Design parameters on a crown cross-section (schematic, not to scale). The cement space begins a set distance above the margin; a virtually blocked-out undercut leaves a thicker cement layer, and minimum thicknesses depend on the material.
+
+**Table 7.2** Main design parameters
 
 | Parameter | What it controls | Key considerations |
 |---|---|---|
@@ -205,7 +222,7 @@ AI design tools are now built into many CAD programs and offered as cloud servic
 
 ### 7.8.4 What this means for practice
 
-**Table 7.2** AI-based design: where it stands
+**Table 7.3** AI-based design: where it stands
 
 | Restoration | Current evidence | Recommended use |
 |---|---|---|

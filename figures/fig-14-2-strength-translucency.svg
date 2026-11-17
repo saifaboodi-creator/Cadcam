@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+  <title>The strength–translucency trade-off of dental zirconia</title>
+  <desc>Top: a schematic scale from 3Y-TZP to 4Y-PSZ to 5Y-PSZ showing that increasing yttria adds cubic phase, raising translucency and lowering strength and toughness. Bottom: pooled flexural strength from a systematic review of laboratory studies: 4Y-PSZ 803 plus or minus 233 MPa; 5Y-PSZ 570 plus or minus 116 MPa. Axis 0 to 1100 MPa.</desc>
+  <defs>
+    <linearGradient id="gtr" x1="0" x2="1"><stop offset="0" stop-color="#f3f7fa"/><stop offset="1" stop-color="#2a78d6"/></linearGradient>
+    <linearGradient id="gst" x1="0" x2="1"><stop offset="0" stop-color="#eb6834"/><stop offset="1" stop-color="#fbe2d6"/></linearGradient>
+  </defs>
+  <rect width="800" height="400" fill="#ffffff"/>
+  <!-- schematic scale -->
+  <g font-size="14" fill="#0b0b0b">
+    <text x="190" y="30" text-anchor="middle" font-weight="700">3Y-TZP</text>
+    <text x="440" y="30" text-anchor="middle" font-weight="700">4Y-PSZ</text>
+    <text x="690" y="30" text-anchor="middle" font-weight="700">5Y-PSZ</text>
+    <text x="20" y="64" font-size="13" fill="#52514e">Translucency</text>
+    <rect x="140" y="50" width="600" height="20" rx="4" fill="url(#gtr)" stroke="#cfd6de"/>
+    <text x="20" y="98" font-size="13" fill="#52514e">Strength,</text>
+    <text x="20" y="114" font-size="13" fill="#52514e">toughness</text>
+    <rect x="140" y="88" width="600" height="20" rx="4" fill="url(#gst)" stroke="#cfd6de"/>
+    <text x="440" y="140" text-anchor="middle" font-size="13" fill="#52514e">more yttria → more cubic phase → more translucent, less strong (schematic)</text>
+  </g>
+  <line x1="20" y1="160" x2="780" y2="160" stroke="#cfd6de" stroke-width="1"/>
+  <!-- chart: x 220..740 for 0..1100 MPa: 0.4727 px/MPa -->
+  <g stroke="#e5e7ea" stroke-width="1">
+    <line x1="220" y1="180" x2="220" y2="320"/><line x1="314.5" y1="180" x2="314.5" y2="320"/><line x1="409.1" y1="180" x2="409.1" y2="320"/><line x1="503.6" y1="180" x2="503.6" y2="320"/><line x1="598.2" y1="180" x2="598.2" y2="320"/><line x1="692.7" y1="180" x2="692.7" y2="320"/>
+  </g>
+  <line x1="220" y1="180" x2="220" y2="320" stroke="#52514e" stroke-width="1.5"/>
+  <g font-size="12.5" fill="#52514e" text-anchor="middle">
+    <text x="220" y="338">0</text><text x="314.5" y="338">200</text><text x="409.1" y="338">400</text><text x="503.6" y="338">600</text><text x="598.2" y="338">800</text><text x="692.7" y="338">1000</text>
+    <text x="480" y="360">Flexural strength, pooled laboratory data (MPa)</text>
+  </g>
+  <!-- 4Y: 803 -> 599.6 ; sd 233 -> 110.1 => 489.5..709.7 -->
+  <path d="M220,196 H595.6 a4,4 0 0 1 4,4 V230 a4,4 0 0 1 -4,4 H220 Z" fill="#2a78d6"/>
+  <g stroke="#0b0b0b" stroke-width="1.8"><line x1="489.5" y1="215" x2="709.7" y2="215"/><line x1="489.5" y1="207" x2="489.5" y2="223"/><line x1="709.7" y1="207" x2="709.7" y2="223"/></g>
+  <!-- 5Y: 570 -> 489.4 ; sd 116 -> 54.8 => 434.6..544.2 -->
+  <path d="M220,256 H485.4 a4,4 0 0 1 4,4 V290 a4,4 0 0 1 -4,4 H220 Z" fill="#8fb8ec"/>
+  <g stroke="#0b0b0b" stroke-width="1.8"><line x1="434.6" y1="275" x2="544.2" y2="275"/><line x1="434.6" y1="267" x2="434.6" y2="283"/><line x1="544.2" y1="267" x2="544.2" y2="283"/></g>
+  <g font-size="14" fill="#0b0b0b">
+    <text x="208" y="220" text-anchor="end" font-weight="600">4Y-PSZ</text>
+    <text x="208" y="280" text-anchor="end" font-weight="600">5Y-PSZ</text>
+    <text x="718" y="220" font-weight="700">803 ± 233</text>
+    <text x="552" y="280" font-weight="700">570 ± 116</text>
+  </g>
+  <text x="20" y="390" font-size="12.5" fill="#52514e">Bars show mean ± SD from a systematic review of 78 laboratory studies; no pooled 3Y-TZP value is shown.</text>
+</svg>

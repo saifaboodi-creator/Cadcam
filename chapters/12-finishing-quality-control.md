@@ -23,7 +23,11 @@ A milled or printed restoration is not finished when it leaves the machine. It s
 - **surface finishing**: glazing or mechanical polishing;
 - **verification**: fit, contacts, occlusion, shade and surface quality.
 
-Each of these steps can improve the restoration or spoil it. Post-processing changes fit (Chapter 3). Glazing and grinding change surface roughness, strength and wear of the opposing teeth. A thin, chipped margin from milling that goes unnoticed becomes a clinical failure. This chapter covers the steps between the machine and the mouth, and how to check them.
+Each of these steps can improve the restoration or spoil it. Post-processing changes fit (Chapter 3). Glazing and grinding change surface roughness, strength and wear of the opposing teeth. A thin, chipped margin from milling that goes unnoticed becomes a clinical failure. This chapter covers the steps between the machine and the mouth, and how to check them (Figure 12.1).
+
+![Flow diagram of the five post-manufacturing stages](../figures/fig-12-1-machine-to-mouth.svg)
+
+**Figure 12.1** From machine to mouth. The five stages after milling or printing. Heat treatment changes fit, so fit is verified after the final firing (Section 12.2.2). Schematic.
 
 ---
 
@@ -127,7 +131,27 @@ Grinding zirconia with diamond instruments creates scratches and can transform p
 4. Check the surface under magnification for remaining scratches.
 5. Re-glaze only if required for aesthetics, and for zirconia, be aware that re-glazing after grinding may reduce strength [13,14].
 
+Figure 12.2 summarises this sequence as a decision path.
+
+![Decision flow for refinishing after chairside adjustment](../figures/fig-12-2-after-adjustment.svg)
+
+**Figure 12.2** Refinishing after chairside adjustment. The polishing sequence is chosen by material. For zirconia, glazing after grinding reduced flexural strength, whereas polishing did not, in the cited in vitro studies [13,14].
+
 > **Evidence Box.** The evidence on adjustment and polishing comes almost entirely from **in vitro** studies on flat specimens, using single products. It consistently supports polishing after adjustment [8,12–14]. It does not support any one polishing kit over others in general, because results vary between kits [9,10].
+
+Table 12.2 summarises the evidence from Sections 12.4 and 12.5.
+
+**Table 12.2** Glazing, polishing and re-glazing: summary of the evidence (in vitro unless stated)
+
+| Question | Finding | Ref. |
+|---|---|---|
+| Does polishing after grinding restore the surface? | Chairside polishing restored roughness and strength to the level of glazing on several ceramic combinations | [8] |
+| Are polishing kits equivalent? | No: one kit matched the original glaze, another could not adequately polish; a zirconia kit gave the lowest roughness on three ceramics | [9,10] |
+| Which surface wears opposing enamel less? | Polished surfaces caused less enamel wear than glazed ones (umbrella review) | [11] |
+| Does grinding and polishing weaken zirconia? | No evidence of reduced flexural strength after hydrothermal ageing | [12] |
+| Should ground zirconia be re-glazed? | Glazing after grinding reduced flexural strength; polishing did not | [13,14] |
+| Polishing kits versus re-glazing on zirconia | Kits Ra about 0.47–0.49 µm; re-glazing Ra 0.59 µm | [15] |
+| Does operator experience matter? | Students, dentists and technicians achieved similar results with a two-step zirconia kit (pilot) | [16] |
 
 ---
 
@@ -158,6 +182,10 @@ Digital methods measure the gap three-dimensionally without destroying the resto
 
 The method used to measure fit strongly affects the value obtained (Chapter 3). A review of 183 fit studies found wide variation in reported gaps between methods and protocols [20]. The same laser-melted RPD frameworks measured a 13.9 µm mean gap with the clinical replica method and a 70.7 µm RMS gap with digital registration [21]. For implant frameworks, no single method fully captures passive fit, and combining techniques is recommended [22].
 
+![Bar chart comparing replica and digital fit values for the same frameworks](../figures/fig-12-3-fit-method-dependence.svg)
+
+**Figure 12.3** One set of frameworks, two numbers. The same laser-melted RPD frameworks measured a 13.9 µm mean gap with the silicone replica method and a 70.7 µm RMS gap with digital registration. Both were clinically acceptable; the difference reflects the method and the metric. Data from [21].
+
 When you compare your own results over time or between suppliers, use **the same method each time**.
 
 ---
@@ -172,7 +200,7 @@ Prevention: adequate margin thickness in the design, edge reinforcement settings
 
 ### 12.7.2 Troubleshooting table
 
-**Table 12.2** Common problems after manufacture: causes and remedies
+**Table 12.3** Common problems after manufacture: causes and remedies
 
 | Problem | Likely causes | Remedies |
 |---|---|---|

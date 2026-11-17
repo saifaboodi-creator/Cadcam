@@ -31,11 +31,15 @@ The umbrella term for planning-based placement is **computer-assisted implant su
 
 ### 17.2.1 Data acquisition
 
-A typical workflow combines:
+A typical workflow (Figure 17.1) combines:
 
 1. **Intraoral or laboratory scans** of both arches and the bite (Chapters 4 and 5).
 2. **A diagnostic wax-up** or tooth set-up of the planned restoration, designed digitally on the scan (Chapter 7) or scanned from a physical wax-up.
 3. **CBCT** of the implant site. Use the smallest field of view and lowest dose that answer the clinical question. Effective doses vary about 20-fold between devices and protocols, mainly with field size (Chapter 6) [2]. In an in vitro study of anterior maxillary sites, smaller CBCT fields of view, smaller scan areas and smaller guides did not reduce the accuracy of static guided surgery [3].
+
+![Flow diagram: scans, digital wax-up and CBCT are registered, the implant is planned from the crown down, and the plan is transferred by a static guide, navigation or a robot](../figures/fig-17-1-planning-workflow.svg)
+
+**Figure 17.1** The prosthetically driven digital implant planning workflow. The wax-up of the planned restoration drives implant position; the plan is transferred by static, dynamic or robotic computer-assisted surgery [1,4].
 
 ### 17.2.2 Registration
 
@@ -75,14 +79,22 @@ A systematic review and meta-analysis found that **bone-supported** guides had s
 - **Partially guided:** some drills are guided. The implant is placed freehand.
 - **Fully guided:** all drills **and** the implant insertion are guided through the sleeve.
 
-A systematic review and meta-analysis of 55 studies reported mean angular, entry and apex deviations of [6]:
+A systematic review and meta-analysis of 55 studies reported mean angular, entry and apex deviations (defined in Figure 17.2; see also Figure 17.3) of [6]:
 
 - **7.46°, 1.56 mm and 2.22 mm** for freehand placement;
 - **5.94°, 1.13 mm and 1.43 mm** for pilot-drill guided sCAIS;
 - **2.57°, 0.72 mm and 0.88 mm** for fully guided sCAIS;
 - **3.67°, 1.01 mm and 1.36 mm** for dynamic CAIS.
 
-Fully guided sCAIS was the most accurate approach and was significantly more accurate than dCAIS at the entry point [6]. Laboratory studies with novice operators confirm the advantage of full guidance:
+Fully guided sCAIS was the most accurate approach and was significantly more accurate than dCAIS at the entry point [6].
+
+![Diagram of a planned and a placed implant superimposed, showing entry deviation, apex deviation and angular deviation](../figures/fig-17-2-deviation-measures.svg)
+
+**Figure 17.2** How implant placement accuracy is measured: entry (coronal) deviation, apex deviation and angular deviation between the planned and the placed implant. Deviations are exaggerated for clarity.
+
+![Two-panel bar chart of mean angular deviation and mean apex deviation for freehand, pilot-drill guided, fully guided and dynamic placement](../figures/fig-17-3-guidance-accuracy.svg)
+
+**Figure 17.3** Mean angular (A) and apex (B) deviations by placement technique, from one meta-analysis of 55 studies. Fully guided static surgery was the most accurate. Data from [6]. Laboratory studies with novice operators confirm the advantage of full guidance:
 
 - Undergraduate students placing implants through printed guides had a mean angular deviation of 2.24° with full guidance and 4.51° with pilot-drill guidance. Full guidance took longer (about 15 versus 10 minutes) [7].
 - Novice clinicians placing implants in narrow anterior ridges were most accurate with full guidance, then pilot guidance, then freehand. In the freehand group, 23.3% of implants had apical fenestrations and 23.3% could not be restored with a screw-retained prosthesis. All fully guided implants were covered with bone and could be screw-retained [8].

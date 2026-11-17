@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+<title>Accuracy of clear aligner tooth movement</title>
+<desc>Achieved as a percentage of predicted movement in one prospective study of 38 patients: mean of all movements 50%, bucco-lingual crown tip 56%, rotation 46%, intrusion of mandibular incisors 35%, distal rotation of maxillary canines 37%, mesial rotation of mandibular first molars 28%.</desc>
+<rect width="800" height="380" fill="#fff"/>
+<g stroke="#e5e7ea"><line x1="404" y1="30" x2="404" y2="320"/><line x1="498" y1="30" x2="498" y2="320"/><line x1="592" y1="30" x2="592" y2="320"/><line x1="686" y1="30" x2="686" y2="320"/></g>
+<line x1="310" y1="30" x2="310" y2="320" stroke="#cfd6de"/>
+<line x1="780" y1="30" x2="780" y2="320" stroke="#52514e" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="776" y="22" text-anchor="end" font-size="12" fill="#52514e">100% = movement fully achieved</text>
+<g font-size="12" fill="#52514e" text-anchor="middle"><text x="310" y="338">0%</text><text x="404" y="338">20%</text><text x="498" y="338">40%</text><text x="592" y="338">60%</text><text x="686" y="338">80%</text><text x="780" y="338">100%</text></g>
+<text x="545" y="364" text-anchor="middle" font-size="12.5" fill="#52514e">Achieved as % of predicted movement (axis starts at 0%)</text>
+<g font-size="13.5" fill="#0b0b0b" text-anchor="end">
+<text x="298" y="62" font-weight="700">Mean, all movements</text>
+<text x="298" y="110">Bucco-lingual crown tip</text>
+<text x="298" y="158">Rotation (all teeth)</text>
+<text x="298" y="206">Distal rotation, maxillary canine</text>
+<text x="298" y="254">Intrusion, mandibular incisors</text>
+<text x="298" y="302">Mesial rotation, mand. first molar</text>
+</g>
+<path d="M310,44 H541 a4,4 0 0 1 4,4 V68 a4,4 0 0 1 -4,4 H310 z" fill="#1a4f91"/>
+<g fill="#2a78d6">
+<path d="M310,92 H569.2 a4,4 0 0 1 4,4 V116 a4,4 0 0 1 -4,4 H310 z"/>
+<path d="M310,140 H522.2 a4,4 0 0 1 4,4 V164 a4,4 0 0 1 -4,4 H310 z"/>
+<path d="M310,188 H480.9 a4,4 0 0 1 4,4 V212 a4,4 0 0 1 -4,4 H310 z"/>
+<path d="M310,236 H471.5 a4,4 0 0 1 4,4 V260 a4,4 0 0 1 -4,4 H310 z"/>
+<path d="M310,284 H437.6 a4,4 0 0 1 4,4 V308 a4,4 0 0 1 -4,4 H310 z"/>
+</g>
+<g font-size="13.5" font-weight="700" fill="#0b0b0b"><text x="553" y="63">50%</text><text x="581" y="111">56%</text><text x="534" y="159">46%</text><text x="493" y="207">37%</text><text x="483" y="255">35%</text><text x="449" y="303">28%</text></g>
+</svg>

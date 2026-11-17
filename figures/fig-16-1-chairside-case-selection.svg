@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+<title>Chairside or laboratory: a case-selection decision path</title>
+<desc>Four questions in sequence decide whether a restoration suits chairside production. A "yes" to any of them points to the laboratory route; four "no" answers point to chairside.</desc>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker>
+<marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f5f8b"/></marker></defs>
+<rect width="800" height="520" fill="#fff"/>
+<rect x="40" y="20" width="420" height="50" rx="8" fill="#e6eef5" stroke="#1f5f8b" stroke-width="2"/>
+<text x="250" y="51" text-anchor="middle" font-size="15" font-weight="600" fill="#0b0b0b">Indirect restoration planned</text>
+<g font-size="14" fill="#0b0b0b">
+<rect x="40" y="100" width="420" height="58" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="250" y="125" text-anchor="middle">Margins hard to scan?</text>
+<text x="250" y="145" text-anchor="middle" font-size="12.5" fill="#52514e">deep, bleeding or tissue-covered</text>
+<rect x="40" y="190" width="420" height="58" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="250" y="215" text-anchor="middle">Provisional phase needed?</text>
+<text x="250" y="235" text-anchor="middle" font-size="12.5" fill="#52514e">new occlusal scheme, vertical dimension, aesthetics</text>
+<rect x="40" y="280" width="420" height="58" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="250" y="305" text-anchor="middle">Multi-unit FDP or complete arch?</text>
+<text x="250" y="325" text-anchor="middle" font-size="12.5" fill="#52514e">higher design and material demands</text>
+<rect x="40" y="370" width="420" height="58" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="250" y="395" text-anchor="middle">Layered or multi-unit anterior aesthetics?</text>
+<text x="250" y="415" text-anchor="middle" font-size="12.5" fill="#52514e">where a technician adds real value</text>
+</g>
+<rect x="40" y="458" width="420" height="50" rx="8" fill="#e6eef5" stroke="#1f5f8b" stroke-width="2"/>
+<text x="250" y="482" text-anchor="middle" font-size="15" font-weight="700" fill="#1f5f8b">Chairside suits this case</text>
+<text x="250" y="499" text-anchor="middle" font-size="12.5" fill="#52514e">best: bonded posterior inlays, onlays, crowns, endocrowns</text>
+<g stroke="#1f5f8b" stroke-width="2" fill="none" marker-end="url(#b)">
+<line x1="250" y1="70" x2="250" y2="98"/><line x1="250" y1="158" x2="250" y2="188"/><line x1="250" y1="248" x2="250" y2="278"/><line x1="250" y1="338" x2="250" y2="368"/><line x1="250" y1="428" x2="250" y2="456"/>
+</g>
+<g font-size="12.5" fill="#1f5f8b" font-weight="600"><text x="258" y="178">No</text><text x="258" y="268">No</text><text x="258" y="358">No</text><text x="258" y="447">No</text></g>
+<g stroke="#52514e" stroke-width="2" fill="none" marker-end="url(#a)">
+<polyline points="460,129 600,129 600,203"/><line x1="460" y1="219" x2="537" y2="219"/><polyline points="460,309 600,309 600,263"/><polyline points="460,399 600,399 600,263"/>
+</g>
+<g font-size="12.5" fill="#52514e" font-weight="600"><text x="470" y="122">Yes</text><text x="470" y="212">Yes</text><text x="470" y="302">Yes</text><text x="470" y="392">Yes</text></g>
+<rect x="540" y="205" width="230" height="58" rx="8" fill="#ffffff" stroke="#52514e" stroke-width="2"/>
+<text x="655" y="230" text-anchor="middle" font-size="14" font-weight="700" fill="#0b0b0b">Laboratory route</text>
+<text x="655" y="249" text-anchor="middle" font-size="12.5" fill="#52514e">or scan + laboratory hybrid</text>
+</svg>

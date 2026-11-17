@@ -46,15 +46,23 @@ AI-based tooth segmentation now automates much of the preparation (Chapter 4). T
 
 ### 19.2.3 Clear aligners
 
-Clear aligners are the largest single CAD/CAM application in dentistry by volume. From the virtual set-up, a series of intermediate tooth positions is designed. Models of each stage are 3D-printed, and thermoplastic aligners are vacuum-formed over them (or, increasingly, printed directly; see Chapter 11).
+Clear aligners are the largest single CAD/CAM application in dentistry by volume. From the virtual set-up, a series of intermediate tooth positions is designed. Models of each stage are 3D-printed, and thermoplastic aligners are vacuum-formed over them (or, increasingly, printed directly; see Chapter 11). Figure 19.1 shows the workflow.
+
+![Flow diagram of the clear aligner workflow from scan to monitoring, with a refinement loop back to a new virtual set-up](../figures/fig-19-1-aligner-workflow.svg)
+
+**Figure 19.1** The clear aligner workflow. The virtual set-up is the target; when tooth movement falls short of the plan, a rescan and a refinement series follow.
 
 **Predictability.** The key clinical question is how closely achieved tooth movement matches the plan:
 
 - A systematic review found that aligners aligned and levelled arches and controlled anterior intrusion and posterior bucco-lingual inclination. **Extrusion** was the hardest movement to control (about 30% accuracy), followed by rotation. Upper molar distalisation was the most predictable movement (88%) when at least 1.5 mm of bodily movement was prescribed. Rotation of rounded teeth was poorly controlled. Study quality and heterogeneity limited the conclusions [4].
-- A prospective study of 38 patients measured predicted against achieved movement on digital models. Mean accuracy across all movements was **50%**. Bucco-lingual crown tip was the most accurate (56%) and rotation the least (46%). Accuracy was particularly low for mesial rotation of mandibular first molars (28%), distal rotation of maxillary canines (37%) and intrusion of mandibular incisors (35%) [5].
+- A prospective study of 38 patients measured predicted against achieved movement on digital models. Mean accuracy across all movements was **50%** (Figure 19.2). Bucco-lingual crown tip was the most accurate (56%) and rotation the least (46%). Accuracy was particularly low for mesial rotation of mandibular first molars (28%), distal rotation of maxillary canines (37%) and intrusion of mandibular incisors (35%) [5].
 - A systematic review of factors affecting aligner outcomes found that success depended mainly on **patient compliance**, treatment planning and case complexity. Bucco-lingual tipping was the most accurate movement, while rotation, intrusion and expansion were less precise. A digital progress-monitoring tool was reported to **overestimate** tooth movement [6].
 
 > **Evidence Box.** On average, aligners achieve roughly half of the planned movement per stage, and less for rotations, extrusions and some intrusions [4,5]. This explains why refinements (additional aligner series) and auxiliaries (attachments, elastics) are common. A virtual set-up shows the **target**, not a prediction of what the teeth will actually do. Clinicians should plan overcorrection and refinements accordingly, and explain this to patients.
+
+![Horizontal bar chart of achieved versus predicted aligner movement: mean 50%, crown tip 56%, rotation 46%, canine distal rotation 37%, incisor intrusion 35%, molar mesial rotation 28%](../figures/fig-19-2-aligner-accuracy.svg)
+
+**Figure 19.2** Achieved tooth movement as a percentage of the predicted movement in one prospective study of 38 aligner patients. Data from [5].
 
 ### 19.2.4 Digital indirect bonding
 
@@ -63,6 +71,16 @@ In **indirect bonding**, brackets are positioned on a model, then transferred to
 - In vitro, a 3D-printed transfer jig and a conventional silicone tray both achieved median bracket-position deviations within the American Board of Orthodontics' clinically acceptable limit of 0.5 mm. The printed jig was more accurate in the mandible and the silicone tray in the maxilla [7].
 - In a prospective clinical study of 818 lingual brackets, rigid-printed, flexible-printed and double vacuum-formed trays all gave median translational errors of 0.10 mm or less, well within the 0.5 mm limit. **Torque** rarely met the 2° limit with any tray. Double vacuum-formed trays gave the most precise mesial-distal positioning [8].
 - A comparison of fully and partially enclosed printed lingual trays found both clinically acceptable for linear accuracy. Torque transfer remained a challenge. The fully enclosed design needed longer bonding time (84 versus 71 minutes) without an overall accuracy advantage [9].
+
+Table 19.1 compares the three studies.
+
+**Table 19.1** Digital indirect bonding: transfer accuracy in the studies discussed
+
+| Study | Setting | Trays compared | Linear accuracy | Torque and other findings |
+|---|---|---|---|---|
+| [7] | In vitro | 3D-printed jig vs conventional silicone tray | Median deviations within the 0.5 mm limit for both | Printed jig more accurate in the mandible, silicone tray in the maxilla |
+| [8] | Clinical, 818 lingual brackets | Rigid printed, flexible printed, double vacuum-formed | Median translational errors ≤ 0.10 mm | Torque rarely within 2°; double vacuum-formed most precise mesial-distally |
+| [9] | Lingual trays | Fully vs partially enclosed printed trays | Both clinically acceptable | Torque transfer a challenge; fully enclosed design took longer to bond (84 vs 71 minutes) |
 
 Digital indirect bonding achieves clinically acceptable **linear** accuracy with several tray designs. **Torque** transfer is the weak point [8,9].
 
@@ -100,7 +118,11 @@ Sleep appliances should be provided within a medical diagnosis and follow-up pat
 
 ### 19.4.1 Guided endodontic access
 
-In teeth with **pulp canal obliteration** (calcified canals), finding the canal conventionally risks perforation and excessive loss of tooth structure. **Guided endodontics** uses the same principles as guided implant surgery (Chapter 17). CBCT and a surface scan are registered (Chapter 6), a straight access path to the canal is planned, and a tooth-supported template with a sleeve guides a drill along that path.
+In teeth with **pulp canal obliteration** (calcified canals; Figure 19.3), finding the canal conventionally risks perforation and excessive loss of tooth structure. **Guided endodontics** uses the same principles as guided implant surgery (Chapter 17). CBCT and a surface scan are registered (Chapter 6), a straight access path to the canal is planned, and a tooth-supported template with a sleeve guides a drill along that path.
+
+![Schematic section of an incisor with an obliterated coronal canal; a tooth-supported printed template with a sleeve guides the drill along a straight planned path to the patent canal](../figures/fig-19-3-guided-endodontic-access.svg)
+
+**Figure 19.3** Guided endodontic access. The access path is planned on registered CBCT and surface-scan data, and a sleeve in a tooth-supported template keeps the drill on that path. Schematic, not to scale.
 
 - In an in vitro study with 3D-printed incisors containing simulated calcified canals, the canal was found in **91.7%** of guided accesses compared with **41.7%** of conventional ones. Substance loss was about five times lower (mean 9.8 versus 49.9 mm³), and treatment time was roughly halved (11.3 versus 21.8 minutes). The success of the guided approach did not depend on operator experience [12].
 - Templates made on several low-cost desktop 3D printers gave mean deviations between planned and actual bur positions of 0.31–0.68 mm [13].
@@ -156,6 +178,18 @@ Reconstruction of the mandible with a **fibula free flap** is one of the most es
 
 Planning the reconstruction **prosthetically**, by positioning the fibula segments to support future implants and a dental prosthesis, connects maxillofacial surgery directly with the implant workflows in Chapters 9 and 17.
 
+Table 19.2 summarises the review evidence on virtual surgical planning.
+
+**Table 19.2** Virtual surgical planning: findings of the systematic reviews discussed
+
+| Application | Review | Main findings | Limitations |
+|---|---|---|---|
+| Orthognathic surgery | [20] 11 RCTs, 240 patients | Shorter surgery; maxillary vertical accuracy improved by about 0.46 mm (about 0.89 mm with guides and plates, 0.24 mm with splints) | No difference in horizontal accuracy or patient-reported outcomes; higher cost and radiation; low to very low certainty |
+| Orthognathic surgery | [21] | No significant differences in key cephalometric measurements | VSP recommended for complex cases |
+| Fibula mandibular reconstruction | [22] | Smaller change in gonion angle (3.6° vs 7.7°) | No significant difference in intercondylar distance or ischaemia time |
+| Fibula mandibular reconstruction | [23] | Operative time about 45 minutes shorter | No difference in complications |
+| Free-flap reconstruction | [24] | Higher likelihood of dental implant placement (odds ratio 2.70) | — |
+
 ### 19.6.3 Patient-specific implants and trauma
 
 **Patient-specific implants (PSIs)** are designed from the patient's imaging to fill defects or reconstruct contours. They are made by milling or printing titanium or PEEK (Chapter 15).
@@ -163,7 +197,7 @@ Planning the reconstruction **prosthetically**, by positioning the fibula segmen
 - A systematic review and meta-analysis of patient-specific **PEEK** implants in craniomaxillofacial reconstruction (15 studies, 236 implants) found a pooled complication rate of 20.1%, mostly minor, and implant loss of 6.5%. Aesthetic outcomes were satisfactory in 87.4%. Implant loss was numerically higher in previously irradiated patients, although that subgroup was very small [25].
 - In craniomaxillofacial **trauma**, a systematic review of 20 studies found that printed models, PSIs and custom devices helped restore symmetry and function and **reduced surgery time**, but **increased preparation time and production costs**. In-house production could reduce both [26].
 
-**Table 19.1** Digital applications outside restorative dentistry: summary
+**Table 19.3** Digital applications outside restorative dentistry: summary
 
 | Application | Typical manufacture | Evidence summary | Key limitation |
 |---|---|---|---|

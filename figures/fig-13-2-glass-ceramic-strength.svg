@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+  <title>Reported flexural strength of CAD/CAM glass-ceramics</title>
+  <desc>Horizontal range bars of flexural strength in megapascals. From one comparison of chairside blocks: leucite-reinforced about 128 to 131; factory-crystallised lithium silicates and ZLS about 172 to 202; crystallised lithium disilicate about 344 to 351. From a separate study: one ZLS product about 444. Axis 0 to 500 MPa.</desc>
+  <rect width="800" height="380" fill="#ffffff"/>
+  <!-- plot x: 270..750 for 0..500 MPa => 0.96 px/MPa -->
+  <g stroke="#e5e7ea" stroke-width="1">
+    <line x1="270" y1="30" x2="270" y2="250"/><line x1="366" y1="30" x2="366" y2="250"/><line x1="462" y1="30" x2="462" y2="250"/><line x1="558" y1="30" x2="558" y2="250"/><line x1="654" y1="30" x2="654" y2="250"/><line x1="750" y1="30" x2="750" y2="250"/>
+  </g>
+  <line x1="270" y1="30" x2="270" y2="250" stroke="#52514e" stroke-width="1.5"/>
+  <g font-size="12.5" fill="#52514e" text-anchor="middle">
+    <text x="270" y="270">0</text><text x="366" y="270">100</text><text x="462" y="270">200</text><text x="558" y="270">300</text><text x="654" y="270">400</text><text x="750" y="270">500</text>
+    <text x="510" y="292">Flexural strength (MPa)</text>
+  </g>
+  <!-- bars: draw to lower bound solid, range segment lighter -->
+  <!-- leucite 128-131: lower 392.9, upper 395.8 -->
+  <path d="M270,44 H391 a4,4 0 0 1 4,4 V70 a4,4 0 0 1 -4,4 H270 Z" fill="#2a78d6"/>
+  <!-- lithium silicates 172-202: 435.1 .. 463.9 -->
+  <rect x="270" y="94" width="165" height="30" fill="#2a78d6"/>
+  <path d="M437,94 H460 a4,4 0 0 1 4,4 V120 a4,4 0 0 1 -4,4 H437 Z" fill="#8fb8ec"/>
+  <!-- LS2 344-351: 600.2 .. 607 -->
+  <path d="M270,144 H603 a4,4 0 0 1 4,4 V170 a4,4 0 0 1 -4,4 H270 Z" fill="#2a78d6"/>
+  <!-- ZLS one product ~444: 696.2 -->
+  <path d="M270,200 H692 a4,4 0 0 1 4,4 V226 a4,4 0 0 1 -4,4 H270 Z" fill="#eb6834"/>
+  <g font-size="14" fill="#0b0b0b">
+    <text x="258" y="64" text-anchor="end" font-weight="600">Leucite-reinforced</text>
+    <text x="258" y="108" text-anchor="end" font-weight="600">Lithium silicates / ZLS</text>
+    <text x="258" y="124" text-anchor="end" font-size="12.5" fill="#52514e">factory-crystallised</text>
+    <text x="258" y="164" text-anchor="end" font-weight="600">Lithium disilicate</text>
+    <text x="258" y="212" text-anchor="end" font-weight="600">ZLS (one product)</text>
+    <text x="258" y="228" text-anchor="end" font-size="12.5" fill="#52514e">separate study</text>
+    <text x="403" y="64" font-weight="700">~128–131</text>
+    <text x="472" y="114" font-weight="700">~172–202</text>
+    <text x="615" y="164" font-weight="700">~344–351</text>
+    <text x="704" y="220" font-weight="700">~444</text>
+  </g>
+  <g transform="translate(20,318)" font-size="13" fill="#0b0b0b">
+    <rect x="0" y="0" width="16" height="12" fill="#2a78d6"/><text x="22" y="11">one comparison of chairside blocks [9]</text>
+    <rect x="330" y="0" width="16" height="12" fill="#eb6834"/><text x="352" y="11">a separate laboratory study [16]</text>
+    <rect x="610" y="0" width="16" height="12" fill="#8fb8ec"/><text x="632" y="11">reported range</text>
+  </g>
+  <text x="20" y="352" font-size="12.5" fill="#52514e">Feldspathic blocks (lowest strength [5]) are not shown: no single value was reported.</text>
+  <text x="20" y="370" font-size="12.5" fill="#52514e">Values from different studies are not directly comparable.</text>
+</svg>

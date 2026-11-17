@@ -37,11 +37,15 @@ A systematic review of 39 studies on digital complete dentures documented a wide
 
 The authors concluded that a **border-moulded impression is still preferred for better retention**, and that a **trial denture is still recommended** before the definitive digital denture is made [2].
 
-In practice, the main record options are:
+In practice, the main record options are as follows (Figure 18.1 shows the whole workflow):
 
 1. **Conventional records, digitised.** Border-moulded final impressions and a jaw-relation record (often in a custom tray or record base) are scanned in the laboratory (Chapter 5).
 2. **Hybrid records.** Some systems use their own trays and record bases, which capture the impression, vertical dimension and centric relation in one or two visits, and are then scanned.
 3. **Intraoral scanning.** The ridges are scanned directly, sometimes with a scanned existing denture as a reference for tooth position and vertical dimension. This is convenient but does not record functional border form [2].
+
+![Flow diagram of the digital complete denture workflow: records, design, printed trial denture with feedback, and milled, printed or conventionally processed manufacture](../figures/fig-18-1-digital-denture-workflow.svg)
+
+**Figure 18.1** The digital complete denture workflow. A border-moulded impression and a printed trial denture remain recommended steps; the stored design allows quick remakes [1,2].
 
 ### 18.2.2 Design
 
@@ -115,7 +119,7 @@ Digital workflows clearly save **clinical time**. In one review, digital complet
 
 ### 18.4.1 Digital design
 
-An RPD framework is designed on a scan of the master cast or an intraoral scan of the partially dentate arch:
+An RPD framework is designed on a scan of the master cast or an intraoral scan of the partially dentate arch (Figure 18.2):
 
 1. **Survey.** The software analyses undercuts relative to the chosen path of insertion, much like a mechanical surveyor.
 2. **Blockout and relief.** Undesirable undercuts are blocked out. Relief is added under major connectors and over the edentulous ridges where needed.
@@ -123,6 +127,10 @@ An RPD framework is designed on a scan of the master cast or an intraoral scan o
 4. **Thickness checks.** Each component is given the thickness the material needs, especially clasps and the major connector.
 
 Digital design makes the survey and undercut measurements explicit. It still requires a sound knowledge of RPD design principles.
+
+![Flow diagram of digital RPD framework design: scan, survey, blockout and relief, component design, thickness checks, then selective laser melting, printed pattern and casting, or milling](../figures/fig-18-2-rpd-framework-workflow.svg)
+
+**Figure 18.2** Digital RPD framework design and the three main manufacturing routes described in Section 18.4.2.
 
 ### 18.4.2 Manufacturing routes
 
@@ -139,7 +147,12 @@ Digital design makes the survey and undercut measurements explicit. It still req
 
 In vitro comparisons:
 
-- Frameworks made by SLM had smaller mean gaps than conventionally cast frameworks, whether from a conventional impression (79.5 µm) or an intraoral scan (85.3 µm), compared with 114.2 µm for casting. The impression type did not affect SLM accuracy. The authors judged the differences to be of minimal clinical significance [14].
+- Frameworks made by SLM had smaller mean gaps than conventionally cast frameworks, whether from a conventional impression (79.5 µm) or an intraoral scan (85.3 µm), compared with 114.2 µm for casting. The impression type did not affect SLM accuracy. The authors judged the differences to be of minimal clinical significance [14] (Figure 18.3).
+
+![Bar chart of mean framework gaps: SLM from a conventional impression 79.5 µm, SLM from an intraoral scan 85.3 µm, conventional casting 114.2 µm](../figures/fig-18-3-rpd-framework-fit.svg)
+
+**Figure 18.3** Mean gaps of SLM and conventionally cast cobalt-chromium RPD frameworks in one in vitro study. Data from [14].
+
 - With a **deep palatal vault**, conventional casting gave the largest discrepancy (0.194 mm) and SLM the smallest (0.092 mm). For medium palatal vaults, all methods gave clinically acceptable fit [15].
 - For mandibular major connectors, direct SLM frameworks had the smallest gaps for both lingual plates and lingual bars. All methods gave clinically acceptable adaptation [16].
 - **Build orientation** matters. SLM frameworks printed at 0° showed adaptation of the palatal major connector equivalent to cast frameworks, and better than those built at 45° or 90°. In the clinical part of the same study, SLM and cast frameworks did not differ significantly [17].
@@ -152,6 +165,17 @@ Clinical evidence:
 ### 18.4.4 PEEK frameworks
 
 PEEK frameworks are metal-free, light and aesthetically less conspicuous than cobalt-chromium. In a randomised trial of mandibular Kennedy Class I patients, CAD/CAM PEEK and CAD/CAM cobalt-chromium frameworks gave **no significant differences** in oral health-related quality of life or satisfaction over 2 years. Both improved quality of life beyond the minimal clinically important difference [20]. Long-term data on PEEK clasp retention, wear and framework durability are still limited. Chapter 15 covers the material.
+
+Table 18.2 brings together the evidence for each framework route.
+
+**Table 18.2** RPD framework manufacturing routes: summary of the evidence in this chapter
+
+| Route | Evidence summarised in this chapter | Main caveats |
+|---|---|---|
+| **Selective laser melting (Co-Cr)** | Accuracy and mechanical performance comparable or superior to conventional frameworks [12]; smaller gaps than casting in vitro, including deep palatal vaults and mandibular connectors [14–16]; clinical fit comparable to casting in one RCT [19] | Lower accuracy than casting in one review [11]; fit depends on build orientation [17] and on the measurement method [18] |
+| **Printed resin pattern + casting** | Combines digital design with a familiar alloy and casting route | No route-specific outcome data summarised here |
+| **Metal binder jetting** | Frameworks within the clinically acceptable range [11] | Lower accuracy and rougher surface than casting [11] |
+| **Milled PEEK** | Oral health-related quality of life and satisfaction comparable to Co-Cr over 2 years in one RCT [20] | Long-term clasp retention, wear and durability data limited |
 
 > **Lab Note.** For SLM frameworks, follow the build orientation, support strategy and heat-treatment protocol validated for the alloy and machine [17]. Remove supports from non-fitting surfaces, and check rest seats, clasp tips and the major connector on the cast before finishing. Do not assume that a digital framework fits because the design was correct.
 
@@ -181,7 +205,7 @@ A systematic review of CAD/CAM for **nasal prostheses** and craniofacial implant
 
 ## 18.6 Summary
 
-**Table 18.2** Digital removable prosthodontics: where the evidence stands
+**Table 18.3** Digital removable prosthodontics: where the evidence stands
 
 | Prosthesis | Digital route | Current evidence |
 |---|---|---|

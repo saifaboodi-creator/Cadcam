@@ -42,7 +42,11 @@ When pure zirconia cools from the tetragonal to the monoclinic phase, its volume
 
 In yttria-stabilised tetragonal zirconia, the tetragonal phase is **metastable**: it is stable at room temperature but can still change to monoclinic under stress. When a crack approaches, the stress at its tip triggers the t → m transformation in the surrounding grains. The local volume expansion compresses the crack and slows its growth. This mechanism, **transformation toughening**, explains the high fracture toughness and strength of zirconia [1].
 
-The same metastability has a downside: under certain conditions the transformation can also happen **spontaneously** at the surface. This is **low-temperature degradation** (Section 14.5).
+The same metastability has a downside: under certain conditions the transformation can also happen **spontaneously** at the surface. This is **low-temperature degradation** (Section 14.5). Figure 14.1 contrasts the two.
+
+![Grain-level schematic of transformation toughening and low-temperature degradation](../figures/fig-14-1-toughening-and-ageing.svg)
+
+**Figure 14.1** One transformation, two consequences. (A) Transformation toughening: tetragonal grains at a crack tip transform to the larger monoclinic phase, and the expansion compresses the crack [1]. (B) Low-temperature degradation: in the presence of water the same transformation starts spontaneously at the surface and spreads inward (Section 14.5). Schematic, not to scale.
 
 ### 14.2.3 The strength–translucency trade-off
 
@@ -73,6 +77,10 @@ The yttria content (in mol%) is commonly used to name the main classes (Table 14
 
 A systematic review of 78 laboratory studies of commercial translucent zirconias found overall flexural strengths of **803 ± 233 MPa for 4Y-PSZ** and **570 ± 116 MPa for 5Y-PSZ** [4]. Specimen processing, surface treatment and test method significantly affected the 5Y-PSZ values but not the 4Y-PSZ values. The authors concluded that the data support 4Y-PSZ for three-unit FDPs, and 5Y-PSZ for three-unit FDPs only in the **anterior** region, based on the ISO 6872 classification [4].
 
+![Schematic of the strength–translucency trade-off with pooled strength data for 4Y- and 5Y-zirconia](../figures/fig-14-2-strength-translucency.svg)
+
+**Figure 14.2** The strength–translucency trade-off. Top: adding yttria adds cubic phase, which raises translucency and lowers strength and toughness (schematic) [3,4]. Bottom: pooled flexural strength (mean ± SD) from a systematic review of 78 laboratory studies: 803 ± 233 MPa for 4Y-PSZ and 570 ± 116 MPa for 5Y-PSZ. Data from [4].
+
 > **Evidence Box.** Laboratory strength values are not clinical survival data. They vary with specimen geometry, surface finish and test method [4]. Use them to rank materials and to understand the limits of each class, not to predict how long a restoration will last.
 
 ### 14.3.2 Multilayer and gradient zirconia
@@ -85,6 +93,10 @@ Multilayer blanks combine layers of different shade, yttria content or both, to 
 The layers do not have the same properties. In a study of four commercial 4Y/5Y multilayer systems, the dentine layers reached flexural strengths of up to **1,143 MPa**, while the incisal layers fell to about **572 MPa**. Only one material stayed above 800 MPa in **all** layers. The authors stressed that strength differences between layers must be considered, especially for long-span restorations [6].
 
 > **Lab Note.** Where the restoration sits in a multilayer blank (its **nesting** position) determines which layer ends up in the connector, the occlusal surface or the incisal edge. For FDPs, place connectors in the strongest (cervical/dentine) layers, and check the manufacturer's indications for each blank.
+
+![Schematic of a three-unit FDP nested in a multilayer zirconia blank](../figures/fig-14-3-multilayer-nesting.svg)
+
+**Figure 14.3** Nesting an FDP in a composition-gradient multilayer blank. Incisal edges sit in the translucent top layer and connectors in the stronger body layers. In one study of four 4Y/5Y multilayer systems, body layers reached up to 1,143 MPa while incisal layers fell to about 572 MPa; only one material stayed above 800 MPa in all layers. Data from [6]. Schematic; layer arrangement varies by product.
 
 ---
 
@@ -119,7 +131,7 @@ Grinding zirconia after sintering can introduce surface flaws and residual stres
 
 ### 14.5.1 What it is
 
-**Low-temperature degradation (LTD)**, or ageing, is the slow, spontaneous t → m transformation at the surface of yttria-stabilised zirconia in the presence of water. It occurs at body temperature and at the higher temperatures used in steam sterilisation. It starts at the surface and progresses inwards, causing surface roughening, microcracking and, in severe cases, loss of strength [10,11].
+**Low-temperature degradation (LTD)**, or ageing, is the slow, spontaneous t → m transformation at the surface of yttria-stabilised zirconia in the presence of water. It occurs at body temperature and at the higher temperatures used in steam sterilisation. It starts at the surface and progresses inwards, causing surface roughening, microcracking and, in severe cases, loss of strength [10,11] (Figure 14.1B).
 
 LTD came to wide attention after a series of fractures of zirconia hip prostheses (femoral heads) in 2001–2002. The fractures were traced to processing-related differences that made one product particularly susceptible to ageing [10]. The episode showed that **processing has a strong influence on ageing**, and that zirconias from different suppliers can behave differently [10].
 

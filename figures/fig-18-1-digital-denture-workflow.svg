@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+<title>Digital complete denture workflow</title>
+<desc>Clinical records (border-moulded impression and jaw relations, or intraoral scans) are digitised, the denture is designed, a printed trial denture is tried in with feedback to the design, and the definitive denture is milled, printed or conventionally processed. The design file is stored for remakes.</desc>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker>
+<marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1f5f8b"/></marker></defs>
+<rect width="800" height="420" fill="#fff"/>
+<g font-size="14" fill="#0b0b0b" text-anchor="middle">
+<text x="110" y="22" font-size="12.5" fill="#52514e" font-weight="600">1  RECORDS</text>
+<rect x="20" y="34" width="180" height="90" rx="8" fill="#e6eef5" stroke="#1f5f8b" stroke-width="2"/>
+<text x="110" y="58" font-weight="600">Border-moulded</text><text x="110" y="76" font-weight="600">impression +</text><text x="110" y="94" font-weight="600">jaw relations</text><text x="110" y="113" font-size="12.5" fill="#1f5f8b">preferred for retention</text>
+<rect x="20" y="138" width="180" height="64" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="110" y="165">Intraoral scan</text><text x="110" y="184" font-size="12.5" fill="#52514e">no functional border form</text>
+<text x="310" y="22" font-size="12.5" fill="#52514e" font-weight="600">2  DESIGN</text>
+<rect x="230" y="34" width="160" height="158" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="310" y="62" font-weight="600">Digital design</text>
+<g font-size="12.5" fill="#52514e"><text x="310" y="88">borders, post-dam,</text><text x="310" y="105">relief</text><text x="310" y="128">tooth set-up from</text><text x="310" y="145">library + landmarks</text><text x="310" y="168">virtual articulator</text></g>
+<text x="510" y="22" font-size="12.5" fill="#52514e" font-weight="600">3  TRY-IN</text>
+<rect x="420" y="60" width="180" height="104" rx="8" fill="#e6eef5" stroke="#1f5f8b" stroke-width="2"/>
+<text x="510" y="88" font-weight="600">Printed trial denture</text>
+<g font-size="12.5" fill="#52514e"><text x="510" y="112">aesthetics, phonetics,</text><text x="510" y="129">vertical dimension,</text><text x="510" y="146">centric relation, borders</text></g>
+<text x="700" y="22" font-size="12.5" fill="#52514e" font-weight="600">4  MANUFACTURE</text>
+<rect x="625" y="34" width="160" height="56" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="705" y="58">Milled PMMA</text><text x="705" y="76" font-size="12.5" fill="#52514e">monolithic or two-part</text>
+<rect x="625" y="104" width="160" height="56" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="705" y="128">Printed base</text><text x="705" y="146" font-size="12.5" fill="#52514e">+ stock or printed teeth</text>
+<rect x="625" y="174" width="160" height="56" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+<text x="705" y="198">Conventional</text><text x="705" y="216" font-size="12.5" fill="#52514e">processing of design</text>
+<rect x="230" y="290" width="555" height="96" rx="8" fill="#ffffff" stroke="#52514e" stroke-width="1.5"/>
+<text x="507" y="318" font-weight="600">Insertion, adjustment and follow-up</text>
+<text x="507" y="342" font-size="12.5" fill="#52514e">complications and unscheduled visits remain common</text>
+<text x="507" y="364" font-size="12.5" fill="#1f5f8b" font-weight="600">design file stored → quick duplicate if the denture is lost or broken</text>
+</g>
+<g stroke="#52514e" stroke-width="2" fill="none" marker-end="url(#a)">
+<line x1="200" y1="79" x2="227" y2="79"/><line x1="200" y1="170" x2="227" y2="170"/>
+<line x1="390" y1="112" x2="417" y2="112"/>
+<line x1="600" y1="100" x2="622" y2="62"/><line x1="600" y1="122" x2="622" y2="132"/><line x1="600" y1="146" x2="622" y2="200"/>
+<polyline points="705,230 705,262 507,262 507,287"/>
+</g>
+<path d="M510,164 C510,232 310,232 310,196" fill="none" stroke="#1f5f8b" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#b)"/>
+<text x="410" y="244" text-anchor="middle" font-size="12.5" fill="#1f5f8b">changes fed back to the design</text>
+</svg>

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+  <title>Transformation toughening and low-temperature degradation in zirconia</title>
+  <desc>Two panels of a grain-level schematic. Left: a crack runs into tetragonal zirconia; grains next to the crack tip transform to the larger monoclinic phase, and the volume expansion compresses the crack and slows it. Right: in the presence of water, surface grains transform spontaneously, the transformation spreads inward, and the surface roughens and microcracks.</desc>
+  <rect width="800" height="450" fill="#ffffff"/>
+  <defs>
+    <pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#eb6834"/><line x1="0" y1="0" x2="0" y2="6" stroke="#ffffff" stroke-width="2"/></pattern>
+    <marker id="a14" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f5f8b"/></marker>
+  </defs>
+  <text x="200" y="28" text-anchor="middle" font-size="15" font-weight="700" fill="#0b0b0b">A. Transformation toughening</text>
+  <text x="600" y="28" text-anchor="middle" font-size="15" font-weight="700" fill="#0b0b0b">B. Low-temperature degradation</text>
+  <!-- Panel A: grid of grains -->
+  <g stroke="#ffffff" stroke-width="3">
+    <g fill="#8fb8ec">
+      <rect x="40" y="50" width="54" height="54"/><rect x="96" y="50" width="54" height="54"/><rect x="152" y="50" width="54" height="54"/><rect x="208" y="50" width="54" height="54"/><rect x="264" y="50" width="54" height="54"/><rect x="320" y="50" width="54" height="54"/>
+      <rect x="40" y="106" width="54" height="54"/><rect x="96" y="106" width="54" height="54"/><rect x="264" y="106" width="54" height="54"/><rect x="320" y="106" width="54" height="54"/>
+      <rect x="40" y="218" width="54" height="54"/><rect x="96" y="218" width="54" height="54"/><rect x="264" y="218" width="54" height="54"/><rect x="320" y="218" width="54" height="54"/>
+      <rect x="40" y="274" width="54" height="54"/><rect x="96" y="274" width="54" height="54"/><rect x="152" y="274" width="54" height="54"/><rect x="208" y="274" width="54" height="54"/><rect x="264" y="274" width="54" height="54"/><rect x="320" y="274" width="54" height="54"/>
+      <rect x="40" y="162" width="54" height="54"/>
+    </g>
+    <!-- transformed grains around crack tip (larger) -->
+    <g fill="url(#hatch)">
+      <rect x="149" y="103" width="60" height="60"/><rect x="205" y="103" width="60" height="60"/>
+      <rect x="149" y="215" width="60" height="60"/><rect x="205" y="215" width="60" height="60"/>
+      <rect x="261" y="159" width="60" height="60"/>
+    </g>
+    <g fill="#8fb8ec"><rect x="320" y="162" width="54" height="54"/></g>
+  </g>
+  <!-- crack -->
+  <path d="M40,189 L96,186 L150,191 L205,188 L250,189" fill="none" stroke="#0b0b0b" stroke-width="3"/>
+  <!-- compressive arrows -->
+  <g stroke="#1f5f8b" stroke-width="2.5" marker-end="url(#a14)">
+    <line x1="230" y1="145" x2="230" y2="176"/><line x1="230" y1="233" x2="230" y2="202"/>
+  </g>
+  <g font-size="13" fill="#0b0b0b">
+    <text x="40" y="355">crack</text><line x1="74" y1="350" x2="110" y2="195" stroke="#52514e" stroke-width="1"/>
+    <text x="40" y="378" fill="#52514e">Grains at the crack tip transform t → m and expand;</text>
+    <text x="40" y="396" fill="#52514e">the expansion compresses the crack and slows it.</text>
+  </g>
+  <!-- Panel B: surface ageing -->
+  <g>
+    <rect x="430" y="70" width="340" height="30" fill="#cfe1f7"/>
+    <text x="600" y="90" text-anchor="middle" font-size="13" fill="#1a4f91">water (oral fluids, steam)</text>
+    <g stroke="#ffffff" stroke-width="3">
+      <g fill="url(#hatch)">
+        <rect x="430" y="100" width="56" height="56"/><rect x="486" y="100" width="56" height="56"/><rect x="542" y="100" width="56" height="56"/><rect x="598" y="100" width="56" height="56"/><rect x="654" y="100" width="56" height="56"/><rect x="710" y="100" width="60" height="56"/>
+        <rect x="486" y="156" width="56" height="56"/><rect x="598" y="156" width="56" height="56"/><rect x="654" y="156" width="56" height="56"/>
+      </g>
+      <g fill="#8fb8ec">
+        <rect x="430" y="156" width="56" height="56"/><rect x="542" y="156" width="56" height="56"/><rect x="710" y="156" width="60" height="56"/>
+        <rect x="430" y="212" width="56" height="56"/><rect x="486" y="212" width="56" height="56"/><rect x="542" y="212" width="56" height="56"/><rect x="598" y="212" width="56" height="56"/><rect x="654" y="212" width="56" height="56"/><rect x="710" y="212" width="60" height="56"/>
+        <rect x="430" y="268" width="56" height="56"/><rect x="486" y="268" width="56" height="56"/><rect x="542" y="268" width="56" height="56"/><rect x="598" y="268" width="56" height="56"/><rect x="654" y="268" width="56" height="56"/><rect x="710" y="268" width="60" height="56"/>
+      </g>
+    </g>
+    <!-- microcracks -->
+    <g stroke="#0b0b0b" stroke-width="1.8" fill="none"><path d="M514,100 L520,124 L512,140"/><path d="M682,100 L676,122 L686,146"/></g>
+    <!-- inward arrow -->
+    <line x1="790" y1="105" x2="790" y2="205" stroke="#1f5f8b" stroke-width="2.5" marker-end="url(#a14)"/>
+    <g font-size="13" fill="#0b0b0b">
+      <text x="430" y="355" fill="#52514e">Spontaneous t → m transformation starts at the</text>
+      <text x="430" y="373" fill="#52514e">surface and spreads inward, roughening and</text>
+      <text x="430" y="391" fill="#52514e">microcracking the surface.</text>
+    </g>
+  </g>
+  <!-- legend -->
+  <g transform="translate(250,440)" font-size="13" fill="#0b0b0b">
+    <rect x="0" y="-11" width="16" height="12" fill="#8fb8ec"/><text x="22" y="0">tetragonal (t) grain</text>
+    <rect x="170" y="-11" width="16" height="12" fill="url(#hatch)"/><text x="192" y="0">transformed monoclinic (m) grain</text>
+  </g>
+</svg>

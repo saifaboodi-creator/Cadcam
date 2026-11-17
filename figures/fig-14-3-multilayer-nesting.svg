@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+  <title>Nesting a three-unit FDP in a composition-gradient multilayer blank</title>
+  <desc>Cross-section of a multilayer zirconia blank with an incisal (enamel) layer at the top grading into body (dentine) layers below. A three-unit FDP is nested so that its incisal edges lie in the translucent top layer and its connectors lie in the stronger body layers. In one study the body layers reached up to 1,143 MPa while incisal layers fell to about 572 MPa.</desc>
+  <rect width="800" height="380" fill="#ffffff"/>
+  <!-- blank layers -->
+  <g>
+    <rect x="40" y="40" width="480" height="60" fill="#f3f7fa" stroke="#cfd6de"/>
+    <rect x="40" y="100" width="480" height="60" fill="#cfe1f7" stroke="#cfd6de"/>
+    <rect x="40" y="160" width="480" height="60" fill="#8fb8ec" stroke="#cfd6de"/>
+    <rect x="40" y="220" width="480" height="60" fill="#5a95df" stroke="#cfd6de"/>
+    <rect x="40" y="40" width="480" height="240" fill="none" stroke="#52514e" stroke-width="2"/>
+  </g>
+  <!-- FDP outline (three units) -->
+  <g fill="#ffffff" fill-opacity="0.55" stroke="#0b0b0b" stroke-width="2">
+    <path d="M100,70 Q130,58 160,70 L172,215 Q155,255 130,262 Q105,255 92,215 Z"/>
+    <path d="M222,70 Q280,56 338,70 L330,198 Q280,222 230,198 Z"/>
+    <path d="M400,70 Q430,58 460,70 L468,215 Q455,255 430,262 Q405,255 392,215 Z"/>
+    <rect x="170" y="150" width="56" height="50" rx="10"/>
+    <rect x="334" y="150" width="62" height="50" rx="10"/>
+  </g>
+  <!-- connector highlight -->
+  <g fill="none" stroke="#eb6834" stroke-width="3" stroke-dasharray="6 4">
+    <rect x="164" y="144" width="68" height="62" rx="12"/><rect x="328" y="144" width="74" height="62" rx="12"/>
+  </g>
+  <!-- right labels -->
+  <g font-size="14" fill="#0b0b0b">
+    <text x="540" y="66" font-weight="700">Incisal ("enamel") layer</text>
+    <text x="540" y="84" font-size="13" fill="#52514e">most translucent; about 572 MPa</text>
+    <text x="540" y="100" font-size="13" fill="#52514e">at the weakest in one study</text>
+    <text x="540" y="226" font-weight="700">Body ("dentine") layers</text>
+    <text x="540" y="244" font-size="13" fill="#52514e">more chromatic; up to 1,143 MPa</text>
+    <text x="540" y="260" font-size="13" fill="#52514e">in the same study</text>
+  </g>
+  <line x1="528" y1="70" x2="536" y2="70" stroke="#52514e" stroke-width="1.5"/>
+  <line x1="528" y1="230" x2="536" y2="230" stroke="#52514e" stroke-width="1.5"/>
+  <!-- arrow down -->
+  <g font-size="13" fill="#52514e">
+    <line x1="20" y1="50" x2="20" y2="270" stroke="#52514e" stroke-width="1.5"/>
+    <path d="M14,262 L20,274 L26,262" fill="#52514e"/>
+    <text x="0" y="0" transform="translate(12,170) rotate(-90)" text-anchor="middle">strength ↑ translucency ↓</text>
+  </g>
+  <!-- legend -->
+  <g transform="translate(40,312)" font-size="13" fill="#0b0b0b">
+    <rect x="0" y="-4" width="26" height="14" rx="4" fill="none" stroke="#eb6834" stroke-width="2.5" stroke-dasharray="5 3"/><text x="34" y="8">connectors: nest them in the strongest (body) layers</text>
+    <text x="0" y="36" fill="#52514e">Schematic. Layer properties vary by product; only one of four systems tested stayed above 800 MPa in all layers.</text>
+  </g>
+</svg>

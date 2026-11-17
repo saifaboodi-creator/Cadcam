@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 330" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+<title>Accuracy of freehand, static and dynamic implant placement</title>
+<desc>Two panels from one meta-analysis. Mean angular deviation: freehand 7.46 degrees, pilot-drill guided 5.94, fully guided 2.57, dynamic 3.67. Mean apex deviation: freehand 2.22 mm, pilot-drill guided 1.43, fully guided 0.88, dynamic 1.36.</desc>
+<rect width="800" height="330" fill="#fff"/>
+<g font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+<text x="20" y="26" font-size="14" font-weight="700" fill="#0b0b0b">A  Angular deviation (°)</text>
+<text x="420" y="26" font-size="14" font-weight="700" fill="#0b0b0b">B  Apex deviation (mm)</text>
+<g font-size="13" fill="#0b0b0b" text-anchor="end">
+<text x="148" y="68">Freehand</text><text x="148" y="118">Pilot-drill sCAIS</text><text x="148" y="168">Fully guided sCAIS</text><text x="148" y="218">Dynamic CAIS</text>
+<text x="548" y="68">Freehand</text><text x="548" y="118">Pilot-drill sCAIS</text><text x="548" y="168">Fully guided sCAIS</text><text x="548" y="218">Dynamic CAIS</text>
+</g>
+<!-- panel A: scale 0-8 deg over 200px (x 158..358): 25 px/deg -->
+<g stroke="#e5e7ea"><line x1="208" y1="42" x2="208" y2="240"/><line x1="258" y1="42" x2="258" y2="240"/><line x1="308" y1="42" x2="308" y2="240"/><line x1="358" y1="42" x2="358" y2="240"/></g>
+<line x1="158" y1="42" x2="158" y2="240" stroke="#cfd6de"/>
+<g font-size="12" fill="#52514e" text-anchor="middle"><text x="158" y="258">0</text><text x="208" y="258">2</text><text x="258" y="258">4</text><text x="308" y="258">6</text><text x="358" y="258">8</text></g>
+<g fill="#2a78d6">
+<path d="M158,52 H340.5 a4,4 0 0 1 4,4 V76 a4,4 0 0 1 -4,4 H158 z"/>
+<path d="M158,102 H302.5 a4,4 0 0 1 4,4 V126 a4,4 0 0 1 -4,4 H158 z"/>
+<path d="M158,152 H218.25 a4,4 0 0 1 4,4 V176 a4,4 0 0 1 -4,4 H158 z"/>
+<path d="M158,202 H245.75 a4,4 0 0 1 4,4 V226 a4,4 0 0 1 -4,4 H158 z"/>
+</g>
+<g font-size="13" font-weight="700" fill="#0b0b0b"><text x="350" y="71">7.46</text><text x="312" y="121">5.94</text><text x="228" y="171">2.57</text><text x="256" y="221">3.67</text></g>
+<!-- panel B: scale 0-2.5 mm over 200px (x 558..758): 80 px/mm -->
+<g stroke="#e5e7ea"><line x1="598" y1="42" x2="598" y2="240"/><line x1="638" y1="42" x2="638" y2="240"/><line x1="678" y1="42" x2="678" y2="240"/><line x1="718" y1="42" x2="718" y2="240"/><line x1="758" y1="42" x2="758" y2="240"/></g>
+<line x1="558" y1="42" x2="558" y2="240" stroke="#cfd6de"/>
+<g font-size="12" fill="#52514e" text-anchor="middle"><text x="558" y="258">0</text><text x="598" y="258">0.5</text><text x="638" y="258">1.0</text><text x="678" y="258">1.5</text><text x="718" y="258">2.0</text><text x="758" y="258">2.5</text></g>
+<g fill="#2a78d6">
+<path d="M558,52 H731.6 a4,4 0 0 1 4,4 V76 a4,4 0 0 1 -4,4 H558 z"/>
+<path d="M558,102 H668.4 a4,4 0 0 1 4,4 V126 a4,4 0 0 1 -4,4 H558 z"/>
+<path d="M558,152 H624.4 a4,4 0 0 1 4,4 V176 a4,4 0 0 1 -4,4 H558 z"/>
+<path d="M558,202 H662.8 a4,4 0 0 1 4,4 V226 a4,4 0 0 1 -4,4 H558 z"/>
+</g>
+<g font-size="13" font-weight="700" fill="#0b0b0b"><text x="742" y="71">2.22</text><text x="678" y="121">1.43</text><text x="634" y="171">0.88</text><text x="673" y="221">1.36</text></g>
+<text x="400" y="292" text-anchor="middle" font-size="12.5" fill="#52514e">Pooled mean deviations from one meta-analysis of 55 studies; lower is more accurate.</text>
+<text x="400" y="312" text-anchor="middle" font-size="12.5" fill="#52514e">Each panel has its own scale; both axes start at zero.</text>
+</g>
+</svg>

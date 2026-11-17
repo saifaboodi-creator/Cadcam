@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 330" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+  <title>Classification of ceramic and ceramic-like restorative materials</title>
+  <desc>Tree diagram with three families: glass-matrix ceramics (feldspathic, leucite-reinforced, lithium disilicate, zirconia-reinforced lithium silicate and lithium silicates; this chapter), polycrystalline ceramics (alumina, zirconia; Chapter 14) and resin-matrix ceramics (Chapter 15).</desc>
+  <rect width="800" height="330" fill="#ffffff"/>
+  <g font-size="14" fill="#0b0b0b">
+    <rect x="230" y="16" width="340" height="44" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+    <text x="400" y="43" text-anchor="middle" font-weight="700">Ceramic and ceramic-like materials</text>
+    <!-- families -->
+    <rect x="20" y="100" width="240" height="56" rx="8" fill="#e6eef5" stroke="#1f5f8b" stroke-width="2"/>
+    <text x="140" y="124" text-anchor="middle" font-weight="700">Glass-matrix ceramics</text>
+    <text x="140" y="143" text-anchor="middle" font-size="12.5" fill="#52514e">glassy phase present · this chapter</text>
+    <rect x="280" y="100" width="240" height="56" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+    <text x="400" y="124" text-anchor="middle" font-weight="700">Polycrystalline ceramics</text>
+    <text x="400" y="143" text-anchor="middle" font-size="12.5" fill="#52514e">no glassy phase · Chapter 14</text>
+    <rect x="540" y="100" width="240" height="56" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+    <text x="660" y="124" text-anchor="middle" font-weight="700">Resin-matrix ceramics</text>
+    <text x="660" y="143" text-anchor="middle" font-size="12.5" fill="#52514e">organic matrix + ceramic · Ch 15</text>
+    <!-- glass-matrix members -->
+    <g font-size="13">
+      <rect x="40" y="186" width="200" height="28" rx="6" fill="#ffffff" stroke="#1f5f8b" stroke-width="1.2"/><text x="140" y="205" text-anchor="middle">Feldspathic</text>
+      <rect x="40" y="222" width="200" height="28" rx="6" fill="#ffffff" stroke="#1f5f8b" stroke-width="1.2"/><text x="140" y="241" text-anchor="middle">Leucite-reinforced</text>
+      <rect x="40" y="258" width="200" height="28" rx="6" fill="#ffffff" stroke="#1f5f8b" stroke-width="1.2"/><text x="140" y="277" text-anchor="middle">Lithium disilicate</text>
+      <rect x="40" y="294" width="200" height="28" rx="6" fill="#ffffff" stroke="#1f5f8b" stroke-width="1.2"/><text x="140" y="313" text-anchor="middle">ZLS / lithium silicates</text>
+      <rect x="300" y="186" width="200" height="28" rx="6" fill="#ffffff" stroke="#52514e" stroke-width="1.2"/><text x="400" y="205" text-anchor="middle">Alumina</text>
+      <rect x="300" y="222" width="200" height="28" rx="6" fill="#ffffff" stroke="#52514e" stroke-width="1.2"/><text x="400" y="241" text-anchor="middle">Zirconia</text>
+      <rect x="560" y="186" width="200" height="28" rx="6" fill="#ffffff" stroke="#52514e" stroke-width="1.2"/><text x="660" y="205" text-anchor="middle">Resin nanoceramics</text>
+      <rect x="560" y="222" width="200" height="28" rx="6" fill="#ffffff" stroke="#52514e" stroke-width="1.2"/><text x="660" y="241" text-anchor="middle">PICN</text>
+    </g>
+  </g>
+  <g stroke="#52514e" stroke-width="1.5" fill="none">
+    <path d="M400,60 L400,80 M140,80 L660,80 M140,80 L140,100 M400,80 L400,100 M660,80 L660,100"/>
+    <path d="M30,156 L30,308 M30,200 L40,200 M30,236 L40,236 M30,272 L40,272 M30,308 L40,308" stroke="#1f5f8b"/>
+    <path d="M290,156 L290,236 M290,200 L300,200 M290,236 L300,236"/>
+    <path d="M550,156 L550,236 M550,200 L560,200 M550,236 L560,236"/>
+  </g>
+</svg>

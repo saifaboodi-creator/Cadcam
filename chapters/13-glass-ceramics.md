@@ -30,7 +30,11 @@ This chapter covers the first family. Within it, the materials used in CAD/CAM d
 - **lithium disilicate** glass-ceramics;
 - **zirconia-reinforced lithium silicate (ZLS)** and related lithium silicate glass-ceramics.
 
-Recent reviews of chairside CAD/CAM materials use the same groups, with resin nanoceramics, polymer-infiltrated ceramic networks and zirconia making up the rest of the market [2].
+Recent reviews of chairside CAD/CAM materials use the same groups, with resin nanoceramics, polymer-infiltrated ceramic networks and zirconia making up the rest of the market [2]. Figure 13.1 shows where each material sits.
+
+![Classification tree of ceramic and ceramic-like restorative materials](../figures/fig-13-1-ceramic-classification.svg)
+
+**Figure 13.1** Classification of ceramic and ceramic-like restorative materials by the phases they contain, after Gracis and colleagues [1]. This chapter covers the glass-matrix family.
 
 ### 13.1.2 Why the glass matters
 
@@ -122,6 +126,10 @@ A wider group of **factory-crystallised lithium silicate** blocks is now availab
 
 > **Evidence Box.** Laboratory values for ZLS and lithium silicates vary widely between studies and products. The differences depend on whether the material was fired, on the test method and on the specific product. Do not assume that "zirconia-reinforced" means "stronger than lithium disilicate". Compare products using independent data and follow the manufacturer's indications.
 
+![Bar chart of reported flexural strengths of CAD/CAM glass-ceramics](../figures/fig-13-2-glass-ceramic-strength.svg)
+
+**Figure 13.2** Reported flexural strengths of CAD/CAM glass-ceramics. Blue bars come from one comparison of chairside blocks [9]; the orange bar comes from a separate laboratory study of one ZLS product [16]. The spread illustrates why values from different studies and processing states should not be compared directly. Feldspathic blocks had the lowest strength in another comparison [5].
+
 ### 13.5.3 Clinical evidence
 
 - In a 3-year practice-based study of 92 chairside ZLS partial crowns, survival was **99%** [18].
@@ -157,7 +165,11 @@ The bond between a glass-ceramic and the tooth has two interfaces: **tooth–res
 1. **Micromechanical:** etching with **hydrofluoric acid (HF)** dissolves the glassy phase and exposes the crystals, creating micro-retention.
 2. **Chemical:** **silane** forms bonds between the silica-based surface and the resin cement.
 
-A systematic review of 83 laboratory studies concluded that HF etching followed by silane has become the most widely accepted surface treatment for glass-ceramics. It also highlighted the toxicity of HF and the need for safer alternatives [22]. Resin bonding to silica-based ceramics is well researched and predictable, unlike bonding to high-strength oxide ceramics, which needs different methods (Chapter 14) [3].
+A systematic review of 83 laboratory studies concluded that HF etching followed by silane has become the most widely accepted surface treatment for glass-ceramics. It also highlighted the toxicity of HF and the need for safer alternatives [22]. Resin bonding to silica-based ceramics is well researched and predictable, unlike bonding to high-strength oxide ceramics, which needs different methods (Chapter 14) [3]. Figure 13.3 shows the two interfaces.
+
+![Cross-section of a bonded glass-ceramic showing the two bonding interfaces](../figures/fig-13-3-bonding-interfaces.svg)
+
+**Figure 13.3** The two bonding interfaces of an adhesively luted glass-ceramic restoration. On the ceramic side, hydrofluoric acid etching creates micro-retention and silane provides chemical bonding [3,22]; on the tooth side, enamel etching and an adhesive bond the resin cement. Schematic, not to scale.
 
 ### 13.7.2 Etching protocols
 

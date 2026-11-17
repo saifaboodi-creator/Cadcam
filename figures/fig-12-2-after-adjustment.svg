@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+  <title>Refinishing a restoration after chairside adjustment</title>
+  <desc>Decision flow. Adjust with fine-grit diamonds under water spray. Then polish with the sequence specified for the material: zirconia, glass-ceramic or resin-based. Check the surface under magnification. Re-glaze only if required for aesthetics; for zirconia, re-glazing after grinding may reduce strength, whereas polishing did not in the cited studies.</desc>
+  <defs>
+    <marker id="a12b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker>
+  </defs>
+  <rect width="800" height="470" fill="#ffffff"/>
+  <g font-size="14" fill="#0b0b0b">
+    <rect x="240" y="20" width="320" height="52" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+    <text x="400" y="42" text-anchor="middle" font-weight="700">Adjust contacts or occlusion</text>
+    <text x="400" y="61" text-anchor="middle" font-size="12.5" fill="#52514e">fine-grit diamond, water spray, light pressure</text>
+    <!-- decision diamond -->
+    <path d="M400,100 L490,140 L400,180 L310,140 Z" fill="#e6eef5" stroke="#1f5f8b" stroke-width="2"/>
+    <text x="400" y="145" text-anchor="middle" font-weight="700">Material?</text>
+    <!-- three branches -->
+    <rect x="20" y="215" width="230" height="78" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+    <text x="135" y="238" text-anchor="middle" font-weight="700">Zirconia</text>
+    <text x="135" y="258" text-anchor="middle" font-size="12.5" fill="#52514e">zirconia polishing sequence,</text>
+    <text x="135" y="275" text-anchor="middle" font-size="12.5" fill="#52514e">coarse → fine → paste</text>
+    <rect x="285" y="215" width="230" height="78" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+    <text x="400" y="238" text-anchor="middle" font-weight="700">Glass-ceramic</text>
+    <text x="400" y="258" text-anchor="middle" font-size="12.5" fill="#52514e">glass-ceramic polishing</text>
+    <text x="400" y="275" text-anchor="middle" font-size="12.5" fill="#52514e">sequence</text>
+    <rect x="550" y="215" width="230" height="78" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+    <text x="665" y="238" text-anchor="middle" font-weight="700">Resin-based / hybrid</text>
+    <text x="665" y="258" text-anchor="middle" font-size="12.5" fill="#52514e">resin polishing sequence</text>
+    <text x="665" y="275" text-anchor="middle" font-size="12.5" fill="#52514e">(not fired)</text>
+    <rect x="240" y="322" width="320" height="44" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+    <text x="400" y="349" text-anchor="middle" font-weight="700">Check surface under magnification</text>
+    <rect x="240" y="394" width="320" height="54" rx="8" fill="#ffffff" stroke="#1baf7a" stroke-width="2"/>
+    <text x="400" y="417" text-anchor="middle" font-weight="700">Re-glaze only if aesthetics require it</text>
+    <text x="400" y="436" text-anchor="middle" font-size="12.5" fill="#52514e">otherwise the polished surface is final</text>
+    <!-- zirconia warning note -->
+    <rect x="20" y="380" width="200" height="74" rx="6" fill="#ffffff" stroke="#eb6834" stroke-width="1.5"/>
+    <text x="30" y="400" font-size="12.5" font-weight="700" fill="#0b0b0b">Zirconia:</text>
+    <text x="30" y="418" font-size="12.5" fill="#52514e">glazing after grinding</text>
+    <text x="30" y="434" font-size="12.5" fill="#52514e">reduced strength; polishing</text>
+    <text x="30" y="450" font-size="12.5" fill="#52514e">did not [13,14]</text>
+  </g>
+  <g stroke="#52514e" stroke-width="2" fill="none" marker-end="url(#a12b)">
+    <line x1="400" y1="72" x2="400" y2="96"/>
+    <path d="M310,140 L135,140 L135,211"/>
+    <line x1="400" y1="180" x2="400" y2="211"/>
+    <path d="M490,140 L665,140 L665,211"/>
+    <path d="M135,293 L135,310 L330,310 L330,318"/>
+    <line x1="400" y1="293" x2="400" y2="318"/>
+    <path d="M665,293 L665,310 L470,310 L470,318"/>
+    <line x1="400" y1="366" x2="400" y2="390"/>
+  </g>
+  <line x1="220" y1="417" x2="238" y2="417" stroke="#eb6834" stroke-width="1.5" stroke-dasharray="4 3"/>
+</svg>

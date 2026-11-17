@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+<title>How the accuracy of implant placement is measured</title>
+<desc>A planned implant (dashed) and the placed implant (solid) are superimposed. Entry (coronal) deviation is the distance between the platform centres, apex deviation the distance between the apices, and angular deviation the angle between the long axes. Deviations are exaggerated for clarity.</desc>
+<rect width="800" height="440" fill="#fff"/>
+<path d="M60,112 C150,96 220,108 300,104 C380,100 450,112 540,106" fill="none" stroke="#8a8984" stroke-width="1.5" stroke-dasharray="4 4"/>
+<text x="60" y="94" font-size="12.5" fill="#52514e">bone crest</text>
+<!-- planned -->
+<path d="M280,120 H320 V360 L300,380 L280,360 Z" fill="none" stroke="#2a78d6" stroke-width="2" stroke-dasharray="7 5"/>
+<line x1="300" y1="20" x2="300" y2="400" stroke="#2a78d6" stroke-width="1.5" stroke-dasharray="3 4"/>
+<!-- placed: planned rotated -15 deg about (300,30) -->
+<g transform="rotate(-15 300 30)">
+<path d="M280,120 H320 V360 L300,380 L280,360 Z" fill="#fbe1d6" stroke="#eb6834" stroke-width="2"/>
+<line x1="300" y1="30" x2="300" y2="400" stroke="#eb6834" stroke-width="1.5" stroke-dasharray="3 4"/>
+</g>
+<circle cx="300" cy="120" r="5" fill="#2a78d6"/><circle cx="323.3" cy="116.9" r="5" fill="#eb6834"/>
+<circle cx="300" cy="380" r="5" fill="#2a78d6"/><circle cx="390.6" cy="368.1" r="5" fill="#eb6834"/>
+<line x1="300" y1="120" x2="323.3" y2="116.9" stroke="#1f5f8b" stroke-width="3"/>
+<line x1="300" y1="380" x2="390.6" y2="368.1" stroke="#1f5f8b" stroke-width="3"/>
+<path d="M300,100 A70,70 0 0 0 318.1,97.6" fill="none" stroke="#1f5f8b" stroke-width="3"/>
+<g stroke="#52514e" stroke-width="1"><line x1="310" y1="98" x2="470" y2="60"/><line x1="312" y1="118" x2="470" y2="170"/><line x1="345" y1="374" x2="470" y2="330"/></g>
+<g font-size="14" fill="#0b0b0b">
+<text x="478" y="56" font-weight="700" fill="#1f5f8b">Angular deviation (°)</text>
+<text x="478" y="76" font-size="12.5" fill="#52514e">angle between planned and placed long axes</text>
+<text x="478" y="166" font-weight="700" fill="#1f5f8b">Entry (coronal) deviation (mm)</text>
+<text x="478" y="186" font-size="12.5" fill="#52514e">3D distance between platform centres</text>
+<text x="478" y="326" font-weight="700" fill="#1f5f8b">Apex deviation (mm)</text>
+<text x="478" y="346" font-size="12.5" fill="#52514e">3D distance between apices; an angular</text>
+<text x="478" y="363" font-size="12.5" fill="#52514e">error moves the apex further than the</text>
+<text x="478" y="380" font-size="12.5" fill="#52514e">platform</text>
+</g>
+<g font-size="12.5" fill="#52514e">
+<line x1="60" y1="420" x2="88" y2="420" stroke="#2a78d6" stroke-width="2" stroke-dasharray="7 5"/><text x="96" y="424">Planned position</text>
+<rect x="225" y="413" width="28" height="14" fill="#fbe1d6" stroke="#eb6834" stroke-width="2"/><text x="261" y="424">Placed implant</text>
+<text x="560" y="424">Deviations exaggerated for clarity</text>
+</g>
+</svg>

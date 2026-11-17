@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+  <title>The two bonding interfaces of an adhesively luted glass-ceramic</title>
+  <desc>Cross-section of a bonded glass-ceramic restoration: the ceramic layer is etched with hydrofluoric acid and silanated; the resin cement joins it to the tooth, whose enamel and dentine are etched and bonded with an adhesive. Two interfaces are labelled: resin to ceramic, and tooth to resin.</desc>
+  <rect width="800" height="380" fill="#ffffff"/>
+  <!-- layered cross-section (left) -->
+  <g>
+    <rect x="40" y="40" width="300" height="80" rx="4" fill="#e87ba4" opacity="0.45" stroke="#52514e" stroke-width="1.5"/>
+    <text x="190" y="85" text-anchor="middle" font-size="15" font-weight="700" fill="#0b0b0b">Glass-ceramic</text>
+    <!-- etched micro-retentive surface -->
+    <path d="M40,120 l10,8 l10,-8 l10,8 l10,-8 l10,8 l10,-8 l10,8 l10,-8 l10,8 l10,-8 l10,8 l10,-8 l10,8 l10,-8 l10,8 l10,-8 l10,8 l10,-8 l10,8 l10,-8 l10,8 l10,-8 l10,8 l10,-8 l10,8 l10,-8 l10,8 l10,-8 l10,8 l10,-8" fill="none" stroke="#e34948" stroke-width="2"/>
+    <rect x="40" y="128" width="300" height="34" fill="#eda100" opacity="0.35"/>
+    <text x="190" y="150" text-anchor="middle" font-size="14" fill="#0b0b0b">Resin cement</text>
+    <rect x="40" y="162" width="300" height="10" fill="#1baf7a" opacity="0.6"/>
+    <rect x="40" y="172" width="300" height="60" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+    <text x="190" y="207" text-anchor="middle" font-size="15" font-weight="700" fill="#0b0b0b">Enamel / dentine</text>
+  </g>
+  <!-- interface leaders -->
+  <g stroke="#1f5f8b" stroke-width="1.5" fill="none">
+    <circle cx="340" cy="124" r="4" fill="#1f5f8b"/><path d="M344,124 L366,124 L366,62 L374,62"/>
+    <circle cx="340" cy="167" r="4" fill="#1f5f8b"/><path d="M344,167 L366,167 L366,190 L374,190"/>
+  </g>
+  <g font-size="14" fill="#0b0b0b">
+    <text x="380" y="67" font-weight="700">Interface 1: resin–ceramic</text>
+    <text x="380" y="88" font-size="13" fill="#52514e">1. Hydrofluoric acid etch dissolves the glassy</text>
+    <text x="380" y="105" font-size="13" fill="#52514e">    phase (micromechanical retention)</text>
+    <text x="380" y="122" font-size="13" fill="#52514e">2. Silane bonds the silica surface to the resin</text>
+    <text x="380" y="195" font-weight="700">Interface 2: tooth–resin</text>
+    <text x="380" y="215" font-size="13" fill="#52514e">Enamel etch and adhesive (dentine bonding)</text>
+  </g>
+  <!-- legend -->
+  <g transform="translate(40,262)" font-size="13" fill="#0b0b0b">
+    <line x1="0" y1="6" x2="24" y2="6" stroke="#e34948" stroke-width="2"/><text x="32" y="11">etched, micro-retentive ceramic surface</text>
+    <rect x="360" y="0" width="22" height="12" fill="#1baf7a" opacity="0.6"/><text x="390" y="11">adhesive (hybrid) layer on tooth</text>
+    <text x="0" y="46" fill="#52514e">Self-etching ceramic primers combine a mild etchant and silane in one step, replacing interface-1 steps 1–2.</text>
+    <text x="0" y="68" fill="#52514e">Zirconia has no glassy phase: hydrofluoric acid and silane do not work on it (Chapter 14).</text>
+  </g>
+</svg>

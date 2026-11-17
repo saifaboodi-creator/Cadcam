@@ -39,11 +39,17 @@ The international standard terminology groups AM processes into families. Table 
 
 Vat photopolymerisation (SLA, DLP and LCD) dominates in practices and laboratories because it is affordable and accurate, and because a wide range of dental resins is available. Powder bed fusion dominates metal printing, usually in production centres.
 
+The three vat photopolymerisation technologies differ in how they deliver light to each layer (Figure 11.1).
+
+![Schematic of SLA, DLP and LCD vat photopolymerisation printers](../figures/fig-11-1-vat-photopolymerisation.svg)
+
+**Figure 11.1** Vat photopolymerisation. In each case the platform lifts the part out of a resin vat with a transparent floor, and one layer at a time is cured against the floor. Stereolithography (SLA) traces each layer with a laser spot; digital light processing (DLP) projects a whole layer; LCD (masked SLA) printers expose a whole layer through an LCD mask over an LED array. Schematic; based on the principles in Table 11.1.
+
 ---
 
 ## 11.3 The Printing Workflow
 
-Every print follows the same steps:
+Every print follows the same steps (Figure 11.2):
 
 1. **Design** in dental CAD software (Chapter 7) and export as STL or 3MF (Chapter 2).
 2. **Preparation in slicing software:** orientation, supports, nesting of parts on the build platform, layer thickness and exposure settings for the chosen resin.
@@ -54,6 +60,10 @@ Every print follows the same steps:
 7. **Quality control:** checking fit, accuracy and surface (Chapter 12).
 
 Each step affects the result. In practice, printer settings and post-processing cause as many problems as the printer itself.
+
+![Flow diagram of the seven steps of a dental print](../figures/fig-11-2-printing-workflow.svg)
+
+**Figure 11.2** The printing workflow. Washing and post-curing (highlighted) control residual monomer, mechanical properties and dimensions (Sections 11.3.4 and 11.6).
 
 ### 11.3.1 Build orientation
 
@@ -78,11 +88,32 @@ The effect depends on the printer, resin and geometry. Follow validated settings
 
 ### 11.3.3 Supports
 
-Supports anchor the part to the platform and hold up overhangs. They leave marks when removed. Place them on non-critical surfaces, such as the occlusal or facial surfaces of a model or the polished surface of a denture, never on margins, intaglio surfaces or contact areas. Self-supporting orientations, such as 135° for crowns, reduce the need for supports [5].
+Supports anchor the part to the platform and hold up overhangs. They leave marks when removed. Place them on non-critical surfaces, such as the occlusal or facial surfaces of a model or the polished surface of a denture, never on margins, intaglio surfaces or contact areas. Self-supporting orientations, such as 135° for crowns, reduce the need for supports [5]. Figure 11.3 shows the principle.
+
+![Schematic of support placement on a printed crown and a denture base](../figures/fig-11-3-support-placement.svg)
+
+**Figure 11.3** Support placement. Supports are attached to non-critical surfaces, such as the occlusal surface of a crown or the polished surface of a denture base. Margins, intaglio (fitting) surfaces and contact areas are kept free of supports. Schematic.
 
 ### 11.3.4 Washing and post-curing
 
 Printed resin parts leave the printer only partly polymerised. **Washing** removes uncured surface resin. **Post-curing** completes polymerisation, which affects mechanical properties, dimensions and biocompatibility (Section 11.6). Under-curing leaves residual monomer and weaker parts. Over-curing or excess heat can cause distortion. Use the curing unit, wavelength, time and temperature validated for the resin.
+
+Table 11.2 brings together the evidence on process parameters from this section.
+
+**Table 11.2** Process parameters and their reported effects
+
+| Parameter | Device | Reported effect | Ref. |
+|---|---|---|---|
+| Build orientation | DLP crowns | Accuracy depended on angle; best at 135°, deviations at the margin at 210° | [5] |
+| | Three-unit definitive FDPs | Orientation × layer thickness affected accuracy and fit; milled FDPs still fitted better | [6] |
+| | Models | Horizontal favoured for accuracy and single-model efficiency; vertical fits more models per batch | [7] |
+| | Full-arch models | Technology, orientation and shell thickness had no significant effect; all < 0.2 mm | [8] |
+| | Denture bases | 0° gave higher flexural strength; 45° and 90° gave better accuracy | [9] |
+| | Surgical splints | 0°, 30° and 90° did not change fit; 90° increased capacity | [10] |
+| Layer thickness | Definitive FDPs | 50 µm generally better than 100 µm at the best orientations | [6] |
+| | Orthodontic models (LCD) | 100 µm generally better trueness than 50 µm; resins differed | [11] |
+| Supports | All devices | Keep off margins, intaglio surfaces and contacts; self-supporting orientations reduce supports | [5] |
+| Post-curing | Printed resins | Completes polymerisation; affects strength, dimensions and biocompatibility | Section 11.6 |
 
 ---
 
@@ -169,7 +200,7 @@ A printed device made with an approved resin but the wrong post-processing is ef
 
 ## 11.7 Choosing Between Printing and Milling
 
-**Table 11.2** Printing or milling? Current guidance by indication
+**Table 11.3** Printing or milling? Current guidance by indication
 
 | Device | Preferred route | Reason |
 |---|---|---|

@@ -44,18 +44,28 @@ The best chairside cases are **bonded, defect-oriented posterior restorations**.
 
 ### 16.2.2 Limits
 
-Chairside CAD/CAM is less suitable when:
+Chairside CAD/CAM is less suitable when (Figure 16.1):
 
 - **margins cannot be scanned** because they are deep, bleeding or covered by tissue. Subgingival finish lines are not captured accurately even with retraction, and saliva makes this worse (Chapter 4) [4];
 - the case needs **a provisional phase**, for example to test a new occlusal scheme, vertical dimension or aesthetic change;
 - the case needs **layered aesthetics** or multiple anterior units, where a technician's skills add real value;
 - the case is a **multi-unit FDP or complete arch**, where design and material demands are higher (Chapters 8 and 9).
 
+![Decision flowchart: four questions about margins, provisional phase, multi-unit work and layered aesthetics lead either to the laboratory route or to chairside production](../figures/fig-16-1-chairside-case-selection.svg)
+
+**Figure 16.1** A case-selection path for chairside CAD/CAM. A "yes" to any question favours the laboratory route (or a scan-plus-laboratory hybrid); the best chairside cases are bonded posterior restorations [3,4].
+
 > **Clinical Tip.** Decide on chairside or laboratory production at the treatment-planning visit, not after preparation. Patients appreciate knowing whether they will leave with the final restoration that day.
 
 ---
 
 ## 16.3 The Single-Visit Workflow, Step by Step
+
+Figure 16.2 summarises the eight steps described below.
+
+![Flow diagram of eight chairside steps from diagnosis to final adjustment, with the fit check after final firing highlighted](../figures/fig-16-2-single-visit-workflow.svg)
+
+**Figure 16.2** The single-visit chairside workflow. Step 6 is highlighted because firing changes fit, so the final fit check comes after the last firing [5].
 
 ### Step 1: Diagnosis and planning
 
@@ -156,11 +166,15 @@ Printing is beginning to enter chairside practice for definitive restorations. I
 
 ### 16.5.1 Long-term evidence
 
-The longest follow-up in all of dental CAD/CAM comes from chairside restorations (Chapter 1):
+The longest follow-up in all of dental CAD/CAM comes from chairside restorations (Chapter 1; Figure 16.3):
 
 - **1,011 feldspathic inlays and onlays** in a German practice had a Kaplan–Meier success probability of **84.4% at 16.7 years**. Ceramic and tooth fractures were the most common failures [13].
 - **187 inlays and onlays** in a Swiss practice had a success rate of **88.7% at 17 years** [14]. When the same cohort was extended, success was **87.5% after up to 27 years**. Three-surface restorations and molars had a higher risk of failure [15].
 - **Chairside monolithic lithium disilicate posterior crowns** had a **10-year survival of 83.5%** in a prospective study. All failures and complications occurred on molars [16].
+
+![Horizontal bar chart of long-term success and survival of chairside restorations: 84.4%, 88.7%, 87.5% and 83.5%](../figures/fig-16-3-chairside-long-term.svg)
+
+**Figure 16.3** Long-term outcomes of chairside restorations from single-practice and prospective studies. Success (inlays and onlays) and survival (crowns) are different end points and are not directly comparable. Data from [13–16].
 
 ### 16.5.2 Systematic reviews
 

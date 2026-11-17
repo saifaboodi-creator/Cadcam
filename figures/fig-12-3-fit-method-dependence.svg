@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+  <title>The same frameworks, two measurement methods, two different numbers</title>
+  <desc>Horizontal bar chart. For the same laser-melted removable partial denture frameworks, the clinical silicone replica method gave a mean gap of 13.9 micrometres, while digital registration gave a root-mean-square gap of 70.7 micrometres. Axis from 0 to 80 micrometres.</desc>
+  <rect width="800" height="300" fill="#ffffff"/>
+  <!-- axes area: x from 260 to 740 for 0..80 µm -> 6 px per µm -->
+  <g stroke="#e5e7ea" stroke-width="1">
+    <line x1="260" y1="40" x2="260" y2="210"/><line x1="380" y1="40" x2="380" y2="210"/><line x1="500" y1="40" x2="500" y2="210"/><line x1="620" y1="40" x2="620" y2="210"/><line x1="740" y1="40" x2="740" y2="210"/>
+  </g>
+  <line x1="260" y1="40" x2="260" y2="210" stroke="#52514e" stroke-width="1.5"/>
+  <g font-size="12.5" fill="#52514e" text-anchor="middle">
+    <text x="260" y="230">0</text><text x="380" y="230">20</text><text x="500" y="230">40</text><text x="620" y="230">60</text><text x="740" y="230">80</text>
+    <text x="500" y="255">Reported gap (µm)</text>
+  </g>
+  <!-- bars -->
+  <path d="M260,62 H339.4 a4,4 0 0 1 4,4 V100 a4,4 0 0 1 -4,4 H260 Z" fill="#2a78d6"/>
+  <path d="M260,140 H680.2 a4,4 0 0 1 4,4 V178 a4,4 0 0 1 -4,4 H260 Z" fill="#eb6834"/>
+  <g font-size="14" fill="#0b0b0b">
+    <text x="248" y="80" text-anchor="end" font-weight="600">Silicone replica</text>
+    <text x="248" y="97" text-anchor="end" font-size="12.5" fill="#52514e">mean gap</text>
+    <text x="248" y="158" text-anchor="end" font-weight="600">Digital registration</text>
+    <text x="248" y="175" text-anchor="end" font-size="12.5" fill="#52514e">RMS gap</text>
+    <text x="353" y="88" font-weight="700">13.9 µm</text>
+    <text x="694" y="166" font-weight="700">70.7 µm</text>
+  </g>
+  <text x="20" y="285" font-size="12.5" fill="#52514e">Both values were within the clinically acceptable standard; the difference comes from the measurement method.</text>
+</svg>
