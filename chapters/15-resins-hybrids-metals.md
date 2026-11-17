@@ -38,7 +38,11 @@ CAD/CAM resin-based materials fall into two broad groups by microstructure [1]:
 - **Dispersed-filler materials** (CAD/CAM composites and "resin nanoceramics"): ceramic or glass particles dispersed in a cross-linked polymer matrix, like a conventional composite but denser and better cured.
 - **Polymer-infiltrated ceramic networks (PICN)**: a porous, pre-sintered ceramic network infiltrated with polymer, giving two interpenetrating continuous phases.
 
-PICN materials showed higher flexural strength and a more favourable (more dentine-like) elastic modulus than dispersed-filler materials [1]. Both groups can be milled to thin, stable margins with little chipping [2], and both can be **repaired** intraorally with composite.
+PICN materials showed higher flexural strength and a more favourable (more dentine-like) elastic modulus than dispersed-filler materials [1]. Both groups can be milled to thin, stable margins with little chipping [2], and both can be **repaired** intraorally with composite. Figure 15.1 contrasts the two microstructures.
+
+![Schematic of dispersed-filler and polymer-infiltrated ceramic network microstructures](../figures/fig-15-1-hybrid-microstructures.svg)
+
+**Figure 15.1** Two microstructures of CAD/CAM resin-based materials. Dispersed-filler materials hold separate particles in a continuous polymer matrix; in PICN, a continuous ceramic network and a continuous polymer interpenetrate [1]. Schematic, not to scale.
 
 **Table 15.1** CAD/CAM resin-based and hybrid materials
 
@@ -80,6 +84,10 @@ On implants, without a periodontal ligament and often bonded to titanium bases, 
 - The German S3 guideline on implant-supported all-ceramic restorations concluded that polymer-infiltrated ceramics performed worse and **did not recommend** them for implant crowns [12].
 
 > **Evidence Box.** The same PICN material that performs well as a thin bonded restoration on worn natural teeth [7,8] has performed poorly as a screw-retained crown bonded to a titanium base [9,10]. Indication, support (tooth or implant) and bonding substrate matter as much as the material itself.
+
+![Bar chart of PICN survival on natural teeth and on implants](../figures/fig-15-2-picn-indication.svg)
+
+**Figure 15.2** Same material, different indication. Reported survival of PICN as thin bonded restorations on natural teeth [7,8] and as screw-retained crowns on titanium bases, beside the ceramic comparator in each implant trial [9,10]. The studies differ in design and follow-up, so the bars show the contrast, not a pooled estimate.
 
 ### 15.2.6 Summary of indications
 
@@ -158,6 +166,10 @@ Co-Cr alloys remain widely used for metal-ceramic copings and FDP frameworks, im
 2. **Hard milling** of fully dense alloy discs;
 3. **Soft milling** of pre-sintered ("soft") Co-Cr blanks, followed by sintering;
 4. **Additive manufacturing** by selective laser melting (SLM) or selective laser sintering (SLS) of metal powder (Chapter 11).
+
+![Process diagram of four routes from CAD design to a Co-Cr restoration](../figures/fig-15-3-coCr-routes.svg)
+
+**Figure 15.3** Four CAD/CAM routes to a cobalt-chromium restoration. All start from the same design; they differ in the material state that is machined or built and in the post-processing needed. Section 15.5.2 compares their fit. Schematic.
 
 ### 15.5.2 Fit and surface
 

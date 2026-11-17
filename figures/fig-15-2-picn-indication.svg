@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+  <title>Same material, different indication: PICN survival on teeth and on implants</title>
+  <desc>Horizontal bar chart of reported survival. On natural teeth: thin PICN restorations for tooth wear, 98.4 percent up to 9 years; posterior PICN restorations in bruxism patients, 99.5 percent at 5 years. On implants with titanium bases: PICN 31 percent at 5 years versus lithium disilicate 100 percent; PICN 84 percent at 12 months versus ZLS 100 percent. Axis 0 to 100 percent.</desc>
+  <rect width="800" height="420" fill="#ffffff"/>
+  <!-- x: 300..740 for 0..100% => 4.4 px/% -->
+  <g stroke="#e5e7ea" stroke-width="1">
+    <line x1="300" y1="40" x2="300" y2="340"/><line x1="410" y1="40" x2="410" y2="340"/><line x1="520" y1="40" x2="520" y2="340"/><line x1="630" y1="40" x2="630" y2="340"/><line x1="740" y1="40" x2="740" y2="340"/>
+  </g>
+  <line x1="300" y1="40" x2="300" y2="340" stroke="#52514e" stroke-width="1.5"/>
+  <g font-size="12.5" fill="#52514e" text-anchor="middle">
+    <text x="300" y="358">0</text><text x="410" y="358">25</text><text x="520" y="358">50</text><text x="630" y="358">75</text><text x="740" y="358">100</text>
+    <text x="520" y="378">Reported survival (%)</text>
+  </g>
+  <!-- group headers -->
+  <text x="20" y="34" font-size="13" font-weight="700" fill="#1f5f8b">ON NATURAL TEETH (thin bonded restorations)</text>
+  <text x="20" y="150" font-size="13" font-weight="700" fill="#1f5f8b">ON IMPLANTS (screw-retained, titanium base)</text>
+  <line x1="20" y1="132" x2="780" y2="132" stroke="#cfd6de"/>
+  <!-- bars -->
+  <!-- 98.4 -> 432.96 -->
+  <path d="M300,48 H729 a4,4 0 0 1 4,4 V70 a4,4 0 0 1 -4,4 H300 Z" fill="#2a78d6"/>
+  <!-- 99.5 -> 437.8 -->
+  <path d="M300,88 H733.8 a4,4 0 0 1 4,4 V110 a4,4 0 0 1 -4,4 H300 Z" fill="#2a78d6"/>
+  <!-- implants: PICN 31% -> 136.4 ; LS2 100 -->
+  <path d="M300,162 H432.4 a4,4 0 0 1 4,4 V184 a4,4 0 0 1 -4,4 H300 Z" fill="#2a78d6"/>
+  <path d="M300,192 H736 a4,4 0 0 1 4,4 V214 a4,4 0 0 1 -4,4 H300 Z" fill="#eb6834"/>
+  <!-- PICN 84% -> 369.6 ; ZLS 100 -->
+  <path d="M300,244 H665.6 a4,4 0 0 1 4,4 V266 a4,4 0 0 1 -4,4 H300 Z" fill="#2a78d6"/>
+  <path d="M300,274 H736 a4,4 0 0 1 4,4 V296 a4,4 0 0 1 -4,4 H300 Z" fill="#eb6834"/>
+  <g font-size="13" fill="#0b0b0b">
+    <text x="288" y="60" text-anchor="end">PICN, tooth wear, up to 9 y [7]</text>
+    <text x="288" y="106" text-anchor="end">PICN, bruxism, 5 y [8]</text>
+    <text x="288" y="180" text-anchor="end">PICN, 5 y [9]</text>
+    <text x="288" y="210" text-anchor="end">Lithium disilicate, 5 y [9]</text>
+    <text x="288" y="262" text-anchor="end">PICN, 12 months [10]</text>
+    <text x="288" y="292" text-anchor="end">ZLS, 12 months [10]</text>
+    <g font-weight="700"><text x="746" y="66">98.4%</text><text x="746" y="106">99.5%</text><text x="444" y="180">31%</text><text x="746" y="210">100%</text><text x="678" y="262">84%</text><text x="746" y="292">100%</text></g>
+  </g>
+  <g transform="translate(20,402)" font-size="13" fill="#0b0b0b">
+    <rect x="0" y="-11" width="16" height="12" fill="#2a78d6"/><text x="22" y="0">PICN</text>
+    <rect x="90" y="-11" width="16" height="12" fill="#eb6834"/><text x="112" y="0">ceramic comparator in the same trial</text>
+    <text x="420" y="0" fill="#52514e">Different studies and follow-up periods.</text>
+  </g>
+</svg>

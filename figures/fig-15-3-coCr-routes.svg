@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+  <title>Four CAD/CAM routes to a cobalt-chromium restoration</title>
+  <desc>Four parallel process lanes starting from one CAD design. Casting: mill or print a pattern, invest and cast, finish. Hard milling: mill a fully dense alloy disc, finish. Soft milling: mill an oversized pre-sintered blank, sinter, finish. Selective laser melting: melt powder layer by layer, remove supports and heat-treat as specified, finish.</desc>
+  <defs>
+    <marker id="a15" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker>
+  </defs>
+  <rect width="800" height="400" fill="#ffffff"/>
+  <rect x="20" y="150" width="110" height="80" rx="8" fill="#e6eef5" stroke="#1f5f8b" stroke-width="2"/>
+  <text x="75" y="186" text-anchor="middle" font-size="14" font-weight="700" fill="#0b0b0b">CAD</text>
+  <text x="75" y="205" text-anchor="middle" font-size="14" font-weight="700" fill="#0b0b0b">design</text>
+  <g font-size="13" fill="#0b0b0b">
+    <!-- lane labels -->
+    <g font-weight="700">
+      <text x="160" y="52">1 Casting</text><text x="160" y="142">2 Hard milling</text><text x="160" y="232">3 Soft milling</text><text x="160" y="322">4 Laser melting (SLM)</text>
+    </g>
+    <!-- lane 1 -->
+    <rect x="160" y="60" width="160" height="40" rx="6" fill="#f3f7fa" stroke="#52514e"/><text x="240" y="85" text-anchor="middle">mill/print pattern</text>
+    <rect x="345" y="60" width="160" height="40" rx="6" fill="#f3f7fa" stroke="#52514e"/><text x="425" y="85" text-anchor="middle">invest and cast</text>
+    <rect x="630" y="60" width="150" height="40" rx="6" fill="#ffffff" stroke="#1baf7a" stroke-width="1.8"/><text x="705" y="85" text-anchor="middle">finish, polish</text>
+    <!-- lane 2 -->
+    <rect x="160" y="150" width="345" height="40" rx="6" fill="#f3f7fa" stroke="#52514e"/><text x="332" y="175" text-anchor="middle">mill fully dense alloy disc (slow, tool wear)</text>
+    <rect x="630" y="150" width="150" height="40" rx="6" fill="#ffffff" stroke="#1baf7a" stroke-width="1.8"/><text x="705" y="175" text-anchor="middle">finish, polish</text>
+    <!-- lane 3 -->
+    <rect x="160" y="240" width="160" height="40" rx="6" fill="#f3f7fa" stroke="#52514e"/><text x="240" y="265" text-anchor="middle">mill pre-sintered blank</text>
+    <rect x="345" y="240" width="160" height="40" rx="6" fill="#f3f7fa" stroke="#52514e"/><text x="425" y="265" text-anchor="middle">sinter</text>
+    <rect x="630" y="240" width="150" height="40" rx="6" fill="#ffffff" stroke="#1baf7a" stroke-width="1.8"/><text x="705" y="265" text-anchor="middle">finish, polish</text>
+    <!-- lane 4 -->
+    <rect x="160" y="330" width="160" height="40" rx="6" fill="#f3f7fa" stroke="#52514e"/><text x="240" y="355" text-anchor="middle">melt powder layers</text>
+    <rect x="345" y="330" width="270" height="40" rx="6" fill="#f3f7fa" stroke="#52514e"/><text x="480" y="355" text-anchor="middle">remove supports; heat-treat as specified</text>
+    <rect x="630" y="330" width="150" height="40" rx="6" fill="#ffffff" stroke="#1baf7a" stroke-width="1.8"/><text x="705" y="355" text-anchor="middle">finish, polish</text>
+  </g>
+  <g stroke="#52514e" stroke-width="1.6" fill="none">
+    <line x1="130" y1="190" x2="145" y2="190"/><line x1="145" y1="80" x2="145" y2="350"/>
+  </g>
+  <g stroke="#52514e" stroke-width="1.6" fill="none" marker-end="url(#a15)">
+    <line x1="145" y1="80" x2="156" y2="80"/><line x1="145" y1="170" x2="156" y2="170"/><line x1="145" y1="260" x2="156" y2="260"/><line x1="145" y1="350" x2="156" y2="350"/>
+    <line x1="320" y1="80" x2="341" y2="80"/><line x1="505" y1="80" x2="626" y2="80"/>
+    <line x1="505" y1="170" x2="626" y2="170"/>
+    <line x1="320" y1="260" x2="341" y2="260"/><line x1="505" y1="260" x2="626" y2="260"/>
+    <line x1="320" y1="350" x2="341" y2="350"/><line x1="615" y1="350" x2="626" y2="350"/>
+  </g>
+</svg>

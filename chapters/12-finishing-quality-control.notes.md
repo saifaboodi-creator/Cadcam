@@ -39,3 +39,11 @@
 
 ## UNVERIFIED items
 None.
+
+## Figures and tables added
+- **Figure 12.1** (`figures/fig-12-1-machine-to-mouth.svg`): the five post-manufacturing stages from Section 12.1, with the note that fit is checked after firing (Section 12.2.2, ref [1]). Schematic.
+- **Figure 12.2** (`figures/fig-12-2-after-adjustment.svg`): decision flow for refinishing after chairside adjustment (Section 12.5.2), including the zirconia re-glazing caution [13,14].
+- **Figure 12.3** (`figures/fig-12-3-fit-method-dependence.svg`): bar chart of the same RPD frameworks, 13.9 µm (replica, mean gap) versus 70.7 µm (digital, RMS gap). Data from [21], already in the text of 12.6.4.
+- **New Table 12.2** "Glazing, polishing and re-glazing: summary of the evidence": placed at the end of Section 12.5 so that every citation ([8]–[16]) has already appeared. It organises existing findings only.
+- **Renumbered:** former Table 12.2 (troubleshooting) is now **Table 12.3**. No in-text mentions needed changing.
+- References unchanged (renumbering identity confirmed).

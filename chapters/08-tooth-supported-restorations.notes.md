@@ -28,3 +28,10 @@
 
 ## UNVERIFIED items
 None.
+
+## Figures and tables added
+- **Figure 8.1** (`figures/fig-08-1-preparation-principles.svg`): schematic "avoid / prefer" cross-sections (sharp line angle the bur cannot reach plus feather edge, versus rounded line angle larger than the bur plus chamfer). Illustrates the uncited preparation principles of 8.1.1 (see the caveats above); no numbers.
+- **Figure 8.2** (`figures/fig-08-2-crown-survival.svg`): dot plot of 5-year single-crown survival (98.5, 97.3, 97.1, 96.8, 95.7, 90.4%). Data from [14] (Pjetursson 2026), identical to the list in 8.5.1. A dot plot was chosen because the axis is zoomed (starts at 85%, stated on the axis and in the caption).
+- **Figure 8.3** (`figures/fig-08-3-restoration-selection.svg`): simplified selection flowchart (veneer, endocrown, inlay/onlay, crown; FDP or implant for missing teeth) summarising 8.2–8.6. It is the chapter's own synthesis, labelled as a simplified guide.
+- **New Table 8.3:** preparation and design checklist by restoration type, compiled from 8.2.2, 8.3.1, 8.4.2, 8.5.2 and 8.6.3; it cites [9] for the endocrown cement space. No new claims.
+- **Noticed (not changed):** 8.5.1 still says "A later meta-analysis… [8]" (Ferrairo 2024) after the 2026 review was inserted above it, so "later" now reads oddly. Consider rewording.

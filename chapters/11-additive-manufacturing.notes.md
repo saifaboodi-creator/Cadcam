@@ -35,3 +35,11 @@
 
 ## UNVERIFIED items
 None.
+
+## Figures and tables added
+- **Figure 11.1** (`figures/fig-11-1-vat-photopolymerisation.svg`): schematic comparing SLA, DLP and LCD (masked SLA) bottom-up vat printers. Principles only, from Table 11.1 [1,2]; no numbers.
+- **Figure 11.2** (`figures/fig-11-2-printing-workflow.svg`): flow diagram of the seven workflow steps in Section 11.3, with washing and post-curing highlighted. No new claims.
+- **Figure 11.3** (`figures/fig-11-3-support-placement.svg`): where supports go on a crown and a denture base (non-critical surfaces only), illustrating Section 11.3.3 and the Lab Note. Schematic.
+- **New Table 11.2** "Process parameters and their reported effects": summarises the existing findings of Section 11.3 with their original citations [5–11]. The post-curing row points to Section 11.6 instead of citing [25], to keep the Vancouver order unchanged.
+- **Renumbered:** former Table 11.2 (printing or milling) is now **Table 11.3**. No in-text mentions needed changing.
+- References unchanged (renumbering identity confirmed).

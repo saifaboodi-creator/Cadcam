@@ -36,3 +36,10 @@
 
 ## UNVERIFIED items
 None.
+
+## Figures and tables added
+- **Figure 13.1** (`figures/fig-13-1-ceramic-classification.svg`): classification tree after Gracis et al. [1] (glass-matrix, polycrystalline and resin-matrix families, with the materials named in Section 13.1.1).
+- **Figure 13.2** (`figures/fig-13-2-glass-ceramic-strength.svg`): range bars of the flexural strengths already in the text: leucite ~128–131, factory-crystallised lithium silicates/ZLS ~172–202 and lithium disilicate ~344–351 MPa from [9]; one ZLS product ~444 MPa from [16] (a different colour, flagged as a separate study). Feldspathic is omitted (no value reported; "lowest" per [5]). Placed after the 13.5.2 Evidence Box to reinforce its caution.
+- **Figure 13.3** (`figures/fig-13-3-bonding-interfaces.svg`): cross-section of the two bonding interfaces (HF etch + silane on the ceramic; etch + adhesive on the tooth), from Section 13.7.1 [3,22]. Schematic.
+- No new tables (the chapter already has three).
+- References unchanged (renumbering identity confirmed).

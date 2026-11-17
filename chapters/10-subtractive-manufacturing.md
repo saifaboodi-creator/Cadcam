@@ -50,7 +50,11 @@ Machines are described by the number of independent movements they control (Chap
 | **3+1 / 4-axis** | As 3-axis, plus rotation of the block | Most single units and short FDPs; common in chairside units | Limited access for strongly angled features |
 | **5-axis** | As 4-axis, plus tilting of the tool or block | Complex geometry: undercuts, angled screw channels, long-span frameworks, implant bars, custom abutments | Higher cost, longer CAM programming |
 
-A review of CAD/CAM technology concluded that restorations are made most accurately with 5-axis milling units [3]. More axes do not automatically mean better fit for simple crowns, but they widen the range of geometry the machine can make.
+A review of CAD/CAM technology concluded that restorations are made most accurately with 5-axis milling units [3]. More axes do not automatically mean better fit for simple crowns, but they widen the range of geometry the machine can make (Figure 10.1).
+
+![Three panels showing 3-axis, 3+1/4-axis and 5-axis milling movements](../figures/fig-10-1-milling-axes.svg)
+
+**Figure 10.1** Three-, four- and five-axis milling (schematic). Each added axis, rotation of the block and then tilting of the tool or block, extends the geometry the machine can reach (Table 10.1).
 
 > **Lab Note.** Before accepting a case, check that the machine can actually reach every surface of the design. Deep, narrow interproximal embrasures, angled screw channels and long frameworks with steep pontic undersides may need 5-axis machining.
 
@@ -86,7 +90,11 @@ A rotating tool cannot cut an inside corner sharper than its own radius. Where t
 - **leave material**, so the restoration binds on the die and does not seat; or
 - **overmill (drill-compensate)**, removing extra material beyond the corner so the restoration seats but with a larger local gap.
 
-Either way, the intaglio surface does not match the design exactly. This is the main reason for the preparation rules in Chapter 8: rounded internal angles, no sharp edges and no grooves smaller than the tool [3].
+Either way, the intaglio surface does not match the design exactly. This is the main reason for the preparation rules in Chapter 8: rounded internal angles, no sharp edges and no grooves smaller than the tool [3]. Figure 10.2 shows both outcomes.
+
+![Three panels: a sharp internal corner in the design, material left in the corners, and overmilled corners](../figures/fig-10-2-tool-radius.svg)
+
+**Figure 10.2** The tool-radius problem (schematic). A round bur cannot cut a sharp internal corner. The CAM software either leaves material, so the restoration binds, or overmills beyond the corner, so it seats with a larger local gap.
 
 ---
 

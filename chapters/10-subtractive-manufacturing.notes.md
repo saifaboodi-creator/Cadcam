@@ -35,3 +35,8 @@
 
 ## UNVERIFIED items
 1. Section 10.7.1: "shrinks ... in the order of 20–25% linearly". This typical linear sintering shrinkage of pre-sintered zirconia was not confirmed from a PubMed source in this session. Check against manufacturer data or a materials-science reference and cite, or remove.
+
+## Figures and tables added
+- **Figure 10.1** (`figures/fig-10-1-milling-axes.svg`): schematic of 3-axis, 3+1/4-axis and 5-axis milling movements, matching Table 10.1. No data.
+- **Figure 10.2** (`figures/fig-10-2-tool-radius.svg`): the tool-radius problem (design with sharp corners → leave material/binds → overmill/larger local gap), illustrating 10.3.3. No data.
+- No new table was needed: the chapter already had three.

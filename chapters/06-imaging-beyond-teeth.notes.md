@@ -26,3 +26,10 @@
 
 ## UNVERIFIED items
 None.
+
+## Figures and tables added
+- **Figure 6.1** (`figures/fig-06-1-cbct-dose-range.svg`): range bar of effective dose across 14 CBCT devices, 19–368 µSv. Data from [2] (Pauwels 2012), as already stated in 6.2.2.
+- **Figure 6.2** (`figures/fig-06-2-dsd-workflow.svg`): six-step digital smile design workflow from 6.5.1, with the mock-up highlighted. Steps 1 and 3 follow [17]; the other steps are the chapter's own synthesis (as noted in the earlier caveats).
+- **Figure 6.3** (`figures/fig-06-3-dataset-accuracy.svg`): log-scale range chart of the typical error of each dataset, using the values already in the old Table 6.2 (now Table 6.3): surface scans "tens of µm" (an indicative pale band, Chapters 3–5), jaw tracking 50–330 µm [13], CBCT segmentation 0.10–0.98 mm with mean RMS 0.27 mm [4], facial registration 0.5–2 mm [8,9,12]. **Caveat:** the 0.10–0.98 mm figure is the discrepancy range between segmentation methods reported by [4], plotted as the text describes it.
+- **New Table 6.1:** methods for registering CBCT with surface scans (point-based, surface-based, fiducial, AI). Summarises 6.2.5. The AI row cites [6], and the surface-based row cites [4] (restoration artefacts reduced automated segmentation, as in 6.2.4). The point-based and fiducial notes restate the chapter's Clinical Tip (uncited practice guidance).
+- **Renumbered:** old Table 6.1 (facial scanning technologies) → Table 6.2; old Table 6.2 (data sources) → Table 6.3, including mentions in Key Points and Review Question 8.

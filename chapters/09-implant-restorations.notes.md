@@ -30,3 +30,10 @@
 
 ## UNVERIFIED items
 None.
+
+## Figures and tables added
+- **Figure 9.1** (`figures/fig-09-1-scan-body-workflow.svg`): four panels (seat scan body → scan → library match → implant position), plus a box on error sources citing [2–4]. It is placed at the end of 9.2.2, so [2–4] are already cited before it.
+- **Figure 9.2** (`figures/fig-09-2-emergence-angle.svg`): schematic crowns comparing an emergence angle ≤30° (prevalence 15.1%) with >30° (31.3%) and >30° plus convex (37.8%). Data from [14]. The angles drawn (25° and 45°) are illustrative only.
+- **Figure 9.3** (`figures/fig-09-3-passive-fit-workflow.svg`): the passive-fit workflow of 9.6.2 as a loop. The note "CAD/CAM frameworks fit better than cast or laser-welded ones" cites [21]. The statement that most remaining misfit arises in data acquisition is **not** attributed to [21]; it points to Section 9.2.2, matching the chapter text, where it is uncited.
+- **New Table 9.1:** abutment options compared (stock, custom, original Ti-base, non-original Ti-base), using only findings already in 9.3 [7–11].
+- **Renumbered:** old Table 9.1 (retention) → 9.2; old Table 9.2 (design summary) → 9.3.

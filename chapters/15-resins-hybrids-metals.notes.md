@@ -38,3 +38,10 @@
 
 ## UNVERIFIED items
 None.
+
+## Figures and tables added
+- **Figure 15.1** (`figures/fig-15-1-hybrid-microstructures.svg`): schematic of dispersed-filler versus PICN microstructures [1].
+- **Figure 15.2** (`figures/fig-15-2-picn-indication.svg`): bar chart of the survival figures already in Section 15.2. On teeth: 98.4% up to 9 y [7] and 99.5% at 5 y [8]. On implants: PICN 31% vs lithium disilicate 100% at 5 y [9], and PICN 84% vs ZLS 100% at 12 months [10]. The caption states that the studies differ and the bars are not a pooled estimate.
+- **Figure 15.3** (`figures/fig-15-3-coCr-routes.svg`): process lanes for the four Co-Cr routes listed in Section 15.5.1. Schematic, no numbers.
+- No new tables (the chapter already has four).
+- References unchanged (renumbering identity confirmed).

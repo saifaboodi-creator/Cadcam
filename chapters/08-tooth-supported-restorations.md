@@ -33,6 +33,12 @@ How much tooth structure is removed varies hugely between designs. In a laborato
 - **Adequate proximal clearance**, so the scanner can see the proximal box [4].
 - **No undercuts** relative to the path of insertion, or only small ones that can be blocked out without creating thick cement layers (Chapter 7).
 
+Figure 8.1 illustrates the first and third principles.
+
+![Two schematic cross-sections contrasting a sharp line angle and feather-edge margin with a rounded line angle and chamfer](../figures/fig-08-1-preparation-principles.svg)
+
+**Figure 8.1** Preparation features and milling (schematic). Left: a sharp line angle leaves material the round bur cannot remove, and a feather edge gives a thin, chip-prone margin that is hard to scan. Right: a rounded line angle with a radius larger than the bur, and a chamfer finish line.
+
 **Table 8.1** Typical minimum dimensions for CAD/CAM restorations (orientation only; always follow the material manufacturer's current instructions)
 
 | Restoration / material | Occlusal / incisal | Axial | Margin | Notes |
@@ -134,7 +140,7 @@ A large systematic review of tooth-supported single crowns published in 2015 (4,
 
 Feldspathic and zirconia crowns had lower survival in **posterior** regions. Veneered zirconia crowns were more often lost through **fracture of the veneering ceramic** and had more loss of retention than metal-ceramic crowns. The authors advised limiting weaker feldspathic ceramics to anterior teeth and did not recommend veneered zirconia as a first choice at that time [13].
 
-An updated systematic review of studies published from 2014 to 2024 (3,509 metal-ceramic and 8,051 all-ceramic crowns) estimated these 5-year survival rates [14]:
+An updated systematic review of studies published from 2014 to 2024 (3,509 metal-ceramic and 8,051 all-ceramic crowns) estimated these 5-year survival rates [14] (Figure 8.2):
 
 - **98.5%** for monolithic lithium disilicate-reinforced glass-ceramic crowns;
 - **97.3%** for veneered densely sintered zirconia crowns;
@@ -144,6 +150,10 @@ An updated systematic review of studies published from 2014 to 2024 (3,509 metal
 - **90.4%** for feldspathic or silica-based ceramic crowns.
 
 Feldspathic, glass-infiltrated alumina, densely sintered alumina and veneered glass-ceramic crowns all had significantly lower survival than monolithic lithium disilicate crowns. Monolithic lithium disilicate and monolithic zirconia crowns had significantly fewer ceramic fractures and chipping than veneered alternatives. Apart from feldspathic and metal-ceramic crowns, material types performed similarly in anterior and posterior regions [14]. Lithium disilicate and zirconia crowns now match metal-ceramic crowns at 5 years [14].
+
+![Dot plot of estimated five-year survival of single crowns by material and design, from 90.4 to 98.5 percent](../figures/fig-08-2-crown-survival.svg)
+
+**Figure 8.2** Estimated 5-year survival of tooth-supported single crowns by material and design (axis starts at 85%). Data from [14].
 
 The move to **monolithic** designs has been driven largely by the chipping problem seen with veneered restorations [13,14]. Full-contour zirconia has steadily gained market share at the expense of veneered designs [15].
 
@@ -200,6 +210,12 @@ A systematic review of tooth-supported FDPs estimated 5-year survival rates of [
 
 ## 8.7 Matching Restoration, Material and Workflow
 
+Figure 8.3 summarises how the type of restoration is chosen, and Table 8.2 summarises the evidence for each.
+
+![Flowchart choosing between laminate veneer, endocrown, inlay or onlay, and single crown](../figures/fig-08-3-restoration-selection.svg)
+
+**Figure 8.3** A simplified guide to choosing a tooth-supported CAD/CAM restoration, summarising Sections 8.2–8.6. Clinical judgement decides each case.
+
 **Table 8.2** Restoration types: evidence summary and design priorities
 
 | Restoration | Survival evidence (approximate) | Main failure modes | Design priorities |
@@ -212,6 +228,18 @@ A systematic review of tooth-supported FDPs estimated 5-year survival rates of [
 | FDP: zirconia | ~90% at 5 y (mostly veneered) [17] | Veneer chipping; retention loss; caries [17] | Connector size; monolithic; hygienic pontic |
 | FDP: glass-ceramic | ~76–89% [8,17] | Framework fracture [17] | Avoid in posterior spans |
 | Resin-matrix ceramics | Good for intracoronal and veneers; poorer for crowns [5] | Debonding; fracture | Choose indications carefully |
+
+Table 8.3 gathers the preparation and design points from Sections 8.2–8.6 into one checklist.
+
+**Table 8.3** Preparation and design checklist by restoration type
+
+| Restoration | Preparation | Design checks |
+|---|---|---|
+| Inlay / onlay / overlay | Divergent walls with rounded internal angles; no retention grooves; butt-joint margins without bevels; cusp coverage when walls are thin; deep margin elevation for deep proximal boxes | Thickness map at the isthmus, marginal ridges and cusp coverage; careful contacts and occlusion |
+| Endocrown | Butt-joint margin at or above the gingiva; smooth, divergent pulp-chamber extension; no extension into the canals | Adequate occlusal thickness; material-specific cement space [9] |
+| Laminate veneer | Preparation through the approved mock-up or with a reduction guide; in enamel where possible; chamfer finish line; decide on incisal coverage | Minimum thickness; mock-up scan used as the outer shape |
+| Single crown | Rounded shoulder or deep chamfer; adequate, even reduction for the material (Table 8.1) | Copy pre-operative or provisional anatomy where possible; light contacts; light or no occlusal contact; physiological emergence; thickness map |
+| Multi-unit FDP | Common path of insertion for all abutments; short spans | Connectors at or above the material minimum (height before width); ovate or modified ridge-lap pontics with cleaning access; monolithic where possible |
 
 ---
 

@@ -40,3 +40,10 @@
 
 ## UNVERIFIED items
 None.
+
+## Figures and tables added
+- **Figure 14.1** (`figures/fig-14-1-toughening-and-ageing.svg`): grain-level schematic. (A) Transformation toughening [1]. (B) Low-temperature degradation (Section 14.5). The caption cites only [1], so the first citation of [10,11] stays in 14.5.1; that text now also points to "Figure 14.1B".
+- **Figure 14.2** (`figures/fig-14-2-strength-translucency.svg`): a schematic trade-off scale (3Y → 4Y → 5Y) plus a bar chart of pooled flexural strength, mean ± SD: 4Y-PSZ 803 ± 233 MPa and 5Y-PSZ 570 ± 116 MPa [4]. No 3Y value is plotted, because none was reported in the chapter.
+- **Figure 14.3** (`figures/fig-14-3-multilayer-nesting.svg`): an FDP nested in a composition-gradient blank, with connectors in the body layers. Values (up to 1,143 MPa; about 572 MPa; only one of four above 800 MPa in all layers) from [6]. The layer arrangement is schematic; the caption says it varies by product.
+- No new tables (the chapter already has three).
+- References unchanged (renumbering identity confirmed).

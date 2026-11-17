@@ -31,7 +31,7 @@ Designing on implants is not the same as designing on teeth:
 
 A **scan body** is a precisely machined part screwed into the implant (intraorally) or the analogue (in the laboratory). It has a known geometry. After scanning, the design software matches a digital **library** copy of the scan body to the scan. Because the library "knows" where the implant connection lies relative to the scan body, the software can calculate the implant's position, angulation and rotational orientation.
 
-Scan bodies are complex devices for transferring implant position, and they play an essential role in making accurately fitting implant restorations [1]. Their designs vary widely, and a systematic review found gaps in the evidence on how design features affect accuracy [1].
+Scan bodies are complex devices for transferring implant position, and they play an essential role in making accurately fitting implant restorations [1]. Their designs vary widely, and a systematic review found gaps in the evidence on how design features affect accuracy [1]. Figure 9.1 shows the sequence.
 
 ### 9.2.2 Sources of error
 
@@ -39,6 +39,10 @@ Scan bodies are complex devices for transferring implant position, and they play
 - **Scan body wear and damage.** Scratched, worn or autoclaved scan bodies may no longer match their library.
 - **Library matching.** Poor scan quality around the scan body produces a poor match.
 - **Scan span.** Errors accumulate between distant scan bodies in complete-arch scans. Without splinting, complete-arch implant scans had a mean linear trueness of about 153 µm and an angular trueness of about 0.65° [3]. Splinting scan bodies improved linear trueness [4]. Photogrammetry was more accurate than intraoral scanning [5,6] (Chapter 3).
+
+![Four panels showing the scan body seated, scanned, matched to the library model, and the implant position computed](../figures/fig-09-1-scan-body-workflow.svg)
+
+**Figure 9.1** How a scan body transfers the implant position into the design software. Error can enter at each step, and accumulates between distant scan bodies in complete-arch scans [2–4].
 
 > **Clinical Tip.** Use only the scan body specified for the implant system and the design software. Check that it is undamaged. Seat it fully (confirm with a radiograph if seating is uncertain, especially subgingivally). Scan the scan body completely before scanning the rest of the arch.
 
@@ -81,6 +85,17 @@ Evidence:
 - In a split-mouth randomised trial in the aesthetic zone, **one-piece** zirconia abutments had a 3-year technical complication rate of 15.8%, including abutment fractures. **Two-piece** zirconia abutments on titanium bases had none [10].
 - **Non-original titanium bases** (third-party components not made by the implant manufacturer) need caution. In one prospective study, zirconia restorations cemented on non-original titanium bases were associated with significant increases in bleeding on probing and probing depth and with two implant losses from peri-implantitis over 3 years. The authors did not recommend them for routine use [11]. A 5-year follow-up of the same type of restoration found that a larger **restorative angle** was associated with early marginal bone loss, and suggested keeping it below 40° [12].
 
+Table 9.1 compares the abutment options.
+
+**Table 9.1** Abutment options compared
+
+| Option | Advantages | Limitations | Evidence |
+|---|---|---|---|
+| **Stock abutment** | Inexpensive; precise factory-made connection | Generic emergence profile and margin position | No difference from custom zirconia abutments in premolar sites at 1 year [7] |
+| **Custom CAD/CAM abutment** (titanium or zirconia) | Individual emergence profile and margin position; corrects angulation; supports the crown and its cement margin | Benefit less clear in simple posterior sites [7] | Better probing depth, aesthetics, bone level and satisfaction than stock abutments for immediate anterior implants at 1 year [8] |
+| **Two-piece titanium base** (original) | Original titanium connection; any millable coronal material; allows a one-piece screw-retained crown | The bonded joint needs a validated protocol (9.3.4) | Complication-free survival 91.6% (restorations) and 97.4% (abutments) [9]; no technical complications versus 15.8% for one-piece zirconia abutments at 3 years [10] |
+| **Non-original titanium base** | — | More bleeding and deeper probing, and implant losses, in one study [11] | Not recommended for routine use [11] |
+
 ### 9.3.4 Bonding to the titanium base
 
 The bond between the Ti-base and the CAD/CAM part is an engineered joint. In an in vitro study, retention of zirconia copings on titanium bases depended on the **resin cement** used and the **luting space**. A smaller luting space of about 60 µm gave higher retention than about 100 µm [13]. Follow the protocol validated for your materials:
@@ -98,7 +113,11 @@ The bond between the Ti-base and the CAD/CAM part is an engineered joint. In an 
 
 The emergence profile is the part of the restoration between the implant platform and the mucosal margin. It is the most important biological design decision in an implant restoration.
 
-In a cross-sectional study of 225 implants with a mean follow-up of nearly 11 years, an **emergence angle greater than 30°** was associated with a significantly higher prevalence of peri-implantitis at bone-level implants (31.3% versus 15.1%). A **convex** profile combined with an angle above 30° raised it further, to 37.8%. No such association was found for tissue-level implants [14].
+In a cross-sectional study of 225 implants with a mean follow-up of nearly 11 years, an **emergence angle greater than 30°** was associated with a significantly higher prevalence of peri-implantitis at bone-level implants (31.3% versus 15.1%). A **convex** profile combined with an angle above 30° raised it further, to 37.8%. No such association was found for tissue-level implants [14] (Figure 9.2).
+
+![Two schematic implant crowns comparing an emergence angle of 30 degrees or less with a convex profile above 30 degrees](../figures/fig-09-2-emergence-angle.svg)
+
+**Figure 9.2** Emergence angle and peri-implantitis at bone-level implants (schematic). Prevalence of peri-implantitis was 15.1% with an angle of 30° or less, 31.3% above 30°, and 37.8% when the profile was also convex. Data from [14].
 
 Design principles:
 
@@ -137,7 +156,7 @@ Design considerations for ASCs:
 
 ### 9.5.3 Practical decision
 
-**Table 9.1** Choosing the retention method
+**Table 9.2** Choosing the retention method
 
 | Situation | Preferred retention |
 |---|---|
@@ -165,6 +184,12 @@ CAD/CAM frameworks fit better than one-piece cast or laser-welded frameworks, an
 4. Correct the data if the prototype does not fit passively.
 5. Design and mill the definitive framework from the verified data.
 
+Figure 9.3 shows this workflow as a loop.
+
+![Flowchart for a passive complete-arch framework with a correction loop when the prototype does not fit](../figures/fig-09-3-passive-fit-workflow.svg)
+
+**Figure 9.3** Workflow for a passive complete-arch implant framework. If the prototype does not fit passively, the data are corrected and verified again before the definitive framework is made. CAD/CAM frameworks fit better than cast or laser-welded ones [21].
+
 ### 9.6.3 Materials and design
 
 - A systematic review of complete-arch fixed implant prostheses with at least 5 years' follow-up found that **veneer fracture** was the main complication of metal-ceramic prostheses (22.1% at 5 years, 39.3% at 10 years). In the two all-ceramic studies, the one using mainly **monolithic zirconia** reported a success rate of 90.9%, compared with 60.4% for bilayered zirconia [22].
@@ -190,7 +215,7 @@ A German S3 guideline on implant-supported all-ceramic restorations, based on a 
 - for **short-span FDPs and complete-arch restorations**, clinical evidence supported **3Y-TZP zirconia** only;
 - monolithic designs and micro-veneering reduce the risk of chipping.
 
-**Table 9.2** Implant restorations: design summary
+**Table 9.3** Implant restorations: design summary
 
 | Restoration | Recommended approach | Key design checks |
 |---|---|---|

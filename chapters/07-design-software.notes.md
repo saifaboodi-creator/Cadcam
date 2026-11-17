@@ -27,3 +27,9 @@
 
 ## UNVERIFIED items
 None.
+
+## Figures and tables added
+- **Figure 7.1** (`figures/fig-07-1-cad-workflow.svg`): the nine CAD steps of 7.1 in a serpentine flow, with margin definition highlighted. No data.
+- **Figure 7.2** (`figures/fig-07-2-design-parameters.svg`): schematic crown cross-section labelling the path of insertion, minimum occlusal thickness, cement space starting above the margin, the margin line, and a blocked-out undercut giving a thicker cement layer. Not to scale; no numbers.
+- **New Table 7.1:** sources of the shape proposal (library, biogeneric [3], copy, AI [4]), with the cusp-angle finding from [5] (biogeneric 67° vs natural 54°) taken from 7.4.4. The library limitation ("generic starting shape that usually needs editing") is general knowledge, uncited.
+- **Renumbered:** old Table 7.1 (design parameters) → 7.2; old Table 7.2 (AI design) → 7.3.
