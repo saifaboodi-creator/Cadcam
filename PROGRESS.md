@@ -26,14 +26,14 @@ Resume point for any new session. Update after every chapter.
 | 10 | Subtractive Manufacturing: Milling and Grinding | `chapters/10-subtractive-manufacturing.md` | Draft 1 | 26 | 1 | `chapters/10-subtractive-manufacturing.notes.md` |
 | 11 | Additive Manufacturing (3D Printing) | `chapters/11-additive-manufacturing.md` | Draft 1 | 25 | 0 | `chapters/11-additive-manufacturing.notes.md` |
 | 12 | Finishing, Characterisation and Quality Control | `chapters/12-finishing-quality-control.md` | Draft 1 | 23 | 0 | `chapters/12-finishing-quality-control.notes.md` |
-| 13 | Glass-Ceramics | `chapters/13-glass-ceramics.md` | In progress | | | |
+| 13 | Glass-Ceramics | `chapters/13-glass-ceramics.md` | Draft 1 | 25 | 0 | `chapters/13-glass-ceramics.notes.md` |
 | 14 | Zirconia | `chapters/14-zirconia.md` | In progress | | | |
 | 15 | Resin-Based and Hybrid Materials; Metals | `chapters/15-resins-hybrids-metals.md` | In progress | | | |
 | 16 | Chairside CAD/CAM in Restorative Dentistry | `chapters/16-chairside-cadcam.md` | Draft 1 | 21 | 1 | `chapters/16-chairside-cadcam.notes.md` |
 | 17 | Digital Implant Dentistry | `chapters/17-digital-implant-dentistry.md` | In progress | | | |
 | 18 | Removable Prosthodontics | `chapters/18-removable-prosthodontics.md` | In progress | | | |
 | 19 | Orthodontics and Other Specialties | `chapters/19-orthodontics-other-specialties.md` | In progress | | | |
-| 20 | Implementation, Economics, Education and the Future | `chapters/20-implementation-future.md` | Not started | | | |
+| 20 | Implementation, Economics, Education and the Future | `chapters/20-implementation-future.md` | In progress | | | |
 
 ## Blockers
 None so far.

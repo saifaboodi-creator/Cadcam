@@ -101,7 +101,7 @@ Definitions; history (Duret, Mörmann, the CEREC system); the three parts of eve
 
 ## Part V — Materials for CAD/CAM
 
-### Chapter 13. Glass-Ceramics
+### Chapter 13. Glass-Ceramics *(drafted)*
 - Feldspathic, leucite-reinforced, lithium disilicate, zirconia-reinforced lithium silicate
 - Properties, indications, adhesive cementation
 
