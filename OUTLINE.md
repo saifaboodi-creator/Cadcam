@@ -29,7 +29,7 @@ Definitions; history (Duret, Mörmann, the CEREC system); the three parts of eve
 
 ## Part II — Data Acquisition
 
-### Chapter 4. Intraoral Scanners
+### Chapter 4. Intraoral Scanners *(drafted)*
 - Optical principles: confocal microscopy, active triangulation, active wavefront sampling, structured light, OCT
 - Hardware features: tip size, powder-free scanning, colour, heat, wireless
 - Scanning strategies and paths; stitching and tracking
