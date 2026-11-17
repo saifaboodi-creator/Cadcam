@@ -157,7 +157,7 @@ Feldspathic, glass-infiltrated alumina, densely sintered alumina and veneered gl
 
 The move to **monolithic** designs has been driven largely by the chipping problem seen with veneered restorations [13,14]. Full-contour zirconia has steadily gained market share at the expense of veneered designs [15].
 
-A later meta-analysis of monolithic glass-ceramic restorations found survival of **96%** for single crowns over 4.6 years [8]. A prospective study of chairside monolithic lithium disilicate posterior crowns reported a **10-year survival of 83.5%**. All failures and complications occurred on molars [16].
+A 2024 meta-analysis of monolithic glass-ceramic restorations found survival of **96%** for single crowns over 4.6 years [8]. A prospective study of chairside monolithic lithium disilicate posterior crowns reported a **10-year survival of 83.5%**. All failures and complications occurred on molars [16].
 
 Resin-matrix ceramics showed **higher complication rates than ceramics** for full and partial crowns, and are not a first choice for complete coverage [5].
 
