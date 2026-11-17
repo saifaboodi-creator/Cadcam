@@ -43,3 +43,10 @@ None.
 - **New Table 11.2** "Process parameters and their reported effects": summarises the existing findings of Section 11.3 with their original citations [5–11]. The post-curing row points to Section 11.6 instead of citing [25], to keep the Vancouver order unchanged.
 - **Renumbered:** former Table 11.2 (printing or milling) is now **Table 11.3**. No in-text mentions needed changing.
 - References unchanged (renumbering identity confirmed).
+
+## Update 2026-11 (quarterly update 1, 2026-11-17)
+Search window 2026-10-01 to 2026-11-17 (PubMed, entry date). Full report: `updates/2026-11.md`.
+- **Added (Section 11.4.4):** Shin, Oh, Kim 2026, J Dent 176:107097 (PMID 42843776, doi:10.1016/j.jdent.2026.107097), new ref 17. RCT, 56 adults, definitive printed resin vs monolithic zirconia posterior crowns, 1 year: fracture-free survival 78.6% vs 92.9% (P = 0.12); 7 of 8 fractures on the most posterior restored tooth; wear depth 92.33 vs 14.48 µm. Reason: first clinical randomised data in the chapter on printed definitive crowns.
+- **Changed:** Evidence Box (11.4.4) now mentions the trial ("Early randomised data ...") and says "until longer-term trials are available"; Key points bullet on definitive resin updated (refs 15–17).
+- **References to check:** PubMed lists ref 17 as volume 176, article 107097 but still "online ahead of print"; confirm issue at the next update.
+- **Reference numbers changed.** `tools/renum.py` renumbered the list after the new reference was added. Reference numbers in the sections above this one use the **old** numbering. Old → new: 26→17, 17→18, 18→19, 19→20, 20→21, 21→22, 22→23, 23→24, 24→25, 25→26. Unlisted numbers are unchanged.

@@ -170,14 +170,16 @@ The answer to chipping was **monolithic** (full-contour) zirconia, made possible
 
 The most recent systematic review of tooth-supported single crowns (2014–2024 data, 8,051 all-ceramic crowns) estimated 5-year survival of **96.8% for monolithic zirconia** and **97.3% for veneered zirconia**, comparable to metal-ceramic crowns (97.1%). Monolithic zirconia and monolithic lithium disilicate crowns had **significantly fewer ceramic fractures and chipping** than veneered alternatives [17].
 
-For implant FDPs and complete-arch restorations, Chapter 9 summarises evidence that monolithic zirconia reduces chipping compared with veneered designs [18].
+Two 2026 meta-analyses add to this picture, and one partly conflicts with it. A meta-analysis of 17 clinical studies of tooth-supported **veneered zirconia FDPs** with at least 5 years' follow-up estimated survival of **92% at 5 years, 86% at 7 years and 83% at 10 years**; chipping of the veneering porcelain was the most frequent complication [18]. In contrast, a meta-analysis of 14 randomised trials comparing veneered zirconia with **metal-ceramic** restorations found a **lower** risk of chipping with veneered zirconia (risk ratio 0.59) and marginally higher survival (risk ratio 1.03). The certainty of that evidence was low, with substantial heterogeneity and small-study effects [19]. Veneered zirconia therefore chips more than monolithic restorations, but whether it chips more than metal-ceramic is not settled.
+
+For implant FDPs and complete-arch restorations, Chapter 9 summarises evidence that monolithic zirconia reduces chipping compared with veneered designs [20].
 
 ### 14.6.3 Wear of opposing teeth
 
 Early concerns that hard zirconia would wear opposing enamel have largely been answered for **polished** monolithic zirconia:
 
-- A systematic review found that zirconia caused significantly less antagonist wear than feldspathic porcelain, and that **polished surfaces caused less enamel wear than glazed surfaces** [19].
-- An umbrella review concluded that the enamel wear caused by polished monolithic zirconia over time is equal to or less than that of natural enamel, and lower than that of metal-ceramic, feldspathic and lithium disilicate restorations [20].
+- A systematic review found that zirconia caused significantly less antagonist wear than feldspathic porcelain, and that **polished surfaces caused less enamel wear than glazed surfaces** [21].
+- An umbrella review concluded that the enamel wear caused by polished monolithic zirconia over time is equal to or less than that of natural enamel, and lower than that of metal-ceramic, feldspathic and lithium disilicate restorations [22].
 
 Glazes wear away and can expose a rough zirconia surface beneath. This is another reason to polish carefully after any intraoral adjustment.
 
@@ -204,14 +206,14 @@ Zirconia has no glass phase, so **hydrofluoric acid etching and silane do not wo
 
 ### 14.7.2 The evidence
 
-- A systematic review and meta-analysis of 52 laboratory studies found that bond strength to zirconia depended significantly on surface conditioning, cement type, test method and ageing. Physicochemical conditioning increased adhesion, and **MDP-based resin cements** tended to give the highest bond strengths [21].
-- A more recent systematic review of bonding protocols after artificial ageing concluded that **air-particle abrasion combined with a 10-MDP-containing primer** (or universal adhesive) gave the most durable bonding [22].
-- A systematic review of anterior **single-retainer zirconia resin-bonded FDPs** found success rates over 80% over 3 to 10 years. Debonds were usually manageable by rebonding, and catastrophic fractures were rare. The authors recommended a two-step protocol of APA followed by 10-MDP [23].
-- In a clinical study of 108 zirconia cantilever resin-bonded FDPs replacing incisors, the 10-year survival was **98.2%** and the success rate 92.0% [24]. Long-term case documentation over 26 years used **50 µm alumina air-abrasion at 0.25 MPa** followed by a phosphate-monomer luting resin. The authors concluded that bonding to zirconia is durable when adequate methods are used [25].
+- A systematic review and meta-analysis of 52 laboratory studies found that bond strength to zirconia depended significantly on surface conditioning, cement type, test method and ageing. Physicochemical conditioning increased adhesion, and **MDP-based resin cements** tended to give the highest bond strengths [23].
+- A more recent systematic review of bonding protocols after artificial ageing concluded that **air-particle abrasion combined with a 10-MDP-containing primer** (or universal adhesive) gave the most durable bonding [24].
+- A systematic review of anterior **single-retainer zirconia resin-bonded FDPs** found success rates over 80% over 3 to 10 years. Debonds were usually manageable by rebonding, and catastrophic fractures were rare. The authors recommended a two-step protocol of APA followed by 10-MDP [25].
+- In a clinical study of 108 zirconia cantilever resin-bonded FDPs replacing incisors, the 10-year survival was **98.2%** and the success rate 92.0% [26]. Long-term case documentation over 26 years used **50 µm alumina air-abrasion at 0.25 MPa** followed by a phosphate-monomer luting resin. The authors concluded that bonding to zirconia is durable when adequate methods are used [27].
 
 ### 14.7.3 Contamination and cleaning
 
-During try-in, saliva contaminates the intaglio surface. Phosphate groups in saliva bind to zirconia and block later MDP bonding. Water rinsing alone does not remove them reliably. In one laboratory study, cleaning saliva-contaminated zirconia crowns with a zirconium-oxide-containing **universal cleaning paste**, combined with an MDP-containing cement, gave the highest bond strengths. Air–water spray gave the lowest [26]. Re-abrasion with alumina is an alternative where the manufacturer allows it. **Phosphoric acid** should not be used to clean zirconia before MDP bonding, because it leaves phosphate on the surface.
+During try-in, saliva contaminates the intaglio surface. Phosphate groups in saliva bind to zirconia and block later MDP bonding. Water rinsing alone does not remove them reliably. In one laboratory study, cleaning saliva-contaminated zirconia crowns with a zirconium-oxide-containing **universal cleaning paste**, combined with an MDP-containing cement, gave the highest bond strengths. Air–water spray gave the lowest [28]. Re-abrasion with alumina is an alternative where the manufacturer allows it. **Phosphoric acid** should not be used to clean zirconia before MDP bonding, because it leaves phosphate on the surface.
 
 ### 14.7.4 A practical protocol
 
@@ -220,9 +222,9 @@ During try-in, saliva contaminates the intaglio surface. Phosphate groups in sal
 | Situation | Recommended approach |
 |---|---|
 | Retentive preparation (crown) | Conventional cement (glass-ionomer, resin-modified glass-ionomer) or self-adhesive resin cement; APA of intaglio recommended for self-adhesive resin cements |
-| Low-retention preparation, short walls, partial coverage | Adhesive bonding: APA + 10-MDP primer (or MDP-containing universal adhesive) + resin cement [21–23] |
-| Resin-bonded FDP (single retainer) | APA (e.g., 50 µm alumina at low pressure) + MDP-containing luting resin; rubber dam [23–25] |
-| After intraoral try-in | Clean with a zirconia-specific cleaning paste or re-abrade; avoid phosphoric acid [26] |
+| Low-retention preparation, short walls, partial coverage | Adhesive bonding: APA + 10-MDP primer (or MDP-containing universal adhesive) + resin cement [23–25] |
+| Resin-bonded FDP (single retainer) | APA (e.g., 50 µm alumina at low pressure) + MDP-containing luting resin; rubber dam [25–27] |
+| After intraoral try-in | Clean with a zirconia-specific cleaning paste or re-abrade; avoid phosphoric acid [28] |
 | Ti-base bonding (implant) | Validated cement/primer system for zirconia and titanium (Chapter 9) |
 
 > **Clinical Tip.** Air-abrade zirconia with **fine alumina at low pressure**. Aggressive abrasion with coarse particles or high pressure can introduce surface damage, particularly in translucent 4Y/5Y materials. Follow the material manufacturer's parameters.
@@ -240,8 +242,8 @@ During try-in, saliva contaminates the intaglio surface. Phosphate groups in sal
 | Discoloured abutment or metal post | Less translucent zirconia, or a zirconia framework with veneering | Masking ability matters more than translucency |
 | Posterior three-unit FDP | 3Y-TZP or 4Y-PSZ [4] | Connectors in the strongest layers [6] |
 | Anterior three-unit FDP | 3Y/4Y; 5Y-PSZ only within manufacturer and ISO limits [4] | |
-| Long-span FDP, complete-arch implant framework | 3Y-TZP | Only 3Y-TZP is supported for implant FDPs and complete arches [18] |
-| Single-retainer resin-bonded FDP (incisor) | 3Y-TZP | APA + MDP bonding [23–25] |
+| Long-span FDP, complete-arch implant framework | 3Y-TZP | Only 3Y-TZP is supported for implant FDPs and complete arches [20] |
+| Single-retainer resin-bonded FDP (incisor) | 3Y-TZP | APA + MDP bonding [25–27] |
 
 ---
 
@@ -252,8 +254,8 @@ During try-in, saliva contaminates the intaglio surface. Phosphate groups in sal
 - **Multilayer** blanks vary in strength between layers, from about 1,100 MPa in dentine layers down to about 570 MPa in incisal layers. Nest restorations so connectors sit in the strongest layers [6].
 - Follow **validated sintering programmes**. Speed sintering can change properties, but the effects may not be clinically relevant [7,8]. **Polish** after any adjustment, and adjust high-yttria zirconia with caution [9].
 - **Low-temperature degradation** depends on stabiliser content, residual stress and grain size. It is strongly influenced by processing [10,11].
-- **Monolithic** zirconia crowns have 5-year survival similar to metal-ceramic crowns, with significantly less chipping than veneered designs [17]. Polished zirconia is kind to opposing enamel [19,20].
-- Bond zirconia with **air-particle abrasion plus 10-MDP**. Clean contaminated surfaces with a zirconia-specific cleaner, not phosphoric acid [21–26].
+- **Monolithic** zirconia crowns have 5-year survival similar to metal-ceramic crowns, with significantly less chipping than veneered designs [17]. Polished zirconia is kind to opposing enamel [21,22].
+- Bond zirconia with **air-particle abrasion plus 10-MDP**. Clean contaminated surfaces with a zirconia-specific cleaner, not phosphoric acid [23–28].
 
 ---
 
@@ -289,12 +291,14 @@ During try-in, saliva contaminates the intaglio surface. Phosphate groups in sal
 15. Tajti P, Solyom E, Czumbel LM, Szabó B, Fazekas R, Németh O, et al. Monolithic zirconia as a valid alternative to metal-ceramic for implant-supported single crowns in the posterior region: a systematic review and meta-analysis of randomized controlled trials. J Prosthet Dent. 2024;132(5):881–9. doi:10.1016/j.prosdent.2023.05.006
 16. Spitznagel FA, Boldt J, Gierthmuehlen PC. CAD/CAM ceramic restorative materials for natural teeth. J Dent Res. 2018;97(10):1082–91. doi:10.1177/0022034518779759
 17. Pjetursson BE, Pitta J, Balet A, Bjarnadottir GR, Sailer I, Romandini P. A systematic review and meta-analysis evaluating the survival, failure, and complication rates of metal-ceramic, veneered, and monolithic all-ceramic tooth-supported single crowns — Part 1. Int J Prosthodont. 2026;39(3):308–24. doi:10.11607/ijp.9633
-18. Waltenberger L, Bishti S, Wolfart S. German S3 guideline on implant-supported all-ceramic restorations. Int J Implant Dent. 2025;11(1):53. doi:10.1186/s40729-025-00641-7
-19. Ghaffari T, Rad FH, Goftari A, Pashazadeh F, Ataei K. Natural teeth wear opposite to glazed and polished ceramic crowns: a systematic review. Dent Res J (Isfahan). 2022;19:108. PMID:36605138
-20. Shah N, Nerkar H, Badwaik P, Ahuja B, Malu R, Bhanushali N. An evaluation of antagonist enamel wear opposing full-coverage zirconia crowns versus other ceramics full-coverage crowns and natural enamel — an umbrella review. J Indian Prosthodont Soc. 2024;24(3):217–24. doi:10.4103/jips.jips_32_24
-21. Özcan M, Bernasconi M. Adhesion to zirconia used for dental restorations: a systematic review and meta-analysis. J Adhes Dent. 2015;17(1):7–26. doi:10.3290/j.jad.a33525
-22. Ayedi L, Riahi Z, Kalghoum I, Mejri O, Hadyaoui D. Which bonding protocol provides the most durable zirconia adhesion after artificial aging: a systematic review. J Contemp Dent Pract. 2025;26(12):1215–27. doi:10.5005/jp-journals-10024-3979
-23. Al-Bermani ASA, Quigley NP, Ha WN. Do zirconia single-retainer resin-bonded fixed dental prostheses present a viable treatment option for the replacement of missing anterior teeth? A systematic review and meta-analysis. J Prosthet Dent. 2023;130(4):533–42. doi:10.1016/j.prosdent.2021.10.015
-24. Kern M, Passia N, Sasse M, Yazigi C. Ten-year outcome of zirconia ceramic cantilever resin-bonded fixed dental prostheses and the influence of the reasons for missing incisors. J Dent. 2017;65:51–5. doi:10.1016/j.jdent.2017.07.003
-25. Kern M, Gläser R. Single-retainer all-ceramic resin-bonded fixed dental prostheses: long-term outcomes in the esthetic zone. J Esthet Restor Dent. 2023;35(1):64–73. doi:10.1111/jerd.13001
-26. Demir N, Genc O, Akkese IB, Malkoc MA, Ozcan M. Bonding effectiveness of saliva-contaminated monolithic zirconia ceramics using different decontamination protocols. Biomed Res Int. 2024;2024:6670159. doi:10.1155/2024/6670159
+18. Sengottaiyan AK, Bennani V, Veerasamy A. Survival and complication rates of tooth-supported veneered zirconia fixed partial dentures: a systematic review and metaanalysis. Int J Dent. 2026;2026:8282494. doi:10.1155/ijod/8282494
+19. Abbasi B, Mohammadzadeh M, Rezaeiyazdi A, Farahi A, Kookhi NA, Nami M, et al. Survival and biological and technical complications of veneered zirconia-ceramic versus metal-ceramic restorations: a systematic review and meta-analysis. BMC Oral Health. 2026;26(1):2182. doi:10.1186/s12903-026-09551-5
+20. Waltenberger L, Bishti S, Wolfart S. German S3 guideline on implant-supported all-ceramic restorations. Int J Implant Dent. 2025;11(1):53. doi:10.1186/s40729-025-00641-7
+21. Ghaffari T, Rad FH, Goftari A, Pashazadeh F, Ataei K. Natural teeth wear opposite to glazed and polished ceramic crowns: a systematic review. Dent Res J (Isfahan). 2022;19:108. PMID:36605138
+22. Shah N, Nerkar H, Badwaik P, Ahuja B, Malu R, Bhanushali N. An evaluation of antagonist enamel wear opposing full-coverage zirconia crowns versus other ceramics full-coverage crowns and natural enamel — an umbrella review. J Indian Prosthodont Soc. 2024;24(3):217–24. doi:10.4103/jips.jips_32_24
+23. Özcan M, Bernasconi M. Adhesion to zirconia used for dental restorations: a systematic review and meta-analysis. J Adhes Dent. 2015;17(1):7–26. doi:10.3290/j.jad.a33525
+24. Ayedi L, Riahi Z, Kalghoum I, Mejri O, Hadyaoui D. Which bonding protocol provides the most durable zirconia adhesion after artificial aging: a systematic review. J Contemp Dent Pract. 2025;26(12):1215–27. doi:10.5005/jp-journals-10024-3979
+25. Al-Bermani ASA, Quigley NP, Ha WN. Do zirconia single-retainer resin-bonded fixed dental prostheses present a viable treatment option for the replacement of missing anterior teeth? A systematic review and meta-analysis. J Prosthet Dent. 2023;130(4):533–42. doi:10.1016/j.prosdent.2021.10.015
+26. Kern M, Passia N, Sasse M, Yazigi C. Ten-year outcome of zirconia ceramic cantilever resin-bonded fixed dental prostheses and the influence of the reasons for missing incisors. J Dent. 2017;65:51–5. doi:10.1016/j.jdent.2017.07.003
+27. Kern M, Gläser R. Single-retainer all-ceramic resin-bonded fixed dental prostheses: long-term outcomes in the esthetic zone. J Esthet Restor Dent. 2023;35(1):64–73. doi:10.1111/jerd.13001
+28. Demir N, Genc O, Akkese IB, Malkoc MA, Ozcan M. Bonding effectiveness of saliva-contaminated monolithic zirconia ceramics using different decontamination protocols. Biomed Res Int. 2024;2024:6670159. doi:10.1155/2024/6670159

@@ -47,3 +47,10 @@ None.
 - **Figure 14.3** (`figures/fig-14-3-multilayer-nesting.svg`): an FDP nested in a composition-gradient blank, with connectors in the body layers. Values (up to 1,143 MPa; about 572 MPa; only one of four above 800 MPa in all layers) from [6]. The layer arrangement is schematic; the caption says it varies by product.
 - No new tables (the chapter already has three).
 - References unchanged (renumbering identity confirmed).
+
+## Update 2026-11 (quarterly update 1, 2026-11-17)
+Search window 2026-10-01 to 2026-11-17 (PubMed, entry date). Full report: `updates/2026-11.md`.
+- **Added (Section 14.6.1, new paragraph after the Pjetursson 2026 data):** Sengottaiyan et al. 2026, Int J Dent 2026:8282494 (PMID 42965118, doi:10.1155/ijod/8282494), new ref 18: 17 clinical studies, tooth-supported veneered zirconia FPDs, survival 92% (5 y), 86% (7 y), 83% (10 y); chipping most frequent. Abbasi et al. 2026, BMC Oral Health 26(1):2182 (PMID 42983805, doi:10.1186/s12903-026-09551-5), new ref 19: 14 RCTs, veneered zirconia vs metal-ceramic, chipping RR 0.59 (95% CI 0.48–0.72), survival RR 1.03 (1.00–1.09), low certainty.
+- **Conflict stated in text:** ref 19 found less chipping for veneered zirconia than metal-ceramic, which partly conflicts with the chapter's narrative that veneered zirconia is chipping-prone (refs 12–15). The text keeps both: veneered zirconia chips more than monolithic restorations (ref 17), but whether it chips more than metal-ceramic is "not settled". **Author review requested.**
+- **Weak evidence:** ref 18 is in a lower-tier journal and mixes RCTs and observational studies; ref 19 reports small-study effects and high heterogeneity.
+- **Reference numbers changed.** `tools/renum.py` renumbered the list after the new reference was added. Reference numbers in the sections above this one use the **old** numbering. Old → new: 27→18, 28→19, 18→20, 19→21, 20→22, 21→23, 22→24, 23→25, 24→26, 25→27, 26→28. Unlisted numbers are unchanged.

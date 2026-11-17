@@ -144,23 +144,24 @@ Resins are now available for long-term provisional and "permanent" crowns and FD
 - A systematic review and meta-analysis of in vitro studies found that **milled resin crowns had higher fracture resistance** than printed ones, especially after ageing. Printed crowns showed **smaller marginal gaps** when the analysis was restricted to comparable, directly measured conditions. The certainty of evidence was low to very low [15].
 - For three-unit definitive FDPs, printed FDPs had larger internal deviations and gaps than milled composite FDPs [6].
 - The **bond strength** of printed crown resins to luting cements was high and comparable to milled materials. Airborne-particle abrasion with alumina was generally recommended. The authors stressed that clinical evidence for permanent use is lacking [16].
+- A randomised controlled trial in 56 adults compared definitive printed resin crowns with monolithic zirconia crowns on posterior teeth over 1 year. Fracture-free survival was **78.6%** for the printed crowns and **92.9%** for zirconia (P = 0.12, not significant). Seven of the eight fractures occurred on the most posterior restored tooth. Marginal fit, periodontal outcomes and patient satisfaction did not differ, but the printed crowns showed much more occlusal wear (mean wear depth 92 µm versus 14 µm) [17].
 
-> **Evidence Box.** Almost all the evidence on printed "permanent" resin restorations is in vitro, and clinical survival data are scarce. Until clinical trials are available, treat printed resin crowns and FDPs as **long-term provisional** or **selected definitive** restorations, for example in patients for whom low cost, fast replacement or reversibility matters more than long-term durability.
+> **Evidence Box.** Almost all the evidence on printed "permanent" resin restorations is in vitro, and clinical survival data are scarce. Early randomised data show more wear and numerically more fractures than zirconia on posterior teeth [17]. Until longer-term trials are available, treat printed resin crowns and FDPs as **long-term provisional** or **selected definitive** restorations, for example in patients for whom low cost, fast replacement or reversibility matters more than long-term durability.
 
 ### 11.4.5 Complete dentures
 
 Printed denture bases and teeth allow fully digital dentures (Chapter 18):
 
-- A systematic review and meta-analysis of 25 randomised trials comparing conventional, milled and printed complete dentures found **no fabrication method with a clear advantage** in patient-important outcomes. Printed dentures had a small retention advantage over **milled** ones, but more mechanical complications and aftercare needs. Milled dentures were rated better for aesthetics. The certainty of evidence was mostly very low [17].
-- Another meta-analysis found that **conventional** dentures were more retentive than printed ones. Other clinical outcomes did not differ significantly [18].
-- A systematic review of complications found that the fabrication technique influenced the number and type of complications. Digital dentures needed a similar or greater number of post-insertion visits, depending on the method [19].
+- A systematic review and meta-analysis of 25 randomised trials comparing conventional, milled and printed complete dentures found **no fabrication method with a clear advantage** in patient-important outcomes. Printed dentures had a small retention advantage over **milled** ones, but more mechanical complications and aftercare needs. Milled dentures were rated better for aesthetics. The certainty of evidence was mostly very low [18].
+- Another meta-analysis found that **conventional** dentures were more retentive than printed ones. Other clinical outcomes did not differ significantly [19].
+- A systematic review of complications found that the fabrication technique influenced the number and type of complications. Digital dentures needed a similar or greater number of post-insertion visits, depending on the method [20].
 
 ### 11.4.6 Metal frameworks
 
 **Selective laser melting (SLM)** of cobalt-chromium is widely used for removable partial denture frameworks and for crown and bridge substructures.
 
-- The fit of SLM cobalt-chromium RPD frameworks was within clinically acceptable limits whether it was measured with a silicone replica or digitally, although the two methods gave different values (Chapter 3) [20].
-- For implant-supported cobalt-chromium FDPs, a systematic review of in vitro studies found clinically acceptable fit for three-unit frameworks with all methods. For **12-unit** complete-arch frameworks, printed frameworks fitted **less accurately than milled** ones but **better than cast** ones [21].
+- The fit of SLM cobalt-chromium RPD frameworks was within clinically acceptable limits whether it was measured with a silicone replica or digitally, although the two methods gave different values (Chapter 3) [21].
+- For implant-supported cobalt-chromium FDPs, a systematic review of in vitro studies found clinically acceptable fit for three-unit frameworks with all methods. For **12-unit** complete-arch frameworks, printed frameworks fitted **less accurately than milled** ones but **better than cast** ones [22].
 
 ---
 
@@ -170,8 +171,8 @@ Ceramic printing uses vat photopolymerisation of slurries highly loaded with cer
 
 The first comparisons with milling are encouraging:
 
-- A systematic review and meta-analysis of in vitro studies of monolithic zirconia crowns found **comparable trueness and margin quality** for printed and milled crowns. Milling was better at the margin, printing in the axial areas. Precision and adaptation were clinically acceptable for both [22].
-- A more recent meta-analysis found **significantly smaller marginal gaps** for milled zirconia prostheses (mean difference about 13 µm). Internal adaptation did not differ, and both methods were clinically acceptable [23].
+- A systematic review and meta-analysis of in vitro studies of monolithic zirconia crowns found **comparable trueness and margin quality** for printed and milled crowns. Milling was better at the margin, printing in the axial areas. Precision and adaptation were clinically acceptable for both [23].
+- A more recent meta-analysis found **significantly smaller marginal gaps** for milled zirconia prostheses (mean difference about 13 µm). Internal adaptation did not differ, and both methods were clinically acceptable [24].
 
 Clinical studies of printed ceramic restorations are still lacking. Printed zirconia is promising for complex shapes and material efficiency. For now, milling remains the established method for definitive ceramic restorations (Chapter 10).
 
@@ -181,9 +182,9 @@ Clinical studies of printed ceramic restorations are still lacking. Printed zirc
 
 ### 11.6.1 Why biocompatibility matters
 
-Printable resins are photopolymers. If polymerisation is incomplete, **residual monomers** and other compounds can be released. Post-processing chemicals, such as washing solvents, may also remain on the part if it is not handled correctly. A review of biocompatibility testing of printed dental polymers concluded that 3D printing causes the release of residual monomers through incomplete polymerisation, and involves potentially toxic substances in post-processing that cannot be completely eliminated. Independent biocompatibility testing was therefore recommended [24].
+Printable resins are photopolymers. If polymerisation is incomplete, **residual monomers** and other compounds can be released. Post-processing chemicals, such as washing solvents, may also remain on the part if it is not handled correctly. A review of biocompatibility testing of printed dental polymers concluded that 3D printing causes the release of residual monomers through incomplete polymerisation, and involves potentially toxic substances in post-processing that cannot be completely eliminated. Independent biocompatibility testing was therefore recommended [25].
 
-Post-processing matters. In a cell-culture study of two printed denture base resins, **longer post-curing** improved cell metabolic activity and reduced markers of cell death for one resin, but the other resin responded less consistently. The authors concluded that evaluating only the released substances is not enough: printing parameters also influence cytotoxicity [25].
+Post-processing matters. In a cell-culture study of two printed denture base resins, **longer post-curing** improved cell metabolic activity and reduced markers of cell death for one resin, but the other resin responded less consistently. The authors concluded that evaluating only the released substances is not enough: printing parameters also influence cytotoxicity [26].
 
 ### 11.6.2 Practical safety rules
 
@@ -209,10 +210,10 @@ A printed device made with an approved resin but the wrong post-processing is ef
 | Occlusal splints | Printing or milling | Printing fast and economical [10]; milling gives homogeneous material |
 | Provisional crowns and FDPs | Printing or milling | Both suitable; printing economical for multiple units |
 | Definitive resin crowns | Milling preferred; printing for selected cases | Milled resins more fracture-resistant; printed lack clinical data [15,16] |
-| Definitive ceramic restorations | Milling | Clinical evidence; printed ceramics still in vitro [22,23] |
-| Complete dentures | Printing or milling | No clear clinical advantage of either [17,18]; milled bases more homogeneous |
-| RPD frameworks (Co-Cr) | SLM printing | Clinically acceptable fit; efficient [20] |
-| Complete-arch implant frameworks | Milling preferred | Milled frameworks fit better than printed ones for long spans [21] |
+| Definitive ceramic restorations | Milling | Clinical evidence; printed ceramics still in vitro [23,24] |
+| Complete dentures | Printing or milling | No clear clinical advantage of either [18,19]; milled bases more homogeneous |
+| RPD frameworks (Co-Cr) | SLM printing | Clinically acceptable fit; efficient [21] |
+| Complete-arch implant frameworks | Milling preferred | Milled frameworks fit better than printed ones for long spans [22] |
 
 ---
 
@@ -221,11 +222,11 @@ A printed device made with an approved resin but the wrong post-processing is ef
 - **Vat photopolymerisation** (SLA, DLP, LCD) dominates resin printing in dentistry. **Selective laser melting** dominates metal printing [1].
 - Build orientation, layer thickness, supports, washing and post-curing **all** affect accuracy and properties. There is no universal best setting [5–11].
 - Printed **models** and **guides** are well established and clinically acceptable [8,12,13].
-- Printed **definitive resin** restorations are mechanically weaker than milled ones after ageing and lack clinical data [15,16].
-- Printed, milled and conventional **complete dentures** show no clear difference in patient-important outcomes, but the certainty of evidence is very low [17–19].
-- **SLM** cobalt-chromium frameworks fit acceptably. For complete-arch implant frameworks, milled frameworks fit better than printed, and printed better than cast [20,21].
-- **Printed zirconia** is comparable to milled in vitro but slightly less accurate at the margin, with no clinical data yet [22,23].
-- **Biocompatibility** depends on resin and post-processing. Use approved resins with validated settings and protocols [24,25].
+- Printed **definitive resin** restorations are mechanically weaker than milled ones after ageing. Clinical data are scarce; a 1-year trial found more wear and numerically more fractures than zirconia [15–17].
+- Printed, milled and conventional **complete dentures** show no clear difference in patient-important outcomes, but the certainty of evidence is very low [18–20].
+- **SLM** cobalt-chromium frameworks fit acceptably. For complete-arch implant frameworks, milled frameworks fit better than printed, and printed better than cast [21,22].
+- **Printed zirconia** is comparable to milled in vitro but slightly less accurate at the margin, with no clinical data yet [23,24].
+- **Biocompatibility** depends on resin and post-processing. Use approved resins with validated settings and protocols [25,26].
 
 ---
 
@@ -260,12 +261,13 @@ A printed device made with an approved resin but the wrong post-processing is ef
 14. Shin H, Kang YJ, Kim H, Kim JH. Effect of cement space settings on the marginal and internal fit of 3D printed definitive resin crowns. J Prosthet Dent. 2025;133(3):821–6. doi:10.1016/j.prosdent.2023.03.021
 15. Alawawda O, Kızıldağ Z, Yeşil Z. Fracture resistance and marginal adaptation of 3D-printed versus milled resin-based permanent crowns: a systematic review and meta-analysis. J Esthet Restor Dent. 2026;38(12):2261–72. doi:10.1111/jerd.70248
 16. Kagaoan Z, Liu X, Cameron A, Aarts J, Choi JJE. Factors influencing the bond strength of additively manufactured crown materials in dentistry: a systematic review of in vitro studies. J Dent. 2024;144:104908. doi:10.1016/j.jdent.2024.104908
-17. Prott LS, Peričić TP, D'Alessandro C, Rivera M, Graham L, Gierthmuehlen PC, et al. Conventional, milled, and 3D-printed complete dentures: a systematic review and meta-analysis of clinical and patient-centered outcomes. J Esthet Restor Dent. 2026. Epub ahead of print. doi:10.1111/jerd.70283
-18. Sivaswamy V, Cahyanto A, Varma SR, Matinlinna JP. Clinical outcomes of 3D printed complete dentures: a systematic review and meta-analysis. J Prosthet Dent. 2026;136(1):60–8. doi:10.1016/j.prosdent.2026.02.003
-19. Smets K, Vandeweghe S, Ongenae L, D'haese R. Complications of 3D printed dentures: a systematic review. J Prosthet Dent. 2026;135(4):754–61. doi:10.1016/j.prosdent.2025.05.019
-20. Alabdullah SA, Hannam AG, Wyatt CC, McCullagh APG, Aleksejuniene J, Mostafa NZ. Comparison of digital and conventional methods of fit evaluation of partial removable dental prosthesis frameworks fabricated by selective laser melting. J Prosthet Dent. 2022;127(3):478.e1–478.e10. doi:10.1016/j.prosdent.2021.09.033
-21. He Z, Bennani V, Aarts JM, Choi JJE, Veerasamy A. Fit accuracy of 3D printed Co-Cr multiunit implant-supported fixed dental prostheses: a systematic review of in vitro studies. J Prosthet Dent. 2026;135(1):64.e1–64.e10. doi:10.1016/j.prosdent.2025.08.033
-22. da Silva SEG, da Silva NR, Santos JVDN, Moreira FGG, Özcan M, Souza ROAE. Accuracy, adaptation and margin quality of monolithic zirconia crowns fabricated by 3D printing versus subtractive manufacturing technique: a systematic review and meta-analysis of in vitro studies. J Dent. 2024;147:105089. doi:10.1016/j.jdent.2024.105089
-23. Sengottaiyan AK, Bennani V, Veerasamy A. Marginal fit and internal adaptation of zirconia complete coverage fixed dental prostheses fabricated by milling versus 3D printing: a systematic review and meta-analysis of in vitro studies. J Prosthet Dent. 2026;136(2):379–89. doi:10.1016/j.prosdent.2026.02.051
-24. Rus F, Neculau C, Imre M, Duica F, Popa A, Moisa RM, et al. Polymeric materials used in 3DP in dentistry — biocompatibility testing challenges. Polymers (Basel). 2024;16(24):3550. doi:10.3390/polym16243550
-25. Dinescu M, Vasilescu VG, Ciocan LT, Voicu-Balasea B, Țâncu AMC, Ripszky A, et al. Evaluation of post-processing time's influence on biocompatibility of 3D-printed denture base resins. J Funct Biomater. 2026;17(4):188. doi:10.3390/jfb17040188
+17. Shin H, Oh KC, Kim JH. Evaluation of full-veneer crowns fabricated with 3D printing resin material for definitive prostheses: a 1-year randomized controlled prospective study. J Dent. 2026;176:107097. doi:10.1016/j.jdent.2026.107097
+18. Prott LS, Peričić TP, D'Alessandro C, Rivera M, Graham L, Gierthmuehlen PC, et al. Conventional, milled, and 3D-printed complete dentures: a systematic review and meta-analysis of clinical and patient-centered outcomes. J Esthet Restor Dent. 2026. Epub ahead of print. doi:10.1111/jerd.70283
+19. Sivaswamy V, Cahyanto A, Varma SR, Matinlinna JP. Clinical outcomes of 3D printed complete dentures: a systematic review and meta-analysis. J Prosthet Dent. 2026;136(1):60–8. doi:10.1016/j.prosdent.2026.02.003
+20. Smets K, Vandeweghe S, Ongenae L, D'haese R. Complications of 3D printed dentures: a systematic review. J Prosthet Dent. 2026;135(4):754–61. doi:10.1016/j.prosdent.2025.05.019
+21. Alabdullah SA, Hannam AG, Wyatt CC, McCullagh APG, Aleksejuniene J, Mostafa NZ. Comparison of digital and conventional methods of fit evaluation of partial removable dental prosthesis frameworks fabricated by selective laser melting. J Prosthet Dent. 2022;127(3):478.e1–478.e10. doi:10.1016/j.prosdent.2021.09.033
+22. He Z, Bennani V, Aarts JM, Choi JJE, Veerasamy A. Fit accuracy of 3D printed Co-Cr multiunit implant-supported fixed dental prostheses: a systematic review of in vitro studies. J Prosthet Dent. 2026;135(1):64.e1–64.e10. doi:10.1016/j.prosdent.2025.08.033
+23. da Silva SEG, da Silva NR, Santos JVDN, Moreira FGG, Özcan M, Souza ROAE. Accuracy, adaptation and margin quality of monolithic zirconia crowns fabricated by 3D printing versus subtractive manufacturing technique: a systematic review and meta-analysis of in vitro studies. J Dent. 2024;147:105089. doi:10.1016/j.jdent.2024.105089
+24. Sengottaiyan AK, Bennani V, Veerasamy A. Marginal fit and internal adaptation of zirconia complete coverage fixed dental prostheses fabricated by milling versus 3D printing: a systematic review and meta-analysis of in vitro studies. J Prosthet Dent. 2026;136(2):379–89. doi:10.1016/j.prosdent.2026.02.051
+25. Rus F, Neculau C, Imre M, Duica F, Popa A, Moisa RM, et al. Polymeric materials used in 3DP in dentistry — biocompatibility testing challenges. Polymers (Basel). 2024;16(24):3550. doi:10.3390/polym16243550
+26. Dinescu M, Vasilescu VG, Ciocan LT, Voicu-Balasea B, Țâncu AMC, Ripszky A, et al. Evaluation of post-processing time's influence on biocompatibility of 3D-printed denture base resins. J Funct Biomater. 2026;17(4):188. doi:10.3390/jfb17040188

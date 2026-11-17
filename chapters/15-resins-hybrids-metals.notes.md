@@ -6,7 +6,6 @@
 - UNVERIFIED items: 0.
 
 ## References to check
-- **Recent or online-first, or with no article number or pages yet:** ref 10 (Bagratuni 2026, Int J Implant Dent 12(1)), ref 13 (Sarıkaya 2026, BMC Oral Health 26(1)), ref 16 (AlResayes 2026, BMC Oral Health 26(1)). Add article numbers before publication.
 - **Very recent (2026):** refs 6, 11, 15, 17 and 18. Confirm the final volume and pages.
 - **No DOI on PubMed:** ref 4 (Paqué 2025, Int J Esthet Dent), cited by PMID.
 - **Reused from earlier chapters:** ref 2 (Spitznagel 2018), ref 3 (Alghauli 2025), ref 12 (Waltenberger 2025 S3 guideline) and ref 24 (Abduo 2014).
@@ -45,3 +44,7 @@ None.
 - **Figure 15.3** (`figures/fig-15-3-coCr-routes.svg`): process lanes for the four Co-Cr routes listed in Section 15.5.1. Schematic, no numbers.
 - No new tables (the chapter already has four).
 - References unchanged (renumbering identity confirmed).
+
+## Update 2026-11 (quarterly update 1, 2026-11-17)
+Search window 2026-10-01 to 2026-11-17 (PubMed, entry date). Full report: `updates/2026-11.md`.
+- **Reference details completed:** ref 10 (Bagratuni 2026, Int J Implant Dent 12(1):10, PMID 41714584), ref 13 (Sarıkaya 2026, BMC Oral Health 26(1):1773, PMID 42387515), ref 16 (AlResayes 2026, BMC Oral Health 26(1):2008, PMID 42464084). Article numbers taken from the PubMed ELocationID. Item removed from "References to check". No content changes; no renumbering.
