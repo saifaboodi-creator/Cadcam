@@ -13,6 +13,10 @@ Working manuscript for a comprehensive, evidence-based book on computer-aided de
 | `OUTLINE.md` | Full table of contents with section plans for every chapter |
 | `chapters/` | One Markdown file per chapter (`01-introduction.md`, ...) |
 | `STYLE.md` | Writing and formatting conventions for the manuscript |
+| `PROGRESS.md` | Chapter status, UNVERIFIED totals, resume notes |
+| `build/CADCAM-in-Dentistry-Draft.pdf` | Compiled book (all 20 chapters) |
+| `tools/build_pdf.py` | Rebuilds the PDF: `python3 -I tools/build_pdf.py` (needs pandoc + Playwright/Chromium) |
+| `tools/renum.py` | Renumbers citations in Vancouver order of first appearance |
 
 ## Status
 
