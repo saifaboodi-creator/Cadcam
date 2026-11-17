@@ -110,7 +110,7 @@ Definitions; history (Duret, Mörmann, the CEREC system); the three parts of eve
 - Translucency versus strength; low-temperature degradation
 - Monolithic versus veneered restorations; bonding to zirconia
 
-### Chapter 15. Resin-Based and Hybrid Materials; Metals
+### Chapter 15. Resin-Based and Hybrid Materials; Metals *(drafted)*
 - Resin nanoceramics, polymer-infiltrated ceramic networks, CAD/CAM composites
 - PMMA and high-performance polymers (PEEK, PEKK)
 - CAD/CAM cobalt-chromium and titanium; milled versus laser-sintered metal
