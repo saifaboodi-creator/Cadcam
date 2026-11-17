@@ -18,7 +18,7 @@ Definitions; history (Duret, Mörmann, the CEREC system); the three parts of eve
 - Data protection and patient privacy (GDPR, HIPAA principles)
 - The "virtual patient": merging IOS, CBCT, facial scans and jaw motion
 
-### Chapter 3. Accuracy in Digital Dentistry: Concepts and Measurement
+### Chapter 3. Accuracy in Digital Dentistry: Concepts and Measurement *(drafted)*
 - Trueness and precision (ISO 5725 and ISO 12836)
 - Reference scanners, best-fit alignment and colour-map analysis
 - Marginal and internal fit: definitions, measurement methods, clinically acceptable ranges
