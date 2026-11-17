@@ -62,7 +62,7 @@ Definitions; history (Duret, Mörmann, the CEREC system); the three parts of eve
 - Occlusal design: static and dynamic contacts, virtual articulators
 - Artificial intelligence in automatic design
 
-### Chapter 8. Designing Tooth-Supported Restorations
+### Chapter 8. Designing Tooth-Supported Restorations *(drafted)*
 - Inlays, onlays, overlays, endocrowns
 - Veneers and additive mock-ups
 - Single crowns and multi-unit FDPs

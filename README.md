@@ -26,4 +26,5 @@ Working manuscript for a comprehensive, evidence-based book on computer-aided de
 | 5. Laboratory Scanners and Model Digitisation | Draft 1 |
 | 6. Three-Dimensional Imaging Beyond the Teeth | Draft 1 |
 | 7. Design Software: Principles and Tools | Draft 1 |
-| 8–20 | Not started |
+| 8. Designing Tooth-Supported Restorations | Draft 1 |
+| 9–20 | Not started |
