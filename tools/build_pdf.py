@@ -178,7 +178,29 @@ const {{ chromium }} = require('playwright');
 }})();
 """
     subprocess.run(["node", "-e", js], check=True, cwd=str(OUT))
+    compress(pdf_path)
     print(pdf_path)
+
+
+def compress(pdf_path):
+    """Lossless size reduction (object streams + recompressed streams).
+
+    Keeps every page, font, vector figure and text identical; needed because
+    connector uploads (e.g. Google Drive) are limited to about 3.1 MB per file.
+    Requires pikepdf (pip install pikepdf); skipped with a warning if missing.
+    """
+    try:
+        import pikepdf
+    except ImportError:
+        print("WARNING: pikepdf not installed; PDF left uncompressed (pip install pikepdf)")
+        return
+    tmp = pdf_path.with_suffix(".tmp.pdf")
+    with pikepdf.open(pdf_path) as pdf:
+        pdf.save(tmp, object_stream_mode=pikepdf.ObjectStreamMode.generate,
+                 compress_streams=True, recompress_flate=True)
+    before, after = pdf_path.stat().st_size, tmp.stat().st_size
+    tmp.replace(pdf_path)
+    print(f"compressed: {before/1e6:.2f} MB -> {after/1e6:.2f} MB")
 
 
 if __name__ == "__main__":
