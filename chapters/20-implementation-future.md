@@ -164,13 +164,15 @@ Digital workflows are now part of routine practice, and graduates are expected t
 
 Student studies show that digital impressions can be taught effectively early in training. After a short theoretical and practical module, 77% of fourth-year dental students were very or rather satisfied with intraoral scanning, and 58% preferred it to alginate from the dentist's perspective; the authors recommended including digital impressions in undergraduate training [12]. In a pre-clinical elective course comparing three intraoral scanners and CAD/CAM systems, students valued hands-on experience with several systems and showed clear preferences between them [13]. Both studies were small, and self-reported preferences are not the same as competence.
 
+At a 2026 dental education summit, a working group of eight academic and organisational leaders reached unanimous consensus. It recommended an **AI and technology curriculum** across all levels of dental education, a dedicated leadership role for integrating AI and emerging technologies, and the use of AI to support institutional effectiveness, faculty calibration, patient care and student learning. This is expert consensus, not trial evidence [14].
+
 ### 20.5.2 Simulation, virtual reality and haptics
 
 Virtual reality (VR), augmented reality (AR) and haptic simulators are increasingly used in dental education:
 
-- An umbrella review of 18 systematic reviews found that most reported improvements in skill development and psychomotor performance, especially in restorative dentistry and prosthodontics, and generally positive student perceptions. Few studies evaluated long-term retention, and methodological quality varied, with only a minority of reviews rated high confidence [14].
-- In periodontal education, immersive technologies improved procedural skills, engagement and communication, especially when combined with traditional training; AI diagnostic tools offered limited advantage and could introduce **automation bias**, and large language models showed variable accuracy [15].
-- In orthodontics, a meta-analysis found a large pooled benefit of haptic and VR systems for psychomotor learning and procedural planning, with high heterogeneity; benefits for direct patient care were not yet established [16].
+- An umbrella review of 18 systematic reviews found that most reported improvements in skill development and psychomotor performance, especially in restorative dentistry and prosthodontics, and generally positive student perceptions. Few studies evaluated long-term retention, and methodological quality varied, with only a minority of reviews rated high confidence [15].
+- In periodontal education, immersive technologies improved procedural skills, engagement and communication, especially when combined with traditional training; AI diagnostic tools offered limited advantage and could introduce **automation bias**, and large language models showed variable accuracy [16].
+- In orthodontics, a meta-analysis found a large pooled benefit of haptic and VR systems for psychomotor learning and procedural planning, with high heterogeneity; benefits for direct patient care were not yet established [17].
 
 The consistent message is that simulation and VR are valuable **adjuncts** to, not replacements for, supervised clinical training.
 
@@ -200,7 +202,7 @@ Crowns, bridges, dentures, splints, aligners and surgical guides are **medical d
 
 ### 20.6.2 Point-of-care manufacturing
 
-When a practice or hospital mills or prints devices itself, it takes on part of the role of a manufacturer. An example of how this can be organised is an academic point-of-care manufacturing unit certified to ISO 13485 in a Spanish university hospital, which produced 442 3D-printed devices for oral and maxillofacial surgery over about eight years, mostly anatomical models (about 68%), surgical guides (20%) and patient-specific implants (7%) [17]. The authors presented it as a model for integrating additive manufacturing into clinical practice while maintaining regulatory compliance [17].
+When a practice or hospital mills or prints devices itself, it takes on part of the role of a manufacturer. An example of how this can be organised is an academic point-of-care manufacturing unit certified to ISO 13485 in a Spanish university hospital, which produced 442 3D-printed devices for oral and maxillofacial surgery over about eight years, mostly anatomical models (about 68%), surgical guides (20%) and patient-specific implants (7%) [18]. The authors presented it as a model for integrating additive manufacturing into clinical practice while maintaining regulatory compliance [18].
 
 For a typical dental practice, the practical principles are:
 
@@ -211,7 +213,7 @@ For a typical dental practice, the practical principles are:
 
 ### 20.6.3 Liability
 
-Responsibility does not disappear when a machine or an algorithm does part of the work. The prescribing clinician remains responsible for diagnosis, the treatment plan, the prescription and the final fitting of the device. Where AI proposes a design or a diagnosis, continuous human oversight is expected and responsibility stays with the professional [18]. Contracts with laboratories and software providers should make clear who is responsible for what, including data protection (Chapter 2) **[UNVERIFIED — general principle; legal specifics vary by jurisdiction]**.
+Responsibility does not disappear when a machine or an algorithm does part of the work. The prescribing clinician remains responsible for diagnosis, the treatment plan, the prescription and the final fitting of the device. Where AI proposes a design or a diagnosis, continuous human oversight is expected and responsibility stays with the professional [19]. Contracts with laboratories and software providers should make clear who is responsible for what, including data protection (Chapter 2) **[UNVERIFIED — general principle; legal specifics vary by jurisdiction]**.
 
 ---
 
@@ -219,17 +221,17 @@ Responsibility does not disappear when a machine or an algorithm does part of th
 
 ### 20.7.1 Artificial intelligence
 
-AI is already embedded in scanning, segmentation, registration and design (Chapters 4, 6 and 7). AI-designed single crowns are now comparable with technician designs and much faster to produce, but multi-unit FDPs, inlays, proximal contacts and aesthetics still need human refinement [19]. More broadly, AI in dentistry faces barriers of limited data, methodological standards, practical value, ethics and responsibility; privacy and patient autonomy must be central, and federated learning may help [18].
+AI is already embedded in scanning, segmentation, registration and design (Chapters 4, 6 and 7). AI-designed single crowns are now comparable with technician designs and much faster to produce, but multi-unit FDPs, inlays, proximal contacts and aesthetics still need human refinement [20]. More broadly, AI in dentistry faces barriers of limited data, methodological standards, practical value, ethics and responsibility; privacy and patient autonomy must be central, and federated learning may help [19].
 
 Expect AI to take over more routine steps (margin marking, proposals, nesting, quality checks) and to move from *design assistance* towards *decision support*. The professional's role will shift towards checking, judging and taking responsibility.
 
 ### 20.7.2 The virtual patient and the digital twin
 
-The virtual patient (Figure 20.2), which combines intraoral scans, CBCT and facial scans, was first described as a static three-dimensional model, with a "4D virtual patient in motion" named as the next step [20]. Combining these data with jaw-motion tracking has since been described as a proof of concept [21]. In implant dentistry, the integration of all digital records into a comprehensive **digital twin** of the patient is seen as pointing towards predictive, patient-specific therapy, while raising economic, educational and ethical challenges, including investment, accessibility and **data security** [22].
+The virtual patient (Figure 20.2), which combines intraoral scans, CBCT and facial scans, was first described as a static three-dimensional model, with a "4D virtual patient in motion" named as the next step [21]. Combining these data with jaw-motion tracking has since been described as a proof of concept [22]. In implant dentistry, the integration of all digital records into a comprehensive **digital twin** of the patient is seen as pointing towards predictive, patient-specific therapy, while raising economic, educational and ethical challenges, including investment, accessibility and **data security** [23].
 
 ![Hub diagram: intraoral scans, CBCT, facial scans and jaw motion feed a virtual patient that becomes a digital twin, which supports AI decision support, clinic–laboratory review, manufacture and teledentistry](../figures/fig-20-2-digital-twin.svg)
 
-**Figure 20.2** The virtual patient as an integration hub, developing over time into a digital twin. Data security and human oversight apply throughout [18,20–22].
+**Figure 20.2** The virtual patient as an integration hub, developing over time into a digital twin. Data security and human oversight apply throughout [19,21–23].
 
 As Chapter 6 showed, the accuracy of merged datasets is still measured in tenths of a millimetre to millimetres. The digital twin is a powerful idea; its clinical value will depend on making each layer accurate enough for the decisions it is meant to support.
 
@@ -237,15 +239,15 @@ As Chapter 6 showed, the accuracy of merged datasets is still measured in tenths
 
 Digital dentistry is often assumed to be greener because it uses less impression material and fewer stone casts. The evidence is more cautious:
 
-- A life cycle assessment of removable partial denture fabrication found **lower carbon emissions** for digital workflows (65.22 and 78.63 kg CO₂) than for traditional alginate-based workflows (77.29 and 94.67 kg CO₂), largely through fewer appointments and less patient travel; using local laboratories reduced the footprint by about 18% across both workflow types [23].
-- A scoping review of life cycle assessment evidence concluded that digital dental workflows are **not inherently sustainable**: they may reduce environmental burden when they cut appointments, material use, transport and remakes without adding disproportionate energy, equipment, post-processing or hazardous waste burdens. Direct evidence was sparse and did not justify pooled conclusions [24].
-- In a survey of 175 dental students from 14 European schools, 56% named 3D printing and CAD/CAM as a strategy to reduce dentistry's environmental impact, and 42% were interested in an elective course on sustainability [25].
+- A life cycle assessment of removable partial denture fabrication found **lower carbon emissions** for digital workflows (65.22 and 78.63 kg CO₂) than for traditional alginate-based workflows (77.29 and 94.67 kg CO₂), largely through fewer appointments and less patient travel; using local laboratories reduced the footprint by about 18% across both workflow types [24].
+- A scoping review of life cycle assessment evidence concluded that digital dental workflows are **not inherently sustainable**: they may reduce environmental burden when they cut appointments, material use, transport and remakes without adding disproportionate energy, equipment, post-processing or hazardous waste burdens. Direct evidence was sparse and did not justify pooled conclusions [25].
+- In a survey of 175 dental students from 14 European schools, 56% named 3D printing and CAD/CAM as a strategy to reduce dentistry's environmental impact, and 42% were interested in an elective course on sustainability [26].
 
-Practical steps include maximising equipment utilisation, nesting milling and printing jobs, minimising remakes, handling resin and solvent waste correctly (Chapter 11), choosing local laboratories where possible [23], and replacing physical shipping with data transfer.
+Practical steps include maximising equipment utilisation, nesting milling and printing jobs, minimising remakes, handling resin and solvent waste correctly (Chapter 11), choosing local laboratories where possible [24], and replacing physical shipping with data transfer.
 
 ### 20.7.4 Teledentistry
 
-Digital records make remote care easier. A systematic review of 34 studies found that teledentistry, mostly asynchronous and mobile-based tele-diagnosis, can support accurate, cost-effective and timely diagnosis and consultation and improve access, particularly in underserved regions; most studies were cross-sectional, limiting the strength of the conclusions [26]. Reported barriers to adoption include limited awareness and training, infrastructure, privacy and data security, cost, diagnostic accuracy and a preference for in-person care [27].
+Digital records make remote care easier. A systematic review of 34 studies found that teledentistry, mostly asynchronous and mobile-based tele-diagnosis, can support accurate, cost-effective and timely diagnosis and consultation and improve access, particularly in underserved regions; most studies were cross-sectional, limiting the strength of the conclusions [27]. Reported barriers to adoption include limited awareness and training, infrastructure, privacy and data security, cost, diagnostic accuracy and a preference for in-person care [28].
 
 For CAD/CAM, teledentistry is likely to mean remote monitoring with repeated intraoral scans (Chapter 4), remote design review between clinic and laboratory, and specialist consultation on virtual patient data, always within the data-protection rules of Chapter 2.
 
@@ -273,9 +275,9 @@ Used with these principles, CAD/CAM does not replace clinical judgement or craft
 - **Cost evidence is thin**: digital workflows shorten laboratory time, but time savings at the chair are inconsistent and tooth-supported cost-effectiveness has not been studied [4]. Implant-crown workflows showed about 18% lower costs [5].
 - **Utilisation** drives return on investment. Budget for the learning curve [9,10].
 - **Structured digital prescriptions** with mandatory fields improve communication [11]. Agree design-approval procedures with the laboratory.
-- Digital impressions can be taught early [12,13]. **VR and haptics** are promising adjuncts with methodologically limited evidence [14–16].
-- Dental devices are **regulated medical devices**; in-house manufacture brings documentation, traceability and quality obligations [17]. Professionals remain responsible for AI-assisted work [18].
-- AI, the **digital twin**, sustainability and teledentistry will shape the next decade [18–27], but each requires evidence, data security and human oversight.
+- Digital impressions can be taught early [12,13]. **VR and haptics** are promising adjuncts with methodologically limited evidence [15–17].
+- Dental devices are **regulated medical devices**; in-house manufacture brings documentation, traceability and quality obligations [18]. Professionals remain responsible for AI-assisted work [19].
+- AI, the **digital twin**, sustainability and teledentistry will shape the next decade [19–28], but each requires evidence, data security and human oversight.
 
 ---
 
@@ -307,17 +309,18 @@ Used with these principles, CAD/CAM does not replace clinical judgement or craft
 11. Kohli S, Asyraf TM, Afiff M, Jamayet NB, Dhaliwal JS. Improving the quality of dental laboratory prescription forms through training and digital workflow. Int J Dent. 2026;2026:8504529. doi:10.1155/ijod/8504529
 12. Schott TC, Arsalan R, Weimer K. Students' perspectives on the use of digital versus conventional dental impression techniques in orthodontics. BMC Med Educ. 2019;19(1):81. doi:10.1186/s12909-019-1512-3
 13. Zoidis P, Motlagh N, Tarte S, Vaughan C, Phu L, Vandewater L, et al. Dental students' perspectives on three intraoral scanners and CAD/CAM systems before and after a pre-clinical elective course in digital dentistry. J Clin Exp Dent. 2022;14(10):e803–e808. doi:10.4317/jced.59923
-14. Corvalan-Diaz C, Havellas W, Miletic V. Effects of virtual reality, augmented reality and haptic technology versus conventional training on dental education outcomes: an umbrella review. Eur J Dent Educ. 2026. doi:10.1111/eje.70219
-15. Wei Y, Li Y, Hu W, Kang J, Han Z, Zhen M, et al. Artificial intelligence and immersive digital technologies in periodontal education: a systematic review. Front Oral Health. 2026;7:1741033. doi:10.3389/froh.2026.1741033
-16. Alam MK, Alsaeed S, Hajeer MY, Abutayyem H, Alayyash A. Haptic technology in orthodontics: a systematic review and meta-analysis. Front Oral Health. 2026;7:1768079. doi:10.3389/froh.2026.1768079
-17. Tousidonis M, Ruiz-de-Leon G, Navarro-Cuellar C, Ochandiano S, Salmeron JI, Franco Herrera R, et al. Academic point-of-care manufacturing in oral and maxillofacial surgery: a retrospective review at Gregorio Marañón University Hospital. Medicina (Kaunas). 2026;62(1):234. doi:10.3390/medicina62010234
-18. Schwendicke F, Samek W, Krois J. Artificial intelligence in dentistry: chances and challenges. J Dent Res. 2020;99(7):769–74. doi:10.1177/0022034520915714
-19. Limpuangthip N, Hlaing NHMM, Lee SJ, Lee JH. Design quality and time efficiency of AI-based versus human-based design for tooth- and implant-supported fixed dental restorations: a systematic review. J Dent. 2026;170:106644. doi:10.1016/j.jdent.2026.106644
-20. Joda T, Gallucci GO. The virtual patient in dental medicine. Clin Oral Implants Res. 2015;26(6):725–6. doi:10.1111/clr.12379
-21. Haku-Mizuhara K, Tanabe G, Kadempour A, Mirafzali S, Yotsuya M, Yamaguchi S. Development of a 4-dimensional virtual patient in motion: a digital concept. J Prosthet Dent. 2026;135(1):47–53. doi:10.1016/j.prosdent.2025.02.064
-22. Joda T, Lee J, Pala K, Poon J, Jung RE, Gallucci GO. Digital implant dentistry: the past, the present, the future. J Periodontal Res. 2026;61(8):877–93. doi:10.1111/jre.70139
-23. Rosenblatt A, Sabu P, McAuley K, Ryan E, Malaj T, Tiew N, et al. Life cycle assessment of the complete denture fabrication process using traditional impressions versus intra-oral scanning. Br Dent J. 2026;240(3):161–7. doi:10.1038/s41415-025-9250-x
-24. Bijoch J, Jędrasiak K. Life cycle assessment evidence for digital dental workflows: a scoping review and evidence map of additive manufacturing, subtractive CAD/CAM, and conventional care. BMC Oral Health. 2026;26(1). doi:10.1186/s12903-026-09534-6
-25. Țâncu AMC, Brand HS, Imre M, Pantea M, Pițuru SM, Sfeatcu R, et al. Are tomorrow's dentists ready for a sustainable future? Insights from a European student survey. Front Dent Med. 2026;7:1788789. doi:10.3389/fdmed.2026.1788789
-26. Dinari F, Ghaemi MM, Bahaadinbeigy K, Hajesmaeel-Gohari S. The use of teledentistry in diagnosis, consultation, and treatment of oral and dental diseases: a systematic review study. Health Sci Rep. 2026;9(5):e71989. doi:10.1002/hsr2.71989
-27. Hakami A, Mohan S. The perceived facilitators and barriers to the potential adoption of teledentistry among dental care providers in Saudi Arabia: a systematic review. PLoS One. 2026;21(9):e0359436. doi:10.1371/journal.pone.0359436
+14. Wu DT, Brownstein S, Campos M, Crain G, Licari F, Rosato R, et al. Reimagining dental education: consensus recommendations for innovation, technology integration, and practice transformation. J Dent Educ. 2026. Epub ahead of print. doi:10.1002/jdd.70420
+15. Corvalan-Diaz C, Havellas W, Miletic V. Effects of virtual reality, augmented reality and haptic technology versus conventional training on dental education outcomes: an umbrella review. Eur J Dent Educ. 2026. doi:10.1111/eje.70219
+16. Wei Y, Li Y, Hu W, Kang J, Han Z, Zhen M, et al. Artificial intelligence and immersive digital technologies in periodontal education: a systematic review. Front Oral Health. 2026;7:1741033. doi:10.3389/froh.2026.1741033
+17. Alam MK, Alsaeed S, Hajeer MY, Abutayyem H, Alayyash A. Haptic technology in orthodontics: a systematic review and meta-analysis. Front Oral Health. 2026;7:1768079. doi:10.3389/froh.2026.1768079
+18. Tousidonis M, Ruiz-de-Leon G, Navarro-Cuellar C, Ochandiano S, Salmeron JI, Franco Herrera R, et al. Academic point-of-care manufacturing in oral and maxillofacial surgery: a retrospective review at Gregorio Marañón University Hospital. Medicina (Kaunas). 2026;62(1):234. doi:10.3390/medicina62010234
+19. Schwendicke F, Samek W, Krois J. Artificial intelligence in dentistry: chances and challenges. J Dent Res. 2020;99(7):769–74. doi:10.1177/0022034520915714
+20. Limpuangthip N, Hlaing NHMM, Lee SJ, Lee JH. Design quality and time efficiency of AI-based versus human-based design for tooth- and implant-supported fixed dental restorations: a systematic review. J Dent. 2026;170:106644. doi:10.1016/j.jdent.2026.106644
+21. Joda T, Gallucci GO. The virtual patient in dental medicine. Clin Oral Implants Res. 2015;26(6):725–6. doi:10.1111/clr.12379
+22. Haku-Mizuhara K, Tanabe G, Kadempour A, Mirafzali S, Yotsuya M, Yamaguchi S. Development of a 4-dimensional virtual patient in motion: a digital concept. J Prosthet Dent. 2026;135(1):47–53. doi:10.1016/j.prosdent.2025.02.064
+23. Joda T, Lee J, Pala K, Poon J, Jung RE, Gallucci GO. Digital implant dentistry: the past, the present, the future. J Periodontal Res. 2026;61(8):877–93. doi:10.1111/jre.70139
+24. Rosenblatt A, Sabu P, McAuley K, Ryan E, Malaj T, Tiew N, et al. Life cycle assessment of the complete denture fabrication process using traditional impressions versus intra-oral scanning. Br Dent J. 2026;240(3):161–7. doi:10.1038/s41415-025-9250-x
+25. Bijoch J, Jędrasiak K. Life cycle assessment evidence for digital dental workflows: a scoping review and evidence map of additive manufacturing, subtractive CAD/CAM, and conventional care. BMC Oral Health. 2026;26(1). doi:10.1186/s12903-026-09534-6
+26. Țâncu AMC, Brand HS, Imre M, Pantea M, Pițuru SM, Sfeatcu R, et al. Are tomorrow's dentists ready for a sustainable future? Insights from a European student survey. Front Dent Med. 2026;7:1788789. doi:10.3389/fdmed.2026.1788789
+27. Dinari F, Ghaemi MM, Bahaadinbeigy K, Hajesmaeel-Gohari S. The use of teledentistry in diagnosis, consultation, and treatment of oral and dental diseases: a systematic review study. Health Sci Rep. 2026;9(5):e71989. doi:10.1002/hsr2.71989
+28. Hakami A, Mohan S. The perceived facilitators and barriers to the potential adoption of teledentistry among dental care providers in Saudi Arabia: a systematic review. PLoS One. 2026;21(9):e0359436. doi:10.1371/journal.pone.0359436

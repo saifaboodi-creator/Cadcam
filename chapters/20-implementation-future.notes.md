@@ -49,3 +49,9 @@ All figures are original SVG diagrams/charts (`figures/`), drawn to `figures/FIG
 - **New Table 20.2** (Section 20.3.2): return-on-investment worksheet built from the cost and benefit items already listed in the text, with the existing citations [4–6,8,9].
 - **Renumbered:** the former Table 20.2 (curriculum) is now **Table 20.3**; the notes line above was updated.
 - Decision: did **not** chart the life cycle assessment figures from [23], because the chapter does not state what the paired values (65.22/78.63 and 77.29/94.67 kg CO₂) correspond to; labelling them would have required information not in the text.
+
+## Update 2026-11 (quarterly update 1, 2026-11-17)
+Search window 2026-10-01 to 2026-11-17 (PubMed, entry date). Full report: `updates/2026-11.md`.
+- **Added (Section 20.5.1):** Wu et al. 2026, J Dent Educ, online ahead of print (PMID 43002539, doi:10.1002/jdd.70420), new ref 14. Consensus recommendations (8-member working group, unanimous) from the 2026 Reimagining Dental Education Summit: AI and technology curriculum at all levels, a dedicated leadership role, AI for institutional effectiveness, calibration, patient care and learning. Labelled as expert consensus in the text.
+- **References to check:** new ref 14 is online-first. The Corvalan-Diaz online-first item above is now **ref 15**.
+- **Reference numbers changed.** `tools/renum.py` renumbered the list after the new reference was added. Reference numbers in the sections above this one use the **old** numbering. Old → new: 28→14, 14→15, 15→16, 16→17, 17→18, 18→19, 19→20, 20→21, 21→22, 22→23, 23→24, 24→25, 25→26, 26→27, 27→28. Unlisted numbers are unchanged.

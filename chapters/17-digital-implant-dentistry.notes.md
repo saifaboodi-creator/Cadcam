@@ -50,3 +50,10 @@ All figures are original SVG diagrams/charts (`figures/`), drawn to `figures/FIG
 - **Figure 17.2** (`fig-17-2-deviation-measures.svg`, Section 17.3.2): definitional diagram of entry, apex and angular deviation (planned vs placed implant), deviations exaggerated for clarity (stated in the figure and caption).
 - **Figure 17.3** (`fig-17-3-guidance-accuracy.svg`, Section 17.3.2): two-panel bar chart (separate scales, both from zero) of mean angular deviation (7.46°, 5.94°, 2.57°, 3.67°) and apex deviation (2.22, 1.43, 0.88, 1.36 mm) for freehand, pilot-drill, fully guided and dynamic placement. Data from [6] (Werny 2025, 55 studies), as already given in the text and Table 17.2.
 - No new tables (chapter already had three).
+
+## Update 2026-11 (quarterly update 1, 2026-11-17)
+Search window 2026-10-01 to 2026-11-17 (PubMed, entry date). Full report: `updates/2026-11.md`.
+- **Added (Section 17.3.4, after the error list):** Hijazi Muwaquet et al. 2026, J Clin Med 15(20):7935 (PMID 42941450, doi:10.3390/jcm15207935), new ref 11. 11 studies (10 in vitro, 1 RCT): sleeve-free guides lower angular (MD −0.61°) and apical (MD −0.27 mm) deviation; no difference at platform; prediction intervals crossed zero. Reason: first meta-analysis on sleeve design, a factor already listed in 17.3.4.
+- **Weak evidence:** mostly in vitro; MDPI journal.
+- Linn 2026 (robotic accuracy, PMID 42866607) and Zhu 2026 (robotic, edentulous) were already cited; no change.
+- **Reference numbers changed.** `tools/renum.py` renumbered the list after the new reference was added. Reference numbers in the sections above this one use the **old** numbering. Old → new: 25→11, 11→12, 12→13, 13→14, 14→15, 15→16, 16→17, 17→18, 18→19, 19→20, 20→21, 21→22, 22→23, 23→24, 24→25. Unlisted numbers are unchanged.

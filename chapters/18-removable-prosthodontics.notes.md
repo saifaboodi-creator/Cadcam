@@ -46,3 +46,9 @@ All figures are original SVG diagrams/charts (`figures/`), drawn to `figures/FIG
 - **Figure 18.3** (`fig-18-3-rpd-framework-fit.svg`, Section 18.4.3): bar chart of mean gaps, SLM from conventional impression 79.5 µm, SLM from intraoral scan 85.3 µm, conventional casting 114.2 µm. Data from [14]; the caption and figure note it is a single in vitro study with differences of minimal clinical significance.
 - **New Table 18.2** (end of Section 18.4.4): RPD framework manufacturing routes, summarising evidence already cited in 18.4 ([11,12,14–20]). The "printed pattern + casting" row states that no route-specific outcome data are summarised in the chapter (no claim invented). Placed after 18.4.4 so that no reference is cited before its first appearance in the text.
 - **Renumbered:** the former Table 18.2 (summary) is now **Table 18.3**.
+
+## Update 2026-11 (quarterly update 1, 2026-11-17)
+Search window 2026-10-01 to 2026-11-17 (PubMed, entry date). Full report: `updates/2026-11.md`.
+- **Added (Section 18.3.1):** Malikhao et al. 2026, J Prosthet Dent, online ahead of print (PMID 42951779, doi:10.1016/j.prosdent.2026.10.002), new ref 5. Meta-analysis of in vitro studies (10 included, 4 pooled): surface treatment raised printed tooth–base shear bond strength by MD 5.43 MPa (95% CI 2.21–8.66); airborne-particle abrasion effective; MMA alone not significant. Reason: the chapter flags the tooth–base bond as a weak point (Table 18.1) without evidence on how to treat it.
+- **References to check:** new ref 5 is online-first. The Prott 2026 online-first item above is now **ref 6**.
+- **Reference numbers changed.** `tools/renum.py` renumbered the list after the new reference was added. Reference numbers in the sections above this one use the **old** numbering. Old → new: 27→5, 5→6, 6→7, 7→8, 8→9, 9→10, 10→11, 11→12, 12→13, 13→14, 14→15, 15→16, 16→17, 17→18, 18→19, 19→20, 20→21, 21→22, 22→23, 23→24, 24→25, 25→26, 26→27. Unlisted numbers are unchanged.
