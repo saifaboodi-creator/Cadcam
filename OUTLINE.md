@@ -105,7 +105,7 @@ Definitions; history (Duret, Mörmann, the CEREC system); the three parts of eve
 - Feldspathic, leucite-reinforced, lithium disilicate, zirconia-reinforced lithium silicate
 - Properties, indications, adhesive cementation
 
-### Chapter 14. Zirconia
+### Chapter 14. Zirconia *(drafted)*
 - Generations: 3Y-TZP to 4Y/5Y-PSZ; multilayer and gradient zirconia
 - Translucency versus strength; low-temperature degradation
 - Monolithic versus veneered restorations; bonding to zirconia
@@ -124,7 +124,7 @@ Definitions; history (Duret, Mörmann, the CEREC system); the three parts of eve
 - Clinical outcomes and survival of chairside restorations
 - Integrating chairside CAD/CAM into practice: economics and team training
 
-### Chapter 17. Digital Implant Dentistry
+### Chapter 17. Digital Implant Dentistry *(drafted)*
 - Prosthetically driven planning; static guided surgery (tooth-, mucosa-, bone-supported guides)
 - Accuracy of guided surgery; dynamic navigation and robotics
 - Immediate provisionalisation; digital workflows for edentulous arches
