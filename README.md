@@ -28,4 +28,6 @@ Working manuscript for a comprehensive, evidence-based book on computer-aided de
 | 7. Design Software: Principles and Tools | Draft 1 |
 | 8. Designing Tooth-Supported Restorations | Draft 1 |
 | 9. Designing Implant Restorations | Draft 1 |
-| 10–20 | Not started |
+| 10. Subtractive Manufacturing | Draft 1 |
+| 11. Additive Manufacturing | Draft 1 |
+| 12–20 | In progress |

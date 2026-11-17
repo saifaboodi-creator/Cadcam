@@ -78,14 +78,14 @@ Definitions; history (Duret, Mörmann, the CEREC system); the three parts of eve
 
 ## Part IV — Computer-Aided Manufacturing
 
-### Chapter 10. Subtractive Manufacturing: Milling and Grinding
+### Chapter 10. Subtractive Manufacturing: Milling and Grinding *(drafted)*
 - Machine axes (3, 4, 5); wet and dry milling
 - Tools, burs, toolpath strategies and CAM software
 - Milling resolution, minimum radius and edge chipping
 - Chairside mills versus laboratory and industrial centres
 - Pre-sintered and fully sintered materials; sintering and crystallisation furnaces
 
-### Chapter 11. Additive Manufacturing (3D Printing)
+### Chapter 11. Additive Manufacturing (3D Printing) *(drafted)*
 - Technologies: SLA, DLP, LCD/MSLA, material jetting, binder jetting, FDM, SLM/DMLS
 - Printing parameters: layer thickness, orientation, supports, post-curing
 - Dental applications: models, surgical guides, splints, trays, provisional and definitive resins, denture bases and teeth, metal frameworks

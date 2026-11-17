@@ -23,8 +23,8 @@ Resume point for any new session. Update after every chapter.
 | 7 | Design Software: Principles and Tools | `chapters/07-design-software.md` | Draft 1 | 19 | 0 | — |
 | 8 | Designing Tooth-Supported Restorations | `chapters/08-tooth-supported-restorations.md` | Draft 1 | 16 | 0 | — |
 | 9 | Designing Implant Restorations | `chapters/09-implant-restorations.md` | Draft 1 | 25 | 0 | — |
-| 10 | Subtractive Manufacturing: Milling and Grinding | `chapters/10-subtractive-manufacturing.md` | In progress | | | |
-| 11 | Additive Manufacturing (3D Printing) | `chapters/11-additive-manufacturing.md` | In progress | | | |
+| 10 | Subtractive Manufacturing: Milling and Grinding | `chapters/10-subtractive-manufacturing.md` | Draft 1 | 26 | 1 | `chapters/10-subtractive-manufacturing.notes.md` |
+| 11 | Additive Manufacturing (3D Printing) | `chapters/11-additive-manufacturing.md` | Draft 1 | 25 | 0 | `chapters/11-additive-manufacturing.notes.md` |
 | 12 | Finishing, Characterisation and Quality Control | `chapters/12-finishing-quality-control.md` | In progress | | | |
 | 13 | Glass-Ceramics | `chapters/13-glass-ceramics.md` | In progress | | | |
 | 14 | Zirconia | `chapters/14-zirconia.md` | In progress | | | |
