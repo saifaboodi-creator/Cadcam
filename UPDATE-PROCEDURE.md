@@ -37,6 +37,12 @@ Keep the evidence current. Add important new studies (especially systematic revi
      - the top 5 items for the author to review.
    - Update `PROGRESS.md`: reference counts, UNVERIFIED totals and last update date.
 7. **Rebuild** the PDF with `python3 -I tools/build_pdf.py`, then check the page count and that there are no missing images.
+7b. **Save to Google Drive** (author request, 2026-11-17). Every new version of the book PDF is saved to the author's Google Drive folder **Cadcam** (folder ID `1KYAveZ_B75_WVq8y0eUiBkKsMdtvc9Y1`):
+   - List the folder (`search_files` with `parentId = '1KYAveZ_B75_WVq8y0eUiBkKsMdtvc9Y1'`). Find the highest existing `CADCAM-in-Dentistry-vsN.pdf`, and use N+1 for the new file.
+   - Upload `build/CADCAM-in-Dentistry-Draft.pdf` as `CADCAM-in-Dentistry-vs<N+1>.pdf`. Use `create_file` with `parentId` set to the folder ID, `contentMimeType: application/pdf` and `disableConversionToGoogleType: true`. Pass `base64Content` as a file reference (`sha256:<hash>:<absolute path>`; get the hash with `sha256sum`).
+   - Upload the update report `updates/YYYY-MM.md` to the same folder (`contentMimeType: text/markdown`, `disableConversionToGoogleType: true`).
+   - Confirm both files appear in the folder. Record the file names and links in the update report and in the summary for the author.
+   - If the Google Drive tools are not available, say so in the report and the summary (the PDF is still in the repository), and continue.
 8. **Commit and push** to the book branch (`claude/cad-cam-dentistry-book-5d2foe`). Commit in logical steps, for example one commit per chapter group plus one for the report and PDF.
    - If `git push` is refused (HTTP 403) but the GitHub tools work, push the changed files with the GitHub `push_files` tool to the same branch, then sync the local copy with `git pull --rebase`.
 9. If PubMed or GitHub is unavailable, write the report with status **BLOCKED** and the reason, commit what is possible, and stop.
