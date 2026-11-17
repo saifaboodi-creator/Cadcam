@@ -27,10 +27,10 @@ Resume point for any new session. Update after every chapter.
 | 11 | Additive Manufacturing (3D Printing) | `chapters/11-additive-manufacturing.md` | In progress | | | |
 | 12 | Finishing, Characterisation and Quality Control | `chapters/12-finishing-quality-control.md` | In progress | | | |
 | 13 | Glass-Ceramics | `chapters/13-glass-ceramics.md` | In progress | | | |
-| 14 | Zirconia | `chapters/14-zirconia.md` | Not started | | | |
-| 15 | Resin-Based and Hybrid Materials; Metals | `chapters/15-resins-hybrids-metals.md` | Not started | | | |
-| 16 | Chairside CAD/CAM in Restorative Dentistry | `chapters/16-chairside-cadcam.md` | Not started | | | |
-| 17 | Digital Implant Dentistry | `chapters/17-digital-implant-dentistry.md` | Not started | | | |
+| 14 | Zirconia | `chapters/14-zirconia.md` | In progress | | | |
+| 15 | Resin-Based and Hybrid Materials; Metals | `chapters/15-resins-hybrids-metals.md` | In progress | | | |
+| 16 | Chairside CAD/CAM in Restorative Dentistry | `chapters/16-chairside-cadcam.md` | In progress | | | |
+| 17 | Digital Implant Dentistry | `chapters/17-digital-implant-dentistry.md` | In progress | | | |
 | 18 | Removable Prosthodontics | `chapters/18-removable-prosthodontics.md` | Not started | | | |
 | 19 | Orthodontics and Other Specialties | `chapters/19-orthodontics-other-specialties.md` | Not started | | | |
 | 20 | Implementation, Economics, Education and the Future | `chapters/20-implementation-future.md` | Not started | | | |
