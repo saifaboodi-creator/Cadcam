@@ -42,3 +42,9 @@
 
 ## Update 2026-11 (trial run)
 - Ref 15 (Altalla, J Prosthet Dent 135(5):e60–e70, PMID 41241558): year corrected from 2025 to 2026, to match the volume year (issue 135(5) = 2026) and the print-year convention used throughout the book. The error was found by the trial update run.
+
+## Update 2026-11 (quarterly update 1, 2026-11-17)
+Search window 2026-10-01 to 2026-11-17 (PubMed, entry date). Full report: `updates/2026-11.md`.
+- **Added (Section 3.4.3, Implant scans):** Li et al. 2026, J Prosthet Dent, online ahead of print (PMID 42946612, doi:10.1016/j.prosdent.2026.09.031), new ref 17. Systematic review of 23 studies (22 in vitro, 1 clinical): plain intraoral scans (with or without scan aid) more accurate than the splinted open-tray impression for short spans, less accurate for long spans; calibrated scans appeared better in long spans (2 studies only); no studies of intraoral photogrammetry. Reason: adds a technique-category comparison with the conventional impression that the section lacked.
+- **References to check:** new ref 17 is online-first (no volume or pages yet).
+- **Reference numbers changed.** `tools/renum.py` renumbered the list after the new reference was added. Reference numbers in the sections above this one use the **old** numbering. Old → new: 31→17, 17→18, 18→19, 19→20, 20→21, 21→22, 22→23, 23→24, 24→25, 25→26, 26→27, 27→28, 28→29, 29→30, 30→31. Unlisted numbers are unchanged.

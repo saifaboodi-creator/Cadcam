@@ -137,6 +137,7 @@ For implant-supported prostheses, the key measures are the **linear (3D position
 - **Splinting** scan bodies (connecting them with a rigid or scannable link) significantly improved linear trueness in a meta-analysis of eight studies. It did not consistently improve angular or RMS outcomes [13].
 - **Extraoral photogrammetry**, which records scan-body positions with dedicated cameras and coded targets, achieved a mean linear trueness of 69 µm and a mean angular trueness of 0.23° in a meta-analysis of 26 studies. The authors judged it clinically acceptable for recording implant positions [14].
 - Two further meta-analyses comparing photogrammetry directly with intraoral scanners found photogrammetry significantly more true and precise [15,16]. One noted that intraoral scanners sometimes exceeded an angular deviation of 1°, which is often quoted as a limit for passive fit. It recommended a rigid prototype try-in until more clinical evidence is available [16].
+- A systematic review of 23 studies (22 in vitro, 1 clinical) compared categories of complete-arch implant scanning with the splinted open-tray impression. Plain intraoral scans, with or without a scan aid, were more accurate than the conventional impression for **short spans** (premolar to premolar) but less accurate for **long spans**. Scans calibrated against a high-accuracy scan of an auxiliary structure appeared more accurate than the conventional technique in long spans, but only two studies tested this, and intraoral photogrammetry had not yet been compared [17].
 
 > **Clinical Tip.** For complete-arch implant frameworks, treat an intraoral scan as a hypothesis to be tested. Splint scan bodies or use photogrammetry where available, and verify the scan with a rigid verification jig or printed prototype before making the definitive framework.
 
@@ -146,9 +147,9 @@ For implant-supported prostheses, the key measures are the **linear (3D position
 
 ### 3.5.1 Terminology
 
-The words used to describe fit vary widely in the literature. Holmes and colleagues proposed a geometric set of definitions that is still the standard reference [17] (Table 3.2).
+The words used to describe fit vary widely in the literature. Holmes and colleagues proposed a geometric set of definitions that is still the standard reference [18] (Table 3.2).
 
-**Table 3.2** Terms used to describe fit (after Holmes et al. [17])
+**Table 3.2** Terms used to describe fit (after Holmes et al. [18])
 
 | Term | Definition |
 |---|---|
@@ -160,21 +161,21 @@ The words used to describe fit vary widely in the literature. Holmes and colleag
 | **Absolute marginal discrepancy** | Angular combination of vertical discrepancy and over- or underextension: the distance from the restoration margin to the preparation cavosurface angle |
 | **Seating discrepancy** | Vertical distance from the occlusal surface of the preparation to the restoration, reflecting incomplete seating |
 
-Holmes and colleagues considered the **absolute marginal discrepancy** perhaps the best single measure, because it is always the largest value at the margin and reflects the total misfit at that point [17] (Figure 3.3).
+Holmes and colleagues considered the **absolute marginal discrepancy** perhaps the best single measure, because it is always the largest value at the margin and reflects the total misfit at that point [18] (Figure 3.3).
 
 ![Cross-section of a crown margin labelled with fit terms](../figures/fig-03-3-holmes-fit.svg)
 
-**Figure 3.3** Fit terminology at a crown margin, after Holmes et al. [17]. The crown is shown incompletely seated and overextended so that every term can be drawn. Schematic, not to scale.
+**Figure 3.3** Fit terminology at a crown margin, after Holmes et al. [18]. The crown is shown incompletely seated and overextended so that every term can be drawn. Schematic, not to scale.
 
 ### 3.5.2 What is clinically acceptable?
 
-No threshold for marginal fit is supported by strong clinical evidence. The figure most often cited is **120 µm**, which comes from McLean and von Fraunhofer's in vivo study of cement film thickness [18] **[UNVERIFIED]**. Many modern studies still use it as the limit of acceptability [19]. Treat it as a convention, not a biological threshold.
+No threshold for marginal fit is supported by strong clinical evidence. The figure most often cited is **120 µm**, which comes from McLean and von Fraunhofer's in vivo study of cement film thickness [19] **[UNVERIFIED]**. Many modern studies still use it as the limit of acceptability [20]. Treat it as a convention, not a biological threshold.
 
 Within that convention, CAD/CAM restorations generally perform well:
 
-- A systematic review of 54 studies covering 17 ceramic systems found that 94.9% of all reported marginal gaps were clinically acceptable. The studies were too heterogeneous for meta-analysis. Four factors influenced marginal fit: finish-line design, the cement-space setting, veneering and cementation [20].
-- A systematic review of CAD/CAM restoration fit studies summarised similar findings across materials and systems [21].
-- A meta-analysis of single-unit ceramic restorations made from digital or conventional impressions found **no significant difference** in marginal fit. In vitro, mean marginal gaps were 63.3 µm (digital) and 58.9 µm (conventional). In vivo they were 56.1 µm (digital) and 79.2 µm (conventional) [22].
+- A systematic review of 54 studies covering 17 ceramic systems found that 94.9% of all reported marginal gaps were clinically acceptable. The studies were too heterogeneous for meta-analysis. Four factors influenced marginal fit: finish-line design, the cement-space setting, veneering and cementation [21].
+- A systematic review of CAD/CAM restoration fit studies summarised similar findings across materials and systems [22].
+- A meta-analysis of single-unit ceramic restorations made from digital or conventional impressions found **no significant difference** in marginal fit. In vitro, mean marginal gaps were 63.3 µm (digital) and 58.9 µm (conventional). In vivo they were 56.1 µm (digital) and 79.2 µm (conventional) [23].
 
 ---
 
@@ -192,12 +193,12 @@ The method used to measure fit strongly affects the result.
 | **Micro-CT** | X-ray microtomography of the restoration on the die | Non-destructive; 3D; thousands of measurement points | Expensive; in vitro; metal artefacts |
 | **Digital (triple-scan) methods** | Scan the die, the intaglio surface and the seated restoration; calculate the gap digitally | 3D; non-destructive; can be done chairside | Depends on scanner accuracy and alignment |
 
-A review of 183 studies found that direct view (47.5%), cross-sectioning (23.5%) and the replica technique (20.2%) were the most common methods. Reported gaps varied widely because of differences in study design, sample size, finish line and the stage at which fit was measured. The authors recommended at least **30 specimens with 50 measurements per specimen**, and using two methods together to confirm results [23]. Micro-CT has been recommended for future research on marginal adaptation [20].
+A review of 183 studies found that direct view (47.5%), cross-sectioning (23.5%) and the replica technique (20.2%) were the most common methods. Reported gaps varied widely because of differences in study design, sample size, finish line and the stage at which fit was measured. The authors recommended at least **30 specimens with 50 measurements per specimen**, and using two methods together to confirm results [24]. Micro-CT has been recommended for future research on marginal adaptation [21].
 
 Two examples show how strongly the method affects the numbers:
 
-- A clinical trial compared an intraoral scanner–based chairside method with a digital laboratory method and the conventional silicone replica technique for measuring the internal fit of CAD/CAM crowns. It found no significant difference between the three methods [24].
-- For laser-melted cobalt-chromium RPD frameworks, the same frameworks showed a mean gap of 13.9 µm with the clinical replica method and an RMS gap of 70.7 µm with digital registration. Both values were within the acceptable limit, and the authors attributed the difference to the measurement methods themselves [25].
+- A clinical trial compared an intraoral scanner–based chairside method with a digital laboratory method and the conventional silicone replica technique for measuring the internal fit of CAD/CAM crowns. It found no significant difference between the three methods [25].
+- For laser-melted cobalt-chromium RPD frameworks, the same frameworks showed a mean gap of 13.9 µm with the clinical replica method and an RMS gap of 70.7 µm with digital registration. Both values were within the acceptable limit, and the authors attributed the difference to the measurement methods themselves [26].
 
 ---
 
@@ -213,30 +214,30 @@ The fit of the final restoration is the combined result of errors at every stage
 | **Soft tissue and moisture** | Blood, saliva, gingiva covering the margin | Retraction, haemostasis, isolation; scan the margin first |
 | **Acquisition** | Stitching error over long spans; reflective surfaces; operator technique [4,5,9,10] | Shortest suitable scan; recommended scan path; training; splinting or photogrammetry for implants [13–16] |
 | **Data processing** | Hole filling, smoothing, mesh reduction (Chapter 2) | Check margins on the raw scan; rescan gaps |
-| **Design** | Wrong margin line; cement-space setting; minimum thickness | Check the margin on the colour scan; use material-specific cement-space settings [19,26,27] |
-| **Manufacture** | Bur size and wear, mill calibration; printer orientation, layer thickness, curing [28,29] | Calibrate and maintain machines; validated material settings; replace burs on schedule |
-| **Post-processing** | Sintering shrinkage (zirconia), crystallisation (lithium disilicate), post-curing (resins) [30] | Follow validated firing programmes; check fit after final processing |
+| **Design** | Wrong margin line; cement-space setting; minimum thickness | Check the margin on the colour scan; use material-specific cement-space settings [20,27,28] |
+| **Manufacture** | Bur size and wear, mill calibration; printer orientation, layer thickness, curing [29,30] | Calibrate and maintain machines; validated material settings; replace burs on schedule |
+| **Post-processing** | Sintering shrinkage (zirconia), crystallisation (lithium disilicate), post-curing (resins) [31] | Follow validated firing programmes; check fit after final processing |
 | **Clinical seating** | Contaminated intaglio surface, cement viscosity, seating force | Clean, try in, check fit; correct cementation protocol |
 
 ### 3.7.1 The cement-space setting
 
 The **cement space** (die spacer) set in the CAD software is one of the most influential design parameters, and the optimal value depends on the material.
 
-- For milled endocrowns, a 30 µm setting produced the largest marginal discrepancies (about 145–174 µm). Glass-ceramics fitted best at 60 µm and resin composites at 120 µm. The authors concluded that different settings should be used for ceramic and composite materials [26].
-- For milled occlusal veneers, a 50 µm setting gave better marginal fit than 30 or 40 µm [27].
-- For 3D-printed definitive resin crowns, a 70 µm setting gave the smallest marginal, axio-occlusal and occlusal gaps [19].
-- In a clinical study with an 80 µm target cement space, the measured gap matched the target only at the margin. Occlusal gaps were consistently larger [24].
+- For milled endocrowns, a 30 µm setting produced the largest marginal discrepancies (about 145–174 µm). Glass-ceramics fitted best at 60 µm and resin composites at 120 µm. The authors concluded that different settings should be used for ceramic and composite materials [27].
+- For milled occlusal veneers, a 50 µm setting gave better marginal fit than 30 or 40 µm [28].
+- For 3D-printed definitive resin crowns, a 70 µm setting gave the smallest marginal, axio-occlusal and occlusal gaps [20].
+- In a clinical study with an 80 µm target cement space, the measured gap matched the target only at the margin. Occlusal gaps were consistently larger [25].
 
 The number entered in the software is therefore a **request**, not a guarantee. The real gap depends on the mill or printer, the material and post-processing. Each laboratory or chairside unit should calibrate its own settings.
 
 ### 3.7.2 Milling versus printing
 
-- For zirconia crowns, a meta-analysis of in vitro studies found that trueness and margin quality of printed and milled crowns were comparable. Milling gave better results at the margin, printing in the axial areas [28].
-- A more recent meta-analysis found that milled zirconia prostheses had significantly smaller marginal gaps (mean difference about 13 µm). There was no difference in internal adaptation, and both methods were clinically acceptable [29].
+- For zirconia crowns, a meta-analysis of in vitro studies found that trueness and margin quality of printed and milled crowns were comparable. Milling gave better results at the margin, printing in the axial areas [29].
+- A more recent meta-analysis found that milled zirconia prostheses had significantly smaller marginal gaps (mean difference about 13 µm). There was no difference in internal adaptation, and both methods were clinically acceptable [30].
 
 ### 3.7.3 Post-processing
 
-Firing changes fit. In a micro-CT study of milled lithium disilicate crowns, crystallisation reduced the axial internal gap and increased the vertical marginal gap [30]. Restorations should be tried in and adjusted **after** their final heat treatment, not before.
+Firing changes fit. In a micro-CT study of milled lithium disilicate crowns, crystallisation reduced the axial internal gap and increased the vertical marginal gap [31]. Restorations should be tried in and adjusted **after** their final heat treatment, not before.
 
 ---
 
@@ -252,7 +253,7 @@ Before applying an accuracy study to your practice, ask:
 6. **Which scan span and scenario?** Single tooth, quadrant, complete arch, implants? Results do not transfer between them.
 7. **Which device and software version?** Hardware and software change quickly, so results can be out of date by the time they are published.
 8. **Who scanned?** One expert, or several operators with different levels of experience?
-9. **Sample size and number of measurements?** Are there enough to be reliable [23]?
+9. **Sample size and number of measurements?** Are there enough to be reliable [24]?
 10. **Is the difference clinically relevant?** A statistically significant difference of 10 µm may not matter. An angular error of 1° across an implant arch might.
 
 ---
@@ -263,10 +264,10 @@ Before applying an accuracy study to your practice, ask:
 - In vivo studies usually measure only precision. Measuring trueness in the mouth needs a reference such as bonded spheres [4,5].
 - **Best-fit alignment** can hide systematic distortion. Compare results only between studies that use the same alignment method and metric.
 - Intraoral scanning is accurate enough for single units and short spans. **Complete-arch and multi-implant scans** remain the weakest link. Splinting and photogrammetry improve implant-position accuracy [12–16].
-- Fit should be described in standard terms [17]. The 120 µm threshold for marginal gaps is a convention [18]. Most CAD/CAM restorations fall within it, and digital and conventional impressions give similar fit for single crowns [20,22].
-- Measured fit depends heavily on the **measurement method** [23,25].
-- **Cement-space settings are material- and machine-specific** and must be calibrated locally [19,24,26,27].
-- Milled zirconia fits slightly better at the margin than printed zirconia, but both are clinically acceptable [28,29]. Always check fit **after** final heat treatment [30].
+- Fit should be described in standard terms [18]. The 120 µm threshold for marginal gaps is a convention [19]. Most CAD/CAM restorations fall within it, and digital and conventional impressions give similar fit for single crowns [21,23].
+- Measured fit depends heavily on the **measurement method** [24,26].
+- **Cement-space settings are material- and machine-specific** and must be calibrated locally [20,25,27,28].
+- Milled zirconia fits slightly better at the margin than printed zirconia, but both are clinically acceptable [29,30]. Always check fit **after** final heat treatment [31].
 
 ---
 
@@ -301,17 +302,18 @@ Before applying an accuracy study to your practice, ask:
 14. Prasad S, Barmak AB, Revilla-León M. A systematic review and meta-analysis of the accuracy of complete arch implant scanning techniques performed extraorally: reverse impression and extraoral photogrammetry methods. J Prosthet Dent. 2026;136(1):e79–e101. doi:10.1016/j.prosdent.2026.01.018
 15. Altalla H, Alhelou H, Karaduman F, Alawawda O, Bayindir F. Comparative accuracy of photogrammetry and intraoral scanners in recordings for complete arch implant-supported prostheses: a systematic review and meta-analysis. J Prosthet Dent. 2026;135(5):e60–e70. doi:10.1016/j.prosdent.2025.10.059
 16. Pozzi A, Arcuri L, Carosi P, Laureti A, Londono J, Wang HL. Photogrammetry versus intraoral scanning in complete-arch digital implant impression: a systematic review and meta-analysis. Clin Implant Dent Relat Res. 2025;27(3):e70059. doi:10.1111/cid.70059
-17. Holmes JR, Bayne SC, Holland GA, Sulik WD. Considerations in measurement of marginal fit. J Prosthet Dent. 1989;62(4):405–8. doi:10.1016/0022-3913(89)90170-4
-18. McLean JW, von Fraunhofer JA. The estimation of cement film thickness by an in vivo technique. Br Dent J. 1971;131(3):107–11. doi:10.1038/sj.bdj.4802708
-19. Shin H, Kang YJ, Kim H, Kim JH. Effect of cement space settings on the marginal and internal fit of 3D printed definitive resin crowns. J Prosthet Dent. 2025;133(3):821–6. doi:10.1016/j.prosdent.2023.03.021
-20. Contrepois M, Soenen A, Bartala M, Laviole O. Marginal adaptation of ceramic crowns: a systematic review. J Prosthet Dent. 2013;110(6):447–54.e10. doi:10.1016/j.prosdent.2013.08.003
-21. Boitelle P, Mawussi B, Tapie L, Fromentin O. A systematic review of CAD/CAM fit restoration evaluations. J Oral Rehabil. 2014;41(11):853–74. doi:10.1111/joor.12205
-22. Tsirogiannis P, Reissmann DR, Heydecke G. Evaluation of the marginal fit of single-unit, complete-coverage ceramic restorations fabricated after digital and conventional impressions: a systematic review and meta-analysis. J Prosthet Dent. 2016;116(3):328–35.e2. doi:10.1016/j.prosdent.2016.01.028
-23. Nawafleh NA, Mack F, Evans J, Mackay J, Hatamleh MM. Accuracy and reliability of methods to measure marginal adaptation of crowns and FDPs: a literature review. J Prosthodont. 2013;22(5):419–28. doi:10.1111/jopr.12006
-24. Schlenz MA, Vogler J, Schmidt A, Rehmann P, Wöstmann B. New intraoral scanner-based chairside measurement method to investigate the internal fit of crowns: a clinical trial. Int J Environ Res Public Health. 2020;17(7):2182. doi:10.3390/ijerph17072182
-25. Alabdullah SA, Hannam AG, Wyatt CC, McCullagh APG, Aleksejuniene J, Mostafa NZ. Comparison of digital and conventional methods of fit evaluation of partial removable dental prosthesis frameworks fabricated by selective laser melting. J Prosthet Dent. 2022;127(3):478.e1–478.e10. doi:10.1016/j.prosdent.2021.09.033
-26. Zheng Z, Wang H, Mo J, Ling Z, Zeng Y, Zhang Y, et al. Effect of virtual cement space and restorative materials on the adaptation of CAD-CAM endocrowns. BMC Oral Health. 2022;22(1):580. doi:10.1186/s12903-022-02598-0
-27. Elbadawy AA, Omar EA, AbdElaziz MH. MicroCT evaluation for CAD/CAM occlusal veneer fit using two materials and three cement space settings. Braz Dent J. 2022;33(4):71–8. doi:10.1590/0103-6440202204764
-28. da Silva SEG, da Silva NR, Santos JVDN, Moreira FGG, Özcan M, Souza ROAE. Accuracy, adaptation and margin quality of monolithic zirconia crowns fabricated by 3D printing versus subtractive manufacturing technique: a systematic review and meta-analysis of in vitro studies. J Dent. 2024;147:105089. doi:10.1016/j.jdent.2024.105089
-29. Sengottaiyan AK, Bennani V, Veerasamy A. Marginal fit and internal adaptation of zirconia complete coverage fixed dental prostheses fabricated by milling versus 3D printing: a systematic review and meta-analysis of in vitro studies. J Prosthet Dent. 2026;136(2):379–89. doi:10.1016/j.prosdent.2026.02.051
-30. De Freitas BN, Tonin BSH, Macedo AP, Dos Santos TMP, De Mattos MDGC, Hotta TH, et al. Adaptation accuracy of milled lithium disilicate crowns: a 2D and 3D microCT analysis. J Esthet Restor Dent. 2020;32(4):403–9. doi:10.1111/jerd.12574
+17. Li J, Lu J, Chen Z, Kulkarni PS, Lin YC, Liu F. Accuracy of complete arch implant intraoral scans: a systematic review of different technique categories compared with the conventional splinted open tray method. J Prosthet Dent. 2026. Epub ahead of print. doi:10.1016/j.prosdent.2026.09.031
+18. Holmes JR, Bayne SC, Holland GA, Sulik WD. Considerations in measurement of marginal fit. J Prosthet Dent. 1989;62(4):405–8. doi:10.1016/0022-3913(89)90170-4
+19. McLean JW, von Fraunhofer JA. The estimation of cement film thickness by an in vivo technique. Br Dent J. 1971;131(3):107–11. doi:10.1038/sj.bdj.4802708
+20. Shin H, Kang YJ, Kim H, Kim JH. Effect of cement space settings on the marginal and internal fit of 3D printed definitive resin crowns. J Prosthet Dent. 2025;133(3):821–6. doi:10.1016/j.prosdent.2023.03.021
+21. Contrepois M, Soenen A, Bartala M, Laviole O. Marginal adaptation of ceramic crowns: a systematic review. J Prosthet Dent. 2013;110(6):447–54.e10. doi:10.1016/j.prosdent.2013.08.003
+22. Boitelle P, Mawussi B, Tapie L, Fromentin O. A systematic review of CAD/CAM fit restoration evaluations. J Oral Rehabil. 2014;41(11):853–74. doi:10.1111/joor.12205
+23. Tsirogiannis P, Reissmann DR, Heydecke G. Evaluation of the marginal fit of single-unit, complete-coverage ceramic restorations fabricated after digital and conventional impressions: a systematic review and meta-analysis. J Prosthet Dent. 2016;116(3):328–35.e2. doi:10.1016/j.prosdent.2016.01.028
+24. Nawafleh NA, Mack F, Evans J, Mackay J, Hatamleh MM. Accuracy and reliability of methods to measure marginal adaptation of crowns and FDPs: a literature review. J Prosthodont. 2013;22(5):419–28. doi:10.1111/jopr.12006
+25. Schlenz MA, Vogler J, Schmidt A, Rehmann P, Wöstmann B. New intraoral scanner-based chairside measurement method to investigate the internal fit of crowns: a clinical trial. Int J Environ Res Public Health. 2020;17(7):2182. doi:10.3390/ijerph17072182
+26. Alabdullah SA, Hannam AG, Wyatt CC, McCullagh APG, Aleksejuniene J, Mostafa NZ. Comparison of digital and conventional methods of fit evaluation of partial removable dental prosthesis frameworks fabricated by selective laser melting. J Prosthet Dent. 2022;127(3):478.e1–478.e10. doi:10.1016/j.prosdent.2021.09.033
+27. Zheng Z, Wang H, Mo J, Ling Z, Zeng Y, Zhang Y, et al. Effect of virtual cement space and restorative materials on the adaptation of CAD-CAM endocrowns. BMC Oral Health. 2022;22(1):580. doi:10.1186/s12903-022-02598-0
+28. Elbadawy AA, Omar EA, AbdElaziz MH. MicroCT evaluation for CAD/CAM occlusal veneer fit using two materials and three cement space settings. Braz Dent J. 2022;33(4):71–8. doi:10.1590/0103-6440202204764
+29. da Silva SEG, da Silva NR, Santos JVDN, Moreira FGG, Özcan M, Souza ROAE. Accuracy, adaptation and margin quality of monolithic zirconia crowns fabricated by 3D printing versus subtractive manufacturing technique: a systematic review and meta-analysis of in vitro studies. J Dent. 2024;147:105089. doi:10.1016/j.jdent.2024.105089
+30. Sengottaiyan AK, Bennani V, Veerasamy A. Marginal fit and internal adaptation of zirconia complete coverage fixed dental prostheses fabricated by milling versus 3D printing: a systematic review and meta-analysis of in vitro studies. J Prosthet Dent. 2026;136(2):379–89. doi:10.1016/j.prosdent.2026.02.051
+31. De Freitas BN, Tonin BSH, Macedo AP, Dos Santos TMP, De Mattos MDGC, Hotta TH, et al. Adaptation accuracy of milled lithium disilicate crowns: a 2D and 3D microCT analysis. J Esthet Restor Dent. 2020;32(4):403–9. doi:10.1111/jerd.12574

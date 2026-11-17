@@ -37,3 +37,9 @@
 - **Figure 4.3** `figures/fig-04-3-bite-records.svg`: occlusal-view schematic of the recommended bite-record locations from the systematic review [18]. **Interpretation to check:** the review's wording "bilateral posterior record including at least 4 teeth" is drawn as 2 teeth per side (4 in total). Confirm against the full text, as the abstract is ambiguous on whether this means per side or in total.
 - No figure was drawn for the optical principles (Table 4.1), because those descriptions are UNVERIFIED.
 - No new tables (the chapter already has 3).
+
+## Update 2026-11 (quarterly update 1, 2026-11-17)
+Search window 2026-10-01 to 2026-11-17 (PubMed, entry date). Full report: `updates/2026-11.md`.
+- **Added (Section 4.10.1, Caries detection):** Carvalho et al. 2026, J Dent, online ahead of print (PMID 43025745, doi:10.1016/j.jdent.2026.107171), new ref 27. Systematic review and meta-analysis of 22 studies: clinical pooled sensitivity 0.61, specificity 0.94; no significant difference from conventional methods; too insensitive for screening. Reason: first meta-analysis on the question; supports the existing Evidence Box (adjunct, not replacement). Note: the review covers IOS-assisted detection in general, not only NIR.
+- **References to check:** new ref 27 is online-first.
+- **Reference numbers changed.** `tools/renum.py` renumbered the list after the new reference was added. Reference numbers in the sections above this one use the **old** numbering. Old → new: 28→27, 27→28. Unlisted numbers are unchanged.

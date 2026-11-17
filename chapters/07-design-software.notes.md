@@ -33,3 +33,12 @@ None.
 - **Figure 7.2** (`figures/fig-07-2-design-parameters.svg`): schematic crown cross-section labelling the path of insertion, minimum occlusal thickness, cement space starting above the margin, the margin line, and a blocked-out undercut giving a thicker cement layer. Not to scale; no numbers.
 - **New Table 7.1:** sources of the shape proposal (library, biogeneric [3], copy, AI [4]), with the cusp-angle finding from [5] (biogeneric 67° vs natural 54°) taken from 7.4.4. The library limitation ("generic starting shape that usually needs editing") is general knowledge, uncited.
 - **Renumbered:** old Table 7.1 (design parameters) → 7.2; old Table 7.2 (AI design) → 7.3.
+
+## Update 2026-11 (quarterly update 1, 2026-11-17)
+Search window 2026-10-01 to 2026-11-17 (PubMed, entry date). Full report: `updates/2026-11.md`.
+- **Added (Section 7.8.3):** Husain et al. 2026, J Dent, online ahead of print (PMID 43035139, doi:10.1016/j.jdent.2026.107168), new ref 19: 28 studies, 10 pooled; design time difference −258.4 s (95% CI −543.2 to 26.4), not significant; inconclusive for morphology and fit; almost entirely in vitro. Vigroux et al. 2026, Eur J Dent, online ahead of print (PMID 42849515, doi:10.1055/s-0046-1829082), new ref 20: 9 studies of fully automated crown design; time consistently shorter; fit generally comparable; morphology mixed.
+- **Conflict stated in text:** time savings were consistent in refs 17, 18 and 20 but not statistically significant in the pooled analysis of ref 19. Both shown; neither picked.
+- **Changed:** Table 7.3 row 1 "faster" → "usually faster" (refs 13, 17–20); Key points AI bullet "much faster" → "usually faster ... evidence mostly in vitro" (refs 13–20).
+- **Conflict of interest:** one author of ref 19 declared an honorarium from an AI design software company (stated in the PubMed record).
+- **References to check:** new refs 19 and 20 are online-first.
+- **Reference numbers changed.** `tools/renum.py` renumbered the list after the new reference was added. Reference numbers in the sections above this one use the **old** numbering. Old → new: 20→19, 21→20, 19→21. Unlisted numbers are unchanged.

@@ -233,6 +233,7 @@ Some scanners capture **near-infrared (NIR)** images alongside the 3D surface. E
 - In vivo validation in permanent teeth showed good agreement between NIR imaging and bitewings. Accuracy was higher for molars than for premolars [24].
 - A comparative diagnostic study of 66 adults found moderate accuracy for detecting any proximal caries and high accuracy for deeper dentine lesions. The authors concluded that NIR imaging is a useful adjunct but does not replace bitewings when radiographic staging is needed [25].
 - A narrative review concluded that NIR imaging is promising but less reliable for secondary and subgingival caries [26].
+- A systematic review and meta-analysis of 22 studies found **moderate** diagnostic accuracy for IOS-assisted caries detection. In the clinical studies, pooled sensitivity was 0.61 and specificity 0.94. Sensitivity was higher on occlusal than on approximal surfaces, and performance did not differ significantly from conventional diagnostic methods. The authors judged sensitivity too low for caries screening, but saw a role in monitoring early lesions [27].
 
 > **Evidence Box.** NIR caries detection is an **adjunct**, not a replacement for clinical examination and radiography. Its high sensitivity for early lesions can produce false positives, which could lead to overtreatment if findings are not interpreted cautiously and confirmed.
 
@@ -265,10 +266,10 @@ The guidance manufacturers provide on tip reprocessing is often limited [10]. Pr
 
 | Situation | Suitability | Key points |
 |---|---|---|
-| Inlays, onlays, veneers, single crowns | **Well supported** | Accuracy equivalent to conventional impressions; faster; preferred by patients [19,27] |
-| Short-span FDPs (3–4 units) | **Well supported** | Clinically acceptable fit [27] |
-| Single implants and short-span implant FDPs | **Well supported** | Clinically acceptable; preferred by patients [21,27] |
-| Complete-arch, tooth-supported | **Use with caution** | Error accumulates; varies by device; conventional still recommended by systematic review [9,27] |
+| Inlays, onlays, veneers, single crowns | **Well supported** | Accuracy equivalent to conventional impressions; faster; preferred by patients [19,28] |
+| Short-span FDPs (3–4 units) | **Well supported** | Clinically acceptable fit [28] |
+| Single implants and short-span implant FDPs | **Well supported** | Clinically acceptable; preferred by patients [21,28] |
+| Complete-arch, tooth-supported | **Use with caution** | Error accumulates; varies by device; conventional still recommended by systematic review [9,28] |
 | Complete-arch implant frameworks | **Use with verification** | Linear and angular error may exceed passive-fit limits; consider splinting, photogrammetry and a verification jig (Chapter 3) |
 | Deep subgingival margins, bleeding | **Limited** | Retraction essential; consider a conventional impression [13,17] |
 | Edentulous ridges, mobile mucosa | **Limited** | Few landmarks; soft-tissue displacement not recorded (Chapter 18) |
@@ -331,4 +332,5 @@ The guidance manufacturers provide on tip reprocessing is often limited [10]. Pr
 24. Kanar Ö, Tağtekin D, Korkut B. Accuracy of an intraoral scanner with near-infrared imaging feature in detection of interproximal caries of permanent teeth: an in vivo validation. J Esthet Restor Dent. 2024;36(6):845–57. doi:10.1111/jerd.13198
 25. Bittar A, Alkan E, Kanar Ö, Korkut B, Tağtekin D. Comparison of quantitative light-induced fluorescence and near-infrared intraoral scanner imaging for proximal caries across predefined ICCMS radiographic thresholds: a diagnostic accuracy study. BMC Oral Health. 2026;26(1). doi:10.1186/s12903-026-08559-1
 26. Lin WS, Alfaraj A, Lippert F, Yang CC. Performance of the caries diagnosis feature of intraoral scanners and near-infrared imaging technology — a narrative review. J Prosthodont. 2023;32(S2):114–24. doi:10.1111/jopr.13770
-27. Ahlholm P, Sipilä K, Vallittu P, Jakonen M, Kotiranta U. Digital versus conventional impressions in fixed prosthodontics: a review. J Prosthodont. 2018;27(1):35–41. doi:10.1111/jopr.12527
+27. Carvalho BKG, Nolden EL, Wenning AS, Szentes BL, Kói T, Agócs G, et al. Diagnostic accuracy of intraoral scanners in caries detection: a systematic review and meta-analysis. J Dent. 2026. Epub ahead of print. doi:10.1016/j.jdent.2026.107171
+28. Ahlholm P, Sipilä K, Vallittu P, Jakonen M, Kotiranta U. Digital versus conventional impressions in fixed prosthodontics: a review. J Prosthodont. 2018;27(1):35–41. doi:10.1111/jopr.12527

@@ -219,6 +219,10 @@ AI design tools are now built into many CAD programs and offered as cloud servic
 
 - A systematic review of 15 studies found that AI-designed single anterior and posterior crowns were generally comparable to human designs. Proximal contacts, occlusion, incisal guidance and aesthetics still needed refinement by experienced operators. **Inlays and three-unit FDPs** were less clinically acceptable than human designs. AI consistently **saved design time**, especially for novice operators [17].
 - A systematic review and meta-analysis of 17 studies found clinically acceptable morphological accuracy, internal fit and occlusal-contact reproduction for AI crown design, with design time reduced by **25–50%**. The evidence was mainly in vitro and computational, with limited clinical validation and no long-term data [18].
+- A newer systematic review and meta-analysis (28 studies, 10 pooled) compared AI-assisted with conventional CAD software. Design time tended to be shorter with AI, but the pooled difference was **not statistically significant** (mean −258 s; 95% CI −543 to 26 s), and differences in morphology and fit were inconclusive. The evidence was almost entirely in vitro and highly heterogeneous. AI designs were generally clinically acceptable, but technician refinement still improved contour, emergence profile and occlusal contacts [19].
+- A systematic review of nine studies of **fully automated** single-crown design found consistently shorter working time than conventional digital or wax-up workflows and generally comparable marginal and internal fit. Results for morphology were mixed, and AI was not consistently superior [20].
+
+The reviews agree that AI designs need human checking. They differ on time: three found consistent time savings [17,18,20], whereas the meta-analysis that pooled design time found a shorter but not statistically significant difference [19].
 
 ### 7.8.4 What this means for practice
 
@@ -226,13 +230,13 @@ AI design tools are now built into many CAD programs and offered as cloud servic
 
 | Restoration | Current evidence | Recommended use |
 |---|---|---|
-| Single posterior crown (tooth) | Comparable to technician; faster [13,17,18] | AI proposal plus human check of margin, contacts and occlusion |
+| Single posterior crown (tooth) | Comparable to technician; usually faster [13,17–20] | AI proposal plus human check of margin, contacts and occlusion |
 | Single anterior crown | Generally comparable; weaker with diastemas and complex aesthetics [14,17] | AI proposal as a starting point; aesthetic refinement by an experienced operator |
 | Single implant crown (posterior) | Comparable morphology; proximal contacts weaker [15–17] | AI proposal plus refinement of contacts and emergence profile |
 | Inlays, multi-unit FDPs | Less acceptable than human design [17] | Human-led design; AI only for parts of the task |
 | Complex rehabilitation | Little evidence | Human-led design |
 
-AI design is best seen as a **very fast first draft**. In line with broader guidance on AI in dentistry, it needs **continuous human oversight** and responsibility for the final design stays with the professional [19].
+AI design is best seen as a **very fast first draft**. In line with broader guidance on AI in dentistry, it needs **continuous human oversight** and responsibility for the final design stays with the professional [21].
 
 ---
 
@@ -260,7 +264,7 @@ Before sending a design to manufacture, check:
 - Shape proposals come from **libraries**, **biogeneric models** [3], **copying** (pre-operative scan, mock-up, mirroring) or **AI** [4,5].
 - **Design parameters** (cement space, thickness, connectors, contacts) must be matched to the material and machine and calibrated locally [6–9]. Use the thickness map every time.
 - Occlusion designed on screen is only as good as the bite record and articulator input [10,11]. Design posterior crowns slightly out of occlusion and adjust in the mouth.
-- **AI design** is comparable to technicians for single crowns and much faster, but weaker for contacts, inlays and multi-unit FDPs [13–18]. Use it as a first draft under human oversight [19].
+- **AI design** is comparable to technicians for single crowns and usually faster, but weaker for contacts, inlays and multi-unit FDPs; the evidence is mostly in vitro [13–20]. Use it as a first draft under human oversight [21].
 
 ---
 
@@ -297,4 +301,6 @@ Before sending a design to manufacture, check:
 16. Ren S, Wu T, Zhou D, Jiang X, Di P. A deep learning system on monolithic implant-supported crown design: evaluating AI-generated models against conventional software outputs. J Prosthodont. 2026;35(5):712–20. doi:10.1111/jopr.70067
 17. Limpuangthip N, Hlaing NHMM, Lee SJ, Lee JH. Design quality and time efficiency of AI-based versus human-based design for tooth- and implant-supported fixed dental restorations: a systematic review. J Dent. 2026;170:106644. doi:10.1016/j.jdent.2026.106644
 18. Holiel AA, Al Nakouzi MM, Cuevas-Suárez CE, Flores-Ledesma A, Drouri S, Bourgi R. Accuracy and functional performance of artificial intelligence-based automated crown design systems: a systematic review and meta-analysis. Biomed Eng Comput Biol. 2026;17:11795972261463709. doi:10.1177/11795972261463709
-19. Schwendicke F, Samek W, Krois J. Artificial intelligence in dentistry: chances and challenges. J Dent Res. 2020;99(7):769–74. doi:10.1177/0022034520915714
+19. Husain NA, Seker H, Yoon HI, Wierichs RJ, Yilmaz B. Accuracy and efficiency of artificial intelligence-assisted dental restoration design: a systematic review and meta-analysis. J Dent. 2026. Epub ahead of print. doi:10.1016/j.jdent.2026.107168
+20. Vigroux E, Mendes JM, Mendes J, Aroso C, Cardoso M, Coelho L. Fully automated artificial intelligence-based design single tooth-supported dental crowns: a systematic review of efficiency, fit, and morphological accuracy. Eur J Dent. 2026. Epub ahead of print. doi:10.1055/s-0046-1829082
+21. Schwendicke F, Samek W, Krois J. Artificial intelligence in dentistry: chances and challenges. J Dent Res. 2020;99(7):769–74. doi:10.1177/0022034520915714

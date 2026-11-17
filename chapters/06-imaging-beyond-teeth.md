@@ -154,8 +154,9 @@ JMT systems use several principles: optoelectronic (camera-based) tracking of ma
 - A systematic review of 20 studies found that optical tracking systems recorded mandibular movement more precisely than traditional methods. JMT showed potential to reduce chair time and improve prosthetic outcomes. The risk of bias was **high**, owing to small samples and no long-term evaluation [14].
 - A systematic review of 30 studies of jaw-movement digitisation found device accuracy between **50 and 330 µm** across systems. Many physiological factors affected the recorded movements, including growth, neuromuscular dysfunction, shortened dental arches, previous orthodontic treatment, head posture and temporomandibular disorders. More than half of the studies had below-moderate certainty of evidence [13].
 - Case reports describe digital workflows that use JMT for full-mouth rehabilitation in severe tooth wear, determining the jaw relationship and anterior guidance virtually [15]. A four-dimensional virtual patient combining intraoral, facial, CBCT and JMT data has been described as a proof of concept [16].
+- An umbrella review of 34 reviews of digital occlusal analysis and jaw-motion tracking found static digital articulation conditionally accurate in dentate, short-span situations with stable contacts. Contact **location** was more reliable than contact intensity, area or force. Jaw tracking and the integrated 4D virtual patient were technically feasible, but heterogeneous reference frames, small studies and sparse clinical outcomes limited conclusions. The authors stressed that technical accuracy is not evidence of patient benefit [17].
 
-JMT is a promising tool for complex prosthodontic and occlusal cases. Evidence that it improves clinical outcomes compared with conventional articulation is still limited [13,14].
+JMT is a promising tool for complex prosthodontic and occlusal cases. Evidence that it improves clinical outcomes compared with conventional articulation is still limited [13,14,17].
 
 ---
 
@@ -167,25 +168,25 @@ JMT is a promising tool for complex prosthodontic and occlusal cases. Evidence t
 
 A typical DSD workflow (Figure 6.2):
 
-1. **Documentation.** Standardised facial and intraoral photographs, plus videos of speech and spontaneous smiling. Video captures lip dynamics that static photographs miss [17].
+1. **Documentation.** Standardised facial and intraoral photographs, plus videos of speech and spontaneous smiling. Video captures lip dynamics that static photographs miss [18].
 2. **2D analysis.** Facial midline, interpupillary line, smile line, lip support, tooth proportions, gingival levels.
-3. **2D smile frame.** The proposed tooth outlines drawn over the photographs [17].
+3. **2D smile frame.** The proposed tooth outlines drawn over the photographs [18].
 4. **3D design.** The 2D plan is transferred to a digital wax-up on the intraoral scan, ideally registered to a facial scan.
 5. **Mock-up and test drive.** The design is printed or milled as a model or template, and an intraoral mock-up is made in provisional material for the patient to evaluate.
 6. **Treatment and transfer.** Preparation guides, provisionals and definitive restorations are made from the approved design.
 
 ![Six-step digital smile design workflow in two rows, with the intraoral mock-up highlighted](../figures/fig-06-2-dsd-workflow.svg)
 
-**Figure 6.2** The digital smile design workflow, from documentation to definitive restorations. The intraoral mock-up (step 5) is where the patient approves the design. Steps 1 and 3 follow [17].
+**Figure 6.2** The digital smile design workflow, from documentation to definitive restorations. The intraoral mock-up (step 5) is where the patient approves the design. Steps 1 and 3 follow [18].
 
 ### 6.5.2 Software
 
-Many DSD programs exist, from general presentation and image-editing tools to dedicated dental applications. In a review of eight programs, general software offered the most comprehensive facial analysis. Some dedicated programs offered 3D analysis and integration with CAD/CAM [18]. The choice of software matters less than a systematic analysis and reliable transfer of the plan into 3D.
+Many DSD programs exist, from general presentation and image-editing tools to dedicated dental applications. In a review of eight programs, general software offered the most comprehensive facial analysis. Some dedicated programs offered 3D analysis and integration with CAD/CAM [19]. The choice of software matters less than a systematic analysis and reliable transfer of the plan into 3D.
 
 ### 6.5.3 Evidence
 
-- A systematic review of seven studies found that DSD consistently improved patient satisfaction, acceptance of treatment, communication and perceived predictability compared with conventional approaches. The evidence was limited by heterogeneity and small samples [19].
-- A systematic review and meta-analysis of AI-based DSD tools reported improved aesthetic parameters. The pooled prevalence of satisfaction was 58%, with high heterogeneity, moderate risk of bias and evidence of publication bias [20].
+- A systematic review of seven studies found that DSD consistently improved patient satisfaction, acceptance of treatment, communication and perceived predictability compared with conventional approaches. The evidence was limited by heterogeneity and small samples [20].
+- A systematic review and meta-analysis of AI-based DSD tools reported improved aesthetic parameters. The pooled prevalence of satisfaction was 58%, with high heterogeneity, moderate risk of bias and evidence of publication bias [21].
 
 DSD clearly improves **communication** and patient involvement. Evidence that it improves long-term clinical outcomes compared with careful conventional aesthetic planning is still weak.
 
@@ -242,7 +243,7 @@ Combining datasets multiplies the volume of data and the risk of privacy breache
 - CBCT-segmented teeth are accurate to about **0.27 mm RMS**, worst at the root apex. AI segmentation is faster and nearly as accurate as manual segmentation [4]. Automatic CBCT–scan registration works well without restorations but needs checking when artefacts are present [6].
 - Facial scanners, including smartphone apps, can achieve clinically acceptable accuracy for planning [7,8]. Accuracy is lowest in the lower third of the face for some apps [9]. **Extraoral markers** improve face–tooth registration [11].
 - Jaw-motion tracking records individual movement with device accuracies of about **50–330 µm**. It is promising for complex cases but supported by limited, high-risk-of-bias evidence [13,14].
-- Digital smile design improves **communication and satisfaction** [19,20]. The **mock-up** remains the decisive clinical test.
+- Digital smile design improves **communication and satisfaction** [20,21]. The **mock-up** remains the decisive clinical test.
 - Use each dataset only for decisions within its accuracy (Table 6.3).
 
 ---
@@ -278,7 +279,8 @@ Combining datasets multiplies the volume of data and the risk of privacy breache
 14. Tafuri G, Santilli M, Murmura G, D'Addazio G, Traini T, Femminella B, et al. Jaw tracking system in digital dentistry: a systematic review. Int J Prosthodont. 2026;39(5):589–96. doi:10.11607/ijp.9327
 15. Wang Y, Hao Z, Liang Y, Yang W, Ma Y. From virtual maxillomandibular relationship determination to clinical implementation for digital functional-esthetic rehabilitation in severe generalised tooth surface loss. J Esthet Restor Dent. 2025;37(11):2347–57. doi:10.1111/jerd.70014
 16. Haku-Mizuhara K, Tanabe G, Kadempour A, Mirafzali S, Yotsuya M, Yamaguchi S. Development of a 4-dimensional virtual patient in motion: a digital concept. J Prosthet Dent. 2026;135(1):47–53. doi:10.1016/j.prosdent.2025.02.064
-17. Coachman C, Calamita MA, Sesma N. Dynamic documentation of the smile and the 2D/3D digital smile design process. Int J Periodontics Restorative Dent. 2017;37(2):183–93. doi:10.11607/prd.2911
-18. Omar D, Duarte C. The application of parameters for comprehensive smile esthetics by digital smile design programs: a review of literature. Saudi Dent J. 2018;30(1):7–12. doi:10.1016/j.sdentj.2017.09.001
-19. Alwabel LK, Alabduljabar WM, Alawfi LK, Al Johani NK, Alharbi LE, Kharif MA, et al. Digital smile design and patient-centered outcomes in esthetic restorative dentistry: a systematic review. Cureus. 2025;17(11):e98084. doi:10.7759/cureus.98084
-20. Saini RS, Kaur K, Gurumurthy V, Binduhayyim RIH, Kaushik A, Kuruniyan MS, et al. Impact of artificial intelligence-based digital smile design on patient and clinician satisfaction and facial esthetic outcomes: a systematic review and meta-analysis. Digit Health. 2025;11:20552076251388392. doi:10.1177/20552076251388392
+17. Farronato M, Giannini L, Farronato D, di Iasio G, Maspero C. From static digital articulation to the dynamic (4D) digital virtual patient: an umbrella review of digital occlusal analysis and jaw-motion tracking. J Dent. 2026. Epub ahead of print. doi:10.1016/j.jdent.2026.107107
+18. Coachman C, Calamita MA, Sesma N. Dynamic documentation of the smile and the 2D/3D digital smile design process. Int J Periodontics Restorative Dent. 2017;37(2):183–93. doi:10.11607/prd.2911
+19. Omar D, Duarte C. The application of parameters for comprehensive smile esthetics by digital smile design programs: a review of literature. Saudi Dent J. 2018;30(1):7–12. doi:10.1016/j.sdentj.2017.09.001
+20. Alwabel LK, Alabduljabar WM, Alawfi LK, Al Johani NK, Alharbi LE, Kharif MA, et al. Digital smile design and patient-centered outcomes in esthetic restorative dentistry: a systematic review. Cureus. 2025;17(11):e98084. doi:10.7759/cureus.98084
+21. Saini RS, Kaur K, Gurumurthy V, Binduhayyim RIH, Kaushik A, Kuruniyan MS, et al. Impact of artificial intelligence-based digital smile design on patient and clinician satisfaction and facial esthetic outcomes: a systematic review and meta-analysis. Digit Health. 2025;11:20552076251388392. doi:10.1177/20552076251388392

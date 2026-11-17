@@ -33,3 +33,10 @@ None.
 - **Figure 6.3** (`figures/fig-06-3-dataset-accuracy.svg`): log-scale range chart of the typical error of each dataset, using the values already in the old Table 6.2 (now Table 6.3): surface scans "tens of µm" (an indicative pale band, Chapters 3–5), jaw tracking 50–330 µm [13], CBCT segmentation 0.10–0.98 mm with mean RMS 0.27 mm [4], facial registration 0.5–2 mm [8,9,12]. **Caveat:** the 0.10–0.98 mm figure is the discrepancy range between segmentation methods reported by [4], plotted as the text describes it.
 - **New Table 6.1:** methods for registering CBCT with surface scans (point-based, surface-based, fiducial, AI). Summarises 6.2.5. The AI row cites [6], and the surface-based row cites [4] (restoration artefacts reduced automated segmentation, as in 6.2.4). The point-based and fiducial notes restate the chapter's Clinical Tip (uncited practice guidance).
 - **Renumbered:** old Table 6.1 (facial scanning technologies) → Table 6.2; old Table 6.2 (data sources) → Table 6.3, including mentions in Key Points and Review Question 8.
+
+## Update 2026-11 (quarterly update 1, 2026-11-17)
+Search window 2026-10-01 to 2026-11-17 (PubMed, entry date). Full report: `updates/2026-11.md`.
+- **Added (Section 6.4.3, JMT evidence):** Farronato et al. 2026, J Dent, online ahead of print (PMID 42869410, doi:10.1016/j.jdent.2026.107107), new ref 17. Umbrella review of 34 reviews: static digital articulation conditionally accurate in dentate short-span settings; contact location more reliable than intensity/area/force; jaw tracking and 4D virtual patient feasible but sparse clinical outcomes. Also added to the closing sentence of 6.4.3. Reason: highest-level synthesis on the topic; consistent with the text.
+- **References to check:** new ref 17 is online-first.
+- Figure 6.3 cites refs 4, 8, 9, 12, 13: unchanged by renumbering.
+- **Reference numbers changed.** `tools/renum.py` renumbered the list after the new reference was added. Reference numbers in the sections above this one use the **old** numbering. Old → new: 21→17, 17→18, 18→19, 19→20, 20→21. Unlisted numbers are unchanged.
