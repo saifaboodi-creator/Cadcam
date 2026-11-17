@@ -39,3 +39,6 @@
 - **Figure 3.3** `figures/fig-03-3-holmes-fit.svg`: half cross-section of a crown margin labelling the internal gap, marginal gap, vertical and horizontal marginal discrepancy, and absolute marginal discrepancy, after Holmes et al. [17]. Schematic, not to scale. The crown is drawn deliberately unseated and overextended.
 - A chart of complete-arch implant trueness by method was considered but not added, to keep to 3 figures per chapter.
 - No new tables (the chapter already has 4).
+
+## Update 2026-11 (trial run)
+- Ref 15 (Altalla, J Prosthet Dent 135(5):e60–e70, PMID 41241558): year corrected from 2025 to 2026, to match the volume year (issue 135(5) = 2026) and the print-year convention used throughout the book. The error was found by the trial update run.
