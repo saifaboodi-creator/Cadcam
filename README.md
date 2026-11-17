@@ -24,4 +24,5 @@ Working manuscript for a comprehensive, evidence-based book on computer-aided de
 | 3. Accuracy in Digital Dentistry | Draft 1 |
 | 4. Intraoral Scanners | Draft 1 |
 | 5. Laboratory Scanners and Model Digitisation | Draft 1 |
-| 6–20 | Not started |
+| 6. Three-Dimensional Imaging Beyond the Teeth | Draft 1 |
+| 7–20 | Not started |

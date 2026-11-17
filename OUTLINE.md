@@ -45,7 +45,7 @@ Definitions; history (Duret, Mörmann, the CEREC system); the three parts of eve
 - Articulator transfer and digital mounting
 - Calibration and maintenance
 
-### Chapter 6. Three-Dimensional Imaging Beyond the Teeth
+### Chapter 6. Three-Dimensional Imaging Beyond the Teeth *(drafted)*
 - CBCT for CAD/CAM: segmentation and registration with surface scans
 - Facial scanning and photogrammetry
 - Jaw-tracking and electronic axiographs
