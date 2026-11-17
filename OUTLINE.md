@@ -68,7 +68,7 @@ Definitions; history (Duret, Mörmann, the CEREC system); the three parts of eve
 - Single crowns and multi-unit FDPs
 - Preparation guidelines for CAD/CAM materials
 
-### Chapter 9. Designing Implant Restorations
+### Chapter 9. Designing Implant Restorations *(drafted)*
 - Scan bodies, libraries and digital implant analogues
 - Stock versus custom abutments; Ti-base (hybrid) abutments
 - Screw-retained and cement-retained designs; angled screw channels
