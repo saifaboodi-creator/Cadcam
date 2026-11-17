@@ -21,7 +21,7 @@ Resume point for any new session. Update after every chapter.
 | 5 | Laboratory Scanners and Model Digitisation | `chapters/05-laboratory-scanners.md` | Draft 1 | 14 | 0 | `chapters/05-laboratory-scanners.notes.md` |
 | 6 | Three-Dimensional Imaging Beyond the Teeth | `chapters/06-imaging-beyond-teeth.md` | Draft 1 | 20 | 0 | `chapters/06-imaging-beyond-teeth.notes.md` |
 | 7 | Design Software: Principles and Tools | `chapters/07-design-software.md` | Draft 1 | 19 | 0 | `chapters/07-design-software.notes.md` |
-| 8 | Designing Tooth-Supported Restorations | `chapters/08-tooth-supported-restorations.md` | Draft 1 | 16 | 0 | `chapters/08-tooth-supported-restorations.notes.md` |
+| 8 | Designing Tooth-Supported Restorations | `chapters/08-tooth-supported-restorations.md` | Draft 1 | 17 | 0 | `chapters/08-tooth-supported-restorations.notes.md` |
 | 9 | Designing Implant Restorations | `chapters/09-implant-restorations.md` | Draft 1 | 25 | 0 | `chapters/09-implant-restorations.notes.md` |
 | 10 | Subtractive Manufacturing: Milling and Grinding | `chapters/10-subtractive-manufacturing.md` | Draft 1 | 26 | 1 | `chapters/10-subtractive-manufacturing.notes.md` |
 | 11 | Additive Manufacturing (3D Printing) | `chapters/11-additive-manufacturing.md` | Draft 1 | 25 | 0 | `chapters/11-additive-manufacturing.notes.md` |
@@ -37,8 +37,9 @@ Resume point for any new session. Update after every chapter.
 
 ## UNVERIFIED totals
 - Marked inline: Ch 10 (1), Ch 16 (1), Ch 20 (2) = 4.
-- Listed in notes only (Chapters 1–9 frozen, not marked inline): Ch 1 (1), Ch 3 (2), Ch 4 (1) = 4.
-- **Book total: 8.**
+- Chapters 1–9 (marked inline after the author approved changes): Ch 1 (1 item, 5 inline marks), Ch 3 (2 items, 3 inline marks), Ch 4 (1) = 4.
+- **Book total: 8 UNVERIFIED items, all now marked inline.**
+- Chapter 8 survival data updated to Pjetursson 2026 (author request).
 
 ## Blockers
 None. All 20 chapters at Draft 1 (Chapters 10–20 completed in one run; author review pending).

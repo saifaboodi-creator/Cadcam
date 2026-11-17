@@ -33,7 +33,7 @@ Every scanner does three things [1]:
 
 ### 4.2.1 Optical principles
 
-The main principles in use are summarised in Table 4.1 [1,4]. Many current devices combine more than one principle and rely heavily on software processing.
+The main principles in use are summarised in Table 4.1 [1,4] **[UNVERIFIED]**. Many current devices combine more than one principle and rely heavily on software processing.
 
 **Table 4.1** Optical principles used in intraoral scanners
 

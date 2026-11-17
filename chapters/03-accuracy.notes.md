@@ -3,7 +3,7 @@
 ## Summary
 - Word count: ~3,610 (body, excluding references).
 - References: 30 (checked on PubMed: title, authors, journal, DOI/PMID and abstract).
-- UNVERIFIED items: 2 (listed below; **not** marked inline, because Chapters 1–9 were frozen by the author).
+- UNVERIFIED items: 2 (listed below; marked inline as **[UNVERIFIED]** in the chapter at the author's request).
 - Notes written after the chapter was drafted, from the review comments given in chat at the time.
 
 ## References to check

@@ -34,11 +34,11 @@ The broader term **digital dentistry** includes all of these, along with digital
 
 ### 1.2.1 The idea of the optical impression
 
-The founding idea of dental CAD/CAM is usually credited to François Duret. In the early 1970s in France he proposed recording the prepared tooth optically rather than with an elastomeric impression, and then making a crown from that data by machine. By the late 1980s Duret and colleagues had shown a working system that could optically capture a preparation, design a crown on screen and mill it [1]. The system did not succeed commercially. Its importance is conceptual: it set out the scan–design–mill sequence that every later system has followed.
+The founding idea of dental CAD/CAM is usually credited to François Duret. In the early 1970s **[UNVERIFIED]** in France he proposed recording the prepared tooth optically rather than with an elastomeric impression, and then making a crown from that data by machine. By the late 1980s Duret and colleagues had shown a working system that could optically capture a preparation, design a crown on screen and mill it [1]. The system did not succeed commercially. Its importance is conceptual: it set out the scan–design–mill sequence that every later system has followed.
 
 ### 1.2.2 The first chairside system
 
-In Zurich, Werner Mörmann was working on bonded ceramic inlays for posterior teeth. He saw that the long time needed to make ceramic restorations in the laboratory was a major barrier. His answer, developed with the electrical engineer Marco Brandestini, was a small mobile unit that combined an optoelectronic intraoral camera, a computer and a milling chamber. With it the dentist could design and mill a ceramic inlay and bond it at the same appointment. The first chairside ceramic inlay made this way was placed in 1985. The system was later commercialised as CEREC (Chairside Economical Restoration of Esthetic Ceramics) [2]. Later generations split the system into a separate acquisition and design unit and a milling unit, and replaced the early two-dimensional design interface with full 3D software [2].
+In Zurich, Werner Mörmann was working on bonded ceramic inlays for posterior teeth. He saw that the long time needed to make ceramic restorations in the laboratory was a major barrier. His answer, developed with the electrical engineer Marco Brandestini **[UNVERIFIED]**, was a small mobile unit that combined an optoelectronic intraoral camera, a computer and a milling chamber. With it the dentist could design and mill a ceramic inlay and bond it at the same appointment. The first chairside ceramic inlay made this way was placed in 1985 **[UNVERIFIED]**. The system was later commercialised as CEREC (Chairside Economical Restoration of Esthetic Ceramics) [2]. Later generations split the system into a separate acquisition and design unit and a milling unit, and replaced the early two-dimensional design interface with full 3D software [2].
 
 Chairside CAD/CAM matters historically because of its clinical record as well as its technology. Practice-based cohorts of early CEREC inlays and onlays have now been followed for more than 15 years (Section 1.8).
 
@@ -60,9 +60,9 @@ Since about 2010, several developments have changed the field:
 
 | Period | Development |
 |---|---|
-| Early 1970s | Concept of the optical impression and machined crown (Duret) |
+| Early 1970s **[UNVERIFIED]** | Concept of the optical impression and machined crown (Duret) |
 | 1980s | First laboratory and university CAD/CAM prototypes; Duret system demonstrated [1] |
-| 1985 | First chairside CAD/CAM ceramic inlay placed (Mörmann and Brandestini) [2] |
+| 1985 **[UNVERIFIED]** | First chairside CAD/CAM ceramic inlay placed (Mörmann and Brandestini) [2] |
 | 1990s | Laboratory systems for high-strength oxide ceramic frameworks [3] |
 | 2000s | Zirconia frameworks enter routine use; 3D design software becomes standard [3,4] |
 | 2010s | Powder-free colour intraoral scanners; open STL workflows; growth of 3D printing [5–8] |

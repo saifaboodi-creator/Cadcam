@@ -31,7 +31,7 @@ To discuss accuracy usefully, we need precise words and an understanding of how 
 
 ### 3.2.1 Trueness and precision
 
-The international standard ISO 5725-1 defines **accuracy** as the combination of two separate properties [1]:
+The international standard ISO 5725-1 defines **accuracy** as the combination of two separate properties [1] **[UNVERIFIED]**:
 
 - **Trueness:** how closely the average of repeated measurements matches the true (reference) value. Poor trueness reflects **systematic** error, or bias.
 - **Precision:** how closely repeated measurements agree with each other. Poor precision reflects **random** error.
@@ -64,7 +64,7 @@ Studies often report repeatability alone and call it "precision". Clinically, re
 
 ### 3.2.4 Standards for dental digitisers
 
-ISO 12836 sets out test methods for assessing the accuracy of digitising devices used for CAD/CAM indirect restorations. It uses defined test objects (inlay, crown and multi-unit geometries) [2]. Manufacturers' accuracy claims are often based on such laboratory tests, which do not reproduce saliva, movement, limited access or soft tissue.
+ISO 12836 sets out test methods for assessing the accuracy of digitising devices used for CAD/CAM indirect restorations. It uses defined test objects (inlay, crown and multi-unit geometries) [2] **[UNVERIFIED]**. Manufacturers' accuracy claims are often based on such laboratory tests, which do not reproduce saliva, movement, limited access or soft tissue.
 
 ---
 
@@ -154,7 +154,7 @@ Holmes and colleagues considered the **absolute marginal discrepancy** perhaps t
 
 ### 3.5.2 What is clinically acceptable?
 
-No threshold for marginal fit is supported by strong clinical evidence. The figure most often cited is **120 µm**, which comes from McLean and von Fraunhofer's in vivo study of cement film thickness [18]. Many modern studies still use it as the limit of acceptability [19]. Treat it as a convention, not a biological threshold.
+No threshold for marginal fit is supported by strong clinical evidence. The figure most often cited is **120 µm**, which comes from McLean and von Fraunhofer's in vivo study of cement film thickness [18] **[UNVERIFIED]**. Many modern studies still use it as the limit of acceptability [19]. Treat it as a convention, not a biological threshold.
 
 Within that convention, CAD/CAM restorations generally perform well:
 

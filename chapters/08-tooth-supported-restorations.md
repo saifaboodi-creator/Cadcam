@@ -124,7 +124,7 @@ A systematic review found an estimated survival of **88%** for veneers with inci
 
 Single crowns are the most common CAD/CAM restoration. Material choice is driven by aesthetics, strength, the amount of space available, the cementation options and the evidence.
 
-A large systematic review of tooth-supported single crowns (4,663 metal-ceramic and 9,434 all-ceramic) estimated 5-year survival rates of [13]:
+A large systematic review of tooth-supported single crowns published in 2015 (4,663 metal-ceramic and 9,434 all-ceramic) estimated 5-year survival rates of [13]:
 
 - **94.7%** for metal-ceramic crowns;
 - **96.6%** for leucite- or lithium disilicate-reinforced glass-ceramic crowns;
@@ -132,9 +132,22 @@ A large systematic review of tooth-supported single crowns (4,663 metal-ceramic 
 - **92.1%** for zirconia-based crowns (mostly veneered at that time);
 - significantly lower rates for feldspathic or silica-based ceramic crowns.
 
-Feldspathic and zirconia crowns had lower survival in **posterior** regions. Veneered zirconia crowns were more often lost through **fracture of the veneering ceramic** and had more loss of retention than metal-ceramic crowns. The authors advised limiting weaker feldspathic ceramics to anterior teeth and did not recommend veneered zirconia as a first choice at that time [13]. Since then, the move to **monolithic** zirconia has been driven largely by this chipping problem. Full-contour zirconia has steadily gained market share at the expense of veneered designs [14].
+Feldspathic and zirconia crowns had lower survival in **posterior** regions. Veneered zirconia crowns were more often lost through **fracture of the veneering ceramic** and had more loss of retention than metal-ceramic crowns. The authors advised limiting weaker feldspathic ceramics to anterior teeth and did not recommend veneered zirconia as a first choice at that time [13].
 
-A later meta-analysis of monolithic glass-ceramic restorations found survival of **96%** for single crowns over 4.6 years [8]. A prospective study of chairside monolithic lithium disilicate posterior crowns reported a **10-year survival of 83.5%**. All failures and complications occurred on molars [15].
+An updated systematic review of studies published from 2014 to 2024 (3,509 metal-ceramic and 8,051 all-ceramic crowns) estimated these 5-year survival rates [14]:
+
+- **98.5%** for monolithic lithium disilicate-reinforced glass-ceramic crowns;
+- **97.3%** for veneered densely sintered zirconia crowns;
+- **97.1%** for metal-ceramic crowns;
+- **96.8%** for monolithic densely sintered zirconia crowns;
+- **95.7%** for veneered leucite- or lithium disilicate-reinforced glass-ceramic crowns;
+- **90.4%** for feldspathic or silica-based ceramic crowns.
+
+Feldspathic, glass-infiltrated alumina, densely sintered alumina and veneered glass-ceramic crowns all had significantly lower survival than monolithic lithium disilicate crowns. Monolithic lithium disilicate and monolithic zirconia crowns had significantly fewer ceramic fractures and chipping than veneered alternatives. Apart from feldspathic and metal-ceramic crowns, material types performed similarly in anterior and posterior regions [14]. Lithium disilicate and zirconia crowns now match metal-ceramic crowns at 5 years [14].
+
+The move to **monolithic** designs has been driven largely by the chipping problem seen with veneered restorations [13,14]. Full-contour zirconia has steadily gained market share at the expense of veneered designs [15].
+
+A later meta-analysis of monolithic glass-ceramic restorations found survival of **96%** for single crowns over 4.6 years [8]. A prospective study of chairside monolithic lithium disilicate posterior crowns reported a **10-year survival of 83.5%**. All failures and complications occurred on molars [16].
 
 Resin-matrix ceramics showed **higher complication rates than ceramics** for full and partial crowns, and are not a first choice for complete coverage [5].
 
@@ -167,21 +180,21 @@ A multi-unit FDP adds several challenges to everything required for a single cro
 
 ### 8.6.2 Evidence
 
-A systematic review of tooth-supported FDPs estimated 5-year survival rates of [16]:
+A systematic review of tooth-supported FDPs estimated 5-year survival rates of [17]:
 
 - **94.4%** for metal-ceramic FDPs;
 - **89.1%** for reinforced glass-ceramic FDPs;
 - **90.4%** for zirconia FDPs (largely veneered).
 
-**Framework fractures** were significantly more frequent for reinforced glass-ceramic FDPs (8.0%) than for metal-ceramic (0.6%) or zirconia (1.9%) FDPs. Zirconia FDPs had significantly more **ceramic (veneer) fractures** and **loss of retention**, and more caries in abutment teeth than metal-ceramic FDPs [16]. A more recent meta-analysis found that monolithic glass-ceramic FDPs had a survival of only **76.1%** over 6.5 years and a high proportion of irreparable failures. The authors urged caution [8].
+**Framework fractures** were significantly more frequent for reinforced glass-ceramic FDPs (8.0%) than for metal-ceramic (0.6%) or zirconia (1.9%) FDPs. Zirconia FDPs had significantly more **ceramic (veneer) fractures** and **loss of retention**, and more caries in abutment teeth than metal-ceramic FDPs [17]. A more recent meta-analysis found that monolithic glass-ceramic FDPs had a survival of only **76.1%** over 6.5 years and a high proportion of irreparable failures. The authors urged caution [8].
 
 ### 8.6.3 Practical guidance
 
-- **Material:** for posterior FDPs, high-strength zirconia (monolithic, or with minimal veneering) is generally preferred over glass-ceramic. Glass-ceramic FDPs should be limited to short anterior or premolar spans, if used at all [8,16].
+- **Material:** for posterior FDPs, high-strength zirconia (monolithic, or with minimal veneering) is generally preferred over glass-ceramic. Glass-ceramic FDPs should be limited to short anterior or premolar spans, if used at all [8,17].
 - **Connector design:** follow the manufacturer's minimum cross-sectional areas for the material and span. Height contributes more to strength than width. Avoid sharp embrasures that concentrate stress at the gingival side of the connector.
 - **Pontic design:** ovate or modified ridge-lap pontics with convex, polished tissue surfaces and access for cleaning.
 - **Span:** keep spans short, and consider implants instead of long-span tooth-supported FDPs.
-- **Monolithic where possible:** this reduces chipping, which is the main technical complication of veneered zirconia [14,16].
+- **Monolithic where possible:** this reduces chipping, which is the main technical complication of veneered zirconia [15,17].
 
 ---
 
@@ -194,10 +207,10 @@ A systematic review of tooth-supported FDPs estimated 5-year survival rates of [
 | Inlay / onlay (glass-ceramic) | 92–95% at 5 y; 91% at 10 y [6] | Fracture; endodontic problems [6] | Rounded internal angles; adequate isthmus; cusp coverage when walls are thin |
 | Endocrown | 94–100% (short-term trials) [10] | Debonding; fracture | Butt margin; smooth chamber extension; correct cement space [9] |
 | Laminate veneer | ~89–94% over ~9 y [12] | Chipping; debonding [12] | Enamel preparation through the mock-up; thickness |
-| Single crown: glass-ceramic | ~96–97% at ~5 y [8,13]; 83.5% at 10 y chairside LS2 [15] | Fracture (molars) | Thickness over cusps; bonding |
-| Single crown: monolithic zirconia | High; earlier data on veneered designs showed chipping [13,14] | Retention loss; chipping (veneered) | Retentive preparation; monolithic or cut-back design |
-| FDP: zirconia | ~90% at 5 y (mostly veneered) [16] | Veneer chipping; retention loss; caries [16] | Connector size; monolithic; hygienic pontic |
-| FDP: glass-ceramic | ~76–89% [8,16] | Framework fracture [16] | Avoid in posterior spans |
+| Single crown: glass-ceramic | 98.5% at 5 y for monolithic LS2 [14]; ~96–97% at ~5 y [8,13]; 83.5% at 10 y chairside LS2 [16] | Fracture (molars) | Thickness over cusps; bonding |
+| Single crown: monolithic zirconia | 96.8% at 5 y [14]; veneered designs chip more [13,14] | Retention loss; chipping (veneered) | Retentive preparation; monolithic or cut-back design |
+| FDP: zirconia | ~90% at 5 y (mostly veneered) [17] | Veneer chipping; retention loss; caries [17] | Connector size; monolithic; hygienic pontic |
+| FDP: glass-ceramic | ~76–89% [8,17] | Framework fracture [17] | Avoid in posterior spans |
 | Resin-matrix ceramics | Good for intracoronal and veneers; poorer for crowns [5] | Debonding; fracture | Choose indications carefully |
 
 ---
@@ -208,8 +221,8 @@ A systematic review of tooth-supported FDPs estimated 5-year survival rates of [
 - Bonded partial-coverage CAD/CAM restorations are **conservative** and have excellent long-term survival: about 91% at 10 years, with chairside series up to 27 years [6,7].
 - **Endocrowns** are a valid alternative to post-retained crowns for compromised, endodontically treated posterior teeth [10].
 - **Veneers** survive about 89–94% over roughly 9 years. Incisal coverage does not significantly change survival [11,12].
-- Glass-ceramic and metal-ceramic **single crowns** have similar 5-year survival. Veneered zirconia chips more, which has driven the move to monolithic zirconia [13–15].
-- **Multi-unit FDPs** remain more demanding. Glass-ceramic FDPs show more framework fractures, and veneered zirconia FDPs more chipping and retention loss [8,16]. Prefer zirconia, monolithic design, generous connectors and short spans.
+- Current 5-year survival of **single crowns** is about 97–98.5% for monolithic lithium disilicate, metal-ceramic and zirconia crowns. **Monolithic** designs fracture and chip significantly less than veneered ones, which has driven the move to monolithic restorations [13–16].
+- **Multi-unit FDPs** remain more demanding. Glass-ceramic FDPs show more framework fractures, and veneered zirconia FDPs more chipping and retention loss [8,17]. Prefer zirconia, monolithic design, generous connectors and short spans.
 - **Resin-matrix ceramics** perform well for inlays, onlays and veneers but less well for crowns [5].
 
 ---
@@ -242,6 +255,7 @@ A systematic review of tooth-supported FDPs estimated 5-year survival rates of [
 11. Albanesi RB, Pigozzo MN, Sesma N, Laganá DC, Morimoto S. Incisal coverage or not in ceramic laminate veneers: a systematic review and meta-analysis. J Dent. 2016;52:1–7. doi:10.1016/j.jdent.2016.06.004
 12. Morimoto S, Albanesi RB, Sesma N, Agra CM, Braga MM. Main clinical outcomes of feldspathic porcelain and glass-ceramic laminate veneers: a systematic review and meta-analysis of survival and complication rates. Int J Prosthodont. 2016;29(1):38–49. doi:10.11607/ijp.4315
 13. Sailer I, Makarov NA, Thoma DS, Zwahlen M, Pjetursson BE. All-ceramic or metal-ceramic tooth-supported fixed dental prostheses (FDPs)? A systematic review of the survival and complication rates. Part I: Single crowns (SCs). Dent Mater. 2015;31(6):603–23. doi:10.1016/j.dental.2015.02.011
-14. Spitznagel FA, Boldt J, Gierthmuehlen PC. CAD/CAM ceramic restorative materials for natural teeth. J Dent Res. 2018;97(10):1082–91. doi:10.1177/0022034518779759
-15. Rauch A, Reich S, Dalchau L, Schierz O. Clinical survival of chair-side generated monolithic lithium disilicate crowns: 10-year results. Clin Oral Investig. 2018;22(4):1763–9. doi:10.1007/s00784-017-2271-3
-16. Pjetursson BE, Sailer I, Makarov NA, Zwahlen M, Thoma DS. All-ceramic or metal-ceramic tooth-supported fixed dental prostheses (FDPs)? A systematic review of the survival and complication rates. Part II: Multiple-unit FDPs. Dent Mater. 2015;31(6):624–39. doi:10.1016/j.dental.2015.02.013
+14. Pjetursson BE, Pitta J, Balet A, Bjarnadottir GR, Sailer I, Romandini P. A systematic review and meta-analysis evaluating the survival, failure, and complication rates of metal-ceramic, veneered, and monolithic all-ceramic tooth-supported single crowns — Part 1. Int J Prosthodont. 2026;39(3):308–24. doi:10.11607/ijp.9633
+15. Spitznagel FA, Boldt J, Gierthmuehlen PC. CAD/CAM ceramic restorative materials for natural teeth. J Dent Res. 2018;97(10):1082–91. doi:10.1177/0022034518779759
+16. Rauch A, Reich S, Dalchau L, Schierz O. Clinical survival of chair-side generated monolithic lithium disilicate crowns: 10-year results. Clin Oral Investig. 2018;22(4):1763–9. doi:10.1007/s00784-017-2271-3
+17. Pjetursson BE, Sailer I, Makarov NA, Zwahlen M, Thoma DS. All-ceramic or metal-ceramic tooth-supported fixed dental prostheses (FDPs)? A systematic review of the survival and complication rates. Part II: Multiple-unit FDPs. Dent Mater. 2015;31(6):624–39. doi:10.1016/j.dental.2015.02.013
