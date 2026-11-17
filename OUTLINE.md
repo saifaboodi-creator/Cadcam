@@ -119,7 +119,7 @@ Definitions; history (Duret, Mörmann, the CEREC system); the three parts of eve
 
 ## Part VI — Clinical Applications
 
-### Chapter 16. Chairside CAD/CAM in Restorative Dentistry
+### Chapter 16. Chairside CAD/CAM in Restorative Dentistry *(drafted)*
 - Case selection; single-visit workflow, step by step
 - Clinical outcomes and survival of chairside restorations
 - Integrating chairside CAD/CAM into practice: economics and team training
