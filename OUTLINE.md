@@ -39,7 +39,7 @@ Definitions; history (Duret, Mörmann, the CEREC system); the three parts of eve
 - Learning curve, ergonomics, infection control
 - Patient-reported outcomes; time efficiency
 
-### Chapter 5. Laboratory (Extraoral) Scanners and Model Digitisation
+### Chapter 5. Laboratory (Extraoral) Scanners and Model Digitisation *(drafted)*
 - Structured-light and laser desktop scanners
 - Scanning impressions versus casts
 - Articulator transfer and digital mounting

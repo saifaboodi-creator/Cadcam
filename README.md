@@ -23,4 +23,5 @@ Working manuscript for a comprehensive, evidence-based book on computer-aided de
 | 2. The Digital Workflow and Data Formats | Draft 1 |
 | 3. Accuracy in Digital Dentistry | Draft 1 |
 | 4. Intraoral Scanners | Draft 1 |
-| 5–20 | Not started |
+| 5. Laboratory Scanners and Model Digitisation | Draft 1 |
+| 6–20 | Not started |
