@@ -3,7 +3,7 @@
 Read this first in every session. It is short on purpose; details live in the files it points to.
 
 ## What this repository is
-A 20-chapter, evidence-based English textbook, "CAD/CAM in Dentistry: From Scan to Restoration". Author: Saad. All chapters are at Draft 1; the next phase is **independent review**, then author review.
+A 20-chapter, evidence-based English textbook, "CAD/CAM in Dentistry: From Scan to Restoration". Author: Saad. All chapters are at Draft 2 (independent review applied 2026-11-22); the next phase is **author review**.
 
 ## Files to read before working
 - `PROGRESS.md` — status, reference counts, UNVERIFIED totals, resume point.
