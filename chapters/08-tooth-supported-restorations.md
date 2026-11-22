@@ -21,16 +21,16 @@ In a CAD/CAM workflow the preparation must serve three masters at once:
 2. **The scanner:** a margin and walls that the optical system can see clearly (Chapters 4 and 5).
 3. **The machine:** a shape that a bur of finite size can mill, or a printer can build, without chipping or overmilling (Chapter 10).
 
-How much tooth structure is removed varies hugely between designs. In a laboratory study of anterior teeth, laminate veneer preparations removed roughly **3% to 30%** of the coronal tooth structure by weight. Complete-coverage crown preparations removed **63% to 72%** [1]. Bonded partial-coverage restorations made with CAD/CAM are therefore often the most conservative choice. A complete crown should be chosen because the tooth needs it, not because it is easier to design.
+How much tooth structure is removed varies hugely between designs. In a laboratory study on resin typodont anterior teeth, laminate veneer and resin-bonded retainer preparations removed roughly **3% to 30%** of the coronal tooth structure by weight. All-ceramic and metal-ceramic crown preparations removed **63% to 72%** [1]. By extension (expert opinion), bonded partial-coverage CAD/CAM restorations are often the most conservative choice for posterior teeth as well. A complete crown should be chosen because the tooth needs it, not because it is easier to design.
 
 ### 8.1.1 General preparation principles for CAD/CAM
 
 - **Rounded internal line angles and point angles.** The bur cannot reproduce angles sharper than its own radius. Sharp internal angles lead to overmilling, internal gaps or restorations that bind and do not seat.
 - **Smooth, continuous surfaces.** Avoid grooves, boxes and steps that are smaller than the bur, unless the system can reproduce them.
 - **Clear, continuous finish lines.** A rounded shoulder or chamfer scans and mills reliably. Feather-edge or knife-edge margins are hard to scan, hard to define in the software and prone to chipping in brittle materials. The finish-line configuration affects the marginal fit of ceramic crowns [2].
-- **Adequate, even reduction** for the chosen material (Table 8.1). Thin areas are the commonest cause of fracture.
-- **Supragingival or equigingival margins** where possible, for accurate scanning (Chapter 4) [3].
-- **Adequate proximal clearance**, so the scanner can see the proximal box [4].
+- **Adequate, even reduction** for the chosen material (Table 8.1). Thin areas raise the risk of fracture (expert opinion).
+- **Supragingival or equigingival margins** where possible. In an in vitro study, subgingival finish lines were captured with lower trueness than equigingival ones, and saliva made this worse (Chapter 4) [3].
+- **Adequate proximal clearance**, so the scanner can see the proximal box. In an in vitro study, inlay cavities 1.0 mm from the adjacent tooth were scanned with higher trueness than those 0.6 mm away [4].
 - **No undercuts** relative to the path of insertion, or only small ones that can be blocked out without creating thick cement layers (Chapter 7).
 
 Figure 8.1 illustrates the first and third principles.
@@ -39,7 +39,7 @@ Figure 8.1 illustrates the first and third principles.
 
 **Figure 8.1** Preparation features and milling (schematic). Left: a sharp line angle leaves material the round bur cannot remove, and a feather edge gives a thin, chip-prone margin that is hard to scan. Right: a rounded line angle with a radius larger than the bur, and a chamfer finish line.
 
-**Table 8.1** Typical minimum dimensions for CAD/CAM restorations (orientation only; always follow the material manufacturer's current instructions)
+**Table 8.1** Typical minimum dimensions for CAD/CAM restorations (orientation only, from common teaching and manufacturers' instructions, not from the cited studies; always follow the material manufacturer's current instructions)
 
 | Restoration / material | Occlusal / incisal | Axial | Margin | Notes |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ Bonded partial-coverage restorations (inlays, onlays, overlays and partial crown
 ### 8.2.3 Evidence
 
 - A systematic review and meta-analysis of ceramic and resin inlays, onlays and overlays with more than 5 years' follow-up estimated survival of **92–95% at 5 years** and **91% at 10 years** for glass-ceramic and feldspathic restorations. Fractures and chipping were the most common failure (4%), followed by endodontic complications (3%), secondary caries (1%) and debonding (1%) [6].
-- In a private-practice series of chairside feldspathic inlays and onlays, the success rate was **87.5% after up to 27 years**. Most failures were ceramic fractures (65%) or tooth fractures (13%). Three-surface restorations and molars had a higher risk of failure [7].
+- In a private-practice series of 200 chairside feldspathic inlays and onlays (141 re-evaluated), the Kaplan-Meier success rate was **87.5% after up to 27 years**. Of the 23 failures, 65% were ceramic fractures and 13% tooth fractures. Three-surface restorations and molars had a higher risk of failure [7].
 - A systematic review and meta-analysis of monolithic glass-ceramic restorations found a cumulative survival of **90%** for partial-coverage restorations over a mean of 6.2 years [8].
 - For **resin-matrix ceramics** (hybrid materials), intracoronal restorations showed complication rates similar to lithium disilicate inlays and onlays, and lower than direct composites [5].
 
@@ -86,7 +86,7 @@ An **endocrown** is a bonded, monolithic restoration for an endodontically treat
 - Butt-joint (ferrule-free) margin, usually at or above the gingiva.
 - Pulp-chamber extension with divergent walls and smooth internal surfaces; no extension into the canals.
 - Adequate occlusal thickness for the material.
-- Cement-space settings matter. For milled endocrowns, a 30 µm setting produced the largest marginal gaps. Glass-ceramics fitted best at 60 µm and resin composites at 120 µm (Chapter 3) [9].
+- Cement-space settings matter. In an in vitro study of milled endocrowns on printed dies, a 30 µm setting produced the largest marginal gaps (about 145–174 µm). Designed and measured marginal gaps agreed best at 60 µm for the two glass-ceramics and at 120 µm for the two resin composites (Chapter 3) [9].
 
 ### 8.3.2 Evidence
 
@@ -114,7 +114,7 @@ Veneers are almost always aesthetic restorations. The design therefore starts fr
 
 ### 8.4.3 Incisal coverage
 
-A systematic review found an estimated survival of **88%** for veneers with incisal coverage and **91%** for veneers without. The odds ratio of 1.25 was not statistically significant [11]. Choose incisal coverage for aesthetic and functional reasons, such as lengthening, translucency or wear, rather than to improve survival.
+A systematic review found an estimated survival of **88%** for veneers with incisal coverage and **91%** for veneers without. The odds ratio of 1.25 was not statistically significant (95% CI 0.33–4.73) [11,12]. Randomised trials comparing the two designs are still needed [11]. Choose incisal coverage for aesthetic and functional reasons, such as lengthening, translucency or wear, rather than to improve survival.
 
 ### 8.4.4 Evidence
 
@@ -128,36 +128,38 @@ A systematic review found an estimated survival of **88%** for veneers with inci
 
 ### 8.5.1 Choosing the material
 
-Single crowns are the most common CAD/CAM restoration. Material choice is driven by aesthetics, strength, the amount of space available, the cementation options and the evidence.
+Single crowns are among the most common CAD/CAM restorations. Material choice is driven by aesthetics, strength, the amount of space available, the cementation options and the evidence.
 
 A large systematic review of tooth-supported single crowns published in 2015 (4,663 metal-ceramic and 9,434 all-ceramic) estimated 5-year survival rates of [13]:
 
 - **94.7%** for metal-ceramic crowns;
 - **96.6%** for leucite- or lithium disilicate-reinforced glass-ceramic crowns;
 - **96.0%** for densely sintered alumina crowns;
-- **92.1%** for zirconia-based crowns (mostly veneered at that time);
+- **92.1%** for densely sintered zirconia crowns;
 - significantly lower rates for feldspathic or silica-based ceramic crowns.
 
-Feldspathic and zirconia crowns had lower survival in **posterior** regions. Veneered zirconia crowns were more often lost through **fracture of the veneering ceramic** and had more loss of retention than metal-ceramic crowns. The authors advised limiting weaker feldspathic ceramics to anterior teeth and did not recommend veneered zirconia as a first choice at that time [13].
+Feldspathic and zirconia crowns had lower survival in **posterior** regions. Veneered zirconia crowns were more often lost through **fracture of the veneering ceramic** and had more loss of retention than metal-ceramic crowns. The authors advised limiting weaker feldspathic ceramics to anterior teeth and stated that zirconia-based crowns should not be a primary option because of their high incidence of technical problems [13].
 
-An updated systematic review of studies published from 2014 to 2024 (3,509 metal-ceramic and 8,051 all-ceramic crowns) estimated these 5-year survival rates [14] (Figure 8.2):
+An updated systematic review (database search 2014–2024, plus 30 studies from earlier reviews; 3,509 metal-ceramic and 8,051 all-ceramic crowns) estimated these 5-year survival rates [14] (Figure 8.2):
 
 - **98.5%** for monolithic lithium disilicate-reinforced glass-ceramic crowns;
 - **97.3%** for veneered densely sintered zirconia crowns;
 - **97.1%** for metal-ceramic crowns;
 - **96.8%** for monolithic densely sintered zirconia crowns;
 - **95.7%** for veneered leucite- or lithium disilicate-reinforced glass-ceramic crowns;
+- **94.5%** for densely sintered alumina crowns;
+- **94.3%** for glass-infiltrated alumina crowns;
 - **90.4%** for feldspathic or silica-based ceramic crowns.
 
-Feldspathic, glass-infiltrated alumina, densely sintered alumina and veneered glass-ceramic crowns all had significantly lower survival than monolithic lithium disilicate crowns. Monolithic lithium disilicate and monolithic zirconia crowns had significantly fewer ceramic fractures and chipping than veneered alternatives. Apart from feldspathic and metal-ceramic crowns, material types performed similarly in anterior and posterior regions [14]. Lithium disilicate and zirconia crowns now match metal-ceramic crowns at 5 years [14].
+Feldspathic, glass-infiltrated alumina, densely sintered alumina and veneered glass-ceramic crowns all had significantly lower survival than monolithic lithium disilicate crowns. Monolithic lithium disilicate and monolithic zirconia crowns had significantly fewer ceramic fractures and chipping than veneered alternatives. Apart from feldspathic and metal-ceramic crowns, material types performed similarly in anterior and posterior regions [14]. Lithium disilicate and zirconia-based crowns achieve 5-year survival rates comparable to those of metal-ceramic crowns [14].
 
 ![Dot plot of estimated five-year survival of single crowns by material and design, from 90.4 to 98.5 percent](../figures/fig-08-2-crown-survival.svg)
 
-**Figure 8.2** Estimated 5-year survival of tooth-supported single crowns by material and design (axis starts at 85%). Data from [14].
+**Figure 8.2** Estimated 5-year survival of tooth-supported single crowns by material and design (axis starts at 85%). Data from [14]. Alumina-based crowns (94.3–94.5%) are not shown.
 
-The move to **monolithic** designs has been driven largely by the chipping problem seen with veneered restorations [13,14]. Full-contour zirconia has steadily gained market share at the expense of veneered designs [15].
+Monolithic lithium disilicate and monolithic zirconia crowns show significantly fewer ceramic fractures and chipping than veneered alternatives [14], and full-contour zirconia has steadily gained market share at the expense of veneered (bilayered) designs [15].
 
-A 2024 meta-analysis of monolithic glass-ceramic restorations found survival of **96%** for single crowns over 4.6 years [8]. A prospective study of chairside monolithic lithium disilicate posterior crowns reported a **10-year survival of 83.5%**. All failures and complications occurred on molars [16].
+A 2024 meta-analysis of monolithic glass-ceramic restorations found survival of **96%** for single crowns over 4.6 years [8]. A prospective study of chairside monolithic lithium disilicate posterior crowns (41 crowns in 34 patients; 26 re-examined) reported a **10-year survival of 83.5%** and a complication-free rate of 71.0%. All failures and complications occurred on molars [16].
 
 Resin-matrix ceramics showed **higher complication rates than ceramics** for full and partial crowns, and are not a first choice for complete coverage [5].
 
@@ -183,7 +185,7 @@ Anterior crowns are where aesthetics matter most, and where AI and library propo
 A multi-unit FDP adds several challenges to everything required for a single crown:
 
 - a **common path of insertion** for all abutments;
-- **connectors**, which are the weakest point of all-ceramic FDPs;
+- **connectors**, which are usually the weakest point of all-ceramic FDPs (expert opinion);
 - **pontic design** suited to hygiene and aesthetics;
 - longer scan spans and greater scan error (Chapter 3);
 - greater design complexity, where AI design is currently less reliable (Chapter 7).
@@ -194,17 +196,19 @@ A systematic review of tooth-supported FDPs estimated 5-year survival rates of [
 
 - **94.4%** for metal-ceramic FDPs;
 - **89.1%** for reinforced glass-ceramic FDPs;
-- **90.4%** for zirconia FDPs (largely veneered).
+- **90.4%** for densely sintered zirconia FDPs.
+
+Survival of the all-ceramic FDPs was lower than that of metal-ceramic FDPs, but the differences were not statistically significant except for glass-infiltrated alumina FDPs [17].
 
 **Framework fractures** were significantly more frequent for reinforced glass-ceramic FDPs (8.0%) than for metal-ceramic (0.6%) or zirconia (1.9%) FDPs. Zirconia FDPs had significantly more **ceramic (veneer) fractures** and **loss of retention**, and more caries in abutment teeth than metal-ceramic FDPs [17]. A more recent meta-analysis found that monolithic glass-ceramic FDPs had a survival of only **76.1%** over 6.5 years and a high proportion of irreparable failures. The authors urged caution [8].
 
 ### 8.6.3 Practical guidance
 
-- **Material:** for posterior FDPs, high-strength zirconia (monolithic, or with minimal veneering) is generally preferred over glass-ceramic. Glass-ceramic FDPs should be limited to short anterior or premolar spans, if used at all [8,17].
-- **Connector design:** follow the manufacturer's minimum cross-sectional areas for the material and span. Height contributes more to strength than width. Avoid sharp embrasures that concentrate stress at the gingival side of the connector.
+- **Material:** for posterior FDPs, high-strength zirconia (monolithic, or with minimal veneering) is generally preferred over glass-ceramic. Reinforced glass-ceramic FDPs had significantly more framework fractures than metal-ceramic or zirconia FDPs [17], and monolithic glass-ceramic FDPs had lower survival with more irreparable failures, so caution is required [8]. Limiting glass-ceramic FDPs to short anterior or premolar spans, if they are used at all, is expert opinion.
+- **Connector design:** follow the manufacturer's minimum cross-sectional areas for the material and span. Height contributes more to strength than width (general engineering principle). Avoid sharp embrasures that concentrate stress at the gingival side of the connector.
 - **Pontic design:** ovate or modified ridge-lap pontics with convex, polished tissue surfaces and access for cleaning.
 - **Span:** keep spans short, and consider implants instead of long-span tooth-supported FDPs.
-- **Monolithic where possible:** this reduces chipping, which is the main technical complication of veneered zirconia [15,17].
+- **Monolithic where possible:** zirconia FDPs had significantly more ceramic (veneer) fractures and loss of retention than other FDPs [17], and monolithic single crowns chip significantly less than veneered ones [14].
 
 ---
 
@@ -221,13 +225,13 @@ Figure 8.3 summarises how the type of restoration is chosen, and Table 8.2 summa
 | Restoration | Survival evidence (approximate) | Main failure modes | Design priorities |
 |---|---|---|---|
 | Inlay / onlay (glass-ceramic) | 92–95% at 5 y; 91% at 10 y [6] | Fracture; endodontic problems [6] | Rounded internal angles; adequate isthmus; cusp coverage when walls are thin |
-| Endocrown | 94–100% (short-term trials) [10] | Debonding; fracture | Butt margin; smooth chamber extension; correct cement space [9] |
-| Laminate veneer | ~89–94% over ~9 y [12] | Chipping; debonding [12] | Enamel preparation through the mock-up; thickness |
-| Single crown: glass-ceramic | 98.5% at 5 y for monolithic LS2 [14]; ~96–97% at ~5 y [8,13]; 83.5% at 10 y chairside LS2 [16] | Fracture (molars) | Thickness over cusps; bonding |
-| Single crown: monolithic zirconia | 96.8% at 5 y [14]; veneered designs chip more [13,14] | Retention loss; chipping (veneered) | Retentive preparation; monolithic or cut-back design |
-| FDP: zirconia | ~90% at 5 y (mostly veneered) [17] | Veneer chipping; retention loss; caries [17] | Connector size; monolithic; hygienic pontic |
-| FDP: glass-ceramic | ~76–89% [8,17] | Framework fracture [17] | Avoid in posterior spans |
-| Resin-matrix ceramics | Good for intracoronal and veneers; poorer for crowns [5] | Debonding; fracture | Choose indications carefully |
+| Endocrown | 94–100% success (3 clinical trials) [10] | Not reported in the cited review | Butt margin; smooth chamber extension; correct cement space [9] |
+| Laminate veneer | 89% overall over a median of 9 y (87% feldspathic, 94% glass-ceramic) [12] | Chipping; debonding [12] | Enamel preparation through the mock-up; thickness |
+| Single crown: glass-ceramic | 98.5% at 5 y for monolithic LS2 [14]; ~96–97% at ~5 y [8,13]; 83.5% at 10 y chairside LS2 [16] | Crown, abutment or root fracture; endodontic problems; caries (all on molars) [16] | Thickness over cusps; bonding |
+| Single crown: monolithic zirconia | 96.8% at 5 y [14]; veneered designs chip more [13,14] | Retention loss and veneering-ceramic fracture (zirconia crowns, 2015 review) [13]; fewer fractures and chipping with monolithic designs [14] | Retentive preparation; monolithic or cut-back design |
+| FDP: zirconia | ~90% at 5 y [17] | Veneer chipping; retention loss; caries [17] | Connector size; monolithic; hygienic pontic |
+| FDP: glass-ceramic | 89.1% at 5 y (reinforced) [17]; 76.1% over 6.5 y (monolithic) [8] | Framework fracture [17] | Avoid in posterior spans |
+| Resin-matrix ceramics | Good for intracoronal and veneers; poorer for crowns [5] | Higher complication rates for crowns [5] | Choose indications carefully |
 
 Table 8.3 gathers the preparation and design points from Sections 8.2–8.6 into one checklist.
 
@@ -245,13 +249,13 @@ Table 8.3 gathers the preparation and design points from Sections 8.2–8.6 into
 
 ## Key Points
 
-- The preparation must suit the tooth, the scanner and the machine: **rounded internal angles, smooth walls, clear chamfer or shoulder margins, adequate reduction** and supragingival margins where possible [1–4].
-- Bonded partial-coverage CAD/CAM restorations are **conservative** and have excellent long-term survival: about 91% at 10 years, with chairside series up to 27 years [6,7].
-- **Endocrowns** are a valid alternative to post-retained crowns for compromised, endodontically treated posterior teeth [10].
-- **Veneers** survive about 89–94% over roughly 9 years. Incisal coverage does not significantly change survival [11,12].
-- Current 5-year survival of **single crowns** is about 97–98.5% for monolithic lithium disilicate, metal-ceramic and zirconia crowns. **Monolithic** designs fracture and chip significantly less than veneered ones, which has driven the move to monolithic restorations [13–16].
-- **Multi-unit FDPs** remain more demanding. Glass-ceramic FDPs show more framework fractures, and veneered zirconia FDPs more chipping and retention loss [8,17]. Prefer zirconia, monolithic design, generous connectors and short spans.
-- **Resin-matrix ceramics** perform well for inlays, onlays and veneers but less well for crowns [5].
+- The preparation must suit the tooth, the scanner and the machine: **rounded internal angles, smooth walls, clear chamfer or shoulder margins, adequate reduction** and supragingival margins where possible. Finish-line configuration affects marginal fit [2], and in vitro, equigingival margins and proximal clearance improve scan trueness [3,4].
+- Bonded ceramic partial-coverage restorations are **conservative** and have high long-term survival: about 91% at 10 years [6], and 87.5% after up to 27 years in one chairside CAD/CAM series [7].
+- **Endocrowns** may perform similarly to or better than post-retained crowns for severely compromised, endodontically treated teeth, but the clinical evidence rests on three trials and further studies are needed [10].
+- **Veneers** have an estimated overall survival of about 89% over a median of 9 years (87% feldspathic, 94% glass-ceramic). Incisal coverage does not significantly change survival [11,12].
+- Current 5-year survival of **single crowns** is about 97–98.5% for monolithic lithium disilicate, veneered zirconia and metal-ceramic crowns, and 96.8% for monolithic zirconia [14]. **Monolithic** lithium disilicate and zirconia crowns show significantly fewer ceramic fractures and chipping than veneered ones [14].
+- **Multi-unit FDPs** remain more demanding. Reinforced glass-ceramic FDPs show more framework fractures, and zirconia FDPs more ceramic fractures and retention loss [17]; monolithic glass-ceramic FDPs survived only 76.1% over 6.5 years [8]. Prefer zirconia, monolithic design, generous connectors and short spans.
+- **Resin-matrix ceramics** perform well for intracoronal restorations and veneers but less well for full and partial-coverage crowns [5].
 
 ---
 
