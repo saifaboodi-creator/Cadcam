@@ -31,7 +31,7 @@ Each specialty uses these tools to answer a different question. How far can teet
 
 Digital study models have replaced plaster in many orthodontic practices for diagnosis, storage and communication. A systematic review of 17 studies found that tooth-size, arch-length, arch-width, crowding and irregularity measurements on digital models were comparable to those on plaster models. Differences were minor and clinically insignificant, although the evidence was of variable quality [1].
 
-Orthodontic models need less accuracy than a crown margin. Even an earlier-generation intraoral scanner, less precise than a laboratory scanner, produced virtual models judged suitable for treatment planning and for making tooth-supported appliances [2]. Combining an intraoral scan with a smartphone facial scan has also been shown to produce a clinically useful 3D patient model for orthodontic diagnosis and planning [3] (Chapter 6).
+Orthodontic models tolerate larger deviations than a crown margin. In a study of repeated scans of one patient, even an earlier-generation intraoral scanner, less precise than a laboratory scanner, produced virtual models judged suitable for treatment planning and for making tooth-supported appliances [2]. In a prospective cross-sectional study of 30 patients, combining an intraoral scan with a smartphone facial scan produced a 3D patient model judged clinically useful for orthodontic diagnosis and planning; only one of eight linear measurements differed significantly from photographs [3] (Chapter 6).
 
 ### 19.2.2 Virtual set-ups
 
@@ -42,11 +42,11 @@ A **virtual set-up** segments the teeth on the digital model and moves them, ind
 - design aligner stages, custom brackets and archwires, and indirect bonding trays;
 - coordinate with restorative and surgical colleagues in interdisciplinary cases.
 
-AI-based tooth segmentation now automates much of the preparation (Chapter 4). The set-up is still a **prediction**, not a guarantee. Biology, compliance and appliance mechanics decide whether the planned movement actually happens.
+AI-based tooth segmentation now automates much of the preparation (Chapter 4). The set-up is a **target**, not a prediction or a guarantee. Biology, compliance and appliance mechanics decide whether the planned movement actually happens.
 
 ### 19.2.3 Clear aligners
 
-Clear aligners are the largest single CAD/CAM application in dentistry by volume. From the virtual set-up, a series of intermediate tooth positions is designed. Models of each stage are 3D-printed, and thermoplastic aligners are vacuum-formed over them (or, increasingly, printed directly; see Chapter 11). Figure 19.1 shows the workflow.
+Clear aligners are one of the most widespread CAD/CAM applications in dentistry. From the virtual set-up, a series of intermediate tooth positions is designed. Models of each stage are 3D-printed, and thermoplastic aligners are vacuum-formed over them (or, increasingly, printed directly; see Chapter 11). Figure 19.1 shows the workflow.
 
 ![Flow diagram of the clear aligner workflow from scan to monitoring, with a refinement loop back to a new virtual set-up](../figures/fig-19-1-aligner-workflow.svg)
 
@@ -56,9 +56,9 @@ Clear aligners are the largest single CAD/CAM application in dentistry by volume
 
 - A systematic review found that aligners aligned and levelled arches and controlled anterior intrusion and posterior bucco-lingual inclination. **Extrusion** was the hardest movement to control (about 30% accuracy), followed by rotation. Upper molar distalisation was the most predictable movement (88%) when at least 1.5 mm of bodily movement was prescribed. Rotation of rounded teeth was poorly controlled. Study quality and heterogeneity limited the conclusions [4].
 - A prospective study of 38 patients measured predicted against achieved movement on digital models. Mean accuracy across all movements was **50%** (Figure 19.2). Bucco-lingual crown tip was the most accurate (56%) and rotation the least (46%). Accuracy was particularly low for mesial rotation of mandibular first molars (28%), distal rotation of maxillary canines (37%) and intrusion of mandibular incisors (35%) [5].
-- A systematic review of factors affecting aligner outcomes found that success depended mainly on **patient compliance**, treatment planning and case complexity. Bucco-lingual tipping was the most accurate movement, while rotation, intrusion and expansion were less precise. A digital progress-monitoring tool was reported to **overestimate** tooth movement [6].
+- A systematic review of six studies (without meta-analysis) on factors affecting aligner outcomes found that success depended mainly on **patient compliance**, treatment planning and case complexity. Bucco-lingual tipping was the most accurate movement, while rotation, intrusion and expansion were less precise. A digital progress-monitoring tool was reported to **overestimate** tooth movement [6].
 
-> **Evidence Box.** On average, aligners achieve roughly half of the planned movement per stage, and less for rotations, extrusions and some intrusions [4,5]. This explains why refinements (additional aligner series) and auxiliaries (attachments, elastics) are common. A virtual set-up shows the **target**, not a prediction of what the teeth will actually do. Clinicians should plan overcorrection and refinements accordingly, and explain this to patients.
+> **Evidence Box.** In one prospective study, aligners achieved on average about half of the planned movement over the course of treatment, and less for rotations and some intrusions [5]; in a systematic review, extrusion and rotation were the hardest movements to control [4]. This explains why refinements (additional aligner series) and auxiliaries (attachments, elastics) are common. A virtual set-up shows the **target**, not a prediction of what the teeth will actually do. Clinicians should plan overcorrection and refinements accordingly, and explain this to patients.
 
 ![Horizontal bar chart of achieved versus predicted aligner movement: mean 50%, crown tip 56%, rotation 46%, canine distal rotation 37%, incisor intrusion 35%, molar mesial rotation 28%](../figures/fig-19-2-aligner-accuracy.svg)
 
@@ -68,9 +68,9 @@ Clear aligners are the largest single CAD/CAM application in dentistry by volume
 
 In **indirect bonding**, brackets are positioned on a model, then transferred to the teeth in a tray so that they can all be bonded at once. In the digital version, brackets are placed virtually on the scan. A transfer tray or jig is designed and printed, or vacuum-formed over a printed model with the brackets in place.
 
-- In vitro, a 3D-printed transfer jig and a conventional silicone tray both achieved median bracket-position deviations within the American Board of Orthodontics' clinically acceptable limit of 0.5 mm. The printed jig was more accurate in the mandible and the silicone tray in the maxilla [7].
+- In vitro, a 3D-printed transfer jig and a conventional silicone tray both achieved median bracket-position deviations within the American Board of Orthodontics' clinically acceptable limit of 0.5 mm. The printed jig was more accurate in the mandible and the silicone tray in the maxilla, although the authors judged these differences not clinically significant [7].
 - In a prospective clinical study of 818 lingual brackets, rigid-printed, flexible-printed and double vacuum-formed trays all gave median translational errors of 0.10 mm or less, well within the 0.5 mm limit. **Torque** rarely met the 2° limit with any tray. Double vacuum-formed trays gave the most precise mesial-distal positioning [8].
-- A comparison of fully and partially enclosed printed lingual trays found both clinically acceptable for linear accuracy. Torque transfer remained a challenge. The fully enclosed design needed longer bonding time (84 versus 71 minutes) without an overall accuracy advantage [9].
+- In a clinical (in vivo) study of 20 patients with 498 lingual brackets, fully and partially enclosed printed trays were both clinically acceptable for linear accuracy (errors below 0.5 mm). Torque transfer remained a challenge. The fully enclosed design needed longer bonding time (84 versus 71 minutes) without an overall accuracy advantage [9].
 
 Table 19.1 compares the three studies.
 
@@ -80,7 +80,7 @@ Table 19.1 compares the three studies.
 |---|---|---|---|---|
 | [7] | In vitro | 3D-printed jig vs conventional silicone tray | Median deviations within the 0.5 mm limit for both | Printed jig more accurate in the mandible, silicone tray in the maxilla |
 | [8] | Clinical, 818 lingual brackets | Rigid printed, flexible printed, double vacuum-formed | Median translational errors ≤ 0.10 mm | Torque rarely within 2°; double vacuum-formed most precise mesial-distally |
-| [9] | Lingual trays | Fully vs partially enclosed printed trays | Both clinically acceptable | Torque transfer a challenge; fully enclosed design took longer to bond (84 vs 71 minutes) |
+| [9] | Clinical, 20 patients, 498 lingual brackets | Fully vs partially enclosed printed trays | Both clinically acceptable | Torque transfer a challenge; fully enclosed design took longer to bond (84 vs 71 minutes) |
 
 Digital indirect bonding achieves clinically acceptable **linear** accuracy with several tray designs. **Torque** transfer is the weak point [8,9].
 
@@ -108,7 +108,7 @@ Design considerations:
 
 Mandibular advancement devices (MADs) for obstructive sleep apnoea hold the mandible forward during sleep. CAD/CAM allows precise, reproducible designs with planned advancement and vertical opening.
 
-In a practice-based study of 300 patients, mandibular advancement therapy reduced the apnoea–hypopnoea index by a mean of 16.4 events per hour and the oxygen desaturation index by 10.8 per hour, an average improvement of about 50%. Patients with more severe disease improved more. Interestingly, the **conventionally made** MAD (40 patients) showed greater reductions than the two CAD/CAM designs [11]. This was a non-randomised comparison and device designs differed, so it does not show that digital manufacture is inferior. It does show that digital manufacture alone does not guarantee a better result.
+In a practice-based study of 300 patients, using data extracted from patient files, mandibular advancement therapy reduced the apnoea–hypopnoea index by a mean of 16.4 events per hour and the oxygen desaturation index by 10.8 per hour, an average improvement of about 50%. Patients with more severe disease improved more. Interestingly, the **conventionally made** MAD (40 patients) showed greater reductions than the two CAD/CAM designs [11]. This was a non-randomised comparison and device designs differed, so it does not show that digital manufacture is inferior. It does show that digital manufacture alone does not guarantee a better result.
 
 Sleep appliances should be provided within a medical diagnosis and follow-up pathway. The dentist provides the appliance but does not diagnose or monitor sleep apnoea alone.
 
@@ -125,12 +125,12 @@ In teeth with **pulp canal obliteration** (calcified canals; Figure 19.3), findi
 **Figure 19.3** Guided endodontic access. The access path is planned on registered CBCT and surface-scan data, and a sleeve in a tooth-supported template keeps the drill on that path. Schematic, not to scale.
 
 - In an in vitro study with 3D-printed incisors containing simulated calcified canals, the canal was found in **91.7%** of guided accesses compared with **41.7%** of conventional ones. Substance loss was about five times lower (mean 9.8 versus 49.9 mm³), and treatment time was roughly halved (11.3 versus 21.8 minutes). The success of the guided approach did not depend on operator experience [12].
-- Templates made on several low-cost desktop 3D printers gave mean deviations between planned and actual bur positions of 0.31–0.68 mm [13].
-- For **posterior** teeth, where space is limited, metal templates made by selective laser melting gave smaller deviations at the entry point and apex than resin stereolithography templates, and the templates were lower in height [14].
+- In an in vitro typodont study, templates made on four low-cost desktop 3D printers gave mean deviations between planned and actual bur positions of 0.31–0.68 mm [13].
+- For **posterior** teeth, where space is limited, metal templates made by selective laser melting gave smaller deviations at the entry point and apical portion of the bur than resin stereolithography templates; angular deviation and template height also differed significantly [14].
 
 ### 19.4.2 When guided access fails
 
-Guided access is not infallible. A case report described the failure of a static guide in a severely obliterated lateral incisor. The drill repeatedly deviated palatally. Investigation showed **wear of the resin template** next to the metal sleeve and a **mismatch between the drill and sleeve dimensions**. The canal was finally found conventionally under the operating microscope [15].
+Guided access is not infallible. A case report described the failure of a static guide in a severely obliterated lateral incisor. The drill repeatedly deviated palatally. Investigation showed palatal **wear of the resin template** next to the metal sleeve, and a **mismatch between the drill's active length and the sleeve dimensions** may have contributed [15]. The canal was finally found conventionally under the operating microscope [15].
 
 > **Clinical Tip.** For guided endodontic access, use drills and sleeves specified as a matched system, verify that the template seats fully and stably before drilling, and check progress radiographically. Keep conventional microscope-assisted skills current for cases where the guide fails [15].
 
@@ -140,14 +140,14 @@ Guided access is not infallible. A case report described the failure of a static
 
 ### 19.5.1 Tooth autotransplantation
 
-Digital planning has transformed **autotransplantation**. A **3D-printed replica** of the donor tooth is made from CBCT data and used to prepare and test the recipient socket **before** the donor tooth is extracted, which shortens the time the donor tooth spends outside the mouth.
+Digital planning has changed how **autotransplantation** is performed. A **3D-printed replica** of the donor tooth is made from CBCT data and used to prepare and test the recipient socket **before** the donor tooth is extracted, which shortens the time the donor tooth spends outside the mouth.
 
 - An early systematic review found that donor-tooth replicas shortened extraoral time and enabled accurate planning. Clinical studies reported success rates of 80.0–91.1% and survival of 95.5–100%, but the quality of evidence was low [16].
-- A more recent systematic review of 25 studies (about 1,300 patients) found survival of 92–100% and success of 86–100% at 6 months to 5 years with digital guidance. Extra-alveolar time was **under one minute** in eleven reports, most donor teeth fitted at the first attempt, and positional deviation from the plan was about 1–2 mm. Guidance shortened surgical time. However, the only registered controlled trial found no significant clinical difference from the conventional technique, so **clinical superiority remains unproven** [17].
+- A more recent systematic review of 25 studies (about 1,300 patients) found survival of 92–100% and success of 86–100% at 6 months to 5 years with digital guidance. Extra-alveolar time was **under one minute** in eleven reports, most donor teeth fitted at the first attempt, and positional deviation from the plan was about 1–2 mm. In two studies, guidance shortened surgical time by 13–15 minutes (low certainty). However, the only registered controlled trial found no significant clinical difference from the conventional technique, so **clinical superiority remains unproven** [17].
 
 ### 19.5.2 Periodontal surgery
 
-Digital planning is increasingly used for **aesthetic crown lengthening**. The planned gingival margin and bone level are derived from the digital smile design and wax-up (Chapter 6). A technique report described a dual-layer guide: a printed resin guide for gingivectomy and a snap-fit cobalt-chromium guide for osteoplasty, linked so that soft and hard tissue can be managed in sequence [18]. Such guides transfer the restorative plan precisely to the surgical field. Comparative clinical evidence is still lacking.
+Digital planning is increasingly used for **aesthetic crown lengthening**. The planned gingival margin and bone level are derived from the digital smile design and wax-up (Chapter 6). A technique report described a dual-layer guide: a printed resin guide for gingivectomy and a snap-fit cobalt-chromium guide for osteoplasty, linked so that soft and hard tissue can be managed in sequence [18]. Such guides are designed to transfer the restorative plan to the surgical field, but their accuracy has not been reported and comparative clinical evidence is still lacking.
 
 ### 19.5.3 Other surgical guides and models
 
@@ -164,17 +164,17 @@ In **virtual surgical planning (VSP)**, CT or CBCT data, dental scans and facial
 An early protocol showed that occlusal data could be transferred entirely digitally: all splints made from the CBCT occlusal data fitted the stone models and were used in surgery [19]. Evidence on accuracy and outcomes is now available from systematic reviews:
 
 - A meta-analysis of 11 randomised trials (240 patients) found that VSP **shortened surgery** and gave a statistically significant but modest improvement in maxillary **vertical** accuracy (mean difference about 0.46 mm). The gain was larger with **guide- and plate-based** transfer (about 0.89 mm) than with splint-based transfer (about 0.24 mm). Horizontal accuracy and patient-reported outcomes did not differ. VSP was associated with **higher costs and radiation exposure**, and the certainty of evidence was low to very low [20].
-- Another meta-analysis found **no significant differences** between VSP and traditional planning in key cephalometric measurements. The authors recommended VSP for complex cases that need enhanced visualisation and interdisciplinary collaboration [21].
+- Another systematic review (13 studies, four in the meta-analysis) found **no significant differences** between VSP and traditional planning in SNA, SNB and horizontal and vertical skeletal measurements. The authors recommended VSP for complex cases that need enhanced visualisation and interdisciplinary collaboration [21].
 
-> **Evidence Box.** For routine orthognathic cases, VSP gives accuracy similar to, or slightly better than, conventional planning, at higher cost [20,21]. Its clearest advantages are in **complex** cases (asymmetry, multiple segments, syndromic and cleft patients) and when combined with guides and patient-specific plates.
+> **Evidence Box.** Overall, VSP gives accuracy similar to, or slightly better than, conventional planning [20,21], at higher cost [20]. Both reviews suggest reserving it for **complex** cases that need greater precision, visualisation and interdisciplinary collaboration [20,21], and the vertical accuracy gain was largest with guide- and plate-based transfer [20].
 
 ### 19.6.2 Mandibular reconstruction
 
 Reconstruction of the mandible with a **fibula free flap** is one of the most established uses of VSP. The resection, the fibula osteotomies and the plate shape are planned virtually, and printed cutting guides transfer the plan to both the mandible and the fibula.
 
-- A meta-analysis of VSP versus free-hand fibula reconstruction found significantly smaller changes in **gonion angle** with VSP (3.6° versus 7.7°). Differences in intercondylar distance and ischaemia time were not significant [22].
+- A meta-analysis of six studies comparing VSP with free-hand mandibular reconstruction using osteocutaneous free flaps found significantly smaller changes in **gonion angle** with VSP (3.6° versus 7.7°). Differences in intercondylar distance, ischaemia time and total operative time were not significant [22].
 - A second meta-analysis found that VSP **reduced operative time by about 45 minutes**, with no difference in major or minor complications [23].
-- Computer-aided planning was associated with a significantly higher likelihood of **dental implant placement** after free-flap reconstruction (odds ratio 2.70) [24]. This matters because implant-supported prostheses are linked to better quality of life after reconstruction.
+- Computer-aided planning was associated with a significantly higher likelihood of **dental implant placement** after free-flap reconstruction (odds ratio 2.70) [24]. This matters because implant-supported prostheses have been associated with better quality of life after free-flap mandibular reconstruction, as the review's authors note [24].
 
 Planning the reconstruction **prosthetically**, by positioning the fibula segments to support future implants and a dental prosthesis, connects maxillofacial surgery directly with the implant workflows in Chapters 9 and 17.
 
@@ -185,8 +185,8 @@ Table 19.2 summarises the review evidence on virtual surgical planning.
 | Application | Review | Main findings | Limitations |
 |---|---|---|---|
 | Orthognathic surgery | [20] 11 RCTs, 240 patients | Shorter surgery; maxillary vertical accuracy improved by about 0.46 mm (about 0.89 mm with guides and plates, 0.24 mm with splints) | No difference in horizontal accuracy or patient-reported outcomes; higher cost and radiation; low to very low certainty |
-| Orthognathic surgery | [21] | No significant differences in key cephalometric measurements | VSP recommended for complex cases |
-| Fibula mandibular reconstruction | [22] | Smaller change in gonion angle (3.6° vs 7.7°) | No significant difference in intercondylar distance or ischaemia time |
+| Orthognathic surgery | [21] 13 studies, 4 meta-analysed | No significant differences in key cephalometric measurements | Only four studies pooled; VSP recommended for complex cases |
+| Free-flap mandibular reconstruction | [22] | Smaller change in gonion angle (3.6° vs 7.7°) | No significant difference in intercondylar distance or ischaemia time |
 | Fibula mandibular reconstruction | [23] | Operative time about 45 minutes shorter | No difference in complications |
 | Free-flap reconstruction | [24] | Higher likelihood of dental implant placement (odds ratio 2.70) | — |
 
@@ -195,21 +195,21 @@ Table 19.2 summarises the review evidence on virtual surgical planning.
 **Patient-specific implants (PSIs)** are designed from the patient's imaging to fill defects or reconstruct contours. They are made by milling or printing titanium or PEEK (Chapter 15).
 
 - A systematic review and meta-analysis of patient-specific **PEEK** implants in craniomaxillofacial reconstruction (15 studies, 236 implants) found a pooled complication rate of 20.1%, mostly minor, and implant loss of 6.5%. Aesthetic outcomes were satisfactory in 87.4%. Implant loss was numerically higher in previously irradiated patients, although that subgroup was very small [25].
-- In craniomaxillofacial **trauma**, a systematic review of 20 studies found that printed models, PSIs and custom devices helped restore symmetry and function and **reduced surgery time**, but **increased preparation time and production costs**. In-house production could reduce both [26].
+- In craniomaxillofacial **trauma**, a systematic review of 20 studies (170 participants; case reports, case series and clinical trials) found that printed models, PSIs and custom devices helped restore symmetry and function and **reduced surgery time**, but **increased preparation time and production costs**. In-house production could reduce both [26].
 
 **Table 19.3** Digital applications outside restorative dentistry: summary
 
 | Application | Typical manufacture | Evidence summary | Key limitation |
 |---|---|---|---|
 | Digital orthodontic models | Scan; printed models as needed | Comparable to plaster for measurements [1] | Variable study quality |
-| Clear aligners | Printed models + thermoformed (or printed) aligners | ~50% mean accuracy per movement; extrusion and rotation weakest [4,5] | Compliance; refinements needed [6] |
-| Digital indirect bonding | Printed or vacuum-formed trays | Linear errors well within 0.5 mm [7–9] | Torque transfer [8,9] |
+| Clear aligners | Printed models + thermoformed (or printed) aligners | ~50% of planned movement achieved on average [5]; extrusion and rotation weakest [4,5] | Compliance [6]; refinements often needed |
+| Digital indirect bonding | Printed or vacuum-formed trays | Linear errors within 0.5 mm [7–9] | Torque transfer [8,9] |
 | Occlusal splints | Milled PMMA or printed resin | Adequate fit and comfort [10] | Limited long-term data |
 | Mandibular advancement devices | Milled or printed | ~50% AHI reduction overall [11] | No proof digital > conventional |
 | Guided endodontic access | Printed (or SLM metal) template | 91.7% vs 41.7% canal location in vitro [12] | Template wear; drill–sleeve mismatch [15] |
-| Guided autotransplantation | Printed donor replica ± guide | Survival 92–100%; extra-alveolar time <1 min [17] | Superiority over conventional unproven [17] |
-| Orthognathic VSP | Printed splints, guides, PSI plates | Modest accuracy gain; shorter surgery [20] | Cost; radiation; low certainty [20,21] |
-| Fibula mandibular reconstruction | Printed cutting guides, plates | Better angle accuracy; shorter surgery [22,23]; more implants [24] | Heterogeneous measures |
+| Guided autotransplantation | Printed donor replica ± guide | Survival 92–100%; extra-alveolar time <1 min in 11 reports [17] | Superiority over conventional unproven [17] |
+| Orthognathic VSP | Printed splints, guides, PSI plates | Modest accuracy gain; shorter surgery [20] | Cost; radiation; low to very low certainty [20] |
+| Fibula mandibular reconstruction | Printed cutting guides, plates | Better angle accuracy [22]; shorter surgery [23]; more implants [24] | Heterogeneous measures |
 | PEEK patient-specific implants | Milled or printed PEEK | 87.4% aesthetic satisfaction; 6.5% loss [25] | Complications 20.1% [25] |
 
 ---
@@ -217,13 +217,13 @@ Table 19.2 summarises the review evidence on virtual surgical planning.
 ## Key Points
 
 - The same **acquisition–design–manufacture** chain serves orthodontics, sleep and occlusal therapy, endodontics, oral and periodontal surgery, and maxillofacial reconstruction. Most of these applications rely on **3D printing** (Chapter 11).
-- **Digital orthodontic models** are as valid as plaster for measurement [1].
+- **Digital orthodontic models** give measurements comparable to plaster, although the evidence is of variable quality [1].
 - **Clear aligners** achieve about half of the planned movement on average. Extrusion and rotation are least predictable, and compliance is decisive [4–6]. A virtual set-up is a target, not a prediction.
 - **Digital indirect bonding** achieves clinically acceptable linear accuracy. Torque is the weak point [7–9].
-- **Printed splints** are widely used with adequate fit [10]. Digitally made **MADs** are effective, but not shown to be better than conventional ones [11].
-- **Guided endodontic access** greatly improves canal location and conserves tooth structure in vitro [12–14]. Template wear and drill–sleeve mismatch can cause failure [15].
+- **Printed splints** are widely used with adequate fit [10]. Digitally made **MADs** reduce AHI, but in one non-randomised practice-based study the conventionally made device gave greater reductions [11].
+- **Guided endodontic access** greatly improves canal location and conserves tooth structure in vitro [12]. In vitro, printed templates kept the bur within 0.31–0.68 mm of the plan [13], and laser-melted metal templates deviated less than resin ones [14]. Template wear and drill–sleeve mismatch can cause failure [15].
 - **Digitally guided autotransplantation** shortens extra-alveolar time and surgery, but clinical superiority is unproven [16,17].
-- In maxillofacial surgery, **VSP** shortens surgery and modestly improves accuracy, most clearly with guides and patient-specific plates, at higher cost [20–24]. **PEEK PSIs** give good aesthetic results with a notable minor-complication rate [25,26].
+- In maxillofacial surgery, **VSP** shortens surgery [20,23] and modestly improves accuracy, most clearly with guides and patient-specific plates, at higher cost [20]. In free-flap reconstruction it is associated with smaller gonion-angle changes [22] and more dental implant placement [24]. **PEEK PSIs** give good aesthetic results (87.4% satisfactory) with an overall complication rate of 20.1%, mostly minor [25]. In trauma, printed devices shorten surgery but add preparation time and cost [26].
 
 ---
 
@@ -250,7 +250,7 @@ Table 19.2 summarises the review evidence on virtual surgical planning.
 6. AlBaqshi FS, Alosaimi SSS, Al Jumaiei AH, Alkahtani DA, Alghamdi AAAM, Alamri RH, et al. Factors influencing the predictability and success of Invisalign aligners: a systematic review. Cureus. 2025;17(10):e95845. doi:10.7759/cureus.95845
 7. Tavakkoli MA, Jebal R, Salehi P, Ajami S. Comparison of three-dimensional scan and conventional indirect bonding methods for bracket positioning accuracy: an in vitro study. Angle Orthod. 2026. doi:10.2319/110725-924.1
 8. Nguyen VA, Vuong TQT. Transfer accuracy and chairside efficiency of rigid- and flexible-printed versus double vacuum-formed lingual indirect bonding trays: a prospective cohort study. Sci Rep. 2025;15(1):29320. doi:10.1038/s41598-025-14069-x
-9. Nguyen VA. Comparative analysis of lingual bracket transfer accuracy using fully versus partially enclosed 3D-printed indirect bonding trays. PeerJ. 2025;13:e19612. doi:10.7717/peerj.19612
+9. Nguyen VA. Comparative analysis of lingual bracket transfer accuracy using fully versus partially enclosed 3D-printed indirect bonding trays: an in vivo study. PeerJ. 2025;13:e19612. doi:10.7717/peerj.19612
 10. Schubert O, Edelhoff D, Güth JF, Schweiger J. Advances in 3D printing for removable prosthetics — insights and perspectives. J Esthet Restor Dent. 2026;38(3):520–9. doi:10.1111/jerd.70097
 11. Bronwasser CS, Bronwasser PJ, Schimmel M, Abou-Ayash S, Hou MY. The effect of different mandibular advancement devices on sleep parameters in obstructive sleep apnea. J Oral Rehabil. 2026. doi:10.1111/joor.70298
 12. Connert T, Krug R, Eggmann F, Emsermann I, ElAyouti A, Weiger R, et al. Guided endodontics versus conventional access cavity preparation: a comparative study on substance loss using 3-dimensional-printed teeth. J Endod. 2019;45(3):327–31. doi:10.1016/j.joen.2018.11.006
