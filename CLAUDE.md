@@ -24,12 +24,16 @@ A 20-chapter, evidence-based English textbook, "CAD/CAM in Dentistry: From Scan 
 - Start non-trivial work in **plan mode** (Shift+Tab twice). Agree the plan, then execute.
 - Chapters are independent: several sessions can run in parallel, each on its own chapter or chapter group, without editing the same file.
 - Every change ends with a check: renumbering, citation match, and (if figures or tables changed) a render or PDF rebuild.
-- Whenever the author corrects something that should apply to the whole book, add it here or to `STYLE.md` so later sessions follow it.
+- **After every correction from the author**, before moving on: add a one-line rule to "Lessons from the author" below (or to `STYLE.md` if it is a style rule), so no later session repeats the mistake. Keep rules short and specific; merge or delete rules that overlap. Commit the change with the fix.
 
 ## Commands (in `.claude/commands/`)
 - `/review-chapter NN` — independent fact-check of one chapter by parallel checkers plus a false-positive filter. Writes `reviews/NN-review.md`; edits nothing.
 - `/apply-review NN` — applies only the findings the author approved in `reviews/NN-review.md`.
 - `/build-book` — rebuilds the PDF, checks it, and saves the new version to the author's Google Drive.
+
+## Lessons from the author
+<!-- One line per correction, newest last. Format: YYYY-MM-DD — rule. -->
+- 2026-11-17 — Write reports and summaries for the author in English.
 
 ## Commit
 Commit in logical steps on `claude/cad-cam-dentistry-book-5d2foe`. Update `PROGRESS.md` after each chapter.
