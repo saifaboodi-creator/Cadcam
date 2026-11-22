@@ -46,7 +46,7 @@ Resume point for any new session. Update after every chapter.
 - Chapter 8 survival data updated to Pjetursson 2026 (author request).
 
 ## Independent reviews
-- **Ch 16** (2026-11-22): 30 confirmed findings (5 major, 25 minor), all approved and applied; refs 21 → 21; UNVERIFIED unchanged (1). Figure 16.3 labels updated.
+- **Ch 16** (2026-11-22): 30 confirmed findings (5 major, 25 minor), all approved and applied; refs 21 → 21; UNVERIFIED unchanged (1). Figure 16.3 labels updated. PDF saved to Google Drive (Cadcam folder) as `CADCAM-in-Dentistry-vs4.pdf` (221 pages, 2.97 MB): https://drive.google.com/file/d/1UQUnqnDmgPAWtcy3oD7pHKZV2Gka_FLx/view
 
 ## Quarterly literature updates
 - **Last update: 2026-11-17** (quarterly update 1; search window 2026-10-01 to 2026-11-17). Report: `updates/2026-11.md`. Next update due about 2027-02.
