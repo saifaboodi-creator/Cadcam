@@ -19,7 +19,7 @@
 - "Intraoral scanner (IOS)"; "digital impression" or "optical impression" for the act of scanning.
 - Accuracy is reported as **trueness** and **precision** (ISO 5725), not as "accuracy" alone.
 - "Fixed dental prosthesis (FDP)" rather than "bridge" in formal text; "bridge" may be given in parentheses on first use.
-- Units: µm for fit and deviation; MPa for strength.
+- Units: µm for fit and deviation; MPa for strength. Exception: implant positional deviations are given in mm and degrees, as in the source literature (author-approved, Ch 17 review, 2026-11-22).
 
 ## References
 - Vancouver style, numbered by first citation within the chapter: [1], [2–4].

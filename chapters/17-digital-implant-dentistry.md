@@ -5,7 +5,7 @@
 After reading this chapter, you should be able to:
 
 1. Describe a prosthetically driven digital implant planning workflow, from data acquisition to the surgical plan.
-2. Classify static surgical guides by their support (tooth, mucosa or bone) and by their level of guidance (pilot drill or fully guided), and explain how each affects accuracy.
+2. Classify static surgical guides by their support (tooth, mucosa or bone) and by their level of guidance (pilot-drill, partially or fully guided), and explain how each affects accuracy.
 3. Summarise the evidence on the accuracy of static, dynamic and robotic computer-assisted implant surgery, and apply an appropriate safety margin.
 4. Explain how dynamic navigation and robotic systems work, and where they currently fit in practice.
 5. Plan immediate provisionalisation with prefabricated CAD/CAM restorations.
@@ -17,7 +17,7 @@ After reading this chapter, you should be able to:
 
 Early implant dentistry placed implants where bone allowed, then adapted the restoration to the result. Digital implant dentistry reverses this. The planned **restoration** determines where the implant should go, and the bone is assessed for whether it can accommodate that position or needs augmentation.
 
-Digital implant dentistry has moved from two-dimensional radiographs, freehand placement and conventional impressions to a data-driven discipline. It combines CBCT, intraoral scanning, virtual planning, guided surgery and CAD/CAM prosthetics, and is now moving towards AI-assisted planning, robotics and a lifelong "digital twin" of the patient [1]. This chapter covers the surgical side of that chain. Chapter 6 covers CBCT and its registration with surface scans. Chapter 9 covers the design of the implant restoration itself.
+Digital implant dentistry has moved from two-dimensional radiographs, freehand placement and conventional impressions to a data-driven discipline. It combines CBCT, intraoral scanning, virtual planning, guided surgery and CAD/CAM prosthetics, and is moving towards AI-supported diagnostics and planning, possibly robotic surgical execution, and a comprehensive "digital twin" of the patient [1]. This chapter covers the surgical side of that chain. Chapter 6 covers CBCT and its registration with surface scans. Chapter 9 covers the design of the implant restoration itself.
 
 The umbrella term for planning-based placement is **computer-assisted implant surgery (CAIS)**. It has three forms:
 
@@ -35,15 +35,15 @@ A typical workflow (Figure 17.1) combines:
 
 1. **Intraoral or laboratory scans** of both arches and the bite (Chapters 4 and 5).
 2. **A diagnostic wax-up** or tooth set-up of the planned restoration, designed digitally on the scan (Chapter 7) or scanned from a physical wax-up.
-3. **CBCT** of the implant site. Use the smallest field of view and lowest dose that answer the clinical question. Effective doses vary about 20-fold between devices and protocols, mainly with field size (Chapter 6) [2]. In an in vitro study of anterior maxillary sites, smaller CBCT fields of view, smaller scan areas and smaller guides did not reduce the accuracy of static guided surgery [3].
+3. **CBCT** of the implant site. Use the smallest field of view and lowest dose that answer the clinical question. Effective doses ranged from 19 to 368 µSv across 14 CBCT devices and protocols (a 20-fold range), and were strongly related to field size (Chapter 6) [2]. In an in vitro pilot study of 20 anterior maxillary sites in partially edentulous models, smaller CBCT fields of view, smaller scan areas and smaller guides did not significantly affect the accuracy of fully guided static surgery [3].
 
 ![Flow diagram: scans, digital wax-up and CBCT are registered, the implant is planned from the crown down, and the plan is transferred by a static guide, navigation or a robot](../figures/fig-17-1-planning-workflow.svg)
 
-**Figure 17.1** The prosthetically driven digital implant planning workflow. The wax-up of the planned restoration drives implant position; the plan is transferred by static, dynamic or robotic computer-assisted surgery [1,4].
+**Figure 17.1** The prosthetically driven digital implant planning workflow. The wax-up of the planned restoration drives implant position. The datasets are registered [4], and the plan is transferred by static, dynamic or robotic computer-assisted surgery [1].
 
 ### 17.2.2 Registration
 
-The CBCT volume is registered with the surface scan and the wax-up. Fully automatic AI-based registration was as accurate as manual methods in patients without restorations. Artefacts from restorations and free-ended edentulous areas reduced accuracy and made operator experience more important [4]. Check every registration slice by slice before planning (Chapter 6).
+The CBCT volume is registered with the surface scan and the wax-up. Fully automatic AI-based registration was as accurate as manual methods in patients without restorations. With multiple restoration artefacts, operator experience became important for accurate registration. Accuracy was also affected by the number of free-ended edentulous areas, but not by the number of missing teeth [4]. Check every registration slice by slice before planning (Chapter 6).
 
 ### 17.2.3 Virtual planning
 
@@ -71,7 +71,7 @@ In the planning software, the clinician:
 | **Mucosa-supported** | Edentulous arches (flapless) | Rests on mucosa; fixation pins; bite index for positioning | Similar to tooth-supported; better than bone-supported |
 | **Bone-supported** | Edentulous arches after flap elevation | Rests on exposed bone; fixation screws | Significantly larger angular, entry and apex deviations |
 
-A systematic review and meta-analysis found that **bone-supported** guides had significantly greater deviations in angle, entry point and apex than **tooth-supported** guides. **Mucosa-supported** guides were also more accurate than bone-supported guides, and did not differ significantly from tooth-supported ones [5]. The support tissue influences the accuracy of guided surgery [5].
+A systematic review and meta-analysis found that **bone-supported** guides had significantly greater deviations in angle, entry point and apex than **tooth-supported** guides. **Mucosa-supported** guides were also more accurate than bone-supported guides, and did not differ significantly from tooth-supported ones [5]. The meta-analysis pooled only four clinical studies (599 implants), and in retrospective studies alone the entry-point and apex differences were not significant [5]. The support tissue influences the accuracy of guided surgery [5].
 
 ### 17.3.2 Classification by level of guidance
 
@@ -88,21 +88,25 @@ A systematic review and meta-analysis of 55 studies reported mean angular, entry
 
 Fully guided sCAIS was the most accurate approach and was significantly more accurate than dCAIS at the entry point [6].
 
+In implant-placement studies, "accuracy" means the deviation between the planned and the placed implant (Figure 17.2). The mean deviation reflects mainly trueness in ISO 5725 terms; precision (the spread of repeated placements) is rarely reported separately.
+
 ![Diagram of a planned and a placed implant superimposed, showing entry deviation, apex deviation and angular deviation](../figures/fig-17-2-deviation-measures.svg)
 
 **Figure 17.2** How implant placement accuracy is measured: entry (coronal) deviation, apex deviation and angular deviation between the planned and the placed implant. Deviations are exaggerated for clarity.
 
 ![Two-panel bar chart of mean angular deviation and mean apex deviation for freehand, pilot-drill guided, fully guided and dynamic placement](../figures/fig-17-3-guidance-accuracy.svg)
 
-**Figure 17.3** Mean angular (A) and apex (B) deviations by placement technique, from one meta-analysis of 55 studies. Fully guided static surgery was the most accurate. Data from [6]. Laboratory studies with novice operators confirm the advantage of full guidance:
+**Figure 17.3** Mean angular (A) and apex (B) deviations by placement technique, from one meta-analysis of 55 studies. Fully guided static surgery was the most accurate. Data from [6].
+
+Laboratory (model) studies with novice operators support the advantage of full guidance:
 
 - Undergraduate students placing implants through printed guides had a mean angular deviation of 2.24° with full guidance and 4.51° with pilot-drill guidance. Full guidance took longer (about 15 versus 10 minutes) [7].
 - Novice clinicians placing implants in narrow anterior ridges were most accurate with full guidance, then pilot guidance, then freehand. In the freehand group, 23.3% of implants had apical fenestrations and 23.3% could not be restored with a screw-retained prosthesis. All fully guided implants were covered with bone and could be screw-retained [8].
-- In another model study with novice clinicians, fully guided placement was more accurate than pilot-guided or freehand placement, and its accuracy was not affected by whether the implant was placed immediately or in a healed ridge [9].
+- In another model study with novice clinicians, fully guided placement gave smaller horizontal platform and apex deviations than pilot-guided or freehand placement, although angle and vertical deviations were similar across protocols in extraction sockets. Its accuracy was not significantly influenced by whether the implant was placed immediately or in a healed ridge [9].
 
 ### 17.3.3 Manufacturing the guide
 
-Guides are designed in the planning software and printed (Chapter 11) or milled. In an in vitro study, guides made with three different printing technologies (stereolithography, PolyJet and MultiJet) produced similar implant accuracy. Median angular deviations were 1.1–1.3°, entry offsets about 0.2 mm and apex offsets about 0.3 mm, with no significant differences between printers [10].
+Guides are designed in the planning software and printed (Chapter 11) or milled. In an in vitro study, guides made with three different printing technologies (stereolithography, PolyJet and MultiJet) produced similar implant accuracy. Median angular deviations were 1.1–1.3°, entry offsets about 0.2 mm and apex offsets about 0.3 mm, with no significant differences between printers [10]. The implants were seated passively through the guides on a cast, without drilling, so the study measured the contribution of the guide itself [10].
 
 > **Lab Note.** Print surgical guides with a validated, biocompatible guide resin. Post-cure fully and disinfect or sterilise according to the resin manufacturer's instructions. Check the guide on a printed model of the arch before it goes to the surgery: look for rocking, sleeve seating and inspection windows.
 
@@ -145,8 +149,8 @@ The comparison between static and dynamic guidance is not settled:
 Robotic systems range from **haptic** (the robot constrains the surgeon's movements to the planned path) to **semi-autonomous** and **task-autonomous** (the robot carries out the drilling under supervision).
 
 - A systematic review and meta-analysis of 39 clinical studies (2,066 implants) reported pooled deviations of **0.68 mm coronally, 0.72 mm apically and 1.60° in angle**. **Higher autonomy** levels were associated with greater accuracy than haptic-guided systems. Edentulous span and implant location did not significantly affect the results [16].
-- A meta-analysis limited to **fully edentulous** patients (five studies, 35 patients) found pooled deviations of 0.73 mm (platform), 0.74 mm (apex) and 1.64° (angle). The certainty of evidence was **very low**, and evidence on survival, complications, patient-reported outcomes and cost-effectiveness was limited [17].
-- A descriptive review of 43 studies found that typical global linear deviations clustered around less than 1 mm for robotic, about 1 mm for dynamic, about 1.3 mm for static and about 1.8 mm for freehand placement. Comparative clinical evidence was too limited to claim robotic superiority [18].
+- A meta-analysis limited to **fully edentulous or terminal-dentition** patients (five studies, four of them single-arm; 35 patients) found pooled deviations of 0.73 mm (platform), 0.74 mm (apex) and 1.64° (angle). The certainty of evidence was **very low**, and evidence on survival, complications, patient-reported outcomes and cost-effectiveness was limited [17].
+- A descriptive review of 43 studies (17 clinical, 26 in vitro) found that typical study-level global linear deviations clustered around less than 1 mm for robotic, about 1 mm for dynamic, about 1.3 mm for static and about 1.8 mm for freehand placement. Comparative clinical evidence was too limited to claim robotic superiority [18].
 
 **Table 17.2** Accuracy of implant placement techniques (pooled clinical means; different reviews, so compare with caution)
 
@@ -155,15 +159,15 @@ Robotic systems range from **haptic** (the robot constrains the surgeon's moveme
 | Freehand | 7.46° | 1.56 mm | 2.22 mm | [6] |
 | Pilot-drill sCAIS | 5.94° | 1.13 mm | 1.43 mm | [6] |
 | Fully guided sCAIS | 2.57° | 0.72 mm | 0.88 mm | [6] |
-| sCAIS (clinical, mixed guidance) | 3.5° | 1.2 mm | 1.4 mm | [12] |
+| sCAIS (clinical) | 3.5° | 1.2 mm | 1.4 mm | [12] |
 | dCAIS (clinical) | 3.68° | 1.03 mm | — | [13] |
 | r-CAIS (clinical) | 1.60° | 0.68 mm | 0.72 mm | [16] |
 
 ### 17.4.4 The safety margin
 
-Every guided technique has residual error. Two of the major meta-analyses recommend a safety margin of **at least 2 mm** to vital structures such as the inferior alveolar nerve, adjacent roots and sinus floor [12,13]. Apex deviations of 1 to 2 mm occur even with CAIS [6].
+Every guided technique has residual error. Three of the major meta-analyses recommend a safety margin of **2 mm** (at least 2 mm in one) to vital structures such as the inferior alveolar nerve, adjacent roots and sinus floor [6,12,13]. Apex deviations of 1 to 2 mm occur even with CAIS [6].
 
-> **Evidence Box.** Accuracy studies measure *how close the implant ends up to the plan*. They do not measure whether the plan was good, or whether the patient benefits in the long term. A systematic review found no difference in implant survival over 5 years between guided and freehand placement [15]. The main documented advantages of guidance are **predictable position**, especially for inexperienced operators and complex cases, and the ability to **prefabricate** provisional restorations (Section 17.6).
+> **Evidence Box.** Accuracy studies measure *how close the implant ends up to the plan*. They do not measure whether the plan was good, or whether the patient benefits in the long term. A systematic review could not demonstrate a survival benefit for any placement method within the first 5 years [15]. The main documented advantages of guidance are **predictable position**, including for inexperienced operators in model studies [7–9], and the ability to **prefabricate** provisional restorations (Section 17.6); navigation has been recommended for especially complex cases [15].
 
 ---
 
@@ -176,7 +180,7 @@ Every guided technique has residual error. Two of the major meta-analyses recomm
 3. **Calibrate** the drill and **register** the patient to the CBCT, by tracing fiducial points or teeth.
 4. Drill while watching the screen, which shows the drill tip and axis against the plan in real time.
 
-Advantages include no guide fabrication (allowing same-day planning and surgery), full view of the surgical field, the ability to change the plan during surgery, and use in limited mouth opening. Disadvantages include equipment cost, set-up time, a learning curve, and the operator looking at the screen instead of the mouth.
+Commonly cited practical advantages (expert opinion) include no guide fabrication (allowing same-day planning and surgery), full view of the surgical field, the ability to change the plan during surgery, and use in limited mouth opening. Disadvantages include equipment cost, set-up time, a learning curve, and the operator looking at the screen instead of the mouth.
 
 ### 17.5.2 Robotics
 
@@ -184,7 +188,7 @@ Robotic systems add physical control of the handpiece. Current evidence shows ti
 
 ### 17.5.3 Patient experience
 
-In a randomised clinical trial of 90 patients, implants placed freehand, with static guides or with dynamic navigation produced **no difference** in postoperative pain, swelling or painkiller use. Satisfaction was high in all groups (89% overall) [19]. Patients choose guided surgery for its predictability rather than for a gentler postoperative course.
+In a randomised clinical trial of 90 patients (88 completed), freehand, static-guided and dynamic-navigation placement showed **no difference in the magnitude** of postoperative pain, swelling or painkiller consumption, although the duration of pain, speaking limitations and impact on routine activities differed between groups. Overall, 89% of patients were satisfied with the procedure [19]. Guided surgery should therefore be recommended for its predictability, not for a gentler postoperative course.
 
 ---
 
@@ -201,8 +205,8 @@ Options include:
 
 ### 17.6.2 Evidence
 
-- In an in vitro study of fully guided single-implant placement, prefabricated screw-type provisionals deviated from their planned position by **6.94° ± 5.78°** in rotation around the implant axis, with an RMS crown-position difference of about 86 µm [20]. Rotation is the main risk for prefabricated provisionals, particularly with non-indexed or round connections.
-- A case series of three patients in the maxillary aesthetic zone used fully guided placement in preserved ridges with prefabricated provisionals on patient-specific titanium abutments. Healthy peri-implant tissues, good aesthetics and high satisfaction were reported at one year [21].
+- In an in vitro study on 10 typodonts with fully guided single-implant placement, prefabricated screw-type provisionals deviated from their planned position by **6.94° ± 5.78°** in rotation around the implant axis, with an RMS crown-position difference of about 86 µm [20]. Rotational error should therefore be anticipated; the effect of connection design was not tested.
+- A case series of three patients in the maxillary aesthetic zone used fully guided **delayed** placement, 4 months after ridge preservation, with prefabricated provisionals on patient-specific titanium abutments. Healthy peri-implant tissues, good aesthetics and high satisfaction were reported at one year [21].
 - A proof-of-concept study of 12 posterior immediate implants, placed fully guided and immediately loaded in full occlusion with prefabricated screw-retained provisionals, reported 100% survival at 6 months [22]. The sample was small and follow-up short.
 
 > **Clinical Tip.** For a prefabricated immediate provisional, plan for the error you cannot avoid. Use a fully guided protocol with indexed insertion where the system allows. Design the provisional out of occlusion in single-tooth cases unless a protocol specifically supports full occlusal loading. Keep a reline option (shell technique) ready if the implant does not reach its planned position or rotation.
@@ -215,14 +219,14 @@ Options include:
 
 The edentulous arch is the hardest scenario for digital implant planning:
 
-- few or no stable landmarks for registration (Chapter 6) [4];
+- few or no stable landmarks for registration (Chapter 6); even in partially dentate patients, free-ended edentulous areas reduce registration accuracy [4];
 - mucosa- or bone-supported guides that can move during surgery;
 - lower accuracy of static guided surgery in fully edentulous than in partially edentulous patients [12];
 - long-span digital data for the definitive framework (Chapters 3 and 9).
 
 ### 17.7.2 Planning and guide stabilisation
 
-A common approach is a **"dual-scan" protocol**. The patient's existing denture, or a duplicate with radiopaque markers, is scanned in the mouth with CBCT and also on its own. The two datasets are then registered using the markers. The denture provides the tooth position for prosthetically driven planning and the mucosal surface for the guide.
+In common practice (expert opinion), a **"dual-scan" protocol** is used. The patient's existing denture, or a duplicate with radiopaque markers, is scanned in the mouth with CBCT and also on its own. The two datasets are then registered using the markers. The denture provides the tooth position for prosthetically driven planning and the mucosal surface for the guide.
 
 The guide is positioned with a **bite index** against the opposing arch and secured with **fixation pins** or screws. An alternative is to place **transitional implants** first, to support both the surgical guide and the provisional prosthesis. In a retrospective series of 35 jaws, transitional implants successfully supported the surgical guide and a fixed complete-arch provisional in 97% of jaws. The survival of the transitional implants themselves was 74.26%, and the regular implants placed with them had 98% survival [23].
 
@@ -252,10 +256,10 @@ After healing, the definitive prosthesis needs accurate implant-level data. Use 
 | Situation | Suggested approach | Rationale |
 |---|---|---|
 | Single implant, good bone, experienced operator | Freehand with a restorative template, or pilot/fully guided sCAIS | Guided placement improves position but not proven survival [6,15] |
-| Aesthetic site, immediate placement or provisionalisation | Fully guided sCAIS, tooth-supported | Highest static accuracy; allows prefabricated provisional [6,20,21] |
-| Inexperienced operator | Fully guided sCAIS | Largest accuracy gain over freehand and pilot guidance [7–9] |
-| Close to vital structures | CAIS with ≥2 mm safety margin | Residual errors of 1–2 mm at the apex [6,12,13] |
-| Same-day planning and surgery; limited mouth opening | Dynamic navigation | No guide fabrication; comparable accuracy [13,14] |
+| Aesthetic site, immediate provisionalisation | Fully guided sCAIS, tooth-supported | Highest static accuracy; allows prefabricated provisional [6,20,21] |
+| Inexperienced operator | Fully guided sCAIS | Fully guided was most accurate in model studies with novice operators [7–9] |
+| Close to vital structures | CAIS with ≥2 mm safety margin | Apex deviations of 1–2 mm occur even with CAIS [6,12]; deviations > 1 mm also with navigation [13] |
+| Same-day planning and surgery; limited mouth opening | Dynamic navigation | No guide fabrication (practical point); comparable accuracy [13,14] |
 | Edentulous arch, immediate loading | Mucosa-supported guide with fixation (or transitional implants) and a prefabricated provisional | Feasible; evidence mainly from case series [23–25] |
 | Research or high-volume centres | Robotics | Small deviations; limited comparative clinical evidence [16–18] |
 
@@ -263,13 +267,13 @@ After healing, the definitive prosthesis needs accurate implant-level data. Use 
 
 ## Key Points
 
-- Digital implant dentistry is **prosthetically driven**: the planned restoration determines the implant position [1].
-- Use **CBCT with the smallest suitable field of view** [2,3]. Check every CBCT-to-scan registration, especially with restorations or edentulous areas [4].
-- **Bone-supported** guides are less accurate than tooth- or mucosa-supported guides [5]. **Fully guided** protocols are more accurate than pilot-drill guided and freehand placement, especially for novices [6–9].
+- Digital implant dentistry is **prosthetically driven**: the planned restoration determines the implant position [21]. It integrates CBCT, intraoral scanning, virtual planning, guided surgery and CAD/CAM prosthetics [1].
+- Use **CBCT with the smallest suitable field of view** [2,3]. Check every CBCT-to-scan registration, especially with restorations or free-ended edentulous areas [4].
+- **Bone-supported** guides are less accurate than tooth- or mucosa-supported guides [5]. **Fully guided** protocols are more accurate than pilot-drill guided and freehand placement [6], including for novice operators in model studies [7–9].
 - Static CAIS errors average about **1.2 mm at entry, 1.4 mm at the apex and 3.5°**, and are worse in fully edentulous arches [12]. Navigation is similar or slightly better in angle [13,14]. Robotics shows the smallest deviations, but on limited evidence [16–18].
-- Keep a **safety margin of at least 2 mm** to vital structures with every technique [12,13].
-- Guided surgery has **not** been shown to improve implant survival [15] or reduce postoperative pain [19]. Its benefits are predictability and prefabrication.
-- **Prefabricated immediate provisionals** are feasible, but rotational error must be anticipated [20–22].
+- Keep a **safety margin of 2 mm** to vital structures with static and dynamic CAIS [6,12,13].
+- Guided surgery has **not** been shown to improve implant survival [15] or reduce the magnitude of postoperative pain [19]. Its benefits are predictability and prefabrication.
+- **Prefabricated immediate provisionals** are feasible [21,22], but rotational error around the implant axis should be anticipated [20].
 - Edentulous digital workflows with immediate fixed provisionals are feasible, but are supported mainly by **case series** [23–25].
 
 ---
@@ -277,13 +281,13 @@ After healing, the definitive prosthesis needs accurate implant-level data. Use 
 ## Review Questions
 
 1. Explain what "prosthetically driven" implant planning means and list the data needed to achieve it.
-2. Rank tooth-, mucosa- and bone-supported surgical guides by accuracy, and explain why bone-supported guides perform worst.
+2. Rank tooth-, mucosa- and bone-supported surgical guides by accuracy, and suggest which sources of error (Section 17.3.4) might explain the difference.
 3. Using the meta-analysis by Werny and colleagues, compare the angular and apical deviations of freehand, pilot-drill guided, fully guided and dynamic CAIS.
 4. Why do meta-analyses recommend a safety margin of at least 2 mm even with computer-assisted surgery?
 5. Compare dynamic navigation and static guides in terms of workflow, accuracy, advantages and limitations.
 6. What does current evidence say about robotic implant surgery, and what evidence is still missing?
 7. A patient asks whether guided surgery will hurt less and last longer than conventional surgery. How do you answer, based on the evidence?
-8. Describe how you would plan and deliver an immediate prefabricated provisional for a maxillary central incisor implant. Which source of error is most important?
+8. Describe how you would plan and deliver an immediate prefabricated provisional for a maxillary central incisor implant. What deviation did in vitro testing show, and how would you allow for it?
 9. Outline a digital workflow for an edentulous maxilla treated with four implants and a same-day fixed provisional prosthesis.
 
 ---
@@ -298,7 +302,7 @@ After healing, the definitive prosthesis needs accurate implant-level data. Use 
 6. Werny JG, Frank K, Fan S, Sagheb K, Al-Nawas B, Narh CT, et al. Freehand vs. computer-aided implant surgery: a systematic review and meta-analysis — part 1: accuracy of planned and placed implant position. Int J Implant Dent. 2025;11(1):35. doi:10.1186/s40729-025-00622-w
 7. Reil R, Krimmel M, Weismann C, Ketabi AR, Naros A, Reinert S, et al. The application of plotted surgical guides for pilot-guided and full-guided implant insertion — a prospective model study in a cohort of undergraduate dental students. Int J Implant Dent. 2025;11(1):54. doi:10.1186/s40729-025-00642-6
 8. Abduo J, Hasan RH, Lau D. Accuracy of static computer-assisted implant placement in narrow ridge by novice clinicians. Eur J Dent. 2025;19(4):1184–92. doi:10.1055/s-0045-1802949
-9. Lee GH, Lau D, Abduo J. Accuracy of static computer-assisted immediate and delayed anterior implant placement by novice clinicians. Eur J Dent. 2026. doi:10.1055/s-0046-1827840
+9. Lee GH, Lau D, Abduo J. Accuracy of static computer-assisted immediate and delayed anterior implant placement by novice clinicians. Eur J Dent. 2026 (online ahead of print). doi:10.1055/s-0046-1827840
 10. Herschdorfer L, Negreiros WM, Gallucci GO, Hamilton A. Comparison of the accuracy of implants placed with CAD-CAM surgical templates manufactured with various 3D printers: an in vitro study. J Prosthet Dent. 2021;125(6):905–10. doi:10.1016/j.prosdent.2020.03.017
 11. Hijazi Muwaquet K, Gómez-Adrián MD, Espinosa-Giménez J, Enciso-Ripoll JJ, Villanueva-Arregui FJ, Hijazi Alsadi T, et al. Accuracy of metallic-sleeved versus sleeve-free surgical guides in static computer-assisted implant surgery: a systematic review and meta-analysis. J Clin Med. 2026;15(20):7935. doi:10.3390/jcm15207935
 12. Tahmaseb A, Wu V, Wismeijer D, Coucke W, Evans C. The accuracy of static computer-aided implant surgery: a systematic review and meta-analysis. Clin Oral Implants Res. 2018;29 Suppl 16:416–35. doi:10.1111/clr.13346
