@@ -25,7 +25,7 @@ Figure 2.1 shows which steps are physical and which are digital in each workflow
 
 ![Three rows comparing analogue, hybrid and fully digital workflow steps](../figures/fig-02-1-workflow-lanes.svg)
 
-**Figure 2.1** Analogue, hybrid and fully digital workflows for a single crown. Grey boxes are physical steps; blue boxes are digital steps. In the fully digital workflow there is no physical model.
+**Figure 2.1** Analogue, hybrid and fully digital workflows for a single crown. Grey boxes are physical steps; blue boxes are digital steps. In the hybrid row the impression is shown as elastomeric (grey); if an intraoral scan is used instead, that step is digital. In the fully digital workflow there is no physical model.
 
 **Table 2.1** Typical steps in the three workflows for a single crown
 
@@ -38,9 +38,9 @@ Figure 2.1 shows which steps are physical and which are digital in each workflow
 | Manufacture | Cast, pressed or layered | Milled or printed | Milled or printed (monolithic) |
 | Finishing | On the cast | On the cast | Without a cast; stain and glaze |
 
-A systematic review of randomised controlled trials on complete digital workflows in fixed prosthodontics found only three eligible trials. Their designs varied widely and none had long-term follow-up [1]. In one trial, lithium disilicate crowns made in a fully digital workflow had larger marginal gaps (mean 113.8 µm) than conventionally made metal-ceramic (92.4 µm) or zirconia crowns (68.5 µm). In another, the fully digital workflow for implant crowns took less than half the time of a mixed workflow (75.3 versus 156.6 minutes) [1]. The authors concluded that clinical research was moving more slowly than industrial development [1]. That conclusion still frames how this book reads new evidence.
+A systematic review of randomised controlled trials on complete digital workflows in fixed prosthodontics found only three eligible trials. Their designs varied widely and none had any follow-up [1]. In one trial, lithium disilicate crowns made in a fully digital workflow had lower marginal precision (113.8 µm) than conventionally made metal-ceramic (92.4 µm) or zirconia crowns (68.5 µm). In another, the fully digital workflow for implant crowns took less than half the time of a mixed workflow (75.3 versus 156.6 minutes) [1]. The authors concluded that clinical research was moving more slowly than industrial development [1]. That conclusion still frames how this book reads new evidence.
 
-> **Clinical Tip.** "Fully digital" is not automatically better. For a single monolithic posterior crown it is efficient and well supported. For a complex anterior case, a printed model often still helps the technician check contacts, emergence profile and characterisation. Choose the degree of digitisation case by case.
+> **Clinical Tip.** "Fully digital" is not automatically better. For a single monolithic posterior crown it is efficient, although randomised evidence for the complete digital workflow is still scarce [1]. For a complex anterior case, a printed model often still helps the technician check contacts, emergence profile and characterisation. Choose the degree of digitisation case by case.
 
 ---
 
@@ -56,15 +56,15 @@ A systematic review comparing digital and conventional impressions in fixed pros
 - for implant-supported crowns and FDPs, digital impressions give clinically acceptable accuracy;
 - for **complete-arch** impressions, conventional methods were more accurate, and the authors still recommended them.
 
-Intraoral conditions matter as well as the device. In a clinical study, a patient's arch was scanned repeatedly with an intraoral scanner. Precision was lower (mean deviation 50 µm) than when the same scanner digitised stone casts (25 µm), and lower again than a desktop laboratory scanner (10 µm) [3]. The authors put the difference down to saliva and limited space in the mouth [3]. The physical environment of the mouth is therefore part of the measurement system.
+Intraoral conditions matter as well as the device. In a clinical study of one patient, the full arch was scanned 10 times with an intraoral scanner. Precision was lower (mean deviation 50 µm) than when the same scanner digitised stone casts (25 µm), and lower again than a desktop laboratory scanner (10 µm) [3]. The authors suggested that saliva and limited space in the mouth contribute to the difference [3]. The physical environment of the mouth is therefore part of the measurement system.
 
 ### 2.2.2 Time, cost and patient experience
 
 - In a randomised crossover trial of single implant impressions, patients rated convenience on a 0–100 scale. They gave intraoral scanning a mean score of 78.6, compared with 53.6 for polyether impressions. Every patient said they would choose the digital workflow in future. The scan was also faster (14.8 versus 17.9 minutes) [4].
-- In a crossover cost analysis of implant crowns, the digital workflow reduced total treatment costs by about 18%, mostly through lower laboratory costs [5].
-- For **complete-arch** scans with earlier scanners that needed powder, conventional impressions were faster and clinicians preferred them [6].
+- In a crossover study of 20 patients with implant crowns, direct treatment costs were lower in the digital workflow (1815 versus 2120 CHF), mainly because laboratory costs were lower, and a cost-minimisation analysis showed an 18% cost reduction. The digital arm used customised titanium abutments with CAD/CAM zirconia, and the conventional arm used standard abutments with PFM crowns [5].
+- In a randomised trial of 10 patients, **complete-arch** scans with three earlier-generation intraoral scanners, two of which needed powder, took longer than conventional impressions (significantly so for two scanners), and clinicians preferred the conventional impression [6].
 
-The overall picture is consistent. Digital workflows clearly benefit single units, short spans and implant crowns. The benefit for complete arches depends on the device and on the operator's experience.
+The overall picture is consistent but rests on small studies. Digital workflows benefit single implant crowns [4,5], and for complete arches earlier scanners were slower than conventional impressions [6].
 
 ### 2.2.3 Infection control and logistics
 
@@ -90,15 +90,15 @@ To create a usable surface, the software connects neighbouring points into trian
 
 Key mesh properties include:
 
-- **Resolution (density).** More, smaller triangles capture finer detail but produce larger files. In one study, the same scan exported at high, moderate and low resolution gave meshes with about 790,000, 592,000 and 198,000 points on the abutment teeth respectively. The authors recommended high-resolution export for restorative work [8].
-- **Decimation (mesh reduction).** Software can remove triangles to shrink a file. For CBCT-derived maxillofacial models, a 50% reduction produced no measurable 3D deviation. Deviations appeared at 75% reduction and grew larger at 90% [9]. Moderate reduction is safe for large anatomical models. It is much riskier near a preparation margin, where a few tens of micrometres matter.
+- **Resolution (density).** More, smaller triangles capture finer detail but produce larger files. In an in vitro study on typodonts, the same scan exported at high, moderate and low resolution gave meshes with about 790,000, 592,000 and 198,000 points on the abutment teeth respectively. The authors recommended high-resolution export for restorative work [8].
+- **Decimation (mesh reduction).** Software can remove triangles to shrink a file. For CBCT-derived maxillofacial models from cadaver heads, a 50% reduction produced no 3D deviation. Deviations appeared at 75% reduction and grew larger at 90% [9]. Moderate reduction is safe for large anatomical models. It is much riskier near a preparation margin, where a few tens of micrometres matter.
 - **Watertightness.** A closed ("watertight" or "manifold") mesh has no holes. This is essential for 3D printing and for many design operations. Scans often have holes in areas the scanner could not see, which the software fills by interpolation. Interpolated areas are estimates, not measurements.
 
 > **Lab Note.** If a margin falls inside an area the software has filled or smoothed, the restoration is being designed on invented data. Ask for a rescan of that area rather than designing on top of it.
 
 ### 2.3.3 Voxels and volume data
 
-CBCT and medical CT produce **volume** data rather than surfaces. The volume is a three-dimensional grid of small cubes (**voxels**), each holding a grey value related to radiographic density. To use CBCT data alongside surface scans, the structures of interest (bone, teeth, nerve canal, airway) must be **segmented** and converted into surface meshes. Segmentation depends on threshold settings and image artefacts, so a CBCT-derived surface is far less accurate than an intraoral scan of the same teeth.
+CBCT and medical CT produce **volume** data rather than surfaces. The volume is a three-dimensional grid of small cubes (**voxels**), each holding a grey value related to radiographic density. To use CBCT data alongside surface scans, the structures of interest (bone, teeth, nerve canal, airway) must be **segmented** and converted into surface meshes. Segmentation depends on threshold settings and image artefacts, so a CBCT-derived surface is usually less true to the tooth surface than an intraoral scan of the same teeth (expert opinion; see Chapter 6).
 
 Figure 2.2 compares the three data structures.
 
@@ -139,7 +139,7 @@ Chapter 1 introduced the difference between open and closed systems. In practice
 - **Manufacturing:** Can I send designs to any mill or printer, or only to the manufacturer's own? Are validated material settings available for third-party materials?
 - **Updates:** Do software updates change exported files or require new licences?
 
-Software incompatibility, ongoing licence costs and the need for repeat scans are all reported limitations of intraoral scanning in practice [10]. Each additional conversion between systems adds a chance of error, such as lost colour, misaligned bites, unit mismatches or smoothed margins. Before going live, test the workflow end to end with a few cases.
+Software compatibility problems, ongoing costs for maintenance and software updates, and the need for repeat scans are all reported limitations of intraoral scanning in practice [10]. Each additional conversion between systems adds a chance of error, such as lost colour, misaligned bites, unit mismatches or smoothed margins. Before going live, test the workflow end to end with a few cases.
 
 ---
 
@@ -155,13 +155,13 @@ Scans are usually sent to laboratories through the manufacturer's cloud portal o
 
 ### 2.6.2 Storage and backup
 
-A digital record is unchanged by time, unlike a stone cast. It can still be lost through hardware failure, accidental deletion, ransomware or a computer virus [7]. A practical rule from information technology is **3-2-1**:
+A digital record does not deteriorate with time like a stone cast, but it can be ruined by a computer virus [7] and lost through hardware failure, accidental deletion or ransomware. A practical rule from information technology is **3-2-1**:
 
 - keep at least **three** copies,
 - on **two** different types of storage,
 - with **one** copy off-site or in a secure cloud.
 
-Retention periods for dental records vary by country. Scans and design files are part of the medical record [11], so keep them for at least the period your jurisdiction requires for other clinical records. Digital storage is cheap, which makes it easy to keep pre-operative scans and compare them over time. This is useful for monitoring wear, recession and tooth movement.
+Retention periods for dental records vary by country. Intraoral scans, like plaster models, are part of the medical record [11], and it is sensible to treat design files the same way, so keep them for at least the period your jurisdiction requires for other clinical records. Digital storage is cheap, which makes it easy to keep pre-operative scans and compare them over time. This is useful for monitoring wear, recession and tooth movement.
 
 ---
 
@@ -169,11 +169,11 @@ Retention periods for dental records vary by country. Scans and design files are
 
 ### 2.7.1 Why a dental scan is sensitive data
 
-It is easy to think of an intraoral scan as "just a shape". Legally, it is not. An analysis of the European **General Data Protection Regulation (GDPR)** concluded that a 3D intraoral scan is **biometric data**. Features such as the palatal rugae pattern are stable enough to identify a person regardless of age or dental treatment. A plaster model is not itself personal data, but both the model and the scan are part of the medical record [11]. Biometric and health data are special categories under GDPR, and stricter rules apply to processing them [11]. In the United States, the HIPAA Privacy and Security Rules apply similar principles to health information held by dental practices and their business associates, which includes laboratories and cloud providers.
+It is easy to think of an intraoral scan as "just a shape". Legally, it is not. An analysis of the European **General Data Protection Regulation (GDPR)** concluded that a 3D intraoral scan is **biometric data**. Features such as the palatal rugae pattern are stable enough to identify a person regardless of age or dental treatment. A plaster model is not itself personal data, but both the model and the scan are part of the medical record [11]. Biometric data must be processed in line with GDPR [11]; under the Regulation, biometric and health data are special categories with stricter processing rules **[UNVERIFIED]**. In the United States, the HIPAA Privacy and Security Rules govern health information held by dental practices and by their business associates, which can include cloud providers **[UNVERIFIED]**.
 
 ### 2.7.2 Practical safeguards
 
-GDPR sets the goals but does not dictate the technical means. Standards such as ISO 27001 or the NIST frameworks can help a practice or laboratory build an appropriate security system [11]. A minimum set of safeguards includes:
+GDPR sets the goals but does not dictate the technical means. ISO or NIST standards can help a practice or laboratory build an appropriate data-security system [11]. A minimum set of safeguards includes:
 
 - a written data-processing agreement with every laboratory and cloud provider;
 - multi-factor authentication on scanner, design and cloud accounts;
@@ -184,7 +184,7 @@ GDPR sets the goals but does not dictate the technical means. Standards such as 
 
 ### 2.7.3 Data and artificial intelligence
 
-Large collections of scans are valuable for training artificial intelligence (AI) systems, for example for automatic margin detection, tooth segmentation and crown design. AI in dentistry is limited by data availability, data structure and methodological standards, and individual privacy and autonomy must be "front and centre" [12]. One proposed solution is **federated learning**, in which models are trained across many sites without the raw data leaving each site [12]. Before agreeing to software terms that allow a vendor to reuse your patients' scans, read exactly what consent you are giving on their behalf.
+Large collections of scans are valuable for training artificial intelligence (AI) systems, for example for automatic margin detection, tooth segmentation and crown design. AI in dentistry is limited by data availability, data structure and methodological standards, and individual privacy, rights and autonomy need to be put "front and center" [12]. One proposed solution is **federated learning**, in which models are trained across many sites without the raw data leaving each site [12]. Before agreeing to software terms that allow a vendor to reuse your patients' scans, read exactly what consent you are giving on their behalf.
 
 ---
 
@@ -196,7 +196,7 @@ The **virtual patient** is a 3D representation of the patient created by merging
 
 - **intraoral scans** of the teeth and soft tissues (surface, STL/PLY);
 - **CBCT** of bone, roots and anatomical structures (volume, DICOM);
-- **facial scans** of the face at rest and smiling (surface, OBJ/PLY).
+- **facial scans** of the face (surface, OBJ/PLY).
 
 Table 2.3 summarises what each dataset contributes.
 
@@ -206,23 +206,23 @@ Table 2.3 summarises what each dataset contributes.
 |---|---|---|---|
 | Intraoral scan | Surface | STL, PLY | Teeth and soft tissue in detail [13] |
 | CBCT | Volume (voxels) | DICOM | Bone, roots and anatomical structures [13] |
-| Facial scan | Surface | OBJ, PLY | Face at rest and smiling [13] |
+| Facial scan | Surface | OBJ, PLY | Facial surface and expression [13] |
 | Jaw motion tracking | Movement over time | System-specific | Mandibular movement, turning the 3D model into a 4D one [14] |
 
-The first published proof-of-principle in 2014 used teeth present in all three datasets as common landmarks to superimpose the images [13]. The authors described the virtual patient as a tool for treatment simulation, managing patient expectations and communication. They named a "4D virtual patient in motion" as the next step [13]. That step has now been described. Jaw motion tracking (JMT) data have been added to the intraoral, facial and CBCT data, using the virtual casts as the common link to align all four [14].
+The first published proof-of-principle (online in 2014) used teeth present in all three datasets as common landmarks to superimpose the images [13]. The authors described the virtual patient as a tool for treatment simulation, managing patient expectations and communication. They named a "4D virtual patient in motion" as the next step [13]. That step has now been described. Jaw motion tracking (JMT) data have been added to the intraoral, facial and CBCT data, using the virtual casts as the common link to align all four [14].
 
 The virtual patient sits at the centre of several workflows covered later in this book:
 
 - **facially driven aesthetic design.** Two-dimensional photographs and smartphone videos of the smile in motion are used to plan tooth position and form, and then carried into 3D design [15];
 - **prosthetically driven implant planning**, where the planned restoration guides implant position (Chapter 17);
-- **dynamic occlusal design**, where recorded jaw movements replace average-value articulator settings. This has been described in case reports of full-mouth rehabilitation for severe tooth wear [16];
+- **dynamic occlusal design**, where recorded jaw movements replace average-value articulator settings. This has been described in a clinical report of full-mouth rehabilitation for severe tooth wear [16];
 - **the "digital twin"**, an evolving, longitudinal record of a patient's digital data used for monitoring and prediction [17].
 
 ### 2.8.2 How accurate is it?
 
 Merging datasets adds a **registration error** on top of the error in each dataset. The evidence shows that this error is much larger than scanner error:
 
-- A clinical study compared virtual patients built from facial and intraoral scans, aligned with extraoral scan-body systems, against CBCT. Trueness ranged from **0.50 to 1.64 mm** and precision from 0.04 to 0.14 mm [18] (Figure 2.3).
+- An observational clinical study of 10 participants compared virtual patients built from facial and intraoral scans, aligned with two scan-body systems, against CBCT. Trueness ranged from **0.50 to 1.64 mm** and precision from 0.04 to 0.14 mm [18] (Figure 2.3).
 - In a randomised clinical study of 150 patients, automatic AI-based registration of CBCT with intraoral scans was as accurate as manual methods in patients without restorations. When multiple restorations caused artefacts, the operator's experience mattered, and free-ended edentulous areas reduced accuracy [19].
 
 ![Diagram of datasets merged into a virtual patient, with an error scale](../figures/fig-02-3-virtual-patient-accuracy.svg)
@@ -234,8 +234,8 @@ Merging datasets adds a **registration error** on top of the error in each datas
 ### 2.8.3 Sources of registration error
 
 - **Different patient positions** between datasets (head posture, lip position, mouth open or closed).
-- **Artefacts** in CBCT from metal restorations [19].
-- **Few or poorly distributed landmarks**, such as edentulous areas or free-end saddles [19].
+- **Artefacts** in CBCT from multiple restorations [19].
+- **Free-ended edentulous areas**; in one study the absolute number of missing teeth had no effect [19].
 - **Soft-tissue movement** between facial scans and changes in expression.
 - **Segmentation thresholds** when converting CBCT to surfaces.
 
@@ -247,7 +247,7 @@ Using reference devices (scan bodies, fiducial markers), keeping patient positio
 
 Before starting a digital case, answer these questions:
 
-1. **Indication:** Is the evidence strong for a digital impression in this case, or is it at the limit (for example, a complete arch with deep margins or multiple implants)? [2]
+1. **Indication:** Is the evidence strong for a digital impression in this case, or is it at the limit, as for a complete arch [2]? Deep margins and multiple implants also need care (see Chapters 4 and 17).
 2. **Degree of digitisation:** Analogue, hybrid or fully digital? Is a physical model needed for verification?
 3. **Data:** Which datasets are needed (IOS, CBCT, facial scan, jaw motion), and how will they be registered?
 4. **Format:** Which file formats will the laboratory or production centre accept? Will colour and bite alignment survive the transfer?
@@ -260,8 +260,8 @@ Before starting a digital case, answer these questions:
 ## Key Points
 
 - Workflows can be **analogue, hybrid or fully digital**. The evidence supports digital impressions for crowns, short-span FDPs and implant crowns. Conventional impressions are still recommended by systematic review for complete arches [2].
-- Patients prefer intraoral scanning for implant impressions, and digital workflows can reduce cost and time for single units [4,5].
-- 3D data are stored as **point clouds, meshes or voxels**. Mesh resolution, decimation and hole-filling affect clinical accuracy [8,9].
+- In crossover studies of 20 patients each, patients preferred intraoral scanning for single implant impressions, and the digital workflow reduced time and cost for single implant crowns [4,5].
+- 3D data are stored as **point clouds, meshes or voxels**. Export resolution changes how many points describe a preparation [8], and mesh reduction beyond 50% adds deviation to CBCT-derived models [9]. Filled holes are estimates, not measurements.
 - **STL** is universal but carries only geometry. **PLY/OBJ** carry colour, **3MF** carries printing data, and **DICOM** carries volume data.
 - Every conversion between systems is a chance for error. Test open workflows end to end.
 - An intraoral scan is **biometric personal data** under GDPR and part of the medical record [11]. Encrypt it, document its use, back it up and control who can access it.
