@@ -8,7 +8,7 @@
 <rect x="200" y="16" width="400" height="58" rx="8" fill="#e6eef5" stroke="#1f5f8b" stroke-width="2"/>
 <text x="400" y="41" font-weight="600">1  List your indications</text><text x="400" y="61" font-size="12.5" fill="#52514e">case mix; chairside / in-house / outsourced share; lab partners</text>
 <rect x="200" y="96" width="400" height="58" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
-<text x="400" y="121" font-weight="600">2  Check independent evidence</text><text x="400" y="141" font-size="12.5" fill="#52514e">accuracy for your indications, not the brochure</text>
+<text x="400" y="121" font-weight="600">2  Check independent evidence</text><text x="400" y="141" font-size="12.5" fill="#52514e">trueness and precision for your indications, not brochures</text>
 <rect x="200" y="176" width="400" height="58" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
 <text x="400" y="201" font-weight="600">3  Total cost of ownership</text><text x="400" y="221" font-size="12.5" fill="#52514e">equipment, licences, service, consumables, staff, IT</text>
 <rect x="200" y="256" width="400" height="66" rx="8" fill="#ffffff" stroke="#1f5f8b" stroke-width="2"/>

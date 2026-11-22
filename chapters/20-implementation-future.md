@@ -32,7 +32,7 @@ The best system is the one that fits **what you actually do**. Before looking at
 - your current laboratory partners and the formats they accept;
 - who in the team will scan, design and manufacture.
 
-Scanners differ in accuracy, and the best device depends on the clinical situation: a network meta-analysis found significant accuracy differences between scanners, with the ranking changing with arch type [2]. A practice doing mostly complete-arch implant work therefore needs different evidence from one doing mostly single posterior crowns. Figure 20.1 summarises the decision process developed in this section and Section 20.3.
+Scanners differ in trueness and precision, and the best device depends on the clinical situation: a network meta-analysis of complete-arch scanning found significant differences between scanners and concluded that different scanners should be used according to the arch type [2]. Evidence for single units is a separate question (Chapters 3 and 4), so a practice doing mostly complete-arch implant work needs different evidence from one doing mostly single posterior crowns. Figure 20.1 summarises the decision process developed in this section and Section 20.3.
 
 ### 20.2.2 A buyer's checklist
 
@@ -40,7 +40,7 @@ Scanners differ in accuracy, and the best device depends on the clinical situati
 
 | Area | Questions to ask | See |
 |---|---|---|
-| **Evidence** | Is there independent (not manufacturer) evidence on accuracy for *my* indications? | Ch 3, 4 |
+| **Evidence** | Is there independent (not manufacturer) evidence on trueness and precision for *my* indications? | Ch 3, 4 |
 | **Openness** | Can I export native scans as STL/PLY/OBJ without extra fees? Are colour and bite kept? | Ch 2 |
 | **Interoperability** | Which laboratories, design programs, mills and printers accept the data? | Ch 2 |
 | **Libraries** | Are the implant systems and scan bodies I use supported? | Ch 9 |
@@ -71,12 +71,12 @@ Large institutions such as dental schools and hospital clinics face extra hurdle
 Economic evidence for digital dentistry is thinner than clinical evidence:
 
 - A systematic review of time and cost in digital versus conventional workflows for fixed prostheses found only 8 eligible studies. Results on whether scanning or impression-making was faster were **contradictory** for both single crowns and three-unit FDPs. The digital pathway **shortened laboratory time**. No study compared the **cost** of tooth-supported fixed prostheses, and the authors called for cost-effectiveness studies [4].
-- For implant-supported single crowns, a crossover study found that the digital workflow reduced total treatment costs by about **18%**, mainly through lower laboratory costs [5].
-- A systematic review of randomised trials of complete digital workflows found that the fully digital workflow for implant crowns was more than twice as fast as a mixed workflow, but noted that research lagged behind industrial development [6].
+- For implant-supported single crowns, a crossover study of 20 patients found lower direct treatment costs with the digital workflow (1815 versus 2120 CHF), mainly through lower laboratory costs, and a cost-minimisation analysis showed an **18%** cost reduction; the digital arm also used customised titanium abutments with CAD/CAM zirconia, against standard abutments with PFM crowns [5].
+- A systematic review of randomised trials of complete digital workflows found only three trials. In the one on implant crowns, the complete digital workflow was more than twice as fast as a mixed analogue–digital workflow (75.3 versus 156.6 min). The authors concluded that no evidence-based recommendations could yet be given and that research lagged behind industrial development [6].
 
 Chapter 16 reviews the more specific economics of **chairside** CAD/CAM, where evidence is limited mostly to an in vitro time-and-cost comparison [7].
 
-> **Evidence Box.** There is still no robust, independent cost-effectiveness evidence for most digital indications in tooth-supported fixed prosthodontics [4]. Claims of large savings usually come from manufacturers or single-practice experience. Treat them as hypotheses to test with your own figures.
+> **Evidence Box.** There is still no robust, independent cost-effectiveness evidence for most digital indications in tooth-supported fixed prosthodontics [4]. In the author's experience (expert opinion), claims of large savings usually come from manufacturers or single-practice experience. Treat them as hypotheses to test with your own figures.
 
 ### 20.3.2 Building your own estimate
 
@@ -95,7 +95,7 @@ A simple return-on-investment estimate compares **annual net benefit** with **to
 - chair time saved (or lost) per indication [4,6];
 - fewer remakes and adjustments, if achieved;
 - additional treatments made feasible (for example single-visit restorations, guided surgery, aligners);
-- patient preference and practice differentiation (hard to quantify but real; patients prefer scanning for many indications) [8].
+- patient comfort and practice differentiation (hard to quantify; in a randomised trial of 42 patients needing tooth-supported crowns or FDPs, digital impressions caused much less discomfort than conventional impressions) [8].
 
 The decisive variable is usually **utilisation**: a mill that produces three restorations a week has a very different cost per unit from one producing thirty.
 
@@ -109,19 +109,19 @@ Table 20.2 arranges these items as a worksheet.
 | Licences, subscriptions, service | Cost | Annual contract values | Include export or cloud fees |
 | Consumables | Cost | Units per year × (tips, burs, blocks/discs, resins, glazes) | Rises with utilisation |
 | Staff time | Cost | Hours for scanning, design, manufacture, post-processing × hourly cost | Delegation changes this (Chapter 16) |
-| Training and learning curve | Cost | Training hours + slower early cases + remakes | Training improves accuracy and speed [9] |
+| Training and learning curve | Cost | Training hours + slower early cases + remakes | Training associated with better trueness and faster scanning [9] |
 | IT and data | Cost | Storage, backup, cybersecurity | Chapter 2 |
 | Laboratory fees avoided | Benefit | Units made in-house × laboratory fee | Main saving for implant crowns [5] |
-| Chair time | Benefit or cost | Minutes saved or lost per indication × chair-hour value | Inconsistent for fixed prostheses [4,6] |
+| Chair time | Benefit or cost | Minutes saved or lost per indication × chair-hour value | Scan or impression time inconsistent for tooth-supported FDPs [4]; faster for implant crowns in one RCT [6] |
 | Remakes and adjustments | Benefit (if achieved) | Change in remake rate × cost per remake | Track with a remake log (Section 20.4) |
 | New treatments | Benefit | Additional single-visit, guided or aligner cases | Depends on case mix |
-| Patient preference | Benefit | Hard to quantify | Patients prefer scanning for many indications [8] |
+| Patient comfort | Benefit | Hard to quantify | Less discomfort with digital impressions in one RCT of crowns and FDPs [8] |
 
 > **Clinical Tip.** Calculate the **break-even number of units per month** for each device before buying it, using your own fees, laboratory charges and staff costs. If you cannot reach it within your existing case mix, consider outsourcing manufacture and investing only in scanning.
 
 ### 20.3.3 Learning-curve costs
 
-Operators gain speed and accuracy with experience and training; training sessions improved scanning trueness and shortened scanning time in a meta-analysis [9]. Budget for the learning curve: early cases take longer, and some will need rescanning or remaking. Narrative reviews consistently list the learning curve and purchase and running costs among the main disadvantages of intraoral scanning [10].
+Operators gain speed with experience, and inexperience may minimally reduce trueness; in a meta-analysis, training sessions were associated with better trueness (in vitro) and shorter scanning time (clinical trials), with no change in precision and low certainty of evidence [9]. Budget for the learning curve: early cases take longer, and some will need rescanning or remaking. A narrative review lists the learning curve and purchasing and managing costs among the disadvantages of intraoral scanning [10].
 
 ---
 
@@ -131,7 +131,7 @@ Digital workflows change, but do not remove, the need for clear communication. D
 
 ### 20.4.1 The digital prescription
 
-Handwritten laboratory forms often suffer from illegible handwriting, missing data and lost forms. In a mixed-methods study, structured training improved the quality of paper laboratory forms completed by dental students, and a **digital prescription platform with mandatory fields** produced the highest-quality, most complete forms; students and technicians reported fewer errors and better communication [11].
+Handwritten laboratory forms often suffer from illegible handwriting, missing data and lost forms. In a mixed-methods study, structured training improved the quality of paper laboratory forms completed by dental students, and, when year-5 students completed forms for two sample cases, a **digital prescription platform with mandatory fields** produced the highest-quality, most complete forms; students and technicians reported fewer errors and better communication [11].
 
 A complete digital prescription should include:
 
@@ -162,7 +162,7 @@ Most laboratory platforms now allow the dentist to view and approve the design (
 
 Digital workflows are now part of routine practice, and graduates are expected to use them. Teaching should cover not only how to operate scanners and software but also the principles in this book: accuracy, data, materials, evidence and the limits of the technology.
 
-Student studies show that digital impressions can be taught effectively early in training. After a short theoretical and practical module, 77% of fourth-year dental students were very or rather satisfied with intraoral scanning, and 58% preferred it to alginate from the dentist's perspective; the authors recommended including digital impressions in undergraduate training [12]. In a pre-clinical elective course comparing three intraoral scanners and CAD/CAM systems, students valued hands-on experience with several systems and showed clear preferences between them [13]. Both studies were small, and self-reported preferences are not the same as competence.
+Student studies show that digital impressions can be introduced early in training and are well accepted by students. After a short theoretical and practical module, 77% of fourth-year dental students were very or rather satisfied with intraoral scanning, and 58% preferred it to alginate from the dentist's perspective; the authors recommended including digital impressions in undergraduate training [12]. In a pre-clinical elective course comparing three intraoral scanners and CAD/CAM systems, students valued hands-on experience with several systems and showed clear preferences between them [13]. Both studies were small, and self-reported preferences are not the same as competence.
 
 At a 2026 dental education summit, a working group of eight academic and organisational leaders reached unanimous consensus. It recommended an **AI and technology curriculum** across all levels of dental education, a dedicated leadership role for integrating AI and emerging technologies, and the use of AI to support institutional effectiveness, faculty calibration, patient care and student learning. This is expert consensus, not trial evidence [14].
 
@@ -174,7 +174,7 @@ Virtual reality (VR), augmented reality (AR) and haptic simulators are increasin
 - In periodontal education, immersive technologies improved procedural skills, engagement and communication, especially when combined with traditional training; AI diagnostic tools offered limited advantage and could introduce **automation bias**, and large language models showed variable accuracy [16].
 - In orthodontics, a meta-analysis found a large pooled benefit of haptic and VR systems for psychomotor learning and procedural planning, with high heterogeneity; benefits for direct patient care were not yet established [17].
 
-The consistent message is that simulation and VR are valuable **adjuncts** to, not replacements for, supervised clinical training.
+Taken together, these reviews suggest that simulation and VR are promising **adjuncts** to, not replacements for, supervised clinical training [15–17].
 
 ### 20.5.3 A suggested curriculum structure
 
@@ -190,7 +190,7 @@ The consistent message is that simulation and VR are valuable **adjuncts** to, n
 
 ### 20.5.4 Training the whole team
 
-Scanning, design and manufacturing are often delegated. Assistants and technicians need structured training and protected learning time, just as dentists do (Chapter 16). Training improves both accuracy and efficiency in scanning [9].
+Scanning, design and manufacturing are often delegated. Assistants and technicians need structured training and protected learning time, just as dentists do (Chapter 16). Training is associated with better scanning trueness and shorter scanning times [9].
 
 ---
 
@@ -198,7 +198,7 @@ Scanning, design and manufacturing are often delegated. Assistants and technicia
 
 ### 20.6.1 Custom-made devices
 
-Crowns, bridges, dentures, splints, aligners and surgical guides are **medical devices**. Most are **custom-made**: made for one named patient to a written prescription from an authorised professional. In most jurisdictions this carries obligations for whoever designs and manufactures the device, including documentation, traceability, use of materials intended for that purpose, and a statement of conformity to the relevant requirements. The details depend on jurisdiction: in the European Union, the **Medical Device Regulation (EU MDR)** applies; in the United States, the **Food and Drug Administration (FDA)** regulates dental devices and materials. Specific classifications and obligations for each device type, and how they apply to in-house (chairside or hospital) manufacture, should be checked against current national guidance **[UNVERIFIED — regulatory specifics not confirmed against primary legal texts]**.
+Crowns, fixed dental prostheses (FDPs), dentures, splints, aligners and surgical guides are **medical devices**. Most are **custom-made**: made for one named patient to a written prescription from an authorised professional. In most jurisdictions this carries obligations for whoever designs and manufactures the device, including documentation, traceability, use of materials intended for that purpose, and a statement of conformity to the relevant requirements. The details depend on jurisdiction: in the European Union, the **Medical Device Regulation (EU MDR)** applies; in the United States, the **Food and Drug Administration (FDA)** regulates dental devices and materials. Specific classifications and obligations for each device type, and how they apply to in-house (chairside or hospital) manufacture, should be checked against current national guidance **[UNVERIFIED — regulatory specifics not confirmed against primary legal texts]**.
 
 ### 20.6.2 Point-of-care manufacturing
 
@@ -213,7 +213,7 @@ For a typical dental practice, the practical principles are:
 
 ### 20.6.3 Liability
 
-Responsibility does not disappear when a machine or an algorithm does part of the work. The prescribing clinician remains responsible for diagnosis, the treatment plan, the prescription and the final fitting of the device. Where AI proposes a design or a diagnosis, continuous human oversight is expected and responsibility stays with the professional [19]. Contracts with laboratories and software providers should make clear who is responsible for what, including data protection (Chapter 2) **[UNVERIFIED — general principle; legal specifics vary by jurisdiction]**.
+Responsibility does not disappear when a machine or an algorithm does part of the work. The prescribing clinician remains responsible for diagnosis, the treatment plan, the prescription and the final fitting of the device. Where AI proposes a design or a diagnosis, continuous human oversight should be expected [19]; how responsibility is shared for AI-assisted work is still an open question [19], so the general principle above applies. Contracts with laboratories and software providers should make clear who is responsible for what, including data protection (Chapter 2) **[UNVERIFIED — general principle; legal specifics vary by jurisdiction]**.
 
 ---
 
@@ -221,7 +221,7 @@ Responsibility does not disappear when a machine or an algorithm does part of th
 
 ### 20.7.1 Artificial intelligence
 
-AI is already embedded in scanning, segmentation, registration and design (Chapters 4, 6 and 7). AI-designed single crowns are now comparable with technician designs and much faster to produce, but multi-unit FDPs, inlays, proximal contacts and aesthetics still need human refinement [20]. More broadly, AI in dentistry faces barriers of limited data, methodological standards, practical value, ethics and responsibility; privacy and patient autonomy must be central, and federated learning may help [19].
+AI is already embedded in scanning, segmentation, registration and design (Chapters 4, 6 and 7). In a systematic review of 15 non-randomised studies, AI-designed single crowns were generally comparable with human designs and consistently faster to design. Inlays and three-unit FDPs were less clinically acceptable, and refinement of proximal contacts, occlusion and aesthetics by experienced operators was still recommended [20]. More broadly, AI in dentistry faces barriers of limited data, methodological standards, practical value, ethics and responsibility; privacy and patient autonomy must be central, and federated learning may help [19].
 
 Expect AI to take over more routine steps (margin marking, proposals, nesting, quality checks) and to move from *design assistance* towards *decision support*. The professional's role will shift towards checking, judging and taking responsibility.
 
@@ -237,17 +237,17 @@ As Chapter 6 showed, the accuracy of merged datasets is still measured in tenths
 
 ### 20.7.3 Sustainability
 
-Digital dentistry is often assumed to be greener because it uses less impression material and fewer stone casts. The evidence is more cautious:
+Digital dentistry is often presented as greener than conventional care [24], because it uses less impression material and fewer stone casts. The evidence is more cautious:
 
-- A life cycle assessment of removable partial denture fabrication found **lower carbon emissions** for digital workflows (65.22 and 78.63 kg CO₂) than for traditional alginate-based workflows (77.29 and 94.67 kg CO₂), largely through fewer appointments and less patient travel; using local laboratories reduced the footprint by about 18% across both workflow types [24].
-- A scoping review of life cycle assessment evidence concluded that digital dental workflows are **not inherently sustainable**: they may reduce environmental burden when they cut appointments, material use, transport and remakes without adding disproportionate energy, equipment, post-processing or hazardous waste burdens. Direct evidence was sparse and did not justify pooled conclusions [25].
+- A life cycle assessment of four removable partial denture fabrication scenarios found **lower carbon emissions** for digital than for alginate-based workflows, both with a local laboratory (65.22 versus 77.29 kg CO₂) and with a global laboratory (78.63 versus 94.67 kg CO₂). The authors attributed this to fewer appointments, less material waste and less transport (patient-travel emissions fell by 20%); using local laboratories reduced the footprint by about 18% across both workflow types [25].
+- A scoping review of life cycle assessment evidence concluded that digital dental workflows are **not inherently sustainable**: they may reduce environmental burden when they cut appointments, material use, transport and remakes without adding disproportionate energy, equipment, post-processing or hazardous waste burdens. Direct evidence was sparse and did not justify pooled conclusions [24].
 - In a survey of 175 dental students from 14 European schools, 56% named 3D printing and CAD/CAM as a strategy to reduce dentistry's environmental impact, and 42% were interested in an elective course on sustainability [26].
 
-Practical steps include maximising equipment utilisation, nesting milling and printing jobs, minimising remakes, handling resin and solvent waste correctly (Chapter 11), choosing local laboratories where possible [24], and replacing physical shipping with data transfer.
+Practical steps include maximising equipment utilisation, nesting milling and printing jobs, minimising remakes, handling resin and solvent waste correctly (Chapter 11), choosing local laboratories where possible [25], and replacing physical shipping with data transfer.
 
 ### 20.7.4 Teledentistry
 
-Digital records make remote care easier. A systematic review of 34 studies found that teledentistry, mostly asynchronous and mobile-based tele-diagnosis, can support accurate, cost-effective and timely diagnosis and consultation and improve access, particularly in underserved regions; most studies were cross-sectional, limiting the strength of the conclusions [27]. Reported barriers to adoption include limited awareness and training, infrastructure, privacy and data security, cost, diagnostic accuracy and a preference for in-person care [28].
+Digital records make remote care easier. A systematic review of 34 studies, about half on tele-diagnosis and about half using asynchronous communication, found that teledentistry can support accurate, cost-effective and timely diagnosis and consultation and improve access, particularly in underserved regions; most studies were cross-sectional, limiting the strength of the conclusions [27]. A systematic review of 11 cross-sectional studies of dental care providers in Saudi Arabia reported barriers including limited awareness and training, infrastructure and equipment reliability, privacy and data security, cost, diagnostic accuracy and a preference for in-person meetings [28].
 
 For CAD/CAM, teledentistry is likely to mean remote monitoring with repeated intraoral scans (Chapter 4), remote design review between clinic and laboratory, and specialist consultation on virtual patient data, always within the data-protection rules of Chapter 2.
 
@@ -271,13 +271,13 @@ Used with these principles, CAD/CAM does not replace clinical judgement or craft
 
 ## Key Points
 
-- Choose a system for **your indications**, using independent evidence, openness, total cost, support and data management (Table 20.1). Scanner accuracy depends on the clinical scenario [2].
-- **Cost evidence is thin**: digital workflows shorten laboratory time, but time savings at the chair are inconsistent and tooth-supported cost-effectiveness has not been studied [4]. Implant-crown workflows showed about 18% lower costs [5].
+- Choose a system for **your indications**, using independent evidence, openness, total cost, support and data management (Table 20.1). Complete-arch scanner trueness and precision differ with the clinical scenario [2].
+- **Cost evidence is thin**: digital workflows shorten laboratory time, but time savings at the chair are inconsistent and tooth-supported cost-effectiveness has not been studied [4]. In one crossover study of implant crowns, the digital workflow showed an 18% cost reduction [5].
 - **Utilisation** drives return on investment. Budget for the learning curve [9,10].
-- **Structured digital prescriptions** with mandatory fields improve communication [11]. Agree design-approval procedures with the laboratory.
+- In a dental-school study, a **digital prescription platform** with mandatory fields produced more complete forms, and users reported better communication [11]. Agree design-approval procedures with the laboratory.
 - Digital impressions can be taught early [12,13]. **VR and haptics** are promising adjuncts with methodologically limited evidence [15–17].
-- Dental devices are **regulated medical devices**; in-house manufacture brings documentation, traceability and quality obligations [18]. Professionals remain responsible for AI-assisted work [19].
-- AI, the **digital twin**, sustainability and teledentistry will shape the next decade [19–28], but each requires evidence, data security and human oversight.
+- Dental devices are **regulated medical devices**, and in-house manufacture brings documentation, traceability and quality obligations (Section 20.6) **[UNVERIFIED — regulatory specifics not confirmed against primary legal texts]**. An ISO 13485-certified hospital point-of-care unit shows one way to organise this [18]. AI-assisted work requires continuous human oversight [19]; responsibility stays with the professional (Section 20.6.3).
+- AI, the **digital twin**, sustainability and teledentistry are likely to shape the field's future [19–28], but each requires evidence, data security and human oversight.
 
 ---
 
@@ -304,7 +304,7 @@ Used with these principles, CAD/CAM does not replace clinical judgement or craft
 6. Joda T, Zarone F, Ferrari M. The complete digital workflow in fixed prosthodontics: a systematic review. BMC Oral Health. 2017;17(1):124. doi:10.1186/s12903-017-0415-0
 7. Mangano FG, Cianci D, Pranno N, Lerner H, Zarone F, Admakin O. Trueness, precision, time-efficiency and cost analysis of chairside additive and subtractive versus lab-based workflows for manufacturing single crowns: an in vitro study. J Dent. 2024;141:104792. doi:10.1016/j.jdent.2023.104792
 8. Gjelvold B, Chrcanovic BR, Korduner EK, Collin-Bagewitz I, Kisch J. Intraoral digital impression technique compared to conventional impression technique: a randomized clinical trial. J Prosthodont. 2016;25(4):282–7. doi:10.1111/jopr.12410
-9. Limones A, Morton D, Sallorenzo A, Lin WS, Sadid-Zadeh R, Phasuk K, et al. Impact of operator experience on intraoral digital scanning: a systematic review, meta-analysis, and meta-regression. J Prosthet Dent. 2026;135(2):297.e1–297.e13. doi:10.1016/j.prosdent.2025.09.008
+9. Limones A, Morton D, Sallorenzo A, Lin WS, Sadid-Zadeh R, Phasuk K, et al. Impact of operator experience on intraoral digital scanning: a systematic review, meta-analysis, and meta-regression. Report of the Committee on Research in Fixed Prosthodontics of the American Academy of Fixed Prosthodontics. J Prosthet Dent. 2026;135(2):297.e1–297.e13. doi:10.1016/j.prosdent.2025.09.008
 10. Mangano F, Gandolfi A, Luongo G, Logozzo S. Intraoral scanners in dentistry: a review of the current literature. BMC Oral Health. 2017;17(1):149. doi:10.1186/s12903-017-0442-x
 11. Kohli S, Asyraf TM, Afiff M, Jamayet NB, Dhaliwal JS. Improving the quality of dental laboratory prescription forms through training and digital workflow. Int J Dent. 2026;2026:8504529. doi:10.1155/ijod/8504529
 12. Schott TC, Arsalan R, Weimer K. Students' perspectives on the use of digital versus conventional dental impression techniques in orthodontics. BMC Med Educ. 2019;19(1):81. doi:10.1186/s12909-019-1512-3
@@ -319,8 +319,8 @@ Used with these principles, CAD/CAM does not replace clinical judgement or craft
 21. Joda T, Gallucci GO. The virtual patient in dental medicine. Clin Oral Implants Res. 2015;26(6):725–6. doi:10.1111/clr.12379
 22. Haku-Mizuhara K, Tanabe G, Kadempour A, Mirafzali S, Yotsuya M, Yamaguchi S. Development of a 4-dimensional virtual patient in motion: a digital concept. J Prosthet Dent. 2026;135(1):47–53. doi:10.1016/j.prosdent.2025.02.064
 23. Joda T, Lee J, Pala K, Poon J, Jung RE, Gallucci GO. Digital implant dentistry: the past, the present, the future. J Periodontal Res. 2026;61(8):877–93. doi:10.1111/jre.70139
-24. Rosenblatt A, Sabu P, McAuley K, Ryan E, Malaj T, Tiew N, et al. Life cycle assessment of the complete denture fabrication process using traditional impressions versus intra-oral scanning. Br Dent J. 2026;240(3):161–7. doi:10.1038/s41415-025-9250-x
-25. Bijoch J, Jędrasiak K. Life cycle assessment evidence for digital dental workflows: a scoping review and evidence map of additive manufacturing, subtractive CAD/CAM, and conventional care. BMC Oral Health. 2026;26(1). doi:10.1186/s12903-026-09534-6
+24. Bijoch J, Jędrasiak K. Life cycle assessment evidence for digital dental workflows: a scoping review and evidence map of additive manufacturing, subtractive CAD/CAM, and conventional care. BMC Oral Health. 2026;26(1). doi:10.1186/s12903-026-09534-6
+25. Rosenblatt A, Sabu P, McAuley K, Ryan E, Malaj T, Tiew N, et al. Life cycle assessment of the complete denture fabrication process using traditional impressions versus intra-oral scanning. Br Dent J. 2026;240(3):161–7. doi:10.1038/s41415-025-9250-x
 26. Țâncu AMC, Brand HS, Imre M, Pantea M, Pițuru SM, Sfeatcu R, et al. Are tomorrow's dentists ready for a sustainable future? Insights from a European student survey. Front Dent Med. 2026;7:1788789. doi:10.3389/fdmed.2026.1788789
 27. Dinari F, Ghaemi MM, Bahaadinbeigy K, Hajesmaeel-Gohari S. The use of teledentistry in diagnosis, consultation, and treatment of oral and dental diseases: a systematic review study. Health Sci Rep. 2026;9(5):e71989. doi:10.1002/hsr2.71989
 28. Hakami A, Mohan S. The perceived facilitators and barriers to the potential adoption of teledentistry among dental care providers in Saudi Arabia: a systematic review. PLoS One. 2026;21(9):e0359436. doi:10.1371/journal.pone.0359436
