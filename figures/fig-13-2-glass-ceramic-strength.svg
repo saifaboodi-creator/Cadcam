@@ -13,12 +13,14 @@
   </g>
   <!-- bars: draw to lower bound solid, range segment lighter -->
   <!-- leucite 128-131: lower 392.9, upper 395.8 -->
-  <path d="M270,44 H391 a4,4 0 0 1 4,4 V70 a4,4 0 0 1 -4,4 H270 Z" fill="#2a78d6"/>
+  <rect x="270" y="44" width="122" height="30" fill="#2a78d6"/>
+  <path d="M392,44 H392 a4,4 0 0 1 4,4 V70 a4,4 0 0 1 -4,4 H392 Z" fill="#8fb8ec"/>
   <!-- lithium silicates 172-202: 435.1 .. 463.9 -->
   <rect x="270" y="94" width="165" height="30" fill="#2a78d6"/>
-  <path d="M437,94 H460 a4,4 0 0 1 4,4 V120 a4,4 0 0 1 -4,4 H437 Z" fill="#8fb8ec"/>
+  <path d="M435,94 H460 a4,4 0 0 1 4,4 V120 a4,4 0 0 1 -4,4 H435 Z" fill="#8fb8ec"/>
   <!-- LS2 344-351: 600.2 .. 607 -->
-  <path d="M270,144 H603 a4,4 0 0 1 4,4 V170 a4,4 0 0 1 -4,4 H270 Z" fill="#2a78d6"/>
+  <rect x="270" y="144" width="330" height="30" fill="#2a78d6"/>
+  <path d="M600,144 H603 a4,4 0 0 1 4,4 V170 a4,4 0 0 1 -4,4 H600 Z" fill="#8fb8ec"/>
   <!-- ZLS one product ~444: 696.2 -->
   <path d="M270,200 H692 a4,4 0 0 1 4,4 V226 a4,4 0 0 1 -4,4 H270 Z" fill="#eb6834"/>
   <g font-size="14" fill="#0b0b0b">
@@ -34,10 +36,10 @@
     <text x="704" y="220" font-weight="700">~444</text>
   </g>
   <g transform="translate(20,318)" font-size="13" fill="#0b0b0b">
-    <rect x="0" y="0" width="16" height="12" fill="#2a78d6"/><text x="22" y="11">one comparison of chairside blocks [9]</text>
-    <rect x="330" y="0" width="16" height="12" fill="#eb6834"/><text x="352" y="11">a separate laboratory study [16]</text>
+    <rect x="0" y="0" width="16" height="12" fill="#2a78d6"/><text x="22" y="11">one comparison of chairside blocks [10]</text>
+    <rect x="330" y="0" width="16" height="12" fill="#eb6834"/><text x="352" y="11">a separate laboratory study [18]</text>
     <rect x="610" y="0" width="16" height="12" fill="#8fb8ec"/><text x="632" y="11">reported range</text>
   </g>
-  <text x="20" y="352" font-size="12.5" fill="#52514e">Feldspathic blocks (lowest strength [5]) are not shown: no single value was reported.</text>
+  <text x="20" y="352" font-size="12.5" fill="#52514e">Feldspathic blocks are not shown: no single value was reported [6].</text>
   <text x="20" y="370" font-size="12.5" fill="#52514e">Values from different studies are not directly comparable.</text>
 </svg>
