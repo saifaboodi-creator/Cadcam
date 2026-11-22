@@ -7,7 +7,7 @@ After reading this chapter, you should be able to:
 1. Explain why removable prostheses are harder to digitise than fixed restorations, and which steps of the conventional workflow still matter most.
 2. Describe the main digital workflows for complete dentures, including record-taking, tooth arrangement, try-in and manufacture.
 3. Compare milled, printed and conventional complete dentures using current systematic review evidence.
-4. Design and manufacture removable partial denture (RPD) frameworks digitally, and compare selective laser melting, printed-pattern casting and milling.
+4. Design and manufacture removable partial denture (RPD) frameworks digitally, compare selective laser melting, printed-pattern casting and conventional casting, and describe milled and indirectly produced PEEK frameworks.
 5. Describe digital workflows for obturators and other maxillofacial prostheses, and judge the strength of the evidence behind them.
 
 ---
@@ -17,7 +17,7 @@ After reading this chapter, you should be able to:
 Fixed restorations sit on hard, stable surfaces that a scanner can record accurately (Chapters 3 and 4). Removable prostheses depend on things that are much harder to capture:
 
 - **Mobile and displaceable soft tissue.** A denture base is supported by mucosa that compresses under load. Border tissues move with the lips, cheeks and tongue. An intraoral scan records the tissue at rest, not the functional shape that a border-moulded impression captures (Chapter 4).
-- **Few hard landmarks.** Edentulous ridges have few distinct features for the scanner to stitch, which reduces accuracy and makes the bite record less reliable (Chapter 4).
+- **Few hard landmarks.** Edentulous ridges have few distinct features for the scanner to stitch, which reduces trueness and precision and makes the bite record less reliable (Chapter 4).
 - **Jaw relations without teeth.** The vertical dimension of occlusion and centric relation must be established and recorded, not simply copied.
 - **Aesthetic and phonetic tooth arrangement.** Lip support, tooth display and speech are judged on the patient, not on a screen.
 
@@ -41,7 +41,7 @@ In practice, the main record options are as follows (Figure 18.1 shows the whole
 
 1. **Conventional records, digitised.** Border-moulded final impressions and a jaw-relation record (often in a custom tray or record base) are scanned in the laboratory (Chapter 5).
 2. **Hybrid records.** Some systems use their own trays and record bases, which capture the impression, vertical dimension and centric relation in one or two visits, and are then scanned.
-3. **Intraoral scanning.** The ridges are scanned directly, sometimes with a scanned existing denture as a reference for tooth position and vertical dimension. This is convenient but does not record functional border form [2].
+3. **Intraoral scanning.** The ridges are scanned directly, sometimes with a scanned existing denture as a reference for tooth position and vertical dimension. This is convenient but does not record functional border form (Chapter 4).
 
 ![Flow diagram of the digital complete denture workflow: records, design, printed trial denture with feedback, and milled, printed or conventionally processed manufacture](../figures/fig-18-1-digital-denture-workflow.svg)
 
@@ -58,7 +58,7 @@ In the design software, the technician or clinician:
 
 ### 18.2.3 Try-in
 
-A **printed trial denture**, as a monolithic tooth-coloured prototype or a printed base with set-up teeth, is tried in to check aesthetics, phonetics, vertical dimension, centric relation and border extension. Changes are recorded and fed back into the design [2].
+A **printed trial denture**, as a monolithic tooth-coloured prototype or a printed base with set-up teeth, is tried in to check aesthetics, phonetics, vertical dimension, centric relation and border extension. Changes are recorded and fed back into the design. A systematic review still recommends a trial denture before the definitive digital denture is made [2].
 
 ### 18.2.4 Manufacture
 
@@ -80,7 +80,7 @@ Milling discs are limited in size. In one case of a total maxillectomy, a milled
 
 ### 18.3.1 Material properties
 
-- A systematic review of 11 in vitro studies found that **milled** denture bases had higher flexural strength than printed and heat-polymerised bases. Printed bases were generally weaker than heat-cured ones but improved with longer post-polymerisation [4].
+- A systematic review of 11 in vitro studies found that **milled** denture bases had higher flexural strength than printed and heat-polymerised bases. Printed bases were generally weaker than heat-cured ones, but their strength increased with longer polymerisation times [4].
 - A broader systematic review and meta-analysis of 73 studies found that milled dentures had higher flexural strength, flexural modulus and toughness and better surface characteristics than printed dentures. Printed dentures showed **poorer colour stability**, but **greater trueness** than conventional dentures [1].
 - For printed teeth bonded to printed bases, a meta-analysis of in vitro studies (10 studies, 4 pooled) found that surface treatment increased shear bond strength by a mean of 5.43 MPa compared with no treatment. Airborne-particle abrasion was effective; methyl methacrylate alone was not. The authors recommended airborne-particle abrasion as the minimum surface treatment [5].
 
@@ -88,13 +88,13 @@ Chapter 11 describes how print orientation, post-curing and resin chemistry affe
 
 ### 18.3.2 Clinical and patient-reported outcomes
 
-Systematic reviews give a consistent but nuanced picture:
+Systematic reviews broadly agree on patient-important outcomes but conflict on retention:
 
-- A systematic review and meta-analysis of **25 randomised trials** found that **no fabrication method had a clear advantage** in patient-important outcomes such as quality of life, satisfaction and complications. The only significant pooled difference was a small retention advantage of printed over milled dentures (mean difference 1.80 N, low certainty). Printed dentures were associated with more mechanical complications and aftercare. Milled dentures scored better for patient-rated aesthetics and had shorter processing times. The certainty of evidence was mostly **very low** [6].
-- A meta-analysis of 12 studies found that **conventional** dentures were more retentive than printed dentures. No other clinical outcome differed between printed, conventional and milled dentures [7].
+- A systematic review and meta-analysis of **25 randomised trials** found that **no fabrication method had a clear advantage** in patient-important outcomes such as quality of life, satisfaction and complications. The only significant pooled difference was a small retention advantage of printed over milled dentures (mean difference 1.80 N, low certainty). The remaining significant findings came from single trials (very low certainty): printed dentures were associated with more mechanical complications and aftercare, and milled dentures with better patient-rated aesthetics and shorter processing times. The certainty of evidence was mostly **very low** [6].
+- A systematic review and meta-analysis of 12 studies found that **conventional** dentures were more retentive than printed dentures. No other clinical outcome differed between printed dentures and either conventional or milled dentures [7].
 - Another meta-analysis found that conventional dentures were more retentive than **printed** dentures, with no significant difference between conventional and **milled** dentures. Patient satisfaction did not differ between methods [8].
-- Not all reviews agree. A meta-analysis of six studies found **better retention** with CAD/CAM dentures than conventional ones, along with fewer appointments and shorter working time, but with high heterogeneity [9]. The 73-study review also found better retention with CAD/CAM dentures, as well as less chairside time and lower overall cost [1].
-- A review of 15 studies of patient- and clinician-reported outcomes found that digital dentures generally saved cost and fabrication time. Patient satisfaction and denture quality were **not consistently** better. Milled dentures tended to perform better than printed ones, and clinicians faced a learning curve [10].
+- Not all reviews agree. A systematic review of six studies, two of which were pooled in a meta-analysis, found **better retention** with CAD/CAM dentures than conventional ones (standardised mean difference 0.501, high heterogeneity), along with fewer appointments and shorter working time [9]. The 73-study review also found better retention with CAD/CAM dentures, as well as less chairside time and lower overall cost [1].
+- A review of 15 studies of patient- and clinician-reported outcomes found that digital dentures generally saved cost and fabrication time. Patient satisfaction and denture quality were **not consistently** better. Milled dentures tended to perform better than printed ones, and clinicians adopting digital workflows may face a learning curve [10].
 
 ### 18.3.3 Time and complications
 
@@ -108,7 +108,7 @@ Digital workflows clearly save **clinical time**. In one review, digital complet
 ### 18.3.4 Practical recommendations
 
 > **Clinical Tip.** For a digital complete denture:
-> 1. Take a **border-moulded** final impression rather than relying on an intraoral scan of the edentulous ridge, unless the system has been validated for scan-only records [2].
+> 1. Take a **border-moulded** final impression rather than relying on an intraoral scan of the edentulous ridge [2]. Use scan-only records only with a system validated for them (expert opinion).
 > 2. Record the vertical dimension and centric relation as carefully as for a conventional denture.
 > 3. Always **try in** a printed trial denture before the definitive denture is made [2].
 > 4. For the definitive base, prefer **milled PMMA** where strength, colour stability and aesthetics matter most [1,4,6]. Printed bases suit immediate, interim and backup dentures, and low-cost workflows.
@@ -142,22 +142,22 @@ Digital design makes the survey and undercut measurements explicit. It still req
 
 ### 18.4.3 Evidence on fit and properties
 
-- A systematic review of 30 studies found that 3D-printed metal frameworks (SLM, selective laser sintering, direct metal laser sintering) had **comparable or superior** accuracy and mechanical–physical performance to conventional and partially digital frameworks. Clinically, printed frameworks could improve retention and patient satisfaction. Laboratory results showed higher density, better mechanical properties and accuracy that varied by component and method. The evidence was limited by methodological variability and a moderate risk of bias [13].
+- A systematic review of 30 studies found that 3D-printed metal frameworks (SLM, selective laser sintering, direct metal laser sintering) had **comparable or superior** accuracy (the authors' term) and mechanical–physical performance to conventional and partially digital frameworks. Clinically, printed frameworks could improve retention and patient satisfaction. Laboratory results showed higher density, better mechanical properties and accuracy that varied by component and method. The evidence was limited by methodological variability and a moderate risk of bias [13].
 - An earlier systematic review of nine studies (six in vitro, three in vivo) found that frameworks made by CAD/CAM and rapid prototyping had clinically acceptable fit and better accuracy than conventionally made frameworks [14].
-- A literature review of additive methods found that SLM gave good surface quality and mechanical strength but lower accuracy, while metal binder jetting gave lower accuracy and a rougher surface than conventional casting. All could produce frameworks within the clinically acceptable range, but more clinical studies were needed [12].
+- A literature review of additive methods found that SLM gave good surface quality and mechanical strength but low accuracy, while metal binder jetting gave lower accuracy and a rougher surface than conventional casting. All could produce frameworks within the clinically acceptable range, but more clinical studies were needed [12].
 
 In vitro comparisons:
 
-- Frameworks made by SLM had smaller mean gaps than conventionally cast frameworks, whether from a conventional impression (79.5 µm) or an intraoral scan (85.3 µm), compared with 114.2 µm for casting. The impression type did not affect SLM accuracy. The authors judged the differences to be of minimal clinical significance [15] (Figure 18.3).
+- Frameworks made by SLM had smaller mean gaps than conventionally cast frameworks, whether from a conventional impression (79.5 µm) or an intraoral scan (85.3 µm), compared with 114.2 µm for casting. The impression type did not affect SLM accuracy. Occlusal rest fit was similar in all groups. The authors judged the differences to be of minimal clinical significance [15] (Figure 18.3).
 
 ![Bar chart of mean framework gaps: SLM from a conventional impression 79.5 µm, SLM from an intraoral scan 85.3 µm, conventional casting 114.2 µm](../figures/fig-18-3-rpd-framework-fit.svg)
 
-**Figure 18.3** Mean gaps of SLM and conventionally cast cobalt-chromium RPD frameworks in one in vitro study. Data from [15].
+**Figure 18.3** Mean framework-level gaps of SLM and conventionally cast RPD frameworks in one in vitro study (n = 10 per group). Data from [15].
 
-- With a **deep palatal vault**, conventional casting gave the largest discrepancy (0.194 mm) and SLM the smallest (0.092 mm). For medium palatal vaults, all methods gave clinically acceptable fit [16].
-- For mandibular major connectors, direct SLM frameworks had the smallest gaps for both lingual plates and lingual bars. All methods gave clinically acceptable adaptation [17].
-- **Build orientation** matters. SLM frameworks printed at 0° showed adaptation of the palatal major connector equivalent to cast frameworks, and better than those built at 45° or 90°. In the clinical part of the same study, SLM and cast frameworks did not differ significantly [18].
-- The measured fit depends heavily on the **measurement method**. The same SLM frameworks showed a mean gap of 13.9 µm with a clinical silicone replica and 70.7 µm with digital registration (Chapter 3) [19].
+- With a **deep palatal vault**, conventional casting gave the largest discrepancy (194 µm) and SLM the smallest (92 µm) (in vitro trueness, n = 5 per group). For medium palatal vaults, all methods gave clinically acceptable fit [16].
+- For mandibular major connectors, direct SLM and printed-pattern casting both gave better trueness than conventional casting for lingual plates (SLM 141 µm, conventional casting 207 µm; SLM and printed-pattern casting did not differ), and direct SLM gave the smallest gap for lingual bars (91 µm). All methods gave clinically acceptable adaptation [17].
+- **Build orientation** matters. SLM frameworks printed at 0° showed adaptation of the palatal major connector equivalent to cast frameworks, and better than those built at 45° or 90°. In the clinical part of the same study, which included only three patients, SLM and cast frameworks did not differ significantly [18].
+- The measured fit depends heavily on the **measurement method**. The same SLM frameworks showed a mean gap of 13.9 µm with a clinical silicone replica and a root-mean-square gap of 70.7 µm with digital registration; both were below the 300-µm clinically acceptable standard (Chapter 3) [19].
 
 Clinical evidence:
 
@@ -165,7 +165,7 @@ Clinical evidence:
 
 ### 18.4.4 PEEK frameworks
 
-PEEK frameworks are metal-free, light and aesthetically less conspicuous than cobalt-chromium. In a randomised trial of mandibular Kennedy Class I patients, CAD/CAM PEEK and CAD/CAM cobalt-chromium frameworks gave **no significant differences** in oral health-related quality of life or satisfaction over 2 years. Both improved quality of life beyond the minimal clinically important difference [21]. Long-term data on PEEK clasp retention, wear and framework durability are still limited. Chapter 15 covers the material.
+PEEK frameworks are metal-free, light and aesthetically less conspicuous than cobalt-chromium. In a randomised trial of mandibular Kennedy Class I patients, indirect CAD/CAM PEEK and indirect CAD/CAM cobalt-chromium frameworks (30 patients) gave **no significant differences** in oral health-related quality of life or satisfaction over 2 years. Both improved quality of life beyond the minimal clinically important difference [21]. Long-term data on PEEK clasp retention, wear and framework durability are still limited. Chapter 15 covers the material.
 
 Table 18.2 brings together the evidence for each framework route.
 
@@ -173,12 +173,12 @@ Table 18.2 brings together the evidence for each framework route.
 
 | Route | Evidence summarised in this chapter | Main caveats |
 |---|---|---|
-| **Selective laser melting (Co-Cr)** | Accuracy and mechanical performance comparable or superior to conventional frameworks [13]; smaller gaps than casting in vitro, including deep palatal vaults and mandibular connectors [15–17]; clinical fit comparable to casting in one RCT [20] | Lower accuracy than casting in one review [12]; fit depends on build orientation [18] and on the measurement method [19] |
-| **Printed resin pattern + casting** | Combines digital design with a familiar alloy and casting route | No route-specific outcome data summarised here |
+| **Selective laser melting (Co-Cr)** | Accuracy and mechanical performance comparable or superior to conventional frameworks [13]; smaller gaps than casting in vitro with deep (not medium) palatal vaults and for mandibular connectors [15–17]; clinical fit comparable to casting in one RCT [20] | Low accuracy reported in one literature review [12]; fit depends on build orientation [18] and on the measurement method [19] |
+| **Printed resin pattern + casting** | In vitro: better trueness than conventional casting for mandibular lingual plates, not different from direct SLM [17]; no difference between methods with medium palatal vaults [16] | In vitro only, n = 5 per group; no clinical data summarised here |
 | **Metal binder jetting** | Frameworks within the clinically acceptable range [12] | Lower accuracy and rougher surface than casting [12] |
-| **Milled PEEK** | Oral health-related quality of life and satisfaction comparable to Co-Cr over 2 years in one RCT [21] | Long-term clasp retention, wear and durability data limited |
+| **PEEK (indirect CAD/CAM)** | Oral health-related quality of life and satisfaction comparable to Co-Cr over 2 years in one RCT [21] | Long-term clasp retention, wear and durability data limited |
 
-> **Lab Note.** For SLM frameworks, follow the build orientation, support strategy and heat-treatment protocol validated for the alloy and machine [18]. Remove supports from non-fitting surfaces, and check rest seats, clasp tips and the major connector on the cast before finishing. Do not assume that a digital framework fits because the design was correct.
+> **Lab Note.** For SLM frameworks, follow the build orientation validated for the alloy and machine [18], and the manufacturer's support and heat-treatment protocols. Remove supports from non-fitting surfaces, and check rest seats, clasp tips and the major connector on the cast before finishing. Do not assume that a digital framework fits because the design was correct.
 
 ---
 
@@ -192,15 +192,15 @@ Maxillofacial patients often have large defects, limited mouth opening after sur
 
 - **Fully digital obturators.** Spiral CT and intraoral scans were combined into a 3D digital cast of a maxillectomy defect. The obturator was designed with dental CAD and reverse-engineering software and either milled from PEEK or printed in polylactic acid [22].
 - **Hollow surgical obturators.** Registered CT and MRI data used to outline the tumour were merged with a model of the dentition to design a **hollow** surgical obturator, which was printed before surgery. The authors reported less weight, better fit, easier clinical handling and an up-to-date digital copy of the prosthesis [23].
-- **Immediate obturators.** A digitally planned, printed obturator was placed immediately after partial maxillectomy. It supported the defect during surgery and helped to prevent soft-tissue contracture and facial deformity [24]. Another workflow used preoperative CBCT and intraoral scans to transfer the patient's existing maxillary contour to an immediate obturator, restoring facial support at the time of resection [25].
+- **Immediate obturators.** A digitally planned, printed obturator was placed immediately after partial maxillectomy. It supported the defect during surgery and helped to prevent soft-tissue contracture and facial deformity [24]. Another workflow, described in a technical report, used preoperative CBCT and intraoral scans to transfer the patient's existing maxillary contour to an immediate obturator, with the aim of restoring facial support at the time of resection [25].
 - **Large milled prostheses.** For a total maxillectomy, a milled complete denture obturator was made in three pieces with a keyed assembly, because the prosthesis was larger than a single PMMA disc [3].
-- **Implant-retained obturators.** In a cadaver study, virtual surgical planning was used for resection, guided zygomatic implant placement and an immediately loaded, implant-retained obturator. The mean entry-point deviation was 1.20 mm, the 3D angular deviation was 2.97°, and all five obturators could be fitted [26].
+- **Implant-retained obturators.** In a cadaver study, virtual surgical planning was used for resection, guided zygomatic implant placement and an immediately loaded, implant-retained obturator. In five cadavers (10 zygomatic implants), the mean implant entry-point deviation was 1.20 mm, the prosthetic-point deviation 1.03 mm and the 3D angular deviation 2.97°, and all five obturators could be fitted [26].
 
 ### 18.5.3 Extraoral facial prostheses
 
 A systematic review of CAD/CAM for **nasal prostheses** and craniofacial implant placement included 21 studies covering just 23 patients. Digital planning, mostly from CT, CBCT or laser scans, was used for presurgical planning, guided craniofacial implant placement, mould fabrication, attachment design and printing silicone prostheses. The authors reported that digital technology may reduce clinical and laboratory time, but that equipment cost remained a limitation [27].
 
-> **Evidence Box.** The maxillofacial literature consists almost entirely of **case reports, technique descriptions and small series** [3,22–25], with one cadaver study [26] and a systematic review of only 23 patients [27]. These reports show what is feasible and are valuable for specialist teams. They do not provide comparative evidence of better outcomes than conventional methods.
+> **Evidence Box.** The maxillofacial literature consists almost entirely of **case reports and technique descriptions** [3,22–25], with one cadaver study [26] and a systematic review of only 23 patients [27]. These reports show what is feasible and are valuable for specialist teams. They do not provide comparative evidence of better outcomes than conventional methods.
 
 ---
 
@@ -211,24 +211,24 @@ A systematic review of CAD/CAM for **nasal prostheses** and craniofacial implant
 | Prosthesis | Digital route | Current evidence |
 |---|---|---|
 | Complete denture | Border-moulded impression → digital set-up → printed try-in → milled or printed denture | Comparable to conventional in patient-important outcomes; saves clinical time; retention findings conflict; mostly very low certainty [1,2,6–10] |
-| Complete denture base material | Milled PMMA vs printed resin | Milled stronger and more colour-stable; printed improving [1,4] |
-| RPD framework (Co-Cr) | Digital design → SLM, or printed pattern → casting | Fit comparable or better than casting in vitro; comparable in one RCT [13–18,20] |
-| RPD framework (PEEK) | Digital design → milling | Comparable patient-reported outcomes to Co-Cr at 2 years in one RCT [21] |
-| Obturator | CT/CBCT + IOS → design → print or mill | Feasible; case reports and technique papers only [3,22–26] |
+| Complete denture base material | Milled PMMA vs printed resin | Milled stronger and more colour-stable (mainly laboratory data); printed bases stronger with longer polymerisation times [1,4] |
+| RPD framework (Co-Cr) | Digital design → SLM, or printed pattern → casting | Fit comparable or better than casting in vitro at an appropriate build orientation; comparable in one RCT [13–18,20] |
+| RPD framework (PEEK) | Digital design → indirect CAD/CAM production | Comparable patient-reported outcomes to Co-Cr at 2 years in one RCT [21] |
+| Obturator | CT/CBCT + IOS → design → print or mill | Feasible; case reports and technique papers [3,22–25] and one cadaver study [26] |
 | Facial prosthesis | CT/CBCT/laser scan → mould or direct print | Feasible; very small numbers [27] |
 
 ---
 
 ## Key Points
 
-- Removable prostheses depend on **functional soft-tissue form and jaw relations** that scanners do not capture well. Digital dentures are a new manufacturing route for old principles [2].
-- **Border-moulded impressions** give better retention than intraoral scans of edentulous ridges, and a **trial denture** is still recommended [2].
+- Removable prostheses depend on **functional soft-tissue form and jaw relations** that scanners do not capture well. Digital dentures are a new manufacturing route for old principles.
+- A systematic review still prefers **border-moulded impressions** for better retention (based on one included study of maxillary denture bases) and recommends a **trial denture** [2].
 - Milled, printed and conventional complete dentures show **no clear difference in patient-important outcomes**. The certainty of evidence is mostly very low, and retention findings conflict [1,6–9].
-- Digital dentures **save clinical time** and leave a **reusable digital record**, but complications and unscheduled visits remain common [1,2,11].
-- **Milled PMMA** bases are stronger and more colour-stable than printed bases [1,4].
-- **SLM** RPD frameworks fit at least as well as cast frameworks in vitro and comparably in a clinical RCT. Build orientation and measurement method affect results [13–20].
+- Digital dentures **save clinical time** and leave a **reusable digital record** [1,2], but complications and unscheduled visits remain common [2,11].
+- In mainly laboratory studies, **milled PMMA** bases are stronger and more colour-stable than printed bases [1,4].
+- **SLM** RPD frameworks fitted as well as or better than cast frameworks in most in vitro studies when built at an appropriate orientation, and comparably in a clinical RCT. Build orientation and measurement method affect results [13–20].
 - **PEEK** frameworks gave patient-reported outcomes similar to cobalt-chromium over 2 years in one RCT [21].
-- Digital **obturators and facial prostheses** are feasible and attractive for difficult patients, but supported only by case reports and small series [22–27].
+- Digital **obturators and facial prostheses** are feasible and attractive for difficult patients, but supported only by case reports, technique papers, one cadaver study and a systematic review of 23 patients [3,22–27].
 
 ---
 

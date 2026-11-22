@@ -2,9 +2,11 @@
 
 ## Summary
 - Word count: about 4,100 including references (body about 3,500).
-- References: 26, all found on PubMed and checked against their abstracts. Two are reused from earlier chapters: Alabdullah 2022 (Ch 3/11) and Smets 2026 (Ch 11).
+- References: 27, all found on PubMed and checked against their abstracts. Two are reused from earlier chapters: Alabdullah 2022 (Ch 3/11) and Smets 2026 (Ch 11).
 - UNVERIFIED: 0.
 - Citation order fixed with `tools/renum.py` (it was already in order).
+
+> Reference numbers in the sections from "References to check" to "Figures and tables added" use the pre-update numbering; see the old → new map under "Update 2026-11".
 
 ## References to check
 - **Ref 5, Prott 2026 (J Esthet Restor Dent):** online-first. No volume or pages in PubMed yet. It is also cited in Ch 11.
@@ -52,3 +54,33 @@ Search window 2026-10-01 to 2026-11-17 (PubMed, entry date). Full report: `updat
 - **Added (Section 18.3.1):** Malikhao et al. 2026, J Prosthet Dent, online ahead of print (PMID 42951779, doi:10.1016/j.prosdent.2026.10.002), new ref 5. Meta-analysis of in vitro studies (10 included, 4 pooled): surface treatment raised printed tooth–base shear bond strength by MD 5.43 MPa (95% CI 2.21–8.66); airborne-particle abrasion effective; MMA alone not significant. Reason: the chapter flags the tooth–base bond as a weak point (Table 18.1) without evidence on how to treat it.
 - **References to check:** new ref 5 is online-first. The Prott 2026 online-first item above is now **ref 6**.
 - **Reference numbers changed.** `tools/renum.py` renumbered the list after the new reference was added. Reference numbers in the sections above this one use the **old** numbering. Old → new: 27→5, 5→6, 6→7, 7→8, 8→9, 9→10, 10→11, 11→12, 12→13, 13→14, 14→15, 15→16, 16→17, 17→18, 18→19, 19→20, 20→21, 21→22, 22→23, 23→24, 24→25, 25→26, 26→27. Unlisted numbers are unchanged.
+
+## Review 2026-11-22
+Applied all 26 findings from `reviews/18-review.md` (author: "approve all"). Each source was re-confirmed on PubMed (abstract and metadata) before the text was changed. No new references; `tools/renum.py` left the numbering unchanged (27 refs, all cited, no out-of-range citations). UNVERIFIED count unchanged (0).
+- **#1** 18.3.2 Zandinejad: six studies included, two pooled (SMD 0.501, high heterogeneity) [9].
+- **#2** 18.4.3 and Table 18.2: SLM accuracy described as "low" with no casting comparator; the casting comparison is kept for binder jetting only [12].
+- **#3** 18.4.4, Table 18.2 and Table 18.3: PEEK and Co-Cr frameworks described as indirect CAD/CAM (30 patients); "milled PEEK" removed [21].
+- **#4** Key Points, Table 18.2 and Table 18.3: SLM fit qualified by build orientation; deep (not medium) palatal vaults [15–18,20].
+- **#5** Table 18.2 printed-pattern row: in vitro evidence from [16,17] added; caveat "In vitro only, n = 5 per group".
+- **#6** Key Points: border-moulded preference attributed to the review and to one study of maxillary bases [2].
+- **#7** Learning Objective 4: compares SLM, printed-pattern casting and conventional casting; describes milled and indirectly produced PEEK frameworks.
+- **#8** 18.1: "accuracy" → "trueness and precision"; 18.4.3 ref 13 "accuracy (the authors' term)".
+- **#9** 18.2.1 item 3 now cross-refers to Chapter 4; 18.2.3 citation moved to the trial-denture recommendation; Clinical Tip 1 scan-only caveat labelled expert opinion.
+- **#10** 18.3.1, Table 18.3 and Key Points: "longer polymerisation times"; milled-base superiority labelled as mainly laboratory data [1,4].
+- **#11** 18.3.2 lead-in: reviews broadly agree on patient-important outcomes but conflict on retention.
+- **#12** 18.3.2 Prott: complications, aesthetics and processing-time findings attributed to single trials (very low certainty) [6].
+- **#13** 18.3.2 Sivaswamy: "systematic review and meta-analysis of 12 studies"; comparisons are printed vs conventional or milled [7].
+- **#14** 18.3.2 Fouda: learning curve hedged ("may face") [10].
+- **#15** 18.4.3 Korkes: added "occlusal rest fit was similar in all groups"; Figure 18.3 caption no longer names the alloy and gives n = 10 per group. SVG unchanged (title/desc do not name the alloy; no data changed), so no re-render was needed.
+- **#16** 18.4.3 Boontherawara: values in µm (194 and 92 µm), in vitro trueness, n = 5 per group [16].
+- **#17** 18.4.3 Sasithornvechakul: lingual plates SLM 141 µm vs casting 207 µm, SLM = printed-pattern casting; lingual bars SLM 91 µm [17].
+- **#18** 18.4.3 Elhadery: clinical part had only three patients [18].
+- **#19** 18.4.3 Alabdullah: 70.7 µm is a root-mean-square gap; both below the 300-µm standard [19].
+- **#20** Lab Note: only build orientation cited to [18]; support and heat treatment follow the manufacturer's protocols.
+- **#21** 18.5.2 Guo: technical report, "with the aim of" restoring facial support [25].
+- **#22** 18.5.2 Vosselman: five cadavers, 10 zygomatic implants; prosthetic-point deviation 1.03 mm added [26].
+- **#23** Evidence Box, Table 18.3 and Key Points: "small series" removed; cadaver study and 23-patient review named [3,22–27].
+- **#24** Key Points: uncited author framing no longer cited to [2].
+- **#25** Key Points: time and digital record cited to [1,2]; complications to [2,11].
+- **#26** Notes Summary: reference count corrected to 27; a line added above "References to check" saying the older sections use the pre-update numbering.
+- Figures: none changed (Figure 18.3 caption text only). Tables 18.2 and 18.3 updated as above.
