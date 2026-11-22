@@ -17,9 +17,9 @@ After reading this chapter, you should be able to:
 
 Subtractive manufacturing means cutting a restoration out of a solid block or disc. It remains the main way definitive fixed restorations are made, for good reasons (Chapter 1):
 
-- **Industrially made blanks.** Ceramic, composite and metal blanks made under factory conditions are more homogeneous and contain fewer defects than materials processed by hand [1].
+- **Industrially made blanks.** Ceramic, composite and metal blanks are industrially prefabricated under controlled conditions and are almost defect-free [1].
 - **Proven materials.** Most of the long-term clinical evidence for CAD/CAM restorations comes from milled materials (Chapter 8).
-- **Mechanical reliability.** Milled objects tend to be homogeneous and accurate enough for intraoral prostheses that must withstand high occlusal loads [2].
+- **Homogeneity.** A narrative review found that subtractive methods tend to produce more homogeneous objects that may be more suitable for intraoral prostheses under high occlusal forces [2].
 
 There are trade-offs. Material is wasted, tools wear, geometry is limited by the size of the tool, and the cutting process damages the surface of brittle materials. This chapter explains these trade-offs and how to manage them.
 
@@ -50,7 +50,7 @@ Machines are described by the number of independent movements they control (Chap
 | **3+1 / 4-axis** | As 3-axis, plus rotation of the block | Most single units and short FDPs; common in chairside units | Limited access for strongly angled features |
 | **5-axis** | As 4-axis, plus tilting of the tool or block | Complex geometry: undercuts, angled screw channels, long-span frameworks, implant bars, custom abutments | Higher cost, longer CAM programming |
 
-A review of CAD/CAM technology concluded that restorations are made most accurately with 5-axis milling units [3]. More axes do not automatically mean better fit for simple crowns, but they widen the range of geometry the machine can make (Figure 10.1).
+A narrative review stated that "the accuracy of restoration fabrication can be best attained with 5 axes milling units", but it reported no comparative trueness or precision data [3]. More axes do not automatically mean better fit for simple crowns (expert opinion; no comparative study was found), but they widen the range of geometry the machine can make (Figure 10.1).
 
 ![Three panels showing 3-axis, 3+1/4-axis and 5-axis milling movements](../figures/fig-10-1-milling-axes.svg)
 
@@ -74,14 +74,14 @@ CAM software takes the finished design (Chapter 7) and the chosen material and m
 
 ### 10.3.2 Milling strategy affects fit
 
-The milling strategy directly affects the internal fit of the restoration. In an in vitro study of chairside zirconia-reinforced lithium silicate partial crowns made with a 3+1-axis unit, three different strategies gave significantly different internal fit. Axial fit ranged from about 91 µm with a two-step mode to about 123 µm with one step-bur setting. The poorest fit was occlusal, reaching about 223 µm [4].
+The milling strategy directly affects the internal fit of the restoration. In an in vitro study of chairside zirconia-reinforced lithium silicate partial crowns made with a 3+1-axis unit, three different strategies gave significantly different internal fit. Axial fit ranged from about 91 µm with a two-step mode to about 123 µm with one step-bur setting. The poorest fit was occlusal, reaching about 223 µm (80th-percentile values from a digital three-dimensional difference analysis) [4].
 
-Many chairside and laboratory systems offer **"fast"** and **"fine"** (or "extra-fine") modes. Finer modes use smaller tools, smaller step-overs and slower feeds:
+Many chairside and laboratory systems offer **"fast"** and **"fine"** (or "extra-fine") modes. Finer modes typically use smaller tools, smaller step-overs and slower feeds (general CAM practice). All studies below are in vitro:
 
 - In zirconia milled dry with slow, normal and fast protocols, surface roughness increased from slow to fast, but **flexural strength and reliability did not differ** between the protocols [5].
 - For lithium disilicate and resin composite crowns milled in fine or extra-fine mode on a 4-axis machine, fatigue behaviour and fracture load did not differ between modes. The **extra-fine mode caused more bur wear** [6].
 
-Finer modes therefore mainly improve surface detail and smoothness. They do not necessarily improve strength, and they cost time and tools.
+Slower or finer modes therefore mainly reduce surface roughness [5]. They do not necessarily improve strength [5,6], and they increase bur wear [6].
 
 ### 10.3.3 The tool-radius problem
 
@@ -90,7 +90,7 @@ A rotating tool cannot cut an inside corner sharper than its own radius. Where t
 - **leave material**, so the restoration binds on the die and does not seat; or
 - **overmill (drill-compensate)**, removing extra material beyond the corner so the restoration seats but with a larger local gap.
 
-Either way, the intaglio surface does not match the design exactly. This is the main reason for the preparation rules in Chapter 8: rounded internal angles, no sharp edges and no grooves smaller than the tool [3]. Figure 10.2 shows both outcomes.
+Either way, the intaglio surface does not match the design exactly. This is the main reason for the preparation rules in Chapter 8: rounded internal angles, no sharp edges and no grooves smaller than the tool. Figure 10.2 shows both outcomes.
 
 ![Three panels: a sharp internal corner in the design, material left in the corners, and overmilled corners](../figures/fig-10-2-tool-radius.svg)
 
@@ -121,6 +121,8 @@ Brittle materials do not cut cleanly. The tool creates small cracks and chips, e
 
 ### 10.5.2 What the evidence shows
 
+The first three studies below are in vitro:
+
 - In a comparison of five CAD/CAM materials milled into bars, edge chipping depended significantly on the **material**, the **surface being milled** and the **edge location**. The size of the chips (length and depth) on the tensile side correlated with **loss of flexural strength** [7].
 - In a timed milling experiment, polymer-containing materials (a resin composite and a polymer-infiltrated ceramic) were cut faster and showed **less edge chipping** than lithium disilicate and zirconia-reinforced lithium silicate [8].
 - The edge strength of CAD/CAM materials depended on the material, its thickness and the distance from the edge. At 1 mm thickness, edge forces ranged from about 64 N for one composite block to about 183 N for a lithium disilicate reference [9].
@@ -128,10 +130,10 @@ Brittle materials do not cut cleanly. The tool creates small cracks and chips, e
 
 ### 10.5.3 After milling: firing, glazing and polishing
 
-Post-milling processing changes the damaged surface:
+Post-milling processing changes the damaged surface. All studies below are in vitro:
 
 - For lithium disilicate, the smoothest surfaces produced by milling followed by polishing and sintering resisted the highest contact stresses with the least fatigue damage. The roughest milled and sintered surfaces developed median and transverse cracks under cyclic loading [11].
-- For lithium silicate ceramics, **glazing** gave the highest edge-chipping resistance compared with polishing or firing alone. Thickness between 1.5 and 3 mm had little influence in that study [12].
+- On rectangular specimens cut from lithium silicate CAD/CAM blocks, **glazing** gave the highest edge-chipping resistance compared with polishing or firing alone. Thickness between 1.5 and 3 mm had little influence in that study [12].
 
 > **Clinical Tip.** Never leave a milled glass-ceramic surface in its "as-milled" state, especially on the intaglio margin or occlusal contact areas. Follow the manufacturer's crystallisation, glazing and polishing protocol. Inspect margins under magnification before try-in.
 
@@ -140,21 +142,21 @@ Post-milling processing changes the damaged surface:
 - Provide adequate material thickness at margins (Chapter 8). Avoid feather edges.
 - Use software margin reinforcement where available (a slight extra thickness that is finished by hand afterwards).
 - Choose materials with higher edge stability for thin margins [9,10].
-- Use finer milling modes for delicate areas, accepting greater tool wear [6].
+- Finer milling modes may be chosen for delicate areas (expert opinion), but no cited study shows that they reduce chipping; in vitro, they increased bur wear without improving fatigue behaviour or fracture load [6].
 
 ---
 
 ## 10.6 Tool Wear and Its Effect on Fit
 
-Burs wear. Diamond burs lose grit and carbide cutters lose sharpness, and worn tools cut less accurately.
+Burs wear. Diamond burs lose grit and carbide cutters lose sharpness, and fit deteriorates as tools wear.
 
-- In a study of sequentially milled lithium disilicate crowns, two different milling units produced crowns with similar mean marginal gaps (about 100 µm). In both units, the marginal gap **increased significantly** as more crowns were milled with the same burs [13].
+- In an in vitro study of lithium disilicate crowns milled sequentially for one typodont preparation, two different milling units produced crowns with similar mean marginal gaps (about 100 µm). In both units, the marginal gap showed a statistically significant trend to increase as more crowns were milled with the same burs [13].
 - A study of two lithium disilicate systems milled in a chairside unit concluded that marginal misfit is affected by successive millings with a single set of diamond burs [14].
 
 **Practical tool management:**
 
 - Follow the manufacturer's recommended tool life. Many machines count usage automatically.
-- Replace burs sooner when milling hard or abrasive materials, or when using finer modes, which wear tools faster [6].
+- Replace burs sooner when using finer modes, which wear tools faster [6]. Hard or abrasive materials are also likely to shorten tool life (expert opinion).
 - Log bur changes. If fit deteriorates over a run of restorations, suspect the tools first.
 - Inspect burs under magnification for chipped diamond coating or broken tips.
 
@@ -166,23 +168,23 @@ Many CAD/CAM materials are machined in a softer intermediate state and then heat
 
 ### 10.7.1 Zirconia: soft machining and sintering
 
-Most zirconia is milled in the **pre-sintered ("green" or "white") state**. It is chalky and easy to machine, and is then sintered at high temperature to full density. During sintering it **shrinks** substantially (in the order of 20–25% linearly, depending on the product **[UNVERIFIED: typical value; check manufacturer data]**). The CAM software enlarges the design by a block-specific factor to compensate, which is why every zirconia blank carries a batch-specific enlargement code.
+Most zirconia is milled in the **pre-sintered ("green" or "white") state**. It is chalky and easy to machine, and is then sintered at high temperature to full density. During sintering it **shrinks** substantially (in the order of 20–25% linearly, depending on the product **[UNVERIFIED: typical value; check manufacturer data]**). The CAM software enlarges the design by a batch-specific factor to compensate, which is why zirconia blanks typically carry a batch-specific enlargement code.
 
 Errors in shrinkage compensation or in the sintering programme affect fit. Several in vitro studies have compared conventional and speed-sintering programmes:
 
 - Zirconia crowns from a fast-sintering programme had **larger marginal gaps** than conventionally sintered crowns. Both groups were below the clinically acceptable limit used in that study (90 µm) [15].
 - For multilayer zirconia implant crowns measured by micro-CT, the standard cycle gave the smallest marginal and internal gaps (about 47 µm and 91 µm). Speed and superspeed cycles gave larger gaps, though all were clinically acceptable [16].
 - For 3- to 4-mol% yttria zirconia crowns, shortening the sintering time increased the marginal gap of **4Y-TZP** but not of 3Y-TZP crowns. The authors advised following the manufacturer's recommendations for each composition [17].
-- For monolithic zirconia FDPs, sintering procedures did not have a clinically significant effect on fit or fracture load, but did affect colour [18].
+- For monolithic zirconia FDPs, a speed-sintering procedure gave significantly larger marginal and internal gaps than standard and slow procedures, but the authors judged the effect on fit and fracture load not clinically significant; colour was affected [18].
 - In contrast, one study using a different measuring method found **smaller** marginal discrepancies for high-speed induction-sintered crowns than for conventionally sintered crowns, and no difference in internal fit [19].
 
-> **Evidence Box.** Speed sintering makes single-visit zirconia possible (Chapter 16). The evidence, all in vitro, generally shows clinically acceptable fit, but results vary with the zirconia composition, the furnace and the measurement method [15–19]. Use only sintering programmes validated by the manufacturer for that specific blank. The colour of the final restoration can also change with the programme [18].
+> **Evidence Box.** Speed sintering makes single-visit zirconia possible (Chapter 16). The evidence, all in vitro, generally shows clinically acceptable fit [15–18], but results vary with the zirconia composition, the furnace and the measurement method [15–19]. Use only sintering programmes validated by the manufacturer for that specific blank. The colour of the final restoration can also change with the programme [18].
 
 **Fully sintered ("hard") zirconia** can also be milled directly, avoiding shrinkage. It is slow and wears tools heavily, so it is used mainly in industrial settings.
 
 ### 10.7.2 Lithium disilicate: crystallisation
 
-Lithium disilicate CAD blocks are typically milled in a **partially crystallised** state, which is softer and machines faster, and then fired to full crystallisation. Firing changes both strength and fit:
+Lithium disilicate CAD blocks are typically milled in a **partially crystallised** state, which is softer and machines faster, and then fired to full crystallisation. Firing changes both strength and fit. Both studies below are in vitro:
 
 - The marginal gap of lithium disilicate copings increased by an average of **62 µm** after crystallisation firing. Crystallised lithium disilicate copings had larger marginal gaps than hybrid-ceramic copings, which need no firing [20].
 - In a micro-CT study, crystallisation reduced the axial internal gap but increased the vertical marginal gap of milled lithium disilicate crowns [21].
@@ -204,10 +206,10 @@ Feldspathic and leucite glass-ceramics, hybrid ceramics, composites, PMMA and fu
 | Typical axes | 3+1 to 4, some 5 | 4–5 | 5 (often with automation) |
 | Materials | Blocks: glass-ceramics, hybrids, composites, PMMA, zirconia (with speed sintering) | Blocks and discs: all dental materials incl. Co-Cr and titanium (machine-dependent) | Discs and bars; hard metals, fully sintered zirconia |
 | Throughput | One unit at a time | Many units per disc | High volume |
-| Strengths | Single-visit treatment [22] | Flexibility; technician finishing | Precision for metals and long frameworks |
+| Strengths | Single-visit treatment [10] | Flexibility; technician finishing | Suited to metals and long-span frameworks |
 | Limitations | Material and geometry range; cost per unit | Investment, maintenance | Logistics, turnaround |
 
-The chairside chain now includes intraoral scanners, design software, milling machines and sintering furnaces, with materials ranging from PMMA and composites to many ceramics [22]. A prospective study of chairside-milled monolithic lithium disilicate posterior crowns reported a 10-year survival of 83.5% [23], showing that chairside milling can deliver durable definitive restorations.
+The chairside chain now includes intraoral scanners, design software, milling machines and sintering furnaces, with materials ranging from PMMA and composites to many ceramics [22]. A prospective clinical study of 41 chairside-milled monolithic lithium disilicate posterior crowns in 34 patients (26 crowns re-examined) reported a Kaplan–Meier survival of 83.5% and a complication-free rate of 71.0% after 10 years [23], suggesting that chairside milling can deliver durable definitive restorations.
 
 For implant frameworks, CAD/CAM frameworks fit better than one-piece cast or laser-welded frameworks, and the choice of CAD/CAM material has minimal influence on fit [24]. Long-span titanium and cobalt-chromium frameworks are usually milled on 5-axis machines in laboratories or production centres.
 
@@ -215,12 +217,12 @@ For implant frameworks, CAD/CAM frameworks fit better than one-piece cast or las
 
 ## 10.9 Milling Compared with Printing
 
-Chapter 3 summarised the evidence comparing milled and printed zirconia:
+Chapter 3 summarised the evidence, all from meta-analyses of in vitro studies, comparing milled and printed zirconia:
 
 - printed and milled zirconia crowns had comparable trueness and margin quality, with milling better at the margin and printing better in axial areas [25];
 - milled zirconia prostheses had significantly smaller marginal gaps (by about 13 µm) than printed ones, with no difference in internal adaptation. Both were clinically acceptable [26].
 
-Milling remains the reference method for definitive ceramic restorations. Chapter 11 covers additive manufacturing.
+Milling remains the established method for definitive ceramic restorations (expert opinion), although a meta-analysis of in vitro studies found printed zirconia crowns comparable in trueness and margin quality [25]. Chapter 11 covers additive manufacturing.
 
 ---
 
@@ -229,7 +231,7 @@ Milling remains the reference method for definitive ceramic restorations. Chapte
 A short routine prevents most milling failures:
 
 1. **Calibrate** the machine as the manufacturer recommends, and after any collision or tool break.
-2. **Check tools** before each run, replace them on schedule and log changes [13,14].
+2. **Check tools** before each run, replace them on schedule and log changes, because fit deteriorates with successive millings using the same burs [13,14].
 3. **Maintain coolant**: change it regularly, clean filters and prevent bacterial growth.
 4. **Clean** the chamber and spindle collets after every material change, especially between wet and dry modes.
 5. **Verify blank data**: correct material, shade and, for zirconia, the batch-specific enlargement factor.
@@ -240,14 +242,14 @@ A short routine prevents most milling failures:
 
 ## Key Points
 
-- Milling uses **industrially made, homogeneous blanks** and remains the reference process for definitive restorations [1,2].
-- **More axes** extend the range of geometry the machine can make. 5-axis milling is generally the most accurate for complex work [3].
-- **CAM strategy** influences internal fit [4]. Finer modes improve surface quality and increase tool wear without necessarily changing strength [5,6].
+- Milling uses **industrially prefabricated, almost defect-free blanks** [1] and tends to produce homogeneous objects that may be better suited to prostheses under high occlusal forces [2].
+- **More axes** extend the range of geometry the machine can make. One narrative review favoured 5-axis units, but comparative fit data are lacking [3].
+- **CAM strategy** influences internal fit [4]. Slower milling gave smoother zirconia surfaces without changing strength [5], and extra-fine mode increased bur wear without changing fatigue behaviour or fracture load [6].
 - Tools cannot reproduce angles sharper than their radius. Rounded preparations avoid **overmilling and binding**.
-- **Edge chipping** depends on material, surface and location, and reduces strength [7–9]. Polymer-containing materials chip less [8,10]. Glazing and polishing improve the surface [11,12].
-- **Bur wear** progressively increases marginal gaps. Manage tool life deliberately [13,14].
+- **Edge chipping** depends on material, surface and location, and chip size correlates with loss of flexural strength [7]. In one in vitro milling test, a resin composite and a polymer-infiltrated ceramic chipped less than two glass-ceramics [8], but edge strength varies widely between products, and one composite block had the lowest edge force at 1 mm [9]. In vitro, polishing gave lithium disilicate the best fatigue performance [11], and glazing gave lithium silicate ceramics the highest edge-chipping resistance [12].
+- **Marginal gaps** increased in vitro as more crowns were milled with the same burs [13,14]. Manage tool life deliberately.
 - **Sintering and crystallisation** change fit. Use validated programmes and check fit afterwards [15–21].
-- Chairside milling can produce durable restorations, and CAD/CAM implant frameworks fit better than cast frameworks [22–24].
+- Chairside-milled lithium disilicate crowns had 83.5% survival at 10 years in one prospective study [23], and a review found that CAD/CAM implant frameworks fit better than one-piece cast or laser-welded frameworks [24].
 
 ---
 
@@ -256,7 +258,7 @@ A short routine prevents most milling failures:
 1. Explain the difference between milling and grinding. Which materials are usually ground with water cooling, and why?
 2. What can a 5-axis machine make that a 3-axis machine cannot? Give two clinical examples.
 3. A crown preparation has a sharp internal line angle. What are the two ways CAM software can handle it, and what is the clinical consequence of each?
-4. What does the evidence say about "fine" versus "extra-fine" milling modes regarding strength, surface quality and tool wear?
+4. What does the evidence say about slower or finer milling modes regarding strength, surface roughness and tool wear?
 5. List three factors that influence edge chipping of milled ceramics and two ways to reduce it.
 6. A laboratory notices that the marginal gaps of lithium disilicate crowns from a chairside unit have gradually increased over a week. What is the most likely cause, and what should be done?
 7. Why does pre-sintered zirconia need an enlargement factor? What does current evidence say about speed sintering and fit?
@@ -280,7 +282,7 @@ A short routine prevents most milling failures:
 12. Irlinger C, Stawarczyk B, Meinen J, Edelhoff D, Mayinger F. Impact of polishing, glazing and firing, restoration thickness, point of loading and aging on the edge chipping resistance of lithium silicate ceramics. J Mech Behav Biomed Mater. 2025;170:107106. doi:10.1016/j.jmbbm.2025.107106
 13. Tan K, Dudley J. The marginal gaps of sequentially milled lithium disilicate crowns using two different milling units. Aust Dent J. 2022;67(3):239–48. doi:10.1111/adj.12909
 14. Raposo LH, Borella PS, Ferraz DC, Pereira LM, Prudente MS, Santos-Filho PC. Influence of computer-aided design/computer-aided manufacturing diamond bur wear on marginal misfit of two lithium disilicate ceramic systems. Oper Dent. 2020;45(4):416–25. doi:10.2341/19-089-L
-15. Basunbul G, Alkhallagi TS. Comparative evaluation of marginal fit in conventional versus high-speed-sintered zirconia crowns: an in vitro study. BMC Oral Health. 2026;26(1):22. doi:10.1186/s12903-025-07434-9
+15. Basunbul G, Alkhallagi TS. Comparative evaluation of marginal fit in conventional versus high-speed-sintered zirconia crowns: an in vitro study. BMC Oral Health. 2025;26(1):22. doi:10.1186/s12903-025-07434-9
 16. Elbanna KA, Redwan HS, Nassief SM, Elsayed SM, Yaghmoor RB, Zidan AZ. Fit assessment of different sintering speeds of multilayer zirconia using micro-CT. J Prosthet Dent. 2025;134(3):829.e1–829.e8. doi:10.1016/j.prosdent.2025.04.045
 17. Ozden YE, Guncu MB, Aktas G, Canay S. Effect of sintering time on the marginal and internal fit of monolithic zirconia crowns containing 3-4 mol% Y2O3. BMC Oral Health. 2022;22(1):493. doi:10.1186/s12903-022-02563-x
 18. Eraslan R, Sayin Sahin B, Albayrak H, Ayata M, Temizkanli O. Effect of different sintering procedures on marginal and internal fit, color, and fracture load of monolithic zirconia fixed partial prostheses. Int J Comput Dent. 2024;27(3):281–90. doi:10.3290/j.ijcd.b5114621
