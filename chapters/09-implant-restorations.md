@@ -35,14 +35,14 @@ Scan bodies are complex devices for transferring implant position, and they play
 
 ### 9.2.2 Sources of error
 
-- **Seating and reproducibility.** Repeatedly reseating scan bodies gave a mean discrepancy of about 39 µm on implants, compared with 11 µm on laboratory analogues [2].
-- **Scan body wear and damage.** Scratched, worn or autoclaved scan bodies may no longer match their library.
+- **Seating and reproducibility.** In an in vitro study, repeatedly reseating scan bodies gave a mean discrepancy of about 39 µm on implants in a polymer model, compared with 11 µm on laboratory analogues [2].
+- **Scan body wear and damage.** Scratched, worn or autoclaved scan bodies may no longer match their library (expert opinion).
 - **Library matching.** Poor scan quality around the scan body produces a poor match.
-- **Scan span.** Errors accumulate between distant scan bodies in complete-arch scans. Without splinting, complete-arch implant scans had a mean linear trueness of about 153 µm and an angular trueness of about 0.65° [3]. Splinting scan bodies improved linear trueness [4]. Photogrammetry was more accurate than intraoral scanning [5,6] (Chapter 3).
+- **Scan span.** Without splinting, complete-arch implant scans had a mean linear trueness of about 153 µm (range 41–557 µm across studies) and an angular trueness of about 0.65°, with high variability between studies [3]. In a meta-analysis of eight studies, splinting scan bodies improved linear trueness but not angular or RMS trueness [4]. Extraoral photogrammetry was judged clinically acceptable, with a mean linear trueness of about 69 µm [5]; in meta-analyses of in vitro studies, photogrammetry showed greater trueness and precision than intraoral scanning [6] (Chapter 3). Errors in intraoral implant scans have been reported to increase over longer spans [5].
 
 ![Four panels showing the scan body seated, scanned, matched to the library model, and the implant position computed](../figures/fig-09-1-scan-body-workflow.svg)
 
-**Figure 9.1** How a scan body transfers the implant position into the design software. Error can enter at each step, and accumulates between distant scan bodies in complete-arch scans [2–4].
+**Figure 9.1** How a scan body transfers the implant position into the design software. Error can enter at each step, and tends to increase over longer spans in complete-arch scans [2,3,5].
 
 > **Clinical Tip.** Use only the scan body specified for the implant system and the design software. Check that it is undamaged. Seat it fully (confirm with a radiograph if seating is uncertain, especially subgingivally). Scan the scan body completely before scanning the rest of the arch.
 
@@ -65,9 +65,9 @@ Custom abutments are designed for the individual site and milled from titanium o
 The evidence on whether custom abutments improve outcomes is mixed:
 
 - In a randomised trial of premolar implants, CAD/CAM custom zirconia abutments showed **no significant differences** from stock zirconia abutments in bone level, soft-tissue parameters or patient satisfaction after one year [7].
-- In a randomised trial of immediate anterior implants in extraction sockets with partial facial bone loss, custom CAD/CAM titanium abutments gave shallower probing depths, higher pink aesthetic scores, less crestal bone loss and higher patient satisfaction than stock abutments at one year [8].
+- In a single-centre randomised trial of 48 patients with immediate maxillary anterior implants in extraction sockets with partial facial bone loss, custom CAD/CAM titanium abutments gave shallower probing depths, higher pink aesthetic scores, less crestal bone loss and higher patient satisfaction than stock abutments at one year; the authors called for longer multicentre studies [8].
 
-Custom abutments are most clearly justified in **aesthetic, anterior and anatomically challenging** sites. In simple posterior sites, a well-chosen stock abutment may perform equally well.
+On this limited evidence, custom abutments appear most useful in **aesthetic, anterior and anatomically challenging** sites (expert opinion). In simple posterior sites, a well-chosen stock abutment may perform equally well.
 
 ### 9.3.3 Titanium-base (two-piece) abutments
 
@@ -83,7 +83,7 @@ Evidence:
 
 - In a retrospective study of 310 implants restored with zirconia abutments luted to titanium bases (mean 4.7 years, up to 10 years), the complication-free survival was 91.6% for the restorations and 97.4% for the abutments. Chipping was the commonest complication (5.5%) [9].
 - In a split-mouth randomised trial in the aesthetic zone, **one-piece** zirconia abutments had a 3-year technical complication rate of 15.8%, including abutment fractures. **Two-piece** zirconia abutments on titanium bases had none [10].
-- **Non-original titanium bases** (third-party components not made by the implant manufacturer) need caution. In one prospective study, zirconia restorations cemented on non-original titanium bases were associated with significant increases in bleeding on probing and probing depth and with two implant losses from peri-implantitis over 3 years. The authors did not recommend them for routine use [11]. A 5-year follow-up of the same type of restoration found that a larger **restorative angle** was associated with early marginal bone loss, and suggested keeping it below 40° [12].
+- **Non-original titanium bases** (third-party components not made by the implant manufacturer) need caution. In one cohort of 24 patients, bleeding on probing (27.1% to 51.5%) and probing depth (3.0 to 3.8 mm) around zirconia restorations cemented on non-original titanium bases increased significantly over 3 years, and two implants were lost to peri-implantitis. There was no control group with original bases. The authors did not recommend the tested bases for daily clinical use [11]. A 5-year report from the same group, on 24 patients with the same type of restoration, found that a larger mesial **restorative angle** was associated with marginal bone loss in the first year; this association had disappeared by 5 years, and the authors judged long-term clinical performance favourable. They suggested a restorative angle below 40° to limit initial bone loss [12].
 
 Table 9.1 compares the abutment options.
 
@@ -94,13 +94,13 @@ Table 9.1 compares the abutment options.
 | **Stock abutment** | Inexpensive; precise factory-made connection | Generic emergence profile and margin position | No difference from custom zirconia abutments in premolar sites at 1 year [7] |
 | **Custom CAD/CAM abutment** (titanium or zirconia) | Individual emergence profile and margin position; corrects angulation; supports the crown and its cement margin | Benefit less clear in simple posterior sites [7] | Better probing depth, aesthetics, bone level and satisfaction than stock abutments for immediate anterior implants at 1 year [8] |
 | **Two-piece titanium base** (original) | Original titanium connection; any millable coronal material; allows a one-piece screw-retained crown | The bonded joint needs a validated protocol (9.3.4) | Complication-free survival 91.6% (restorations) and 97.4% (abutments) [9]; no technical complications versus 15.8% for one-piece zirconia abutments at 3 years [10] |
-| **Non-original titanium base** | — | More bleeding and deeper probing, and implant losses, in one study [11] | Not recommended for routine use [11] |
+| **Non-original titanium base** | — | BOP and probing depth increased over 3 years, and 2 of 24 implants were lost, in one cohort without a control group [11] | Tested bases not recommended for daily clinical use [11] |
 
 ### 9.3.4 Bonding to the titanium base
 
 The bond between the Ti-base and the CAD/CAM part is an engineered joint. In an in vitro study, retention of zirconia copings on titanium bases depended on the **resin cement** used and the **luting space**. A smaller luting space of about 60 µm gave higher retention than about 100 µm [13]. Follow the protocol validated for your materials:
 
-- air-abrade both bonding surfaces as recommended (typically with fine alumina at low pressure);
+- air-abrade both bonding surfaces as recommended (in the cited in vitro study, with 50 µm alumina [13]);
 - clean ultrasonically and dry;
 - use a primer or cement system validated for zirconia (or glass-ceramic) and titanium;
 - remove all excess cement and polish the joint, which will sit in the peri-implant sulcus.
@@ -111,9 +111,9 @@ The bond between the Ti-base and the CAD/CAM part is an engineered joint. In an 
 
 ## 9.4 Emergence Profile Design
 
-The emergence profile is the part of the restoration between the implant platform and the mucosal margin. It is the most important biological design decision in an implant restoration.
+The emergence profile is the part of the restoration between the implant platform and the mucosal margin. It is a key biological design decision in an implant restoration.
 
-In a cross-sectional study of 225 implants with a mean follow-up of nearly 11 years, an **emergence angle greater than 30°** was associated with a significantly higher prevalence of peri-implantitis at bone-level implants (31.3% versus 15.1%). A **convex** profile combined with an angle above 30° raised it further, to 37.8%. No such association was found for tissue-level implants [14] (Figure 9.2).
+In a cross-sectional radiographic study of 168 implants in 83 patients (from a data set of 225 implants with a mean follow-up of 10.9 years), an **emergence angle greater than 30°** was associated with a significantly higher prevalence of peri-implantitis at bone-level implants (31.3% versus 15.1%). A **convex** profile combined with an angle above 30° raised it further, to 37.8%. No such association was found for tissue-level implants [14] (Figure 9.2).
 
 ![Two schematic implant crowns comparing an emergence angle of 30 degrees or less with a convex profile above 30 degrees](../figures/fig-09-2-emergence-angle.svg)
 
@@ -121,13 +121,13 @@ In a cross-sectional study of 225 implants with a mean follow-up of nearly 11 ye
 
 Design principles:
 
-- Keep the **emergence angle ≤ 30°** at bone-level implants, especially in the deeper (transmucosal) part [14].
-- Prefer a **straight or slightly concave** profile in the transmucosal zone, and avoid convex overcontouring [14].
+- Keep the **emergence angle ≤ 30°** at bone-level implants [14].
+- Avoid a **convex** profile, which added risk when the angle exceeded 30° [14]; a straight or slightly concave transmucosal profile is commonly recommended (expert opinion).
 - Shape the **subcritical** (deeper) contour to support tissue, and the **critical** (near-margin) contour to set the mucosal margin, especially in aesthetic sites.
 - Make the transmucosal surface **highly polished or glazed**, and smooth enough to clean.
 - Copy the emergence profile of a successful **provisional**. Scanning it, or using a custom scan body that records the shaped tissue, transfers the tissue architecture into the design.
 
-AI tools can now generate implant crowns with emergence profiles close to those of technicians, often more concave than conventional software proposals [15,16]. Check the angle on a cross-section before approving any design.
+In two design studies of posterior implant crowns, deep-learning tools produced emergence-profile angles similar to technician designs [15,16]. In one proof-of-concept study the AI crowns were mostly concave, whereas conventional software proposals were often convex [16]; in the other, the authors noted that a technician could still improve the emergence profile angle [15]. Check the angle on a cross-section before approving any design.
 
 ---
 
@@ -137,22 +137,22 @@ AI tools can now generate implant crowns with emergence profiles close to those 
 
 Two systematic reviews summarise the evidence:
 
-- A review of 59 studies found that neither method was clearly superior. **Cement-retained** reconstructions had more serious **biological** complications, including bone loss over 2 mm. **Screw-retained** reconstructions had more **technical** problems. Because screw-retained reconstructions are retrievable, so complications can be managed more easily, and because they appeared more biologically compatible, the authors considered them preferable [17].
+- A review of 59 studies found that neither method was clearly superior. **Cement-retained** reconstructions had more serious **biological** complications, including bone loss over 2 mm. **Screw-retained** reconstructions had more **technical** problems. Because screw-retained reconstructions are retrievable, complications can be managed more easily; for this reason and for their apparently higher biological compatibility, the authors considered them preferable [17].
 - A second review found similar 5-year survival for cemented (96.0%) and screw-retained (95.6%) reconstructions. **Screw-retained reconstructions had fewer technical and biological complications overall** [18].
 
-Residual cement in the peri-implant sulcus is a well-recognised risk factor for peri-implant disease, which is one reason screw retention is now widely preferred where the implant position allows it.
+A systematic review of 26 publications (1,010 cemented implant restorations) identified excess cement as a possible risk indicator for peri-implant disease, and found a higher prevalence of peri-implant disease with cemented than with screw-retained restorations [19]. This is one reason screw retention is often preferred where the implant position allows it (expert opinion).
 
 ### 9.5.2 Angled screw channels
 
 When the implant axis would bring the screw access through the facial or incisal surface, an **angled screw channel (ASC)** moves the access hole to the palatal or lingual surface. A special screw and driver allow tightening at an angle.
 
-A systematic review of ASC-retained versus cement-retained crowns in non-molar sites (four studies, 167 crowns) found **comparable short-term** marginal bone levels, aesthetic scores and technical complications, with less bleeding on probing in the ASC group [19]. Superiority was not demonstrated.
+A systematic review of randomised and non-randomised trials of ASC-retained versus cement-retained crowns in non-molar sites (four studies, 167 crowns) found **comparable short-term** marginal bone levels, aesthetic scores and technical complications, with less bleeding on probing in the ASC group [20]. Superiority was not demonstrated.
 
 Design considerations for ASCs:
 
 - Respect the maximum angle the system allows, and check wall thickness around the angled channel.
-- Use the system-specific screw and driver, and follow the specified torque.
-- Remember that angled access may reduce how much torque can be applied and how reliably. Follow the manufacturer's protocol.
+- Use the system-specific screw and driver.
+- Follow the manufacturer's torque protocol for the angled screw and driver.
 
 ### 9.5.3 Practical decision
 
@@ -161,7 +161,7 @@ Design considerations for ASCs:
 | Situation | Preferred retention |
 |---|---|
 | Access emerges through the occlusal or cingulum area | Screw-retained (straight channel) |
-| Access emerges facially or incisally, within ASC limits | Screw-retained with angled screw channel [19] |
+| Access emerges facially or incisally, within ASC limits | Screw-retained with angled screw channel [20] |
 | Implant angulation exceeds ASC limits | Custom abutment with cemented crown; margin placed for complete cement removal |
 | Very limited interocclusal space | Screw-retained one-piece crown on Ti-base |
 | Multi-unit and complete-arch | Screw-retained, for retrievability [17,18] |
@@ -172,9 +172,9 @@ Design considerations for ASCs:
 
 ### 9.6.1 Passive fit
 
-A complete-arch framework must seat on all implants without strain. No method can measure passive fit perfectly. In vitro methods are more accurate than clinical ones, and combining several techniques is recommended [20]. Clinically, checks include the one-screw test, radiographs, screw-resistance tests and a rigid **verification jig** or printed prototype.
+A complete-arch framework must seat on all implants without strain. Clinical (in vivo) methods for assessing fit have clear limitations, in vitro methods measure misfit more accurately, and combining several techniques is useful [21]. Clinically, checks include the one-screw test, radiographs, screw-resistance tests and a rigid **verification jig** or printed prototype.
 
-CAD/CAM frameworks fit better than one-piece cast or laser-welded frameworks, and the choice of CAD/CAM material has only a minimal influence on fit [21]. The remaining fit problems come mostly from **data acquisition** (Section 9.2.2), not from milling.
+CAD/CAM frameworks fit better than one-piece cast or laser-welded frameworks, and the choice of CAD/CAM material has only a minimal influence on fit [22]. Accurate recording of the implant positions is therefore critical (Section 9.2.2).
 
 ### 9.6.2 Workflow for a passive complete-arch framework
 
@@ -188,13 +188,13 @@ Figure 9.3 shows this workflow as a loop.
 
 ![Flowchart for a passive complete-arch framework with a correction loop when the prototype does not fit](../figures/fig-09-3-passive-fit-workflow.svg)
 
-**Figure 9.3** Workflow for a passive complete-arch implant framework. If the prototype does not fit passively, the data are corrected and verified again before the definitive framework is made. CAD/CAM frameworks fit better than cast or laser-welded ones [21].
+**Figure 9.3** Workflow for a passive complete-arch implant framework. If the prototype does not fit passively, the data are corrected and verified again before the definitive framework is made. CAD/CAM frameworks fit better than cast or laser-welded ones [22].
 
 ### 9.6.3 Materials and design
 
-- A systematic review of complete-arch fixed implant prostheses with at least 5 years' follow-up found that **veneer fracture** was the main complication of metal-ceramic prostheses (22.1% at 5 years, 39.3% at 10 years). In the two all-ceramic studies, the one using mainly **monolithic zirconia** reported a success rate of 90.9%, compared with 60.4% for bilayered zirconia [22].
-- An umbrella review of systematic reviews reported prosthesis survival of 89.5–96.8% over 5 to 15 years. Chipping of veneered zirconia occurred in 15–35%, which was significantly more than for monolithic zirconia. Screw loosening occurred in 5–15%. **Monolithic zirconia and screw-retained designs** had lower technical complication rates [23].
-- Compared with metal-acrylic hybrid prostheses, metal-zirconia complete-arch prostheses showed less prosthetic wear and a lower risk of peri-implantitis, although the evidence was mostly non-randomised [24].
+- A systematic review of complete-arch fixed implant prostheses with at least 5 years' follow-up found that **veneer fracture** was the main complication of metal-ceramic prostheses (22.1% at 5 years, 39.3% at 10 years). In the two all-ceramic studies, the one using mainly **monolithic zirconia** reported a success rate of 90.9%, compared with 60.4% for bilayered zirconia [23].
+- An umbrella review of systematic reviews reported prosthesis survival of 89.5–96.8% over 5 to 15 years. Chipping of veneered zirconia occurred in 15–35%, which was significantly more than for monolithic zirconia. Screw loosening occurred in 5–15%. **Monolithic zirconia and screw-retained designs** had lower technical complication rates [24].
+- Compared with metal-acrylic hybrid prostheses, metal-zirconia complete-arch prostheses showed less prosthetic wear and a lower risk of peri-implantitis, although all included studies were non-randomised and most had a moderate to critical risk of bias [25].
 
 Design principles:
 
@@ -208,34 +208,34 @@ Design principles:
 
 ## 9.7 Material Selection: Current Guidance
 
-A German S3 guideline on implant-supported all-ceramic restorations, based on a systematic review, concluded that [25]:
+A German S3 guideline on implant-supported all-ceramic restorations, based on a systematic review, concluded that [26]:
 
 - for **single crowns**, lithium disilicate, other silicate ceramics and all generations of zirconia showed favourable 3-year survival of about 96–97%;
 - **polymer-infiltrated ceramics** performed worse and were **not recommended** for implant crowns;
-- for **short-span FDPs and complete-arch restorations**, clinical evidence supported **3Y-TZP zirconia** only;
+- for **short-span fixed dental prostheses (FDPs) and complete-arch restorations**, clinical evidence supported **3Y-TZP zirconia** only;
 - monolithic designs and micro-veneering reduce the risk of chipping.
 
 **Table 9.3** Implant restorations: design summary
 
 | Restoration | Recommended approach | Key design checks |
 |---|---|---|
-| Single posterior crown | Screw-retained monolithic zirconia or lithium disilicate on an original Ti-base [9,10,25] | Emergence angle ≤30° [14]; contacts; occlusion |
-| Single anterior crown | Screw-retained (straight or ASC) on Ti-base, or custom abutment + crown [8,19] | Critical and subcritical contour; aesthetic margin |
-| Short-span FDP | Screw-retained 3Y-TZP zirconia, monolithic or micro-veneered [25] | Connectors; passive fit; cleansability |
-| Complete arch | Screw-retained monolithic zirconia (with or without a metal substructure), verified data and prototype try-in [22–24] | Passive fit; cantilevers; hygiene access |
+| Single posterior crown | Screw-retained monolithic zirconia or lithium disilicate on an original Ti-base [9,26] | Emergence angle ≤30° [14]; contacts; occlusion |
+| Single anterior crown | Screw-retained (straight or ASC) on Ti-base, or custom abutment + crown [8,10,20] | Critical and subcritical contour; aesthetic margin |
+| Short-span FDP | Screw-retained 3Y-TZP zirconia, monolithic or micro-veneered [17,18,26] | Connectors; passive fit; cleansability |
+| Complete arch | Screw-retained monolithic zirconia (with or without a metal substructure), verified data and prototype try-in [6,23–25] | Passive fit; cantilevers; hygiene access |
 
 ---
 
 ## Key Points
 
 - Implant position is transferred through **scan bodies and libraries**. Use the correct, undamaged scan body, seat it fully and scan it completely [1,2].
-- Complete-arch implant data need **splinting, photogrammetry or verification** before a framework is made [3–6].
-- **Custom abutments** help most in aesthetic and challenging sites [7,8]. **Two-piece Ti-base** designs perform well [9,10]. Avoid non-original Ti-bases [11].
-- Bond to Ti-bases with **validated protocols**. A smaller luting space improves retention [13].
-- Keep the **emergence angle ≤30°** and avoid convex transmucosal contours at bone-level implants [14].
-- **Screw retention** is generally preferred for retrievability and fewer complications [17,18]. **Angled screw channels** give comparable short-term results to cemented crowns [19].
-- CAD/CAM frameworks fit better than cast ones [21]. **Monolithic zirconia** reduces chipping in complete-arch prostheses [22–24].
-- Evidence supports glass-ceramics and zirconia for single implant crowns, and only 3Y-TZP zirconia for implant FDPs and complete arches [25].
+- Non-splinted complete-arch implant scans vary widely in trueness [3]. **Splinting** improves linear trueness [4], **photogrammetry** is clinically acceptable [5] and shows greater trueness and precision than intraoral scanning, mainly in in vitro studies [6], and a rigid **prototype try-in** is still recommended [6].
+- **Custom abutments** improved outcomes in one single-centre RCT of immediate anterior implants [8] but not in one RCT of premolar sites [7]. **Two-piece Ti-base** designs perform well [9,10]. Use non-original Ti-bases with caution: the tested product was not recommended in one 3-year cohort of 24 patients [11], although a 5-year report found favourable long-term performance [12].
+- Bond to Ti-bases with **validated protocols**. In vitro, a luting space of about 60 µm gave higher retention than about 100 µm with self-adhesive resin cements [13].
+- Keep the **emergence angle ≤30°** and avoid convex transmucosal contours at bone-level implants; in a cross-sectional study, an angle above 30° was a risk indicator for peri-implantitis, more so with a convex profile [14].
+- **Screw retention** is generally preferred for retrievability [17,18]: one review found fewer complications overall [18], another fewer serious biological but more technical complications [17]. **Angled screw channels** give comparable short-term results to cemented crowns [20].
+- CAD/CAM frameworks fit better than cast ones [22]. **Monolithic zirconia** is associated with less chipping than veneered zirconia in complete-arch prostheses [23,24].
+- Evidence supports glass-ceramics and zirconia for single implant crowns, and only 3Y-TZP zirconia for implant FDPs and complete arches [26].
 
 ---
 
@@ -256,9 +256,9 @@ A German S3 guideline on implant-supported all-ceramic restorations, based on a 
 
 1. Mizumoto RM, Yilmaz B. Intraoral scan bodies in implant dentistry: a systematic review. J Prosthet Dent. 2018;120(3):343–52. doi:10.1016/j.prosdent.2017.10.029
 2. Stimmelmayr M, Güth JF, Erdelt K, Edelhoff D, Beuer F. Digital evaluation of the reproducibility of implant scanbody fit — an in vitro study. Clin Oral Investig. 2012;16(3):851–6. doi:10.1007/s00784-011-0564-5
-3. Revilla-León M, Barmak AB, Prasad S. Accuracy of complete arch implant scans using nonsplinting techniques: a systematic review and meta-analysis. J Prosthet Dent. 2026;136(1):e102–e138. doi:10.1016/j.prosdent.2026.02.034
+3. Revilla-León M, Barmak AB, Prasad S. Accuracy of complete arch implant scans using nonsplinting techniques: a systematic review and meta-analysis. Report of the Committee on Research in Fixed Prosthodontics of the American Academy of Fixed Prosthodontics. J Prosthet Dent. 2026;136(1):e102–e138. doi:10.1016/j.prosdent.2026.02.034
 4. Alawawda O, Yeşil Z, Sakarya RE, Haoran MA, Yeşil Ç. Trueness of complete arch intraoral implant scans using splinted and non-splinted scan bodies: a systematic review and meta-analysis. J Prosthet Dent. 2026;136(2):e104–e114. doi:10.1016/j.prosdent.2026.04.028
-5. Prasad S, Barmak AB, Revilla-León M. A systematic review and meta-analysis of the accuracy of complete arch implant scanning techniques performed extraorally: reverse impression and extraoral photogrammetry methods. J Prosthet Dent. 2026;136(1):e79–e101. doi:10.1016/j.prosdent.2026.01.018
+5. Prasad S, Barmak AB, Revilla-León M. A systematic review and meta-analysis of the accuracy of complete arch implant scanning techniques performed extraorally: reverse impression and extraoral photogrammetry methods. Report of the Committee on Research in Fixed Prosthodontics of the American Academy of Fixed Prosthodontics. J Prosthet Dent. 2026;136(1):e79–e101. doi:10.1016/j.prosdent.2026.01.018
 6. Pozzi A, Arcuri L, Carosi P, Laureti A, Londono J, Wang HL. Photogrammetry versus intraoral scanning in complete-arch digital implant impression: a systematic review and meta-analysis. Clin Implant Dent Relat Res. 2025;27(3):e70059. doi:10.1111/cid.70059
 7. Schepke U, Meijer HJA, Kerdijk W, Raghoebar GM, Cune M. Stock versus CAD/CAM customized zirconia implant abutments — clinical and patient-based outcomes in a randomized controlled clinical trial. Clin Implant Dent Relat Res. 2017;19(1):74–84. doi:10.1111/cid.12440
 8. Robaian A, Hamed MM, Ahmed Y, Hassanein FEA. Comparative evaluation of customized CAD/CAM vs. stock titanium abutments for immediate implant placement in class II extraction sockets: a randomized controlled trial. Dent J (Basel). 2025;13(8):371. doi:10.3390/dj13080371
@@ -272,10 +272,11 @@ A German S3 guideline on implant-supported all-ceramic restorations, based on a 
 16. Ren S, Wu T, Zhou D, Jiang X, Di P. A deep learning system on monolithic implant-supported crown design: evaluating AI-generated models against conventional software outputs. J Prosthodont. 2026;35(5):712–20. doi:10.1111/jopr.70067
 17. Sailer I, Mühlemann S, Zwahlen M, Hämmerle CHF, Schneider D. Cemented and screw-retained implant reconstructions: a systematic review of the survival and complication rates. Clin Oral Implants Res. 2012;23 Suppl 6:163–201. doi:10.1111/j.1600-0501.2012.02538.x
 18. Wittneben JG, Millen C, Brägger U. Clinical performance of screw- versus cement-retained fixed implant-supported reconstructions — a systematic review. Int J Oral Maxillofac Implants. 2014;29 Suppl:84–98. doi:10.11607/jomi.2014suppl.g2.1
-19. Atieh MA, Shah M, Hakam A, Albalushi A, Abdulmunim A, AlAli F, et al. Angled screw channel-retained vs. cement-retained implant crowns in nonmolar sites: a systematic review and meta-analysis. J Esthet Restor Dent. 2025;37(7):1706–20. doi:10.1111/jerd.13463
-20. Abduo J, Bennani V, Waddell N, Lyons K, Swain M. Assessing the fit of implant fixed prostheses: a critical review. Int J Oral Maxillofac Implants. 2010;25(3):506–15. PMID:20556249
-21. Abduo J. Fit of CAD/CAM implant frameworks: a comprehensive review. J Oral Implantol. 2014;40(6):758–66. doi:10.1563/AAID-JOI-D-12-00117
-22. Wong CKK, Narvekar U, Petridis H. Prosthodontic complications of metal-ceramic and all-ceramic, complete-arch fixed implant prostheses with minimum 5 years mean follow-up period: a systematic review and meta-analysis. J Prosthodont. 2019;28(2):e722–e735. doi:10.1111/jopr.12797
-23. Tomar S, Agnihotri N, Vhanmane G. Prosthetic complications of implant-supported complete arch prostheses: an umbrella review of systematic reviews. J Prosthet Dent. 2026;136(1):52–9. doi:10.1016/j.prosdent.2026.03.013
-24. Marinkovic D, Gutiérrez R, Frey M, Collao F, Moreno Y, Miranda C. Prosthetic and biological complications of metal-zirconia versus metal-acrylic implant-supported screw-retained complete-arch prostheses: a systematic review and meta-analysis. J Clin Exp Dent. 2026;18(5):e704–e715. doi:10.4317/jced.63882
-25. Waltenberger L, Bishti S, Wolfart S. German S3 guideline on implant-supported all-ceramic restorations. Int J Implant Dent. 2025;11(1):53. doi:10.1186/s40729-025-00641-7
+19. Staubli N, Walter C, Schmidt JC, Weiger R, Zitzmann NU. Excess cement and the risk of peri-implant disease — a systematic review. Clin Oral Implants Res. 2017;28(10):1278–90. doi:10.1111/clr.12954
+20. Atieh MA, Shah M, Hakam A, Albalushi A, Abdulmunim A, AlAli F, et al. Angled screw channel-retained vs. cement-retained implant crowns in nonmolar sites: a systematic review and meta-analysis. J Esthet Restor Dent. 2025;37(7):1706–20. doi:10.1111/jerd.13463
+21. Abduo J, Bennani V, Waddell N, Lyons K, Swain M. Assessing the fit of implant fixed prostheses: a critical review. Int J Oral Maxillofac Implants. 2010;25(3):506–15. PMID:20556249
+22. Abduo J. Fit of CAD/CAM implant frameworks: a comprehensive review. J Oral Implantol. 2014;40(6):758–66. doi:10.1563/AAID-JOI-D-12-00117
+23. Wong CKK, Narvekar U, Petridis H. Prosthodontic complications of metal-ceramic and all-ceramic, complete-arch fixed implant prostheses with minimum 5 years mean follow-up period: a systematic review and meta-analysis. J Prosthodont. 2019;28(2):e722–e735. doi:10.1111/jopr.12797
+24. Tomar S, Agnihotri N, Vhanmane G. Prosthetic complications of implant-supported complete arch prostheses: an umbrella review of systematic reviews. J Prosthet Dent. 2026;136(1):52–9. doi:10.1016/j.prosdent.2026.03.013
+25. Marinkovic D, Gutiérrez R, Frey M, Collao F, Moreno Y, Miranda C. Prosthetic and biological complications of metal-zirconia versus metal-acrylic implant-supported screw-retained complete-arch prostheses: a systematic review and meta-analysis. J Clin Exp Dent. 2026;18(5):e704–e715. doi:10.4317/jced.63882
+26. Waltenberger L, Bishti S, Wolfart S. German S3 guideline on implant-supported all-ceramic restorations. Int J Implant Dent. 2025;11(1):53. doi:10.1186/s40729-025-00641-7
