@@ -15,15 +15,15 @@ After reading this chapter, you should be able to:
 
 ## 11.1 From Layers to Devices
 
-Additive manufacturing (AM), usually called 3D printing, builds an object **layer by layer** from a digital model. Subtractive manufacturing (Chapter 10) removes material from a solid blank. Chapter 1 outlined the strengths of AM: little material waste, the ability to make complex internal shapes, and the capacity to build many parts in a single run [1–3].
+Additive manufacturing (AM), usually called 3D printing, builds an object **layer by layer** from a digital model. Subtractive manufacturing (Chapter 10) removes material from a solid blank. Chapter 1 outlined the strengths of AM. It can produce large workpieces with significant surface variation and competitive accuracy [1], potentially more consistently, more quickly and at lower cost than conventional laboratory methods [2].
 
-Early reviews predicted that layered fabrication would bring a "second revolution" in dental device manufacture, once suitable materials existed [2]. At the time, printing was limited mainly to polymers and did not yet include ceramics [4]. A decade later the prediction has largely come true for models, guides, trays, splints, provisional restorations, denture bases and metal frameworks [1]. Printed definitive restorations and ceramics are developing quickly, but the evidence on them is still mostly in vitro.
+An early review predicted that layered fabrication would bring a "second revolution" in dental device manufacture once it could produce high-quality dental prostheses and suitable materials existed [2]. By 2015, a review already listed implant drill guides, physical models, implants, and copings and frameworks for implant and dental restorations among the uses of 3D printing [3]. A 2016 review still described 3D printing in dentistry as limited to polymers and not including ceramics [4]. A decade after the prediction, printing is also used for splints, provisional restorations and denture bases (Section 11.4). Printed definitive restorations and ceramics are developing quickly, but the evidence on them is still mostly in vitro.
 
 ---
 
 ## 11.2 Printing Technologies
 
-The international standard terminology groups AM processes into families. Table 11.1 summarises those used in dentistry [1,2].
+The international standard terminology groups AM processes into families. Table 11.1 summarises those used in dentistry [2,3].
 
 **Table 11.1** Additive manufacturing technologies in dentistry
 
@@ -32,12 +32,14 @@ The international standard terminology groups AM processes into families. Table 
 | **Vat photopolymerisation** | Stereolithography (SLA) | A laser cures liquid resin point by point, layer by layer | Model, guide, splint, provisional and denture resins | Models, guides, splints, dentures |
 | | Digital light processing (DLP) | A projector cures a whole layer at once | Same as SLA; also ceramic-filled slurries | All of the above; fast batch production |
 | | LCD / masked SLA (MSLA) | An LCD screen masks a light source to cure a whole layer | Same as SLA | Low-cost chairside and laboratory printing |
-| **Material jetting** | Inkjet-type ("PolyJet", "MultiJet") | Droplets of photopolymer are jetted and cured; several materials and colours possible | Model and guide resins | Multi-colour models, guides |
+| **Material jetting** | Inkjet-type material jetting | Droplets of photopolymer are jetted and cured; several materials and colours possible | Model and guide resins | Multi-colour models, guides |
 | **Material extrusion** | Fused deposition modelling (FDM / FFF) | A heated thermoplastic filament is extruded | Thermoplastics | Low-cost models, prototypes |
-| **Powder bed fusion** | Selective laser melting / sintering (SLM, SLS, DMLS) | A laser fuses metal or polymer powder layer by layer | Cobalt-chromium, titanium; polyamide | RPD frameworks, crown and bridge copings, bars, surgical plates |
+| **Powder bed fusion** | Selective laser melting / sintering (SLM, SLS, DMLS) | A laser fuses metal or polymer powder layer by layer | Cobalt-chromium, titanium; polyamide | RPD frameworks, crown and FDP copings, bars, surgical plates |
 | **Binder jetting** | — | A binder is jetted onto a powder bed; part sintered afterwards | Metals, ceramics | Emerging |
 
-Vat photopolymerisation (SLA, DLP and LCD) dominates in practices and laboratories because it is affordable and accurate, and because a wide range of dental resins is available. Powder bed fusion dominates metal printing, usually in production centres.
+Process families after [2,3]; the LCD/MSLA, ceramic-slurry and binder-jetting entries are general technical knowledge.
+
+Vat photopolymerisation (SLA, DLP and LCD) dominates in practices and laboratories because it is affordable and accurate, and because a wide range of dental resins is available **[UNVERIFIED]**. Powder bed fusion dominates metal printing, usually in production centres **[UNVERIFIED]**.
 
 The three vat photopolymerisation technologies differ in how they deliver light to each layer (Figure 11.1).
 
@@ -59,7 +61,7 @@ Every print follows the same steps (Figure 11.2):
 6. **Support removal and finishing:** cutting supports, smoothing, polishing, staining or characterising.
 7. **Quality control:** checking fit, accuracy and surface (Chapter 12).
 
-Each step affects the result. In practice, printer settings and post-processing cause as many problems as the printer itself.
+Each step affects the result. In practice (expert opinion), many problems arise from printer settings and post-processing rather than from the printer itself.
 
 ![Flow diagram of the seven steps of a dental print](../figures/fig-11-2-printing-workflow.svg)
 
@@ -69,9 +71,9 @@ Each step affects the result. In practice, printer settings and post-processing 
 
 The angle at which a part is built affects its accuracy, surface, strength, support requirements, build time and how many parts fit on the platform.
 
-- **Crowns.** In a study of DLP-printed crowns at nine build angles, accuracy depended on the angle. The best results came at **135°**, which also gave the most favourable deviation pattern and a self-supporting geometry. At 210° the deviations were concentrated around the critical margin area [5].
-- **Definitive FDPs.** For three-unit resin-based definitive FDPs, the interaction between build orientation and layer thickness affected accuracy and fit. Orientations of 30° and 90° with 50 µm layers gave accuracy similar to milled FDPs, but the **milled FDPs still fitted better** internally [6].
-- **Models.** A systematic review of 14 studies found that most favoured **horizontal** orientation for model accuracy and for time and cost efficiency in single-model production. **Vertical** orientation fits two to three times more models on the platform for large overnight batches [7]. In contrast, a study of 144 full-arch models found that technology (SLA or DLP), orientation (0°, 10° or 20°) and shell thickness had **no significant** effect on overall accuracy. All groups remained below 0.2 mm, with RMS trueness of 73.9–194 µm [8].
+- **Crowns.** In a laboratory study of DLP-printed crowns at nine build angles, trueness (RMSE against the design) depended on the angle. The lowest RMSE was recorded at 135° and 210°, but **135°** gave the more favourable deviation pattern and a self-supporting geometry, and the authors recommended it. At 210° the deviations were concentrated around the critical margin area [5].
+- **Definitive FDPs.** For three-unit resin-based definitive FDPs (in vitro), the interaction between build orientation and layer thickness affected trueness, precision and fit. Orientations of 30° and 90° with 50 µm layers gave trueness similar to milled FDPs, but the **milled FDPs still fitted better** internally [6].
+- **Models.** A systematic review of 14 studies found that most favoured **horizontal** orientation for model accuracy and for time and cost efficiency in single-model production. **Vertical** orientation fits two to three times more models on the platform for large overnight batches [7]. In contrast, an in vitro study of 144 full-arch models found that technology (SLA or DLP), orientation (0°, 10° or 20°) and shell thickness had **no significant** effect on overall trueness or precision. All groups remained below 0.2 mm, with RMS trueness of 73.9–194 µm [8].
 - **Denture bases.** A systematic review of 24 studies found that horizontal orientation (0°) generally gave higher **flexural strength**, whereas accuracy and adaptation were better at 45° and 90°. Surface roughness was highest at 45° [9].
 - **Splints.** In a small study of printed occlusal splints for orthognathic surgery, build angles of 0°, 30° and 90° did not change the fit. The 90° orientation was preferred because it increased printing capacity and shortened manufacturing time per splint [10].
 
@@ -81,8 +83,8 @@ The angle at which a part is built affects its accuracy, surface, strength, supp
 
 Thinner layers reduce the visible "stair-stepping" on curved surfaces, but they increase build time and do not automatically improve accuracy:
 
-- For definitive FDPs, 50 µm layers generally gave lower deviations than 100 µm layers at the best orientations [6].
-- For orthodontic models printed on a low-cost LCD printer, printing at **100 µm** generally gave **better** trueness than 50 µm. Accuracy also varied significantly between resins [11].
+- For definitive FDPs, the 30° and 90° orientations with 50 µm layers generally gave the lowest deviations and gaps, although 90° gave lower marginal precision [6].
+- For orthodontic models printed on a low-cost LCD printer, printing at **100 µm** generally gave **better** trueness than 50 µm. Trueness and precision also differed significantly between resins [11].
 
 The effect depends on the printer, resin and geometry. Follow validated settings rather than assuming thinner is better.
 
@@ -92,7 +94,7 @@ Supports anchor the part to the platform and hold up overhangs. They leave marks
 
 ![Schematic of support placement on a printed crown and a denture base](../figures/fig-11-3-support-placement.svg)
 
-**Figure 11.3** Support placement. Supports are attached to non-critical surfaces, such as the occlusal surface of a crown or the polished surface of a denture base. Margins, intaglio (fitting) surfaces and contact areas are kept free of supports. Schematic.
+**Figure 11.3** Support placement. Supports are attached to non-critical surfaces, such as the occlusal surface of a crown or the polished surface of a denture base. Margins, intaglio (fitting) surfaces and contact areas are kept free of supports. The orientation shown is schematic, not a recommended build angle (Section 11.3.1).
 
 ### 11.3.4 Washing and post-curing
 
@@ -104,15 +106,15 @@ Table 11.2 brings together the evidence on process parameters from this section.
 
 | Parameter | Device | Reported effect | Ref. |
 |---|---|---|---|
-| Build orientation | DLP crowns | Accuracy depended on angle; best at 135°, deviations at the margin at 210° | [5] |
+| Build orientation | DLP crowns | Trueness depended on angle; lowest RMSE at 135° and 210°; 135° recommended (deviations at the margin at 210°) | [5] |
 | | Three-unit definitive FDPs | Orientation × layer thickness affected accuracy and fit; milled FDPs still fitted better | [6] |
 | | Models | Horizontal favoured for accuracy and single-model efficiency; vertical fits more models per batch | [7] |
 | | Full-arch models | Technology, orientation and shell thickness had no significant effect; all < 0.2 mm | [8] |
 | | Denture bases | 0° gave higher flexural strength; 45° and 90° gave better accuracy | [9] |
 | | Surgical splints | 0°, 30° and 90° did not change fit; 90° increased capacity | [10] |
-| Layer thickness | Definitive FDPs | 50 µm generally better than 100 µm at the best orientations | [6] |
+| Layer thickness | Definitive FDPs | 30°/50 µm and 90°/50 µm generally gave the lowest deviations (orientation × layer interaction) | [6] |
 | | Orthodontic models (LCD) | 100 µm generally better trueness than 50 µm; resins differed | [11] |
-| Supports | All devices | Keep off margins, intaglio surfaces and contacts; self-supporting orientations reduce supports | [5] |
+| Supports | DLP crowns (principle applies to all devices) | 135° gave a self-supporting geometry [5]; keep supports off margins, intaglio surfaces and contacts (general practice) | [5] |
 | Post-curing | Printed resins | Completes polymerisation; affects strength, dimensions and biocompatibility | Section 11.6 |
 
 ---
@@ -124,27 +126,27 @@ Table 11.2 brings together the evidence on process parameters from this section.
 Printed models have replaced stone casts in many digital workflows. Uses include working models for crowns and FDPs (often with removable dies), orthodontic models for aligner fabrication, and study models.
 
 - A systematic review of printed full-arch models found that all of the technologies studied (SLA, DLP, material jetting and FFF) produced clinically acceptable accuracy. DLP and material jetting showed better precision and trueness than SLA and FFF [12].
-- Model accuracy for fixed prosthodontics was within 0.2 mm for SLA and DLP across orientations and shell thicknesses in one study [8]. That is acceptable for many uses but larger than typical crown-margin tolerances (Chapter 3).
+- In one in vitro study, the overall trueness (RMS) of full-arch models for fixed prosthodontics was 73.9–194 µm, below 0.2 mm, for SLA and DLP across orientations and shell thicknesses [8]. This is a whole-arch measure; it does not describe the fit at individual margins (Chapter 3).
 
 > **Clinical Tip.** A printed model is a copy of the scan, not of the patient. It cannot be more accurate than the scan it came from, and it adds its own printing error. Use printed models to check contacts, contours and occlusion. Do not use them to "correct" the fit of a restoration designed on the scan.
 
 ### 11.4.2 Surgical guides
 
-Implant surgical guides are among the most established printed devices (Chapter 17). In an in vitro study, guides made by SLA, material jetting (PolyJet) and MultiJet printing showed **no significant differences** in implant angular deviation (median about 1.1–1.3°) or offset at the entry point and apex [13]. Guide accuracy depends at least as much on planning, registration, guide design and seating as on the printer.
+Implant surgical guides are among the most established printed devices (Chapter 17). In an in vitro study, guides made by SLA, material jetting (PolyJet) and MultiJet printing showed **no significant differences** in implant angular deviation (median about 1.1–1.3°) or offset at the entry point and apex [13]. In our view (expert opinion), guide accuracy depends at least as much on planning, registration, guide design and seating as on the printer (Chapter 17).
 
 ### 11.4.3 Occlusal splints
 
-Splints can be printed in rigid or flexible resins, milled, or made conventionally. Printed splints are fast and inexpensive to reproduce. Build angle did not affect the fit of printed surgical splints in one small study [10]. Chapter 19 discusses therapeutic occlusal devices.
+Splints can be printed in rigid or flexible resins, milled, or made conventionally. Printed splints can be produced quickly and in batches. Build angle did not affect the fit of printed surgical splints in one small study [10]. Chapter 19 discusses therapeutic occlusal devices.
 
 ### 11.4.4 Provisional and definitive resin restorations
 
 Resins are now available for long-term provisional and "permanent" crowns and FDPs. Most are ceramic-filled methacrylates.
 
-- The **cement-space setting** matters for printed crowns. A 70 µm setting gave the best marginal and internal fit for one definitive printed resin (Chapter 3) [14].
-- A systematic review and meta-analysis of in vitro studies found that **milled resin crowns had higher fracture resistance** than printed ones, especially after ageing. Printed crowns showed **smaller marginal gaps** when the analysis was restricted to comparable, directly measured conditions. The certainty of evidence was low to very low [15].
-- For three-unit definitive FDPs, printed FDPs had larger internal deviations and gaps than milled composite FDPs [6].
-- The **bond strength** of printed crown resins to luting cements was high and comparable to milled materials. Airborne-particle abrasion with alumina was generally recommended. The authors stressed that clinical evidence for permanent use is lacking [16].
-- A randomised controlled trial in 56 adults compared definitive printed resin crowns with monolithic zirconia crowns on posterior teeth over 1 year. Fracture-free survival was **78.6%** for the printed crowns and **92.9%** for zirconia (P = 0.12, not significant). Seven of the eight fractures occurred on the most posterior restored tooth. Marginal fit, periodontal outcomes and patient satisfaction did not differ, but the printed crowns showed much more occlusal wear (mean wear depth 92 µm versus 14 µm) [17].
+- The **cement-space setting** matters for printed crowns. In an in vitro study, a 70 µm setting gave the best marginal and internal fit for one definitive printed resin (Chapter 3) [14].
+- A systematic review and meta-analysis of in vitro studies found that **milled resin crowns had higher fracture resistance** than printed ones, especially after ageing. The primary pooled analysis of marginal gap was not significant and was highly heterogeneous, but a sensitivity analysis restricted to tooth-supported, directly measured conditions found **smaller marginal gaps** for printed crowns. The certainty of evidence was low to very low [15].
+- In vitro, printed three-unit definitive FDPs had larger intaglio deviations and average gaps than milled composite FDPs [6].
+- A systematic review of six in vitro studies found that the **bond strength** of printed crown resins to luting cements was high and comparable to milled materials (three studies made this comparison). Airborne-particle abrasion with alumina was generally recommended. The authors noted a clear gap in the literature and called for research on clinical applicability for permanent restorations [16].
+- A randomised controlled trial in 56 adults compared definitive printed resin crowns with monolithic zirconia crowns on posterior teeth over 1 year. Fracture-free survival was **78.6%** for the printed crowns and **92.9%** for zirconia (P = 0.12, not significant). Seven of the eight fractures occurred on the most posterior restored tooth. Marginal and axial gaps, periodontal outcomes and patient satisfaction did not differ, and axio-occlusal and occlusal gaps were smaller for the printed crowns, but the printed crowns showed much more occlusal wear (mean wear depth 92 µm versus 14 µm) [17].
 
 > **Evidence Box.** Almost all the evidence on printed "permanent" resin restorations is in vitro, and clinical survival data are scarce. Early randomised data show more wear and numerically more fractures than zirconia on posterior teeth [17]. Until longer-term trials are available, treat printed resin crowns and FDPs as **long-term provisional** or **selected definitive** restorations, for example in patients for whom low cost, fast replacement or reversibility matters more than long-term durability.
 
@@ -158,9 +160,9 @@ Printed denture bases and teeth allow fully digital dentures (Chapter 18):
 
 ### 11.4.6 Metal frameworks
 
-**Selective laser melting (SLM)** of cobalt-chromium is widely used for removable partial denture frameworks and for crown and bridge substructures.
+**Selective laser melting (SLM)** of cobalt-chromium is widely used for removable partial denture frameworks and for crown and FDP substructures.
 
-- The fit of SLM cobalt-chromium RPD frameworks was within clinically acceptable limits whether it was measured with a silicone replica or digitally, although the two methods gave different values (Chapter 3) [21].
+- In an in vitro study of 12 frameworks, the fit of SLM cobalt-chromium RPD frameworks was within the 300 µm clinically acceptable standard whether it was measured with a silicone replica or digitally, although the two methods gave different values (Chapter 3) [21].
 - For implant-supported cobalt-chromium FDPs, a systematic review of in vitro studies found clinically acceptable fit for three-unit frameworks with all methods. For **12-unit** complete-arch frameworks, printed frameworks fitted **less accurately than milled** ones but **better than cast** ones [22].
 
 ---
@@ -174,7 +176,7 @@ The first comparisons with milling are encouraging:
 - A systematic review and meta-analysis of in vitro studies of monolithic zirconia crowns found **comparable trueness and margin quality** for printed and milled crowns. Milling was better at the margin, printing in the axial areas. Precision and adaptation were clinically acceptable for both [23].
 - A more recent meta-analysis found **significantly smaller marginal gaps** for milled zirconia prostheses (mean difference about 13 µm). Internal adaptation did not differ, and both methods were clinically acceptable [24].
 
-Clinical studies of printed ceramic restorations are still lacking. Printed zirconia is promising for complex shapes and material efficiency. For now, milling remains the established method for definitive ceramic restorations (Chapter 10).
+Clinical evidence on printed ceramic restorations is still very limited. In a randomised controlled trial of 43 participants (48 posterior teeth), nanoparticle-jetted printed zirconia single crowns were clinically comparable to milled zirconia crowns over 12 months (clinical success 95.8% versus 91.6%; one fracture in each group) [25]. Longer follow-up is needed. Printed zirconia is promising for complex shapes and material efficiency. For now, milling remains the established method for definitive ceramic restorations (Chapter 10).
 
 ---
 
@@ -182,9 +184,9 @@ Clinical studies of printed ceramic restorations are still lacking. Printed zirc
 
 ### 11.6.1 Why biocompatibility matters
 
-Printable resins are photopolymers. If polymerisation is incomplete, **residual monomers** and other compounds can be released. Post-processing chemicals, such as washing solvents, may also remain on the part if it is not handled correctly. A review of biocompatibility testing of printed dental polymers concluded that 3D printing causes the release of residual monomers through incomplete polymerisation, and involves potentially toxic substances in post-processing that cannot be completely eliminated. Independent biocompatibility testing was therefore recommended [25].
+Printable resins are photopolymers. If polymerisation is incomplete, **residual monomers** and other compounds can be released. Post-processing chemicals, such as washing solvents, may also remain on the part if it is not handled correctly. A review of biocompatibility testing of printed dental polymers concluded that 3D printing causes the release of residual monomers through incomplete polymerisation, and involves potentially toxic substances in post-processing that cannot be completely eliminated. Independent biocompatibility testing was therefore recommended [26].
 
-Post-processing matters. In a cell-culture study of two printed denture base resins, **longer post-curing** improved cell metabolic activity and reduced markers of cell death for one resin, but the other resin responded less consistently. The authors concluded that evaluating only the released substances is not enough: printing parameters also influence cytotoxicity [26].
+Post-processing matters. In a cell-culture study of two printed denture base resins, **longer post-curing** improved cell metabolic activity and reduced markers of cell death for one resin, but the other resin responded less consistently. The authors concluded that evaluating only the released substances is not enough: printing parameters also influence cytotoxicity [27].
 
 ### 11.6.2 Practical safety rules
 
@@ -206,27 +208,27 @@ A printed device made with an approved resin but the wrong post-processing is ef
 | Device | Preferred route | Reason |
 |---|---|---|
 | Working and orthodontic models | Printing | Fast, inexpensive, batch production; acceptable accuracy [7,8,12] |
-| Implant surgical guides | Printing | Established; printer type has little effect on accuracy [13] |
-| Occlusal splints | Printing or milling | Printing fast and economical [10]; milling gives homogeneous material |
+| Implant surgical guides | Printing | Established (Chapter 17); in one in vitro study printer type did not significantly affect implant position [13] |
+| Occlusal splints | Printing or milling | Printing at 90° increased capacity and shortened time per splint (surgical splints) [10]; milling tends to give more homogeneous material [1] |
 | Provisional crowns and FDPs | Printing or milling | Both suitable; printing economical for multiple units |
-| Definitive resin crowns | Milling preferred; printing for selected cases | Milled resins more fracture-resistant; printed lack clinical data [15,16] |
-| Definitive ceramic restorations | Milling | Clinical evidence; printed ceramics still in vitro [23,24] |
-| Complete dentures | Printing or milling | No clear clinical advantage of either [18,19]; milled bases more homogeneous |
-| RPD frameworks (Co-Cr) | SLM printing | Clinically acceptable fit; efficient [21] |
+| Definitive resin crowns | Milling preferred; printing for selected cases | Milled resins more fracture-resistant in vitro [15]; clinical data limited to one 1-year RCT (more wear and numerically more fractures than zirconia) [17] |
+| Definitive ceramic restorations | Milling | Long clinical record of milling (Chapter 10); printed zirconia mostly in vitro, one 12-month RCT [23–25] |
+| Complete dentures | Printing or milling | No clear clinical advantage of either [18,19]; milled bases more homogeneous [1] |
+| RPD frameworks (Co-Cr) | SLM printing | Clinically acceptable fit in vitro [21] |
 | Complete-arch implant frameworks | Milling preferred | Milled frameworks fit better than printed ones for long spans [22] |
 
 ---
 
 ## Key Points
 
-- **Vat photopolymerisation** (SLA, DLP, LCD) dominates resin printing in dentistry. **Selective laser melting** dominates metal printing [1].
-- Build orientation, layer thickness, supports, washing and post-curing **all** affect accuracy and properties. There is no universal best setting [5–11].
-- Printed **models** and **guides** are well established and clinically acceptable [8,12,13].
-- Printed **definitive resin** restorations are mechanically weaker than milled ones after ageing. Clinical data are scarce; a 1-year trial found more wear and numerically more fractures than zirconia [15–17].
-- Printed, milled and conventional **complete dentures** show no clear difference in patient-important outcomes, but the certainty of evidence is very low [18–20].
-- **SLM** cobalt-chromium frameworks fit acceptably. For complete-arch implant frameworks, milled frameworks fit better than printed, and printed better than cast [21,22].
-- **Printed zirconia** is comparable to milled in vitro but slightly less accurate at the margin, with no clinical data yet [23,24].
-- **Biocompatibility** depends on resin and post-processing. Use approved resins with validated settings and protocols [25,26].
+- **Vat photopolymerisation** (SLA, DLP, LCD) is the main technology for resin printing in dentistry, and **selective laser melting** for metal printing **[UNVERIFIED]**.
+- Build orientation and layer thickness can affect trueness, fit and properties, but the effects depend on device, resin and printer, and one full-arch model study found no significant effect of orientation [5–11]. There is no universal best setting. Washing and post-curing must follow validated protocols (Section 11.6).
+- In vitro, printed full-arch **models** were clinically acceptable [8,12], and printer type did not significantly affect implant position with printed **guides** [13].
+- In vitro, printed **definitive resin** crowns had lower fracture resistance than milled ones, especially after ageing (low to very low certainty) [15]. Clinical data are scarce; a 1-year trial found more wear and numerically more fractures than zirconia [17].
+- Printed, milled and conventional **complete dentures** show no clear difference in patient-important outcomes (certainty mostly very low) [18]; one meta-analysis found conventional dentures more retentive [19], and complications differ by technique [20].
+- **SLM** cobalt-chromium RPD frameworks fit acceptably in vitro. For complete-arch implant frameworks, milled frameworks fit better than printed, and printed better than cast [21,22].
+- **Printed zirconia** is comparable to milled in vitro but has slightly larger marginal gaps; clinical data are limited to one 12-month randomised trial [23–25].
+- **Biocompatibility** depends on resin and post-processing. Use approved resins with validated settings and protocols [26,27].
 
 ---
 
@@ -245,9 +247,9 @@ A printed device made with an approved resin but the wrong post-processing is ef
 
 ## References
 
-1. Dawood A, Marti Marti B, Sauret-Jackson V, Darwood A. 3D printing in dentistry. Br Dent J. 2015;219(11):521–9. doi:10.1038/sj.bdj.2015.914
+1. Abduo J, Lyons K, Bennamoun M. Trends in computer-aided manufacturing in prosthodontics: a review of the available streams. Int J Dent. 2014;2014:783948. doi:10.1155/2014/783948
 2. van Noort R. The future of dental devices is digital. Dent Mater. 2012;28(1):3–12. doi:10.1016/j.dental.2011.10.014
-3. Abduo J, Lyons K, Bennamoun M. Trends in computer-aided manufacturing in prosthodontics: a review of the available streams. Int J Dent. 2014;2014:783948. doi:10.1155/2014/783948
+3. Dawood A, Marti Marti B, Sauret-Jackson V, Darwood A. 3D printing in dentistry. Br Dent J. 2015;219(11):521–9. doi:10.1038/sj.bdj.2015.914
 4. Alghazzawi TF. Advancements in CAD/CAM technology: options for practical implementation. J Prosthodont Res. 2016;60(2):72–84. doi:10.1016/j.jpor.2016.01.003
 5. Osman RB, Alharbi N, Wismeijer D. Build angle: does it influence the accuracy of 3D-printed dental restorations using digital light-processing technology? Int J Prosthodont. 2017;30(2):182–8. doi:10.11607/ijp.5117
 6. Dönmez MB, Demirel M, Diken Türksayar AA, Yilmaz B. Influence of printing parameters on the fabrication and fit accuracy of additively manufactured resin-based definitive three-unit fixed partial dentures. J Dent. 2025;161:105937. doi:10.1016/j.jdent.2025.105937
@@ -269,5 +271,6 @@ A printed device made with an approved resin but the wrong post-processing is ef
 22. He Z, Bennani V, Aarts JM, Choi JJE, Veerasamy A. Fit accuracy of 3D printed Co-Cr multiunit implant-supported fixed dental prostheses: a systematic review of in vitro studies. J Prosthet Dent. 2026;135(1):64.e1–64.e10. doi:10.1016/j.prosdent.2025.08.033
 23. da Silva SEG, da Silva NR, Santos JVDN, Moreira FGG, Özcan M, Souza ROAE. Accuracy, adaptation and margin quality of monolithic zirconia crowns fabricated by 3D printing versus subtractive manufacturing technique: a systematic review and meta-analysis of in vitro studies. J Dent. 2024;147:105089. doi:10.1016/j.jdent.2024.105089
 24. Sengottaiyan AK, Bennani V, Veerasamy A. Marginal fit and internal adaptation of zirconia complete coverage fixed dental prostheses fabricated by milling versus 3D printing: a systematic review and meta-analysis of in vitro studies. J Prosthet Dent. 2026;136(2):379–89. doi:10.1016/j.prosdent.2026.02.051
-25. Rus F, Neculau C, Imre M, Duica F, Popa A, Moisa RM, et al. Polymeric materials used in 3DP in dentistry — biocompatibility testing challenges. Polymers (Basel). 2024;16(24):3550. doi:10.3390/polym16243550
-26. Dinescu M, Vasilescu VG, Ciocan LT, Voicu-Balasea B, Țâncu AMC, Ripszky A, et al. Evaluation of post-processing time's influence on biocompatibility of 3D-printed denture base resins. J Funct Biomater. 2026;17(4):188. doi:10.3390/jfb17040188
+25. Cai F, Wang Y, Jiang J, Wu W, Lu H, Ye T, et al. Clinical efficacy of a novel 3D-printed zirconia single crown: a randomized controlled trial. J Dent. 2025;162:106069. doi:10.1016/j.jdent.2025.106069
+26. Rus F, Neculau C, Imre M, Duica F, Popa A, Moisa RM, et al. Polymeric materials used in 3DP in dentistry — biocompatibility testing challenges. Polymers (Basel). 2024;16(24):3550. doi:10.3390/polym16243550
+27. Dinescu M, Vasilescu VG, Ciocan LT, Voicu-Balasea B, Țâncu AMC, Ripszky A, et al. Evaluation of post-processing time's influence on biocompatibility of 3D-printed denture base resins. J Funct Biomater. 2026;17(4):188. doi:10.3390/jfb17040188
