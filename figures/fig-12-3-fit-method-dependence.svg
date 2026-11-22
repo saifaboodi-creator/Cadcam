@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 316" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
   <title>The same frameworks, two measurement methods, two different numbers</title>
-  <desc>Horizontal bar chart. For the same laser-melted removable partial denture frameworks, the clinical silicone replica method gave a mean gap of 13.9 micrometres, while digital registration gave a root-mean-square gap of 70.7 micrometres. Axis from 0 to 80 micrometres.</desc>
-  <rect width="800" height="300" fill="#ffffff"/>
+  <desc>Horizontal bar chart. For the same laser-melted removable partial denture frameworks, the clinical silicone replica method gave a mean gap of 13.9 micrometres, while digital registration gave a root-mean-square gap of 70.7 micrometres. Axis from 0 to 80 micrometres. In vitro study; both values were below the 300 micrometre clinically acceptable standard.</desc>
+  <rect width="800" height="316" fill="#ffffff"/>
   <!-- axes area: x from 260 to 740 for 0..80 µm -> 6 px per µm -->
   <g stroke="#e5e7ea" stroke-width="1">
     <line x1="260" y1="40" x2="260" y2="210"/><line x1="380" y1="40" x2="380" y2="210"/><line x1="500" y1="40" x2="500" y2="210"/><line x1="620" y1="40" x2="620" y2="210"/><line x1="740" y1="40" x2="740" y2="210"/>
@@ -22,5 +22,6 @@
     <text x="353" y="88" font-weight="700">13.9 µm</text>
     <text x="694" y="166" font-weight="700">70.7 µm</text>
   </g>
-  <text x="20" y="285" font-size="12.5" fill="#52514e">Both values were within the clinically acceptable standard; the difference comes from the measurement method.</text>
+  <text x="20" y="282" font-size="12.5" fill="#52514e">Both values were below the 300 µm clinically acceptable standard;</text>
+  <text x="20" y="299" font-size="12.5" fill="#52514e">the difference most likely comes from the measurement method.</text>
 </svg>

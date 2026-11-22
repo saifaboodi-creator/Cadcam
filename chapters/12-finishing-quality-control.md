@@ -48,17 +48,17 @@ Each of these steps can improve the restoration or spoil it. Post-processing cha
 
 Conventional sintering cycles for zirconia take many hours. **Speed** and **high-speed sintering** shorten this to make same-day zirconia possible (Chapter 16).
 
-- A systematic review of 15 in vitro studies found that precision (fit) and mechanical results were similar or better with speed or high-speed sintering for 3Y-, 4Y- and 5Y-zirconia. Translucency was usually reduced when 3Y-TZP was speed-sintered [3].
-- A meta-analysis of 26 in vitro studies found that speed-sintering did not significantly affect flexural strength, fracture toughness or the CIEDE2000-based translucency parameter. The CIELab-based translucency parameter, however, was higher after conventional sintering [4].
+- A systematic review of 15 in vitro studies found that fit (marginal and internal) and mechanical results were similar or better with speed or high-speed sintering for 3Y-, 4Y- and 5Y-zirconia. Translucency was usually reduced when 3Y-TZP was speed-sintered [3].
+- A systematic review and meta-analysis that included 26 in vitro studies found that speed-sintering did not significantly affect flexural strength, fracture toughness or the CIEDE2000-based translucency parameter. The CIELab-based translucency parameter, however, was higher after conventional sintering [4].
 - In one laboratory study, high-speed sintering was a valid alternative to conventional sintering. It did, however, reduce the Weibull modulus (a measure of how reliable the strength is) of all three zirconia materials tested after thermo-mechanical ageing [5].
 
 All of this evidence is in vitro. Use only the fast programmes the zirconia manufacturer has validated for that specific material and furnace. The wide and growing range of zirconia types makes following manufacturers' instructions essential [6].
 
 ### 12.2.2 Crystallisation of lithium disilicate
 
-Pre-crystallised lithium disilicate is milled in a softer state and then fired to its final strength and shade. That firing changes the restoration's fit. In a micro-CT study, crystallisation reduced the axial internal gap of milled crowns and increased the vertical marginal gap. The authors concluded that crystallisation changes the relationship between crown and tooth [1].
+Pre-crystallised lithium disilicate is milled in a softer state and then fired to its final strength and shade. That firing changes the restoration's fit. In an in vitro micro-CT study of 16 crowns on polyurethane teeth, crystallisation reduced the axial internal gap of milled crowns and increased the vertical marginal gap. The authors concluded that crystallisation changes the relationship between crown and tooth [1].
 
-> **Lab Note.** Check the fit of glass-ceramic and zirconia restorations **after** their final firing, not only in the pre-fired state. A crown that fits perfectly before crystallisation or sintering may not fit afterwards.
+> **Lab Note.** Check the fit of glass-ceramic and zirconia restorations **after** their final firing, not only in the pre-fired state. A lithium disilicate crown that fits before crystallisation may not fit afterwards [1]. Zirconia reaches its final size only after sintering (Table 12.1).
 
 ---
 
@@ -76,7 +76,7 @@ Some zirconia is also coloured **before sintering**, by dipping or brushing colo
 
 ### 12.3.2 How durable are extrinsic stains?
 
-The colour of a monolithic restoration that relies on surface stains lies in a layer only a few micrometres thick, so its durability is a fair question. In an in vitro study, stained and glazed 3Y-TZP zirconia was thermocycled and brushed to simulate about one year of toothbrushing with normal and abrasive toothpastes. Some stain systems showed significant changes in colour and surface roughness. None of the changes **exceeded the thresholds for perceptibility and acceptability**. The study could not establish long-term durability limits [7].
+The colour of a monolithic restoration that relies on surface stains lies in a thin surface layer, so its durability is a fair question. In an in vitro study, stained and glazed 3Y-TZP zirconia was thermocycled and brushed to simulate about one year of toothbrushing with normal and abrasive toothpastes. Some stain systems showed significant changes in colour and surface roughness. None of the changes **exceeded the thresholds for perceptibility and acceptability**. The study could not establish durability limits for the stains [7].
 
 > **Clinical Tip.** Where you can, put the colour **inside** the restoration (polychromatic blanks, pre-sintering colouring liquids or a correctly chosen block shade), and use surface stain only for fine characterisation. After chairside adjustment, surface stain removed from the occlusal surface cannot be replaced without refiring.
 
@@ -101,11 +101,11 @@ The final surface affects plaque retention, wear of the opposing teeth, strength
 ### 12.4.1 Evidence
 
 - On several framework–veneer ceramic combinations, chairside mechanical polishing after grinding restored surface roughness and strength **to the level of glazing**. The authors concluded that adjusted surfaces must always be polished [8].
-- After removal of the glaze, one polishing system produced surfaces on monolithic zirconia and feldspathic ceramics as smooth as the original glaze. Another system could not adequately polish the surface [9]. **Polishing kits differ markedly.**
+- After removal of the glaze, only one of four polishing systems produced surfaces on monolithic zirconia and feldspathic ceramics as smooth as the original glaze; the other three gave rougher surfaces, and with one of them the surface could not be adequately polished [9]. **Polishing kits are not equivalent.**
 - A polishing system designed for zirconia gave the lowest surface roughness on zirconia, lithium disilicate and feldspathic ceramic alike [10].
-- An umbrella review of systematic reviews on wear of the opposing enamel found that **polished** surfaces caused less enamel wear than **glazed** ones. Polished monolithic zirconia caused enamel wear equal to or less than natural enamel, and less than metal-ceramic, feldspathic and lithium disilicate crowns [11].
+- An umbrella review of four systematic reviews on wear of the opposing enamel (qualitative synthesis; a meta-analysis was not possible) found that **polished** surfaces caused less enamel wear than **glazed** ones. Polished monolithic zirconia caused enamel wear equal to or less than natural enamel, and less than metal-ceramic, feldspathic and lithium disilicate crowns [11].
 
-One explanation is that glaze wears away in function, exposing a rougher surface beneath. A well-polished surface of the material itself stays smooth.
+A commonly proposed explanation, not tested in the studies cited here, is that glaze wears away in function and exposes a rougher surface beneath, whereas a well-polished surface of the material itself remains smooth.
 
 ---
 
@@ -115,27 +115,27 @@ Almost every restoration needs some adjustment of contacts or occlusion. How it 
 
 ### 12.5.1 Zirconia
 
-Grinding zirconia with diamond instruments creates scratches and can transform part of the surface from the tetragonal to the monoclinic phase.
+Grinding zirconia with diamond instruments creates scratches and can transform part of the surface from the tetragonal to the monoclinic phase, as the second study below shows.
 
-- In one study, grinding increased the roughness of high-translucency zirconia. Proper polishing returned it to a smoothness comparable with glazed surfaces. There was no evidence that grinding and polishing reduced flexural strength after hydrothermal ageing [12].
-- In another study, roughness increased after grinding, and polishing and glazing reduced it similarly. **Glazing after grinding significantly reduced flexural strength, but polishing did not.** A monoclinic phase was found after grinding and polishing (23–26%) but not after glazing [13].
-- A third study likewise found that glazing after grinding reduced flexural strength while polishing did not, and concluded that a zirconia polishing system may be an alternative to re-glazing [14].
-- After adjustment, two chairside polishing kits produced lower roughness on monolithic zirconia (Ra about 0.47–0.49 µm) than re-glazing (Ra 0.59 µm) in a small in vitro study [15].
+- In one in vitro study, grinding increased the roughness of high-translucency zirconia. Proper polishing returned it to a smoothness comparable with glazed surfaces. There was no evidence that grinding and polishing reduced flexural strength after hydrothermal ageing [12].
+- In another in vitro study, roughness increased after grinding, and polishing and glazing reduced it similarly. Ground specimens had the highest flexural strength. **Polished specimens kept this strength, whereas glazing after grinding lowered it to a level not different from the unground control.** On X-ray diffraction of one specimen per group, a monoclinic phase was found after grinding (26%) and after grinding and polishing (23–24%), but not after glazing [13].
+- In a third in vitro study, ground specimens had the highest flexural strength, and the polished and re-glazed groups did not differ significantly from one another. The authors nevertheless concluded that glazing after grinding decreased flexural strength while polishing did not, and that a zirconia polishing system may be an alternative to re-glazing [14].
+- After adjustment, two chairside polishing kits gave numerically lower mean roughness on monolithic zirconia (Ra 0.47 and 0.49 µm) than re-glazing (Ra 0.59 µm) in a small in vitro study (5 specimens per group) [15].
 - In a pilot study, dental students, dentists with different levels of experience and dental technicians all achieved similar results when polishing zirconia crowns chairside with a two-step zirconia kit [16].
 
 ### 12.5.2 Practical protocol after chairside adjustment
 
 1. Adjust with **fine-grit diamonds** under water spray, with light pressure.
-2. Follow the polishing sequence **specified for that material** (zirconia, glass-ceramic or resin-based), from coarse to fine.
+2. Follow a validated polishing sequence, usually the one **specified for that material** (zirconia, glass-ceramic or resin-based), from coarse to fine. In one in vitro study, a zirconia kit gave the lowest roughness on all three ceramics tested [10].
 3. Finish with a diamond polishing paste if the system includes one.
 4. Check the surface under magnification for remaining scratches.
-5. Re-glaze only if required for aesthetics, and for zirconia, be aware that re-glazing after grinding may reduce strength [13,14].
+5. Re-glaze only if required for aesthetics. For zirconia, polishing kept the strength of ground specimens whereas re-glazing lowered it in one in vitro study [13]; in a second, polished and re-glazed specimens did not differ [14].
 
 Figure 12.2 summarises this sequence as a decision path.
 
 ![Decision flow for refinishing after chairside adjustment](../figures/fig-12-2-after-adjustment.svg)
 
-**Figure 12.2** Refinishing after chairside adjustment. The polishing sequence is chosen by material. For zirconia, glazing after grinding reduced flexural strength, whereas polishing did not, in the cited in vitro studies [13,14].
+**Figure 12.2** Refinishing after chairside adjustment. A validated polishing sequence is used, usually the one specified for the material. For zirconia, polishing kept the flexural strength of ground specimens whereas glazing lowered it in one in vitro study [13]; in a second, polished and re-glazed specimens did not differ [14].
 
 > **Evidence Box.** The evidence on adjustment and polishing comes almost entirely from **in vitro** studies on flat specimens, using single products. It consistently supports polishing after adjustment [8,12–14]. It does not support any one polishing kit over others in general, because results vary between kits [9,10].
 
@@ -146,11 +146,11 @@ Table 12.2 summarises the evidence from Sections 12.4 and 12.5.
 | Question | Finding | Ref. |
 |---|---|---|
 | Does polishing after grinding restore the surface? | Chairside polishing restored roughness and strength to the level of glazing on several ceramic combinations | [8] |
-| Are polishing kits equivalent? | No: one kit matched the original glaze, another could not adequately polish; a zirconia kit gave the lowest roughness on three ceramics | [9,10] |
-| Which surface wears opposing enamel less? | Polished surfaces caused less enamel wear than glazed ones (umbrella review) | [11] |
+| Are polishing kits equivalent? | No: only one of four kits matched the original glaze [9]; a zirconia kit gave the lowest roughness on three ceramics [10] | [9,10] |
+| Which surface wears opposing enamel less? | Polished surfaces caused less enamel wear than glazed ones (umbrella review of four systematic reviews; no meta-analysis) | [11] |
 | Does grinding and polishing weaken zirconia? | No evidence of reduced flexural strength after hydrothermal ageing | [12] |
-| Should ground zirconia be re-glazed? | Glazing after grinding reduced flexural strength; polishing did not | [13,14] |
-| Polishing kits versus re-glazing on zirconia | Kits Ra about 0.47–0.49 µm; re-glazing Ra 0.59 µm | [15] |
+| Should ground zirconia be re-glazed? | Polishing kept the strength of ground specimens and glazing lowered it to the unground-control level [13]; in another study polished and re-glazed groups did not differ [14] | [13,14] |
+| Polishing kits versus re-glazing on zirconia | Kits Ra 0.47 and 0.49 µm; re-glazing Ra 0.59 µm (means; n = 5 per group) | [15] |
 | Does operator experience matter? | Students, dentists and technicians achieved similar results with a two-step zirconia kit (pilot) | [16] |
 
 ---
@@ -162,15 +162,15 @@ Table 12.2 summarises the evidence from Sections 12.4 and 12.5.
 For laboratory work, the first fit check is on the working model:
 
 - **Stone casts** remain the reference in hybrid workflows.
-- **Printed models** are increasingly used in fully digital workflows. Their accuracy depends on printer, layer thickness and analogue design. In one study, screw-retained zirconia implant crowns adjusted on printed casts with 50 µm layers needed less adjustment and had smaller internal gaps than those adjusted on casts with 100 µm layers. Proprietary friction-retained digital analogues gave smaller gaps than third-party screw-retained analogues [17].
+- **Printed models** are increasingly used in fully digital workflows. How well restorations fit after adjustment on them can depend on printing layer thickness and analogue design. In one in vitro study, screw-retained zirconia implant crowns adjusted on printed casts with 50 µm layers needed less adjustment and had smaller internal gaps than those adjusted on casts with 100 µm layers. Proprietary friction-retained digital analogues gave smaller gaps than third-party screw-retained analogues [17].
 - A restoration that fits a model perfectly can still fail to fit the mouth if the model or the scan is inaccurate. The model check is necessary but not sufficient.
 
 ### 12.6.2 Digital fit checks
 
 Digital methods measure the gap three-dimensionally without destroying the restoration:
 
-- **The triple-scan method.** Scan the die, the intaglio surface of the restoration and the restoration seated on the die. The software then calculates the gap. This approach is widely used in research on milled and printed restorations, including printed endocrowns [18].
-- **Chairside intraoral-scanner methods.** In a clinical trial, an intraoral-scanner-based method of measuring internal fit gave results no different from those of a laboratory digital replica method or the conventional silicone replica technique [19].
+- **The triple-scan method.** Scan the die, the intaglio surface of the restoration and the restoration seated on the die. The software then calculates the gap. This approach is used in research on milled and printed restorations, for example on resin-based endocrowns [18] and implant crowns [17].
+- **Chairside intraoral-scanner methods.** In a clinical trial on 30 crown preparations, an intraoral-scanner-based method of measuring the internal fit of CAD/CAM measurement copings gave results no different from those of a laboratory digital replica method or the conventional silicone replica technique [19].
 
 ### 12.6.3 Physical fit checks
 
@@ -180,11 +180,11 @@ Digital methods measure the gap three-dimensionally without destroying the resto
 
 ### 12.6.4 Interpreting the numbers
 
-The method used to measure fit strongly affects the value obtained (Chapter 3). A review of 183 fit studies found wide variation in reported gaps between methods and protocols [20]. The same laser-melted RPD frameworks measured a 13.9 µm mean gap with the clinical replica method and a 70.7 µm RMS gap with digital registration [21]. For implant frameworks, no single method fully captures passive fit, and combining techniques is recommended [22].
+The method used to measure fit strongly affects the value obtained (Chapter 3). A review of 183 fit studies found that the direct-view technique (47.5%), cross-sectioning (23.5%) and impression replica (20.2%) were the most used methods, and reported gaps varied with method and protocol [20]. The same laser-melted removable partial denture (RPD) frameworks measured a 13.9 µm mean gap with the clinical replica method and a 70.7 µm RMS gap with digital registration [21]. For implant fixed prostheses, the available techniques assess different parameters, so combining several techniques is useful [22].
 
 ![Bar chart comparing replica and digital fit values for the same frameworks](../figures/fig-12-3-fit-method-dependence.svg)
 
-**Figure 12.3** One set of frameworks, two numbers. The same laser-melted RPD frameworks measured a 13.9 µm mean gap with the silicone replica method and a 70.7 µm RMS gap with digital registration. Both were clinically acceptable; the difference reflects the method and the metric. Data from [21].
+**Figure 12.3** One set of frameworks, two numbers. The same laser-melted RPD frameworks measured a 13.9 µm mean gap with the silicone replica method and a 70.7 µm RMS gap with digital registration in an in vitro study. Both were below the 300 µm clinically acceptable standard; the difference most likely reflects the method (and the metric, mean versus RMS). Data from [21].
 
 When you compare your own results over time or between suppliers, use **the same method each time**.
 
@@ -194,7 +194,7 @@ When you compare your own results over time or between suppliers, use **the same
 
 ### 12.7.1 Edge chipping from milling
 
-Brittle CAD/CAM materials chip at thin edges during milling. In a study of five materials milled into bars, edge chipping depended on **material type, milling surface and edge location**. Chipping on the tensile side correlated strongly with a **reduction in flexural strength** [2]. Polymer-containing materials were easier to machine and showed less edge chipping than glass-ceramics [23].
+Brittle CAD/CAM materials chip at thin edges during milling. In a study of five materials milled into bars, edge chipping depended on **material type, milling surface and edge location**. Chipping on the tensile side correlated strongly with a **reduction in flexural strength** [2]. In another in vitro study, two polymer-containing materials were easier to machine and showed less edge chipping than two ceramic-based materials [23].
 
 Prevention: adequate margin thickness in the design, edge reinforcement settings where the software offers them, sharp burs replaced on schedule, and suitable milling strategies (Chapters 7 and 10).
 
@@ -210,7 +210,7 @@ Prevention: adequate margin thickness in the design, edge reinforcement settings
 | Proximal contacts too tight or open | Contact setting; polishing or glazing changed the contour; model inaccuracy [17] | Adjust and repolish; add contact with glaze or ceramic correction firing if open; calibrate contact settings |
 | Occlusion high | Bite record error; design in contact rather than slightly out of contact (Chapter 7) | Adjust in the mouth after bonding where the material allows; polish [8,12–14]; review bite scan |
 | Shade too light, dark or opaque | Wrong block or blank shade; substrate not considered; nesting position in a multilayer blank; speed sintering effect on translucency [3,4] | Characterise with stain; choose a new blank or shade; record stump shade |
-| Surface rough after adjustment | Adjustment without polishing | Polish with a material-specific sequence [9,10,15] |
+| Surface rough after adjustment | Adjustment without polishing | Polish with a validated polishing sequence; kits differ [9,10,15] |
 | Distorted long-span zirconia | Inadequate sintering support; wrong programme | Use the specified sintering supports and programme; check fit on a verified model |
 | Fracture before or at try-in | Thin areas; handling in the pre-sintered or pre-crystallised state; milling damage [2] | Check thickness maps; handle green-state restorations carefully; remake |
 | Printed parts warped or tacky | Incomplete washing or post-curing; wrong orientation (Chapter 11) | Follow the validated post-processing protocol |
@@ -243,11 +243,11 @@ Quality control in a CAD/CAM unit does not need to be complicated, but it must b
 
 - Post-processing (sintering, crystallisation, post-curing, characterisation and finishing) is part of manufacturing. It changes **fit**, **strength** and **appearance** [1,3–5].
 - **Fast sintering** of zirconia gives broadly similar mechanical and fit results in vitro, but may reduce translucency of 3Y-TZP and strength reliability. Use only validated programmes [3–6].
-- Put colour **inside** the restoration where possible. Extrinsic stains survived simulated brushing within acceptability thresholds in vitro [7].
-- **Polishing** can match glazing for smoothness and strength [8–10], and polished surfaces cause **less wear of opposing enamel** than glazed ones [11].
-- After adjusting **zirconia**, **polish** rather than re-glaze. Re-glazing after grinding reduced strength in vitro, and polishing did not [12–16].
+- Put colour **inside** the restoration where possible. Extrinsic stains on 3Y-TZP stayed within perceptibility and acceptability thresholds after about one year of simulated brushing in one in vitro study [7].
+- **Polishing** can match glazing for smoothness [8,9] and strength [8], but polishing kits differ [9,10]; and polished surfaces caused **less wear of opposing enamel** than glazed ones in an umbrella review of four systematic reviews [11].
+- After adjusting **zirconia**, **polish** rather than re-glaze. Polishing restored smoothness [12,15,16], and in vitro it kept the strength of ground specimens, whereas re-glazing lowered it in one study [13] and did not differ from polishing in another [14].
 - Check fit **after final heat treatment**, on the model and in the mouth. Interpret fit values in the light of the **method** used [17–22].
-- Edge chipping from milling depends on material and design, and weakens the restoration [2,23].
+- Edge chipping from milling depends on the material, the milling surface and the edge location, and was strongly correlated with lower flexural strength in milled bars in vitro [2,23].
 - Quality control should be systematic: inspect, verify, record and review.
 
 ---
@@ -261,7 +261,7 @@ Quality control in a CAD/CAM unit does not need to be complicated, but it must b
 5. A monolithic zirconia crown has been adjusted occlusally at try-in. Describe how you would refinish it, and explain why you might avoid re-glazing.
 6. Describe the triple-scan method of measuring fit. What are its advantages over cross-sectioning?
 7. A milled glass-ceramic onlay arrives with a chipped margin. List possible causes and how you would prevent a recurrence.
-8. Design a weekly and monthly quality-control routine for a chairside CAD/CAM unit.
+8. Design a quality-control routine for a chairside CAD/CAM unit: checks for every restoration, regular checks, and checks after a change.
 
 ---
 

@@ -1,32 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
   <title>From machine to mouth: the post-manufacturing steps</title>
-  <desc>Five sequential stages after milling or printing: removal of sprues and supports; heat treatment (sintering, crystallisation or post-curing); characterisation; surface finishing by glazing or polishing; and verification of fit, contacts, occlusion, shade and surface. A note marks that fit changes during firing, so fit is checked after final heat treatment.</desc>
+  <desc>Five sequential stages after milling or printing: removal of sprues and supports; heat treatment (sintering, crystallisation of lithium disilicate, or post-curing); characterisation; surface finishing by glazing or polishing; and verification of fit, contacts, occlusion, shade and surface. A note marks that fit changes during firing, so fit is checked after final heat treatment.</desc>
   <defs>
     <marker id="a12" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker>
   </defs>
   <rect width="800" height="300" fill="#ffffff"/>
   <g font-size="14" fill="#0b0b0b">
-    <g transform="translate(10,40)"><rect width="140" height="120" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+    <g transform="translate(10,40)"><rect width="140" height="136" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
       <text x="12" y="26" font-weight="700">1 Sprues and</text><text x="12" y="44" font-weight="700">supports</text>
       <text x="12" y="70" font-size="12.5" fill="#52514e">Remove and</text><text x="12" y="87" font-size="12.5" fill="#52514e">smooth the</text><text x="12" y="104" font-size="12.5" fill="#52514e">attachment points</text></g>
-    <g transform="translate(168,40)"><rect width="140" height="120" rx="8" fill="#e6eef5" stroke="#1f5f8b" stroke-width="2"/>
+    <g transform="translate(168,40)"><rect width="140" height="136" rx="8" fill="#e6eef5" stroke="#1f5f8b" stroke-width="2"/>
       <text x="12" y="26" font-weight="700">2 Heat</text><text x="12" y="44" font-weight="700">treatment</text>
-      <text x="12" y="70" font-size="12.5" fill="#52514e">Sintering (zirconia)</text><text x="12" y="87" font-size="12.5" fill="#52514e">Crystallisation (LS2)</text><text x="12" y="104" font-size="12.5" fill="#52514e">Post-curing (resins)</text></g>
-    <g transform="translate(326,40)"><rect width="140" height="120" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+      <text x="12" y="70" font-size="12.5" fill="#52514e">Sintering (zirconia)</text><text x="12" y="87" font-size="12.5" fill="#52514e">Crystallisation</text><text x="12" y="104" font-size="12.5" fill="#52514e">(lithium disilicate)</text><text x="12" y="121" font-size="12.5" fill="#52514e">Post-curing (resins)</text></g>
+    <g transform="translate(326,40)"><rect width="140" height="136" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
       <text x="12" y="26" font-weight="700">3 Character-</text><text x="12" y="44" font-weight="700">isation</text>
       <text x="12" y="70" font-size="12.5" fill="#52514e">Polychromatic blank,</text><text x="12" y="87" font-size="12.5" fill="#52514e">stains, or cut-back</text><text x="12" y="104" font-size="12.5" fill="#52514e">and layering</text></g>
-    <g transform="translate(484,40)"><rect width="140" height="120" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
+    <g transform="translate(484,40)"><rect width="140" height="136" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
       <text x="12" y="26" font-weight="700">4 Surface</text><text x="12" y="44" font-weight="700">finishing</text>
       <text x="12" y="70" font-size="12.5" fill="#52514e">Glazing or</text><text x="12" y="87" font-size="12.5" fill="#52514e">mechanical</text><text x="12" y="104" font-size="12.5" fill="#52514e">polishing</text></g>
-    <g transform="translate(642,40)"><rect width="148" height="120" rx="8" fill="#ffffff" stroke="#1baf7a" stroke-width="2"/>
+    <g transform="translate(642,40)"><rect width="148" height="136" rx="8" fill="#ffffff" stroke="#1baf7a" stroke-width="2"/>
       <text x="12" y="26" font-weight="700">5 Verification</text>
       <text x="12" y="52" font-size="12.5" fill="#52514e">Fit, contacts,</text><text x="12" y="69" font-size="12.5" fill="#52514e">occlusion, shade,</text><text x="12" y="86" font-size="12.5" fill="#52514e">surface quality</text></g>
   </g>
   <g stroke="#52514e" stroke-width="2" marker-end="url(#a12)">
-    <line x1="150" y1="100" x2="164" y2="100"/><line x1="308" y1="100" x2="322" y2="100"/><line x1="466" y1="100" x2="480" y2="100"/><line x1="624" y1="100" x2="638" y2="100"/>
+    <line x1="150" y1="108" x2="164" y2="108"/><line x1="308" y1="108" x2="322" y2="108"/><line x1="466" y1="108" x2="480" y2="108"/><line x1="624" y1="108" x2="638" y2="108"/>
   </g>
   <!-- note linking heat treatment and verification -->
-  <path d="M238,160 L238,205 L716,205 L716,164" fill="none" stroke="#1f5f8b" stroke-width="1.5" stroke-dasharray="5 4" marker-end="url(#a12)"/>
+  <path d="M238,176 L238,205 L716,205 L716,180" fill="none" stroke="#1f5f8b" stroke-width="1.5" stroke-dasharray="5 4" marker-end="url(#a12)"/>
   <rect x="300" y="190" width="350" height="30" rx="6" fill="#ffffff" stroke="#1f5f8b" stroke-width="1.2"/>
   <text x="475" y="210" text-anchor="middle" font-size="13" fill="#0b0b0b">Fit changes during firing: check fit after it</text>
   <text x="10" y="262" font-size="12.5" fill="#52514e">Every step can improve the restoration or spoil it. Steps 2–4 depend on the material (Table 12.1).</text>

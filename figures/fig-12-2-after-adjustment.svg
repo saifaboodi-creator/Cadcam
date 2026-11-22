@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 530" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
   <title>Refinishing a restoration after chairside adjustment</title>
-  <desc>Decision flow. Adjust with fine-grit diamonds under water spray. Then polish with the sequence specified for the material: zirconia, glass-ceramic or resin-based. Check the surface under magnification. Re-glaze only if required for aesthetics; for zirconia, re-glazing after grinding may reduce strength, whereas polishing did not in the cited studies.</desc>
+  <desc>Decision flow. Adjust with fine-grit diamonds under water spray. Then polish with a validated sequence, usually the one specified for the material: zirconia, glass-ceramic or resin-based. Check the surface under magnification. Re-glaze only if required for aesthetics; for zirconia, polishing kept the strength of ground specimens and re-glazing lowered it in one in vitro study, while in another polished and re-glazed specimens did not differ.</desc>
   <defs>
     <marker id="a12b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker>
   </defs>
-  <rect width="800" height="470" fill="#ffffff"/>
+  <rect width="800" height="530" fill="#ffffff"/>
   <g font-size="14" fill="#0b0b0b">
     <rect x="240" y="20" width="320" height="52" rx="8" fill="#f3f7fa" stroke="#52514e" stroke-width="1.5"/>
     <text x="400" y="42" text-anchor="middle" font-weight="700">Adjust contacts or occlusion</text>
@@ -31,11 +31,14 @@
     <text x="400" y="417" text-anchor="middle" font-weight="700">Re-glaze only if aesthetics require it</text>
     <text x="400" y="436" text-anchor="middle" font-size="12.5" fill="#52514e">otherwise the polished surface is final</text>
     <!-- zirconia warning note -->
-    <rect x="20" y="380" width="200" height="74" rx="6" fill="#ffffff" stroke="#eb6834" stroke-width="1.5"/>
-    <text x="30" y="400" font-size="12.5" font-weight="700" fill="#0b0b0b">Zirconia:</text>
-    <text x="30" y="418" font-size="12.5" fill="#52514e">glazing after grinding</text>
-    <text x="30" y="434" font-size="12.5" fill="#52514e">reduced strength; polishing</text>
-    <text x="30" y="450" font-size="12.5" fill="#52514e">did not [13,14]</text>
+    <rect x="20" y="380" width="210" height="134" rx="6" fill="#ffffff" stroke="#eb6834" stroke-width="1.5"/>
+    <text x="30" y="400" font-size="12.5" font-weight="700" fill="#0b0b0b">Zirconia (in vitro):</text>
+    <text x="30" y="418" font-size="12.5" fill="#52514e">polishing kept the strength</text>
+    <text x="30" y="434" font-size="12.5" fill="#52514e">of ground specimens, and</text>
+    <text x="30" y="450" font-size="12.5" fill="#52514e">re-glazing lowered it [13];</text>
+    <text x="30" y="466" font-size="12.5" fill="#52514e">in another study, polished</text>
+    <text x="30" y="482" font-size="12.5" fill="#52514e">and re-glazed specimens</text>
+    <text x="30" y="498" font-size="12.5" fill="#52514e">did not differ [14]</text>
   </g>
   <g stroke="#52514e" stroke-width="2" fill="none" marker-end="url(#a12b)">
     <line x1="400" y1="72" x2="400" y2="96"/>
@@ -47,5 +50,5 @@
     <path d="M665,293 L665,310 L470,310 L470,318"/>
     <line x1="400" y1="366" x2="400" y2="390"/>
   </g>
-  <line x1="220" y1="417" x2="238" y2="417" stroke="#eb6834" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <line x1="230" y1="417" x2="238" y2="417" stroke="#eb6834" stroke-width="1.5" stroke-dasharray="4 3"/>
 </svg>
