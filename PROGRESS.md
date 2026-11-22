@@ -46,6 +46,9 @@ Resume point for any new session. Update after every chapter.
 - Chapter 8 survival data updated to Pjetursson 2026 (author request).
 
 ## Independent reviews
+- **All 20 chapters reviewed (2026-11-22).** Reports in `reviews/NN-review.md`: 540 confirmed findings (1 critical, 85 major, 454 minor). Ch 16 is applied (Draft 2); Ch 1–15 and 17–20 await the author's Y/N in each review file, then `/apply-review NN`.
+- Method: Ch 6–20 (and 16) used three independent checker subagents plus a separate filter subagent. Ch 1–5 were reviewed by one agent running the three checks and the filter as separate passes (subagents were not available to it); the reports say so.
+- Critical: Ch 11 says printed zirconia/ceramics have no clinical data, but a 12-month RCT exists (Cai F et al. J Dent. 2025;162:106069; PMID 40885299), verified on PubMed.
 - **Ch 16** (2026-11-22): 30 confirmed findings (5 major, 25 minor), all approved and applied; refs 21 → 21; UNVERIFIED unchanged (1). Figure 16.3 labels updated. PDF saved to Google Drive (Cadcam folder) as `CADCAM-in-Dentistry-vs4.pdf` (221 pages, 2.97 MB): https://drive.google.com/file/d/1UQUnqnDmgPAWtcy3oD7pHKZV2Gka_FLx/view
 
 ## Quarterly literature updates
