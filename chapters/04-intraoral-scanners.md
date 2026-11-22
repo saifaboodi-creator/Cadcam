@@ -15,7 +15,7 @@ After reading this chapter, you should be able to:
 
 ## 4.1 From Impression Tray to Optical Impression
 
-An intraoral scanner (IOS) replaces the impression tray, the elastomer and the stone cast with a handheld optical device and a computer. The clinician moves the scanner wand over the teeth and soft tissues. Thousands of images are captured and converted into a 3D surface while the clinician watches it build on screen [1,2].
+An intraoral scanner (IOS) replaces the impression tray, the elastomer and the stone cast with a handheld optical device and a computer. The clinician moves the scanner wand over the teeth and soft tissues. Many images are captured and converted into a 3D surface while the clinician watches it build on screen [1,2].
 
 The basic idea has hardly changed since the first chairside camera of the 1980s (Chapter 1). Almost everything else has: wand size, speed, colour capture, powder-free scanning, software intelligence and the range of indications. Recent reviews describe the modern scanner as a **platform** rather than an impression device. It supports diagnosis, patient communication, monitoring and treatment planning as well as CAD/CAM [3].
 
@@ -49,7 +49,7 @@ The main principles in use are summarised in Table 4.1 [1,4] **[UNVERIFIED]**. M
 
 Scanners capture data either as a series of **single images** or as a **continuous video stream**. Each frame covers only a few millimetres of tooth, so the software **registers** (aligns) each new frame to the existing model using overlapping geometry and, in colour scanners, texture. Registration errors accumulate as the scan extends, which is why complete-arch scans are less accurate than short-span scans (Chapter 3).
 
-Scanners also differ in how evenly they triangulate the surface and how much detail they keep at the finish line [6]. In one study that compared seven scanners, overall accuracy was similar between devices. The **distinctness** and accuracy of the finish line, however, varied considerably, especially for subgingival margins [6].
+Scanners also differ in how evenly they triangulate the surface and how much detail they keep at the finish line [6]. In an in vitro study of seven scanners, overall accuracy was comparable for all but one device, but the **distinctness** and accuracy of the finish line varied substantially, especially for subgingival margins [6].
 
 ### 4.2.3 Powder
 
@@ -64,13 +64,13 @@ Early scanners needed a thin coat of titanium dioxide powder to create an even, 
 | Feature | Why it matters |
 |---|---|
 | **Tip size and weight** | Access to second molars and limited mouth opening; operator fatigue |
-| **Powder-free, colour capture** | Speed and patient comfort; colour helps identify the margin [6] |
+| **Powder-free, colour capture** | Speed and patient comfort; in some scanners colour helps identify the margin [6] |
 | **Scanning speed and software stitching** | Shorter scan time; complete-arch scan time correlates with accuracy [8] |
 | **Accuracy for your indications** | Devices differ, and the best device depends on the clinical scenario [9] |
 | **Open export** (STL, PLY, OBJ) | Freedom to choose laboratories and software (Chapter 2) [3] |
 | **Implant libraries and scan-body support** | Essential for implant workflows |
 | **Diagnostic tools** (near-infrared imaging, fluorescence, shade measurement, monitoring) | Adds value beyond impressions [3] |
-| **Tip reprocessing** (autoclavable or disposable tips) | Infection control and running costs [10] |
+| **Tip reprocessing** (autoclavable or disposable tips) | Infection control and running costs; the reprocessing method determines the tip's optical characteristics and long-term use [10] |
 | **Wired or wireless; cart or laptop** | Mobility between surgeries |
 | **Licence and subscription model** | Total cost of ownership; ongoing fees for software and export |
 | **Integration** with practice management and patient records | Data storage, identification and workflow [3] |
@@ -86,9 +86,9 @@ Clinicians should be sceptical of manufacturer "accuracy" claims, which are usua
 Optical scanners are sensitive to ambient light:
 
 - In vitro, trueness was best at 500 lux and a warm colour temperature (3,900 K), close to typical clinical room lighting. Very bright light (2,500 lux) lengthened scanning time [11].
-- In another study, lighting conditions significantly affected the **mesh quality** of different scanners, and scanning in complete darkness gave the lowest mesh quality [12].
+- In another in vitro study, lighting conditions significantly affected the **mesh quality** of different scanners, and scanning in complete darkness gave the lowest mesh quality [12].
 
-> **Clinical Tip.** Turn the operating light away from the mouth (or switch it off) while scanning, but keep normal room lighting. Do not scan in the dark or under the full operating light.
+> **Clinical Tip.** Turn the operating light away from the mouth (or switch it off) while scanning, but keep normal room lighting. Do not scan in the dark or under the full operating light. (Practical advice extrapolated from in vitro studies [11,12]; the effect of the operating light varied between scanners [12].)
 
 ### 4.4.2 Moisture, saliva and blood
 
@@ -96,7 +96,7 @@ Saliva, blood and crevicular fluid reflect and scatter light and hide the margin
 
 ### 4.4.3 Interproximal access
 
-Narrow proximal spaces limit the scanner's view into the box. For Class II inlay preparations, trueness improved significantly as the distance to the adjacent tooth increased from 0.6 to 1.0 mm [14]. Prepare with adequate proximal clearance where the restoration allows it, and angle the wand to look into the box from buccal, lingual and occlusal directions.
+Narrow proximal spaces limit the scanner's view into the box. In an in vitro study with one scanner, trueness for Class II inlay preparations improved significantly as the distance to the adjacent tooth increased from 0.6 to 1.0 mm [14]. Prepare with adequate proximal clearance where the restoration allows it, and angle the wand to look into the box from buccal, lingual and occlusal directions.
 
 ---
 
@@ -113,12 +113,12 @@ The software stitches new images to existing ones, so the **order** and **contin
 
 ### 4.5.2 Evidence
 
-- In a complete-arch study, three strategies gave similar trueness (about 17–27 µm). Precision, however, was significantly worse when the buccal surfaces were scanned first and the occlusal-palatal surfaces on the return (35.0 µm). It was better when the occlusal-palatal surfaces were scanned first and the buccal on the return (7.9 µm), or with a one-way S-shaped path (8.5 µm). The authors recommended scanning occlusal-palatal first and then buccal [15] (Figure 4.1).
+- In an in vitro complete-arch study with one scanner (five scans per strategy on one model), three strategies gave similar trueness (about 17–27 µm). Precision, however, was significantly worse when the buccal surfaces were scanned first and the occlusal-palatal surfaces on the return (35.0 µm). It was better when the occlusal-palatal surfaces were scanned first and the buccal on the return (7.9 µm), or with a one-way S-shaped path (8.5 µm). The authors recommended scanning occlusal-palatal first and then buccal [15] (Figure 4.1).
 
 ![Bar chart of complete-arch precision for three scanning strategies](../figures/fig-04-1-scan-strategy.svg)
 
 **Figure 4.1** Precision of complete-arch scans with three scanning strategies, using one scanner in vitro. Lower values mean better precision. Data from [15].
-- A second study of four scanners and four strategies found that the best strategy differed between devices. For most scanners the differences were not significant, suggesting that current devices tolerate variations in strategy reasonably well [16].
+- A second in vitro study of four scanners and four strategies found that the best strategy differed between devices. For most scanners the differences were not significant, suggesting that current devices tolerate variations in strategy reasonably well [16].
 
 The practical conclusion is to **follow the manufacturer's recommended strategy for your device**, apply it consistently, and adapt it only when access requires.
 
@@ -143,13 +143,13 @@ Scan only what the restoration needs, plus enough neighbouring teeth for contact
 The scanner records only what it can see. Unlike elastomeric impression materials, light cannot push the gingiva aside or flow into the sulcus.
 
 - In an in vitro study, finish lines placed 0.5 and 1.0 mm subgingivally showed greater vertical and horizontal discrepancies than equigingival margins, even with a single-cord retraction technique. The authors concluded that subgingival finish lines were not captured accurately [13].
-- In another study, internal trueness and marginal fit of crowns made from scans got worse as the finish line was placed deeper, when **no retraction** was used. At 1.0 mm depth, the marginal fit was 189 µm, beyond the usual acceptable range. With retraction cord, accuracy stayed stable at every depth, and the marginal fit at 1.0 mm was 95 µm [17] (Figure 4.2).
+- In another in vitro study with one scanner, the internal trueness and marginal fit of 3D-printed interim crowns made from scans got worse as the finish line was placed deeper, when **no retraction** was used. At 1.0 mm depth, the marginal fit was 189 µm, beyond the usual acceptable range. With retraction cord, accuracy stayed stable at every depth, and the marginal fit at 1.0 mm was 95 µm [17] (Figure 4.2).
 
 ![Bar chart of marginal fit with and without retraction at a 1 mm subgingival margin](../figures/fig-04-2-retraction.svg)
 
 **Figure 4.2** Marginal fit of interim crowns made from scans of a finish line 1.0 mm below the gingival crest, with and without retraction cord (in vitro). Data from [17].
 - Scanners differ considerably in how distinctly and accurately they show subgingival finish lines [6].
-- Narrative reviews list difficulty with deep margins and bleeding as a main limitation of intraoral scanning [2,3].
+- A narrative review lists difficulty with deep margins and bleeding as a limitation of intraoral scanning [2].
 
 > **Clinical Tip.** Place margins equigingivally or supragingivally whenever aesthetics and the extent of the lesion allow. When a margin must be subgingival, use retraction (single or double cord, or a retraction paste), control bleeding, and scan the margin **immediately** after removing the cord, before the tissue rebounds and fluid returns. If the margin cannot be seen clearly on screen, a conventional impression of that preparation may still be the better choice.
 
@@ -181,15 +181,15 @@ Its main recommendations were [18]:
 
 - Most studies found **no difference** in MIP accuracy between half-arch and complete-arch scans.
 - **Two or more missing teeth** in an area reduce MIP accuracy.
-- For **complete-arch** scans, use either a bilateral and frontal record including 2 teeth each, or a bilateral posterior record including at least 4 teeth.
+- For **complete-arch** scans, use either a bilateral and frontal record including 2 teeth, or a bilateral posterior record including at least 4 teeth.
 - For **half-arch** scans, use a posterior record including at least 4 teeth.
-- Greater occlusal force during the record produced a smaller average interocclusal space.
+- In the one study that assessed it, greater occlusal force produced a smaller average interocclusal space.
 
 Figure 4.3 shows the recommended record locations.
 
 ![Three dental arches showing where buccal bite records should be taken](../figures/fig-04-3-bite-records.svg)
 
-**Figure 4.3** Recommended locations for digital bite records, following the systematic review in [18]. Schematic occlusal views; the shaded teeth are covered by the buccal bite scans.
+**Figure 4.3** Recommended locations for digital bite records, following the systematic review in [18]. Schematic occlusal views; the shaded teeth are covered by the buccal bite scans. The number of teeth drawn in each record is one reading of the review's wording, which does not say whether the counts apply per record or in total **[UNVERIFIED]**.
 
 > **Lab Note.** If the bite alignment looks wrong, for example with heavy penetration of the opposing teeth into each other or no contacts at all, ask for a new bite scan rather than adjusting the occlusion in the design software. Penetrations in a digital bite are usually record errors, not real contacts.
 
@@ -204,10 +204,9 @@ A buccal scan records only one static position. Recording excursive movements an
 For short-span tooth-supported restorations and single implants, the evidence consistently favours scanning for comfort and time:
 
 - In a randomised trial of single crowns and FDPs up to six units, total procedure time was shorter with digital impressions (about 14.5 versus 20.7 minutes). Dentists found the digital technique less difficult, and patients reported far less discomfort (VAS 6.5 versus 44.9 out of 100). Occlusal contacts of the final restorations were better in the digital group [19].
-- In a crossover study, patients rated digital impressions as more comfortable than polyether impressions, and the digital technique was more time-efficient [20].
-- For single implant impressions, every patient in a randomised crossover trial said they would prefer the digital workflow in future [21].
+- For single implant impressions, every patient in a randomised crossover trial said they would prefer the digital workflow in future [20].
 
-For complete-arch impressions with earlier powder-based scanners, conventional impressions were faster and clinicians preferred them [7]. That difference has narrowed with faster, powder-free devices, but complete arches still need more time and skill than short spans.
+For complete-arch impressions the evidence is mixed. In a randomised trial with three earlier scanners, two of which needed powder, conventional impressions took less time and clinicians preferred them [7]. In a study of 24 participants who had conventional polyether impressions of both arches and, two weeks later, digital scans with a powder-free scanner, patients rated the digital impressions as more comfortable and the digital technique was more time-efficient [21].
 
 ---
 
@@ -216,8 +215,8 @@ For complete-arch impressions with earlier powder-based scanners, conventional i
 Scanning is a psychomotor skill. A systematic review with meta-analysis found that [22]:
 
 - inexperienced operators achieved slightly lower trueness, took longer to scan (about 41 seconds more) and gave patients a less satisfying experience than experienced operators;
-- training sessions improved trueness (by about 19 µm) and shortened scanning time (by about 76 seconds);
-- inexperienced operators gained more from training than experienced ones.
+- training was associated with better trueness in in vitro studies (by about 19 µm), no change in precision, and shorter scanning time in clinical trials (by about 76 seconds);
+- the gain in scanning time was greater for inexperienced operators.
 
 The certainty of this evidence was low to very low [22]. It still supports structured training on models before clinical use, and supervised early cases, for dentists and for any assistants who scan.
 
@@ -235,11 +234,11 @@ Some scanners capture **near-infrared (NIR)** images alongside the 3D surface. E
 - A narrative review concluded that NIR imaging is promising but less reliable for secondary and subgingival caries [26].
 - A systematic review and meta-analysis of 22 studies found **moderate** diagnostic accuracy for IOS-assisted caries detection. In the clinical studies, pooled sensitivity was 0.61 and specificity 0.94. Sensitivity was higher on occlusal than on approximal surfaces, and performance did not differ significantly from conventional diagnostic methods. The authors judged sensitivity too low for caries screening, but saw a role in monitoring early lesions [27].
 
-> **Evidence Box.** NIR caries detection is an **adjunct**, not a replacement for clinical examination and radiography. Its high sensitivity for early lesions can produce false positives, which could lead to overtreatment if findings are not interpreted cautiously and confirmed.
+> **Evidence Box.** NIR caries detection is an **adjunct**, not a replacement for clinical examination and radiography. In one multicentre study it flagged more than twice as many proximal lesions as bitewings [23], but pooled clinical sensitivity was only moderate (0.61) [27]. Findings should be confirmed before any operative treatment, to avoid overtreatment.
 
 ### 4.10.2 Monitoring
 
-Because scans are cheap to repeat and easy to superimpose, scanners can **quantitatively monitor** tooth wear, gingival recession, soft-tissue volume and tooth movement over time [3]. Software can also segment teeth automatically, increasingly using deep neural networks, which supports orthodontic planning [3].
+Because scans are cheap to repeat and easy to superimpose, scanners can **quantitatively monitor** tooth wear and soft-tissue dimensions over time [3]. Software can also segment teeth automatically, increasingly using deep neural networks, which supports orthodontic planning [3].
 
 ### 4.10.3 Communication and documentation
 
@@ -249,9 +248,9 @@ A colour 3D model shown to the patient on screen is a powerful communication too
 
 ## 4.11 Infection Control and Maintenance
 
-Digital impressions remove the need to disinfect and transport impressions and casts. The scanner itself, however, becomes a shared device that contacts mucosa, saliva and sometimes blood [10]:
+Digital impressions remove the need to disinfect and transport impressions and casts. The scanner itself, however, becomes a shared device that contacts mucosa, saliva and sometimes blood:
 
-- Reprocess **tips** exactly as the manufacturer instructs (autoclave, high-level disinfection or single use). Inappropriate methods can damage the optical windows and mirrors and reduce scan quality [10].
+- Reprocess **tips** exactly as the manufacturer instructs (autoclave, high-level disinfection or single use); the reprocessing method determines the tip's optical characteristics and long-term use [10].
 - Disinfect the **wand body, cable and touchscreen** between patients with a compatible disinfectant, and use barrier sleeves where recommended.
 - Check calibration regularly with the manufacturer's calibration tool, and after any drop or impact.
 - Keep the optical window clean and free of scratches.
@@ -266,27 +265,27 @@ The guidance manufacturers provide on tip reprocessing is often limited [10]. Pr
 
 | Situation | Suitability | Key points |
 |---|---|---|
-| Inlays, onlays, veneers, single crowns | **Well supported** | Accuracy equivalent to conventional impressions; faster; preferred by patients [19,28] |
-| Short-span FDPs (3–4 units) | **Well supported** | Clinically acceptable fit [28] |
-| Single implants and short-span implant FDPs | **Well supported** | Clinically acceptable; preferred by patients [21,28] |
-| Complete-arch, tooth-supported | **Use with caution** | Error accumulates; varies by device; conventional still recommended by systematic review [9,28] |
+| Inlays, onlays, veneers, single crowns | **Well supported** | Accuracy equivalent to conventional impressions for crowns [28]; faster and far less discomfort for patients [19] |
+| Short-span FDPs | **Well supported** | Accuracy at the same level as conventional impressions [28] |
+| Single implants and short-span implant FDPs | **Well supported** | Clinically acceptable; preferred by patients [20,28] |
+| Complete-arch, tooth-supported | **Use with caution** | Error accumulates; varies by device [9]; a 2018 systematic review still recommended conventional impressions [28] |
 | Complete-arch implant frameworks | **Use with verification** | Linear and angular error may exceed passive-fit limits; consider splinting, photogrammetry and a verification jig (Chapter 3) |
 | Deep subgingival margins, bleeding | **Limited** | Retraction essential; consider a conventional impression [13,17] |
 | Edentulous ridges, mobile mucosa | **Limited** | Few landmarks; soft-tissue displacement not recorded (Chapter 18) |
-| Orthodontics, splints, monitoring | **Well suited** | Accuracy needs are lower; strong documentation value [3] |
+| Orthodontics, splints, monitoring | **Well suited** | Used for orthodontic planning and for monitoring tooth wear and soft tissues [3] |
 
 ---
 
 ## Key Points
 
-- Intraoral scanners project light, measure distance with confocal, triangulation, wavefront or stereo principles, and **stitch** thousands of images into a 3D model [1,4]. Stitching error grows with scan length.
-- Devices differ in overall accuracy and especially in how clearly they capture the **finish line** [6,9]. Choose a device using independent evidence and your own indications.
-- Use **moderate room lighting**, not darkness and not the operating light [11,12]. Keep the field dry: saliva and blood degrade accuracy, especially at subgingival margins [13].
-- Follow a **consistent, manufacturer-recommended scanning strategy**. Scanning occlusal-palatal first and buccal on the return has been shown to improve precision for at least one device [15,16].
-- **Retraction is essential** for subgingival margins [13,17]. Place margins supragingivally where possible, and scan the preparation first.
+- Intraoral scanners project light, measure distance using one or more optical principles (Table 4.1) [1,4] **[UNVERIFIED]**, and **stitch** many images into a 3D model. Stitching error grows with scan length.
+- Devices differ in complete-arch accuracy [9] and especially in how clearly they capture the **finish line** [6]. Choose a device using independent evidence and your own indications.
+- Do not scan in darkness, which gave the lowest mesh quality [12]. In vitro, trueness was best at 500 lux and 3,900 K, and very bright light (2,500 lux) lengthened scanning time [11]. Keep the field dry: in vitro, saliva reduced scanning trueness, especially at subgingival margins [13].
+- Follow a **consistent, manufacturer-recommended scanning strategy**. Scanning occlusal-palatal first and buccal on the return improved precision for one scanner in vitro [15]; in another study, most scanners tolerated different strategies [16].
+- Use **retraction** for subgingival margins; in vitro it kept fit stable at depths up to 1 mm [17], although subgingival margins were still captured less accurately than equigingival ones [13]. Place margins supragingivally where possible, and scan the preparation first.
 - For the digital bite, use **bilateral records covering at least 4 posterior teeth** (or bilateral plus frontal records). Edentulous areas reduce accuracy [18].
-- Patients prefer scanning, and it is faster for short spans [19–21]. **Training** improves accuracy and speed [22].
-- Scanners are now diagnostic platforms. **Near-infrared caries detection** is a promising adjunct but not a replacement for radiography [23–26].
+- Patients find scanning more comfortable, and it is faster for short spans [19,20]; for complete arches the evidence on time is mixed [7,21]. **Training** is associated with better scanning trueness and speed [22].
+- Scanners are now diagnostic platforms. **Near-infrared caries detection** is a promising adjunct but not a replacement for radiography [23–27].
 - Reprocess tips and disinfect the wand to **validated** protocols [10].
 
 ---
@@ -325,12 +324,12 @@ The guidance manufacturers provide on tip reprocessing is often limited [10]. Pr
 17. Son YT, Son K, Lee JM, Lee KB. Does intraoral scanning at the subgingival finish line affect the accuracy of interim crowns? J Funct Biomater. 2025;16(9):309. doi:10.3390/jfb16090309
 18. Revilla-León M, Barmak AB, Tohme H, Yilmaz B, Kois JC, Gómez-Polo M. Factors that influence the accuracy of maxillomandibular relationship at maximum intercuspation acquired by using intraoral scanners: a systematic review. J Dent. 2023;138:104718. doi:10.1016/j.jdent.2023.104718
 19. Gjelvold B, Chrcanovic BR, Korduner EK, Collin-Bagewitz I, Kisch J. Intraoral digital impression technique compared to conventional impression technique: a randomized clinical trial. J Prosthodont. 2016;25(4):282–7. doi:10.1111/jopr.12410
-20. Yuzbasioglu E, Kurt H, Turunc R, Bilir H. Comparison of digital and conventional impression techniques: evaluation of patients' perception, treatment comfort, effectiveness and clinical outcomes. BMC Oral Health. 2014;14:10. doi:10.1186/1472-6831-14-10
-21. Joda T, Brägger U. Patient-centered outcomes comparing digital and conventional implant impression procedures: a randomized crossover trial. Clin Oral Implants Res. 2016;27(12):e185–9. doi:10.1111/clr.12600
-22. Limones A, Morton D, Sallorenzo A, Lin WS, Sadid-Zadeh R, Phasuk K, et al. Impact of operator experience on intraoral digital scanning: a systematic review, meta-analysis, and meta-regression. J Prosthet Dent. 2026;135(2):297.e1–297.e13. doi:10.1016/j.prosdent.2025.09.008
+20. Joda T, Brägger U. Patient-centered outcomes comparing digital and conventional implant impression procedures: a randomized crossover trial. Clin Oral Implants Res. 2016;27(12):e185–9. doi:10.1111/clr.12600
+21. Yuzbasioglu E, Kurt H, Turunc R, Bilir H. Comparison of digital and conventional impression techniques: evaluation of patients' perception, treatment comfort, effectiveness and clinical outcomes. BMC Oral Health. 2014;14:10. doi:10.1186/1472-6831-14-10
+22. Limones A, Morton D, Sallorenzo A, Lin WS, Sadid-Zadeh R, Phasuk K, et al. Impact of operator experience on intraoral digital scanning: a systematic review, meta-analysis, and meta-regression. Report of the Committee on Research in Fixed Prosthodontics of the American Academy of Fixed Prosthodontics. J Prosthet Dent. 2026;135(2):297.e1–297.e13. doi:10.1016/j.prosdent.2025.09.008
 23. Metzger Z, Colson DG, Bown P, Weihard T, Baresel I, Nolting T. Reflected near-infrared light versus bite-wing radiography for the detection of proximal caries: a multicenter prospective clinical study conducted in private practices. J Dent. 2022;116:103861. doi:10.1016/j.jdent.2021.103861
 24. Kanar Ö, Tağtekin D, Korkut B. Accuracy of an intraoral scanner with near-infrared imaging feature in detection of interproximal caries of permanent teeth: an in vivo validation. J Esthet Restor Dent. 2024;36(6):845–57. doi:10.1111/jerd.13198
 25. Bittar A, Alkan E, Kanar Ö, Korkut B, Tağtekin D. Comparison of quantitative light-induced fluorescence and near-infrared intraoral scanner imaging for proximal caries across predefined ICCMS radiographic thresholds: a diagnostic accuracy study. BMC Oral Health. 2026;26(1). doi:10.1186/s12903-026-08559-1
 26. Lin WS, Alfaraj A, Lippert F, Yang CC. Performance of the caries diagnosis feature of intraoral scanners and near-infrared imaging technology — a narrative review. J Prosthodont. 2023;32(S2):114–24. doi:10.1111/jopr.13770
-27. Carvalho BKG, Nolden EL, Wenning AS, Szentes BL, Kói T, Agócs G, et al. Diagnostic accuracy of intraoral scanners in caries detection: a systematic review and meta-analysis. J Dent. 2026. Epub ahead of print. doi:10.1016/j.jdent.2026.107171
+27. Carvalho BKG, Nolden EL, Wenning AS, Szentes BL, Kói T, Agócs G, et al. Diagnostic accuracy of intraoral scanners in caries detection: a systematic review and meta-analysis. J Dent. 2026;107171. doi:10.1016/j.jdent.2026.107171
 28. Ahlholm P, Sipilä K, Vallittu P, Jakonen M, Kotiranta U. Digital versus conventional impressions in fixed prosthodontics: a review. J Prosthodont. 2018;27(1):35–41. doi:10.1111/jopr.12527
