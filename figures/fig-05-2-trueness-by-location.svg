@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
 <title>Laboratory scanner trueness by location on a crown preparation</title>
-<desc>Mean trueness across six laboratory scanners: about 20 micrometres on axial walls, 47 at the preparation margin and 56 at the bottom of the occlusal groove.</desc>
+<desc>Mean trueness across six laboratory scanners: about 20 micrometres on axial walls, 47 at the preparation margin and 56 at the centre of the occlusal groove.</desc>
 <rect width="800" height="250" fill="#ffffff"/>
 <line x1="330.0" y1="30" x2="330.0" y2="190" stroke="#52514e" stroke-width="1.5"/><text x="330.0" y="210" font-size="13" fill="#52514e" text-anchor="middle">0</text>
 <line x1="401.7" y1="30" x2="401.7" y2="190" stroke="#e5e7ea" stroke-width="1"/><text x="401.7" y="210" font-size="13" fill="#52514e" text-anchor="middle">10</text>
@@ -16,7 +16,7 @@
 <text x="318" y="116" font-size="14" fill="#0b0b0b" text-anchor="end">Preparation margin</text>
 <text x="674.8" y="116" font-size="14" font-weight="700" fill="#0b0b0b">47 µm</text>
 <path d="M330,145 H727.3 a4,4 0 0 1 4,4 V173 a4,4 0 0 1 -4,4 H330 Z" fill="#2a78d6"/>
-<text x="318" y="166" font-size="14" fill="#0b0b0b" text-anchor="end">Bottom of occlusal groove</text>
+<text x="318" y="166" font-size="14" fill="#0b0b0b" text-anchor="end">Centre of occlusal groove</text>
 <text x="739.3" y="166" font-size="14" font-weight="700" fill="#0b0b0b">56 µm</text>
 <text x="545" y="236" font-size="13" fill="#52514e" text-anchor="middle">Trueness (deviation from reference, µm); lower is better</text>
 </svg>
