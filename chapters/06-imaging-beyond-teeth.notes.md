@@ -2,7 +2,7 @@
 
 ## Summary
 - Word count: ~2,941 (body, excluding references).
-- References: 20 (checked on PubMed: title, authors, journal, DOI/PMID and abstract).
+- References: 21 (checked on PubMed: title, authors, journal, DOI/PMID and abstract).
 - UNVERIFIED items: 0 (listed below; **not** marked inline, because Chapters 1–9 were frozen by the author).
 - Notes written after the chapter was drafted, from the review comments given in chat at the time.
 
@@ -40,3 +40,30 @@ Search window 2026-10-01 to 2026-11-17 (PubMed, entry date). Full report: `updat
 - **References to check:** new ref 17 is online-first.
 - Figure 6.3 cites refs 4, 8, 9, 12, 13: unchanged by renumbering.
 - **Reference numbers changed.** `tools/renum.py` renumbered the list after the new reference was added. Reference numbers in the sections above this one use the **old** numbering. Old → new: 21→17, 17→18, 18→19, 19→20, 20→21. Unlisted numbers are unchanged.
+
+## Review 2026-11-22
+Applied all 22 findings from `reviews/06-review.md` (author: "approve all", 2026-11-22). Each source was re-confirmed on PubMed (abstract and metadata) before the text was changed. No references added or removed; `tools/renum.py` left the numbering unchanged (21 refs, all cited; no old → new map needed). No inline [UNVERIFIED] marks were needed.
+- **#1** 6.2.4 and Table 6.1 (surface-based row): "restoration artefacts reduced AI performance" removed; now states that the authors called for further development of AI segmentation for teeth with restoration artefacts [4]. The earlier note under "Figures and tables added" (Table 6.1 surface-based row) is superseded.
+- **#2** 6.3.3 closing paragraph and Key Points: lower-third divergence attributed to one smartphone photogrammetry app [9].
+- **#3** Evidence Box: facial-scan trueness 0.9–2 mm [8,9] separated from face–intraoral superimposition trueness 0.50–1.64 mm [12]. Table 6.3 cell qualified as trueness of facial scans and of superimposition. Figure 6.3 row label now "Facial scan / face–tooth superimposition" (two lines); alt text and SVG description updated.
+- **#4** 6.5.3: "DSD clearly improves communication and patient involvement" replaced with the cited, hedged result of the systematic review of seven heterogeneous studies [20].
+- **#5** 6.2.2: Pauwels study labelled as phantom dosimetry.
+- **#6** Figure 6.1 caption, SVG footer and Key Points: dose "strongly related to" field-of-view size (no longer "mainly"); caption says "Phantom data from [2]".
+- **#7** 6.2.4: "discrepancy for the AI-driven and manual segmentation methods", SD 0.11 mm added. Figure 6.3 caption explains that the CBCT bar is the range of discrepancies for the segmentation methods [4]; SVG description updated.
+- **#8** 6.2.4: "slightly"/"much" replaced with significance-based wording and the authors' judgement of comparable accuracy.
+- **#9** 6.2.4: mesh reduction now specific (cadaver maxillofacial defect models; 50% no deviation, 75% minor) [5].
+- **#10** Trueness terminology: 6.2.4, Key Points, Table 6.3 column heading ("Typical error (trueness where reported)").
+- **#11** 6.3.3 bullet 1: 10 participants, rear-camera app lowest accuracy but high realism [7]. Key Points rewritten (small validation studies; judicious use where fine detail is needed) [7,8].
+- **#12** 6.3.3 bullet 2: "advised judicious use … limited resolution and longer acquisition time" [8].
+- **#13** 6.3.4 and Key Points: markers "significantly affected" accuracy (10 registrations per condition); Key Points names marker-based matching with stereophotogrammetry [11].
+- **#14** 6.4.2: "electromagnetic tracking" removed; device list follows the ref 13 abstract.
+- **#15** 6.4.3: "A clinical report describes a digital workflow" (singular) [15].
+- **#16** 6.4.3: 34 reports broken down (29 SRs, 4 scoping reviews, 1 evidence map; 12 of 29 at high risk of bias); "more defensible than … absolute force" [17].
+- **#17** Figure 6.2 step 4: "ideally registered to a facial scan"; SVG description updated.
+- **#18** 6.5.2: general software gave a more comprehensive smile analysis than most dedicated DSD programs [19].
+- **#19** Key Points: artefacts can interfere with diagnosis [3] and with registration [6].
+- **#20** Key Points: DSD bullet hedged; ref 21 cited only for improved aesthetic parameters.
+- **#21** Ref 17: "J Dent. 2026 Oct 13:107107. doi:10.1016/j.jdent.2026.107107. Epub ahead of print." Add the volume when assigned.
+- **#22** Summary: reference count updated to 21.
+- Figures 6.1, 6.2 and 6.3 re-rendered and checked (geometry unchanged; labels fit; nothing clipped).
+- UNVERIFIED count unchanged (0 inline, 0 listed).

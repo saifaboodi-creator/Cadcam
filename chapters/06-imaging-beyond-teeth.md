@@ -39,11 +39,11 @@ CBCT produces a volume of voxels, each with a grey value related to radiographic
 
 ### 6.2.2 Radiation dose
 
-CBCT uses ionising radiation, and doses vary widely. In a study of 14 CBCT devices, effective doses ranged from **19 to 368 µSv**, a 20-fold range. The dose depended strongly on **field-of-view size** and exposure settings [2] (Figure 6.1). The salivary and thyroid glands were among the largest contributors to effective dose [2].
+CBCT uses ionising radiation, and doses vary widely. In a phantom dosimetry study of 14 CBCT devices, effective doses ranged from **19 to 368 µSv**, a 20-fold range. The dose depended strongly on **field-of-view size** and exposure settings [2] (Figure 6.1). The salivary and thyroid glands were among the largest contributors to effective dose [2].
 
 ![Range of effective doses across 14 dental CBCT devices, from 19 to 368 microsieverts](../figures/fig-06-1-cbct-dose-range.svg)
 
-**Figure 6.1** Effective dose across 14 dental CBCT devices ranged from 19 to 368 µSv, a 20-fold range that depended mainly on field-of-view size and exposure settings. Data from [2].
+**Figure 6.1** Effective dose across 14 dental CBCT devices ranged from 19 to 368 µSv, a 20-fold range; dose was strongly related to field-of-view size and also depended on exposure settings. Phantom data from [2].
 
 > **Clinical Tip.** Prescribe CBCT only when the expected benefit justifies the dose. Choose the **smallest field of view** and the lowest exposure that answer the clinical question. A single-implant site needs a small field. Facial-skeletal planning needs a large one. Never take a CBCT only to improve the fit of a surface scan or to "complete" a virtual patient for presentation.
 
@@ -66,9 +66,9 @@ To combine CBCT data with surface scans or to design guides, the relevant struct
 - **Manual and semi-automatic segmentation** is more accurate but slow.
 - **AI-driven segmentation** uses trained neural networks to identify teeth, bone, nerves and airway automatically.
 
-In a validation study, teeth segmented from CBCT were compared with intraoral scans of the same teeth after extraction. Mean deviations between methods ranged from 0.10 to 0.98 mm, with a mean RMS of **0.27 mm**. Manual segmentation was slightly more accurate than two AI tools, but the AI tools were much faster. The **apical part of the root** was the least accurate region, and restoration artefacts reduced AI performance [4].
+In a validation study, teeth segmented from CBCT were compared with intraoral scans of the same teeth after extraction. The discrepancy for the AI-driven and manual segmentation methods ranged from 0.10 to 0.98 mm, with a mean RMS of **0.27 (SD 0.11) mm**. Manual segmentation had a significantly lower RMS deviation than both AI tools, although the authors judged AI accuracy comparable to manual segmentation by experienced clinicians; both AI tools significantly reduced segmentation time. The **apical part of the root** was the least accurate region, and the authors called for further development of AI segmentation for teeth with restoration artefacts [4].
 
-A segmented CBCT surface is therefore accurate to a few tenths of a millimetre. That is good enough for planning implant position and root relationships, but far less accurate than an intraoral scan for crown surfaces and margins. Converting CBCT segmentations to STL allows moderate mesh reduction without losing accuracy (Chapter 2) [5].
+A segmented CBCT surface therefore has a trueness of a few tenths of a millimetre. That is good enough for planning implant position and root relationships, but far less accurate than an intraoral scan for crown surfaces and margins. In a cadaver study of maxillofacial defect models, the mesh of CBCT segmentations exported as STL could be reduced by 50% with no 3D deviation, and by 75% with only minor deviation (Chapter 2) [5].
 
 ### 6.2.5 Registering CBCT with surface scans
 
@@ -88,7 +88,7 @@ In a randomised study of 150 patients, fully automatic AI-based registration was
 | Method | How it works | Practical notes |
 |---|---|---|
 | **Point-based** | The operator selects three or more matching points (such as cusp tips) on both datasets | Manual; check the result visually on the CBCT slices |
-| **Surface-based** | The software minimises the distance between segmented CBCT teeth and scanned teeth | Depends on segmentation; restoration artefacts reduced the performance of automated segmentation (6.2.4) [4] |
+| **Surface-based** | The software minimises the distance between segmented CBCT teeth and scanned teeth | Depends on segmentation; AI segmentation still needs development for teeth with restoration artefacts (6.2.4) [4] |
 | **Fiducial / marker-based** | Radiopaque markers or a scan appliance worn during both CBCT and scanning | Use when few teeth remain or metal restorations are extensive |
 | **Automatic (AI-based)** | Trained software aligns the datasets without manual input | As accurate as conventional methods without restorations; with multiple restoration artefacts operator experience mattered; free-ended edentulous areas reduced accuracy [6] |
 
@@ -115,12 +115,12 @@ Anterior restorations, complete dentures and orthodontic treatment must harmonis
 
 ### 6.3.3 Accuracy
 
-- In a study of five facial-scanning methods with CBCT-derived soft tissue as the reference, stereophotogrammetry and structured-light scanners showed good trueness and precision. **All** methods, including smartphone apps, achieved clinically acceptable accuracy. The apps differed in speed, retake rate and realism [7].
-- A smartphone depth-sensor system had a mean RMS difference of **0.86 mm** from a stereophotogrammetry reference, and 97% of landmarks lay within 2 mm. The authors cautioned against using it where fine detail is needed [8].
+- In a study of five facial-scanning methods with CBCT-derived soft tissue as the reference, stereophotogrammetry and structured-light scanners showed good trueness and precision. **All** methods, including smartphone apps, achieved clinically acceptable accuracy. The apps differed in speed, retake rate and realism. In this study of 10 participants, the rear-camera app had the lowest accuracy but high realism [7].
+- A smartphone depth-sensor system had a mean RMS difference of **0.86 mm** from a stereophotogrammetry reference, and 97% of landmarks lay within 2 mm. The authors advised judicious use where high detail is needed, because of limited resolution and longer acquisition time [8].
 - A photogrammetry app on a smartphone showed mean deviations of about **2 mm** from CT-derived facial surfaces. The greatest divergence was in the lower third of the face, and the authors limited its use to monitoring facial oedema [9].
 - In orthodontic patients, a smartphone facial scan combined with an intraoral scan gave linear measurements that agreed with real photographs for all but one of eight measurements [10].
 
-The **lower third of the face**, around the lips and teeth, is where dental design needs facial data most. It is also where several smartphone systems are least accurate [9].
+The **lower third of the face**, around the lips and teeth, is where dental design needs facial data most. It is also where one smartphone photogrammetry app showed its greatest divergence from CT-derived surfaces [9].
 
 ### 6.3.4 Combining the facial scan with the dental scan
 
@@ -129,9 +129,9 @@ A facial scan does not show the teeth well enough to design on. The dental scan 
 - by scanning the face with the teeth visible (smiling or with lip retractors) and matching the anterior teeth;
 - by using an **extraoral scan body** or bite fork with reference markers, scanned both in the face and with the dental scan.
 
-Artificial extraoral markers significantly improved registration accuracy. Stereophotogrammetry with marker-based matching gave the smallest deviations, and smartphone scans with tooth-only matching the largest [11]. In a clinical study, virtual patients built from facial and intraoral scans with scan-body systems had a trueness of **0.50–1.64 mm** compared with CBCT [12].
+In a comparison with 10 registrations per condition, the use of artificial extraoral markers significantly affected registration accuracy. Stereophotogrammetry with marker-based matching gave the smallest deviations, and smartphone scans with tooth-only matching the largest [11]. In a clinical study, virtual patients built from facial and intraoral scans with scan-body systems had a trueness of **0.50–1.64 mm** compared with CBCT [12].
 
-> **Evidence Box.** Facial-scan registration is accurate to roughly 0.5–2 mm [8,9,12]. That is good enough to judge the incisal edge position, midline and smile line in relation to the face. It is not good enough to set restoration dimensions to tenths of a millimetre. Always confirm aesthetic decisions with an intraoral mock-up (Section 6.5.4).
+> **Evidence Box.** Facial scans deviated from reference surfaces by roughly 0.9–2 mm (trueness) [8,9], and a virtual patient built by superimposing facial and intraoral scans with scan bodies had a trueness of 0.50–1.64 mm [12]. That is good enough to judge the incisal edge position, midline and smile line in relation to the face. It is not good enough to set restoration dimensions to tenths of a millimetre. Always confirm aesthetic decisions with an intraoral mock-up (Section 6.5.4).
 
 ---
 
@@ -147,14 +147,14 @@ A buccal bite scan records one static jaw position (Chapter 4). A mechanical or 
 
 ### 6.4.2 Technologies
 
-JMT systems use several principles: optoelectronic (camera-based) tracking of markers attached to the mandible and head, ultrasonic tracking, electromagnetic tracking and electronic axiography [13]. The recorded motion is linked to the dental scans through a reference attachment that is scanned with the teeth.
+JMT systems use several principles, including optoelectronic (camera-based) tracking of markers attached to the mandible and head, ultrasonic tracking, electronic axiography, photogrammetry, sirognathography and electrognathography [13]. The recorded motion is linked to the dental scans through a reference attachment that is scanned with the teeth.
 
 ### 6.4.3 Evidence
 
 - A systematic review of 20 studies found that optical tracking systems recorded mandibular movement more precisely than traditional methods. JMT showed potential to reduce chair time and improve prosthetic outcomes. The risk of bias was **high**, owing to small samples and no long-term evaluation [14].
 - A systematic review of 30 studies of jaw-movement digitisation found device accuracy between **50 and 330 µm** across systems. Many physiological factors affected the recorded movements, including growth, neuromuscular dysfunction, shortened dental arches, previous orthodontic treatment, head posture and temporomandibular disorders. More than half of the studies had below-moderate certainty of evidence [13].
-- Case reports describe digital workflows that use JMT for full-mouth rehabilitation in severe tooth wear, determining the jaw relationship and anterior guidance virtually [15]. A four-dimensional virtual patient combining intraoral, facial, CBCT and JMT data has been described as a proof of concept [16].
-- An umbrella review of 34 reviews of digital occlusal analysis and jaw-motion tracking found static digital articulation conditionally accurate in dentate, short-span situations with stable contacts. Contact **location** was more reliable than contact intensity, area or force. Jaw tracking and the integrated 4D virtual patient were technically feasible, but heterogeneous reference frames, small studies and sparse clinical outcomes limited conclusions. The authors stressed that technical accuracy is not evidence of patient benefit [17].
+- A clinical report describes a digital workflow that uses JMT for full-mouth rehabilitation in severe tooth wear, determining the jaw relationship and anterior guidance virtually [15]. A four-dimensional virtual patient combining intraoral, facial, CBCT and JMT data has been described as a proof of concept [16].
+- An umbrella review of digital occlusal analysis and jaw-motion tracking, based on 34 reports (29 systematic reviews, four scoping reviews and one evidence map; 12 of the 29 rated reviews were at high risk of bias), found static digital articulation conditionally accurate in dentate, short-span situations with stable contacts. Contact **location** was more defensible than contact intensity, area or absolute force. Jaw tracking and the integrated 4D virtual patient were technically feasible, but heterogeneous reference frames, small studies and sparse clinical outcomes limited conclusions. The authors stressed that technical accuracy is not evidence of patient benefit [17].
 
 JMT is a promising tool for complex prosthodontic and occlusal cases. Evidence that it improves clinical outcomes compared with conventional articulation is still limited [13,14,17].
 
@@ -181,14 +181,14 @@ A typical DSD workflow (Figure 6.2):
 
 ### 6.5.2 Software
 
-Many DSD programs exist, from general presentation and image-editing tools to dedicated dental applications. In a review of eight programs, general software offered the most comprehensive facial analysis. Some dedicated programs offered 3D analysis and integration with CAD/CAM [19]. The choice of software matters less than a systematic analysis and reliable transfer of the plan into 3D.
+Many DSD programs exist, from general presentation and image-editing tools to dedicated dental applications. In a literature review of eight programs, general presentation and image-editing software provided a more comprehensive smile analysis than most dedicated DSD programs. Some dedicated programs offered 3D analysis and integration with CAD/CAM [19]. The choice of software matters less than a systematic analysis and reliable transfer of the plan into 3D.
 
 ### 6.5.3 Evidence
 
 - A systematic review of seven studies found that DSD consistently improved patient satisfaction, acceptance of treatment, communication and perceived predictability compared with conventional approaches. The evidence was limited by heterogeneity and small samples [20].
 - A systematic review and meta-analysis of AI-based DSD tools reported improved aesthetic parameters. The pooled prevalence of satisfaction was 58%, with high heterogeneity, moderate risk of bias and evidence of publication bias [21].
 
-DSD clearly improves **communication** and patient involvement. Evidence that it improves long-term clinical outcomes compared with careful conventional aesthetic planning is still weak.
+A systematic review of seven heterogeneous studies reported that DSD improved communication, treatment acceptance and patient satisfaction [20]. Evidence that it improves long-term clinical outcomes compared with careful conventional aesthetic planning is still weak.
 
 ### 6.5.4 The mock-up is the real test
 
@@ -204,20 +204,20 @@ No matter how sophisticated the digital design, the **intraoral mock-up** is whe
 
 **Table 6.3** Data sources and the decisions they should drive
 
-| Decision | Primary dataset | Typical accuracy | Supporting data |
+| Decision | Primary dataset | Typical error (trueness where reported) | Supporting data |
 |---|---|---|---|
 | Margins, contacts, intaglio fit | Intraoral or laboratory scan | Tens of µm (Chapters 3–5) | — |
 | Static occlusion | Bite scan or mounted casts | Tens to hundreds of µm (Chapter 4) | Virtual articulator |
 | Dynamic occlusion, guidance | Jaw-motion tracking or articulator | ~50–330 µm (device level) [13] | Facebow / virtual facebow |
 | Implant position, bone, roots | CBCT registered to surface scan | Segmentation ~0.27 mm RMS [4]; registration varies [6] | Prosthetic wax-up |
-| Incisal edge, midline, smile line | Facial scan, photographs, video | ~0.5–2 mm [8,9,12] | Intraoral mock-up |
+| Incisal edge, midline, smile line | Facial scan, photographs, video | ~0.5–2 mm (trueness of facial scans and of face–intraoral superimposition) [8,9,12] | Intraoral mock-up |
 | Patient acceptance | Mock-up | Clinical judgement | DSD presentation |
 
 The rule is simple: **use each dataset for decisions within its accuracy**, and never let a less accurate dataset override a more accurate one where they overlap. The facial scan suggests where the incisal edge should be. The intraoral scan and the mock-up decide exactly where it is. Figure 6.3 places the typical error of each dataset on a common scale.
 
-![Typical error of surface scans, jaw tracking, CBCT segmentation and facial scan registration on a logarithmic scale](../figures/fig-06-3-dataset-accuracy.svg)
+![Typical error of surface scans, jaw tracking, CBCT segmentation and facial scan / face–tooth superimposition on a logarithmic scale](../figures/fig-06-3-dataset-accuracy.svg)
 
-**Figure 6.3** Typical error of each dataset in the virtual patient, on a logarithmic scale. The pale band for surface scans is indicative (tens of micrometres; Chapters 3–5). The open circle marks the mean RMS of CBCT tooth segmentation. Data from [4,8,9,12,13]; see Table 6.3.
+**Figure 6.3** Typical error of each dataset in the virtual patient, on a logarithmic scale. The pale band for surface scans is indicative (tens of micrometres; Chapters 3–5). The open circle marks the mean RMS of CBCT tooth segmentation. For CBCT, the bar shows the range of discrepancies reported for the segmentation methods [4]. Data from [4,8,9,12,13]; see Table 6.3.
 
 ### 6.6.2 Practical integration workflow (aesthetic implant case)
 
@@ -238,12 +238,12 @@ Combining datasets multiplies the volume of data and the risk of privacy breache
 
 ## Key Points
 
-- CBCT adds bone, roots and anatomy, but doses vary 20-fold and depend mainly on **field of view** [2]. Use the smallest field and lowest exposure that answer the question.
-- CBCT **artefacts**, especially from metal, degrade segmentation and registration [3,6].
-- CBCT-segmented teeth are accurate to about **0.27 mm RMS**, worst at the root apex. AI segmentation is faster and nearly as accurate as manual segmentation [4]. Automatic CBCT–scan registration works well without restorations but needs checking when artefacts are present [6].
-- Facial scanners, including smartphone apps, can achieve clinically acceptable accuracy for planning [7,8]. Accuracy is lowest in the lower third of the face for some apps [9]. **Extraoral markers** improve face–tooth registration [11].
+- CBCT adds bone, roots and anatomy, but doses vary 20-fold and are strongly related to **field of view** [2]. Use the smallest field and lowest exposure that answer the question.
+- CBCT **artefacts**, especially from metal restorations, can interfere with diagnosis [3] and with registration [6].
+- CBCT-segmented teeth deviate from the reference by about **0.27 mm RMS** (trueness), worst at the root apex. AI segmentation is faster and nearly as accurate as manual segmentation [4]. Automatic CBCT–scan registration works well without restorations but needs checking when artefacts are present [6].
+- Facial scanners, including smartphone apps, achieved clinically acceptable accuracy in small validation studies, although one smartphone app had the lowest accuracy, and judicious use is advised where fine detail is needed [7,8]. In one smartphone app, deviation was greatest in the lower third of the face [9]. Marker-based matching with stereophotogrammetry gave the smallest face–tooth registration deviations [11].
 - Jaw-motion tracking records individual movement with device accuracies of about **50–330 µm**. It is promising for complex cases but supported by limited, high-risk-of-bias evidence [13,14].
-- Digital smile design improves **communication and satisfaction** [20,21]. The **mock-up** remains the decisive clinical test.
+- Digital smile design improved **communication and satisfaction** in a systematic review of limited, heterogeneous studies [20], and AI-based tools improved aesthetic parameters [21]. The **mock-up** remains the decisive clinical test.
 - Use each dataset only for decisions within its accuracy (Table 6.3).
 
 ---
@@ -279,7 +279,7 @@ Combining datasets multiplies the volume of data and the risk of privacy breache
 14. Tafuri G, Santilli M, Murmura G, D'Addazio G, Traini T, Femminella B, et al. Jaw tracking system in digital dentistry: a systematic review. Int J Prosthodont. 2026;39(5):589–96. doi:10.11607/ijp.9327
 15. Wang Y, Hao Z, Liang Y, Yang W, Ma Y. From virtual maxillomandibular relationship determination to clinical implementation for digital functional-esthetic rehabilitation in severe generalised tooth surface loss. J Esthet Restor Dent. 2025;37(11):2347–57. doi:10.1111/jerd.70014
 16. Haku-Mizuhara K, Tanabe G, Kadempour A, Mirafzali S, Yotsuya M, Yamaguchi S. Development of a 4-dimensional virtual patient in motion: a digital concept. J Prosthet Dent. 2026;135(1):47–53. doi:10.1016/j.prosdent.2025.02.064
-17. Farronato M, Giannini L, Farronato D, di Iasio G, Maspero C. From static digital articulation to the dynamic (4D) digital virtual patient: an umbrella review of digital occlusal analysis and jaw-motion tracking. J Dent. 2026. Epub ahead of print. doi:10.1016/j.jdent.2026.107107
+17. Farronato M, Giannini L, Farronato D, di Iasio G, Maspero C. From static digital articulation to the dynamic (4D) digital virtual patient: an umbrella review of digital occlusal analysis and jaw-motion tracking. J Dent. 2026 Oct 13:107107. doi:10.1016/j.jdent.2026.107107. Epub ahead of print.
 18. Coachman C, Calamita MA, Sesma N. Dynamic documentation of the smile and the 2D/3D digital smile design process. Int J Periodontics Restorative Dent. 2017;37(2):183–93. doi:10.11607/prd.2911
 19. Omar D, Duarte C. The application of parameters for comprehensive smile esthetics by digital smile design programs: a review of literature. Saudi Dent J. 2018;30(1):7–12. doi:10.1016/j.sdentj.2017.09.001
 20. Alwabel LK, Alabduljabar WM, Alawfi LK, Al Johani NK, Alharbi LE, Kharif MA, et al. Digital smile design and patient-centered outcomes in esthetic restorative dentistry: a systematic review. Cureus. 2025;17(11):e98084. doi:10.7759/cureus.98084
