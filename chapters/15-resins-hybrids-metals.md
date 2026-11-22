@@ -38,7 +38,7 @@ CAD/CAM resin-based materials fall into two broad groups by microstructure [1]:
 - **Dispersed-filler materials** (CAD/CAM composites and "resin nanoceramics"): ceramic or glass particles dispersed in a cross-linked polymer matrix, like a conventional composite but denser and better cured.
 - **Polymer-infiltrated ceramic networks (PICN)**: a porous, pre-sintered ceramic network infiltrated with polymer, giving two interpenetrating continuous phases.
 
-PICN materials showed higher flexural strength and a more favourable (more dentine-like) elastic modulus than dispersed-filler materials [1]. Both groups can be milled to thin, stable margins with little chipping [2], and both can be **repaired** intraorally with composite. Figure 15.1 contrasts the two microstructures.
+PICN materials showed higher flexural strength and a more favourable elastic modulus than dispersed-filler materials [1]. PICN blocks have high edge stability, which allows thin restoration margins to be milled [2]. Both groups can be **repaired** intraorally with composite. Figure 15.1 contrasts the two microstructures.
 
 ![Schematic of dispersed-filler and polymer-infiltrated ceramic network microstructures](../figures/fig-15-1-hybrid-microstructures.svg)
 
@@ -49,9 +49,9 @@ PICN materials showed higher flexural strength and a more favourable (more denti
 | Feature | Dispersed-filler CAD/CAM composite / resin nanoceramic | Polymer-infiltrated ceramic network (PICN) |
 |---|---|---|
 | Microstructure | Fillers dispersed in polymer matrix [1] | Ceramic network infiltrated by polymer [1] |
-| Polymerisation | Industrial (high temperature, sometimes high pressure) [1] | Industrial infiltration and curing [1] |
-| Elastic modulus | Lower | Closer to dentine; higher than dispersed-filler [1] |
-| Milling | Fast; thin margins possible; little chipping [2] | Thin margins possible; good edge stability [2] |
+| Polymerisation | Industrial (high temperature, sometimes high pressure) [1] | Industrial infiltration and curing |
+| Elastic modulus | Less favourable than PICN [1] | More favourable than dispersed-filler [1] |
+| Milling | Thin margins possible | High edge stability; thin margins possible [2] |
 | Firing needed | No | No |
 | Repair | Easy with composite | Easy with composite |
 | Typical bonding | Air abrasion or as instructed, adhesive cement | Hydrofluoric acid etching and silane, or as instructed |
@@ -62,15 +62,15 @@ The clinical record of resin-based and hybrid materials is **indication-dependen
 
 - A systematic review and meta-analysis of 21 studies found that resin-matrix ceramics (PICN and resin nanoceramics) had **more complications than ceramics as full and partial crowns**. For **intracoronal restorations** (inlays and onlays), they showed complication rates similar to lithium disilicate and lower than direct composite. As **laminate and occlusal veneers**, they performed comparably to lithium disilicate [3].
 - In a randomised controlled trial of posterior single crowns, 3-year survival was **100% for both lithium disilicate and PICN**, compared with 76.9% for feldspathic ceramic. PICN crowns accumulated significantly more plaque [4].
-- In a practice-based series of 581 PICN restorations (crowns, overlays, inlays and veneers) with a mean observation period of 18.3 months, the success rate was 97.7%. The technical complications were debonding (7) and fracture (3) [5].
+- In a clinical series of 581 PICN restorations (crowns, overlays, inlays and veneers) in 286 patients, with a mean observation period of 18.3 months, the overall success rate was 97.7%. There were 3 biological and 10 technical complications; the technical complications were debonding (7) and fracture (3) [5].
 - A systematic review of chairside materials (2021–2026) found that PICN blocks resisted thermomechanical ageing comparatively well in laboratory studies. Clinical evidence was limited and did not allow definitive comparisons between material classes [6].
 
 ### 15.2.4 The "no-prep" approach to severe tooth wear
 
-The low thickness at which PICN can be milled has enabled a minimally invasive approach to generalised tooth wear. Thin bonded restorations are placed on unprepared or minimally prepared worn teeth to restore the vertical dimension:
+The low thickness at which PICN can be milled has enabled a minimally invasive approach to generalised tooth wear [1]. Thin bonded restorations are placed on unprepared or minimally prepared worn teeth to restore the vertical dimension:
 
 - In a study of 580 PICN restorations in 24 patients followed for up to 9 years, Kaplan–Meier survival was **98.4%** (100% anterior, 96.7% posterior) and success was 79.7%. **Minor chipping** was the leading cause of failure. Fractures were 9.2 times more likely in the posterior region, particularly on molars or where the restoration was **thinner than 0.56 mm**. The authors recommended a minimum posterior thickness of 0.6 mm, especially at occlusal contacts [7].
-- In a 5-year profilometric study of 192 posterior PICN restorations in patients with signs of bruxism, mean wear at occlusal contacts was about 28 µm. Survival was 99.5% and success 90.6% [8].
+- In a 5-year prospective profilometric study of 192 posterior PICN restorations in 7 patients with signs of bruxism, mean wear at occlusal contacts was about 28 µm. Survival was 99.5% and success 90.6% [8].
 
 > **Clinical Tip.** For thin posterior restorations in hybrid materials, check the thickness map in the design software (Chapter 7) and keep **at least about 0.6 mm** at occlusal contacts [7]. Thin spots over contacts are where chipping starts.
 
@@ -79,11 +79,11 @@ The low thickness at which PICN can be milled has enabled a minimally invasive a
 On implants, without a periodontal ligament and often bonded to titanium bases, hybrid materials have performed **poorly** in several clinical trials:
 
 - In a multicentre randomised trial of chairside screw-retained hybrid-abutment posterior crowns on titanium bases, 5-year survival was **100% for lithium disilicate but only 31% for PICN**, mainly because of non-recoverable partial debonding between years 3 and 5. The authors did not recommend that PICN set-up, while noting that the findings applied to their specific workflow [9].
-- In a 12-month randomised trial of screw-retained implant crowns on titanium bases, survival was **84% for PICN and 100% for zirconia-reinforced lithium silicate**. PICN also showed significantly greater occlusal wear (0.45 versus 0.16 mm) and more catastrophic fractures [10].
+- In a 12-month randomised trial of screw-retained implant crowns on titanium bases (42 of 62 crowns evaluated at one year), survival was **84% for PICN and 100% for zirconia-reinforced lithium silicate**. PICN also showed significantly greater occlusal wear (0.45 versus 0.16 mm) and more catastrophic fractures [10].
 - In a 36-month randomised trial of hybrid-abutment crowns, peri-implant outcomes did not differ in a clinically relevant way between PICN and lithium disilicate. The authors drew attention to the higher technical complication rate of PICN reported separately for the same cohort [11].
 - The German S3 guideline on implant-supported all-ceramic restorations concluded that polymer-infiltrated ceramics performed worse and **did not recommend** them for implant crowns [12].
 
-> **Evidence Box.** The same PICN material that performs well as a thin bonded restoration on worn natural teeth [7,8] has performed poorly as a screw-retained crown bonded to a titanium base [9,10]. Indication, support (tooth or implant) and bonding substrate matter as much as the material itself.
+> **Evidence Box.** The same PICN material that performs well as a thin bonded restoration on worn natural teeth [7,8] has performed poorly as a screw-retained crown bonded to a titanium base [9,10]. In one trial the main problem was partial debonding [9]; in the other it was fracture and wear [10]. Indication, support (tooth or implant) and bonding substrate matter as much as the material itself.
 
 ![Bar chart of PICN survival on natural teeth and on implants](../figures/fig-15-2-picn-indication.svg)
 
@@ -97,8 +97,8 @@ On implants, without a periodontal ligament and often bonded to titanium bases, 
 |---|---|---|
 | Inlays, onlays | Complications similar to lithium disilicate; fewer than direct composite [3] | Suitable |
 | Laminate and occlusal veneers | Comparable to lithium disilicate [3] | Suitable |
-| Thin restorations for tooth wear ("no-prep") | 98.4% survival up to 9 y; chipping when < 0.56 mm [7,8] | Suitable with ≥ 0.6 mm posteriorly |
-| Single crowns on teeth | More complications than ceramics overall [3]; 100% 3-y survival in one RCT [4] | Second choice; consider for repairability or bruxism-related wear |
+| Thin restorations for tooth wear ("no-prep") | 98.4% survival up to 9 y; more fractures when < 0.56 mm [7]; 99.5% survival at 5 y in bruxism patients [8] | Suitable with ≥ 0.6 mm posteriorly |
+| Single crowns on teeth | More complications than ceramics overall [3]; 100% 3-y survival in one RCT [4] | Second choice; may be considered where repairability matters (expert opinion) |
 | Implant crowns | Poor survival in RCTs [9,10]; not recommended by S3 guideline [12] | Avoid |
 | Multi-unit FDPs | Little evidence | Avoid as definitive material |
 
@@ -110,10 +110,10 @@ On implants, without a periodontal ligament and often bonded to titanium bases, 
 
 Industrially polymerised **PMMA** blocks and discs are milled for provisional crowns, FDPs, diagnostic restorations and long-term provisionals, such as during implant healing or changes in vertical dimension. Industrial polymerisation gives them a denser, more fully cured material than chairside-mixed acrylics.
 
-In vitro evidence consistently favours milled PMMA for strength:
+Two in vitro studies favour milled PMMA for strength:
 
 - After thermal ageing, **milled PMMA** interim crowns had a mean fracture load of about 1,512 N. This was significantly higher than conventional direct composite (about 717 N), conventional autopolymerised PMMA (about 793 N) and a 3D-printed interim resin (about 582 N). Milled PMMA also fractured in a more favourable, less catastrophic pattern [13].
-- In another in vitro study, milled PMMA crowns had a higher fracture strength (about 2,788 N) than printed bisphenol-based crowns or PLA crowns made by fused deposition [14].
+- In another in vitro study, milled PMMA crowns had the highest fracture strength (about 2,788 N), followed by stereolithography-printed bisphenol-based crowns (about 2,165 N) and PLA crowns made by fused deposition (about 2,089 N); the authors nevertheless judged PLA comparable overall [14].
 
 These are laboratory values. They show the rank order of materials but not clinical survival, and printed resins are developing quickly (Chapter 11).
 
@@ -135,7 +135,7 @@ PMMA and polyoxymethylene (POM) are also used for interim and some definitive co
 
 PAEK polymers are chemically inert and have low surface energy, so they need surface pretreatment before bonding:
 
-- A systematic review and meta-analysis of PEKK bonding to veneering materials found that surface pretreatment was **essential**. Air abrasion with alumina and sulfuric acid etching both significantly increased bond strength to composite and to lithium disilicate. Tribochemical silica coating also improved bonding. Non-thermal plasma did not significantly improve bonding to composite [16].
+- A systematic review and meta-analysis of 15 studies (in vitro evidence) on PEKK bonding to veneering materials found that surface pretreatment was **essential**. Air abrasion with alumina and sulfuric acid etching both significantly increased bond strength to composite and to lithium disilicate. Tribochemical silica coating also improved bonding. Non-thermal plasma did not significantly improve bonding to composite [16].
 
 ### 15.4.3 Colour stability
 
@@ -143,16 +143,16 @@ A systematic review of in vitro studies found that PEEK generally had better col
 
 ### 15.4.4 Fixed dental prostheses
 
-A systematic review and meta-analysis of 14 in vitro studies found that **zirconia FDP frameworks had significantly higher fracture strength than PEEK frameworks**. PEEK showed higher shear bond strength, and results for marginal fit were mixed. The certainty of evidence was low, and the authors stressed that the findings were hypothesis-generating rather than predictors of clinical performance [18].
+A systematic review and meta-analysis of 14 in vitro studies found that **zirconia FDP frameworks had significantly higher fracture strength than PEEK frameworks**. Zirconia also showed a lower marginal gap, although results for marginal fit varied between studies, and PEEK showed higher shear bond strength. The certainty of evidence was low, and the authors stressed that the findings were hypothesis-generating rather than predictors of clinical performance [18].
 
 ### 15.4.5 Removable partial denture frameworks
 
 PEEK has attracted most interest as a **metal-free alternative to Co-Cr RPD frameworks and clasps**, for patients who want to avoid metal for aesthetic reasons or because of allergy:
 
-- A systematic review comparing PEEK with Co-Cr RPD frameworks found that studies were sparse (9 in vitro, 4 clinical). PEEK frameworks showed comparable fit, with a mean gap of about 43 µm compared with about 131 µm for Co-Cr. Retention and patient satisfaction were similar [19].
+- A systematic review comparing PEEK with Co-Cr RPD frameworks found that studies were sparse (9 in vitro, 4 clinical). In the four in vitro studies that measured fit, PEEK frameworks showed a fit the authors judged comparable (mean gap about 43 µm versus about 131 µm for Co-Cr). Retention and patient satisfaction were similar [19].
 - A second systematic review found that **retention forces and fatigue resistance were significantly lower for PEEK and titanium than for Co-Cr**, and titanium was less rigid. PEEK deformed less. Both materials showed adequate biocompatibility. The authors called for more clinical studies [20].
 
-> **Lab Note.** PEEK is much less rigid than Co-Cr, so a PEEK RPD needs **bulkier major connectors and clasps** to achieve similar stiffness. Do not copy a Co-Cr framework design directly into PEEK. Removable prosthodontic design is covered in Chapter 18.
+> **Lab Note.** In our view (expert opinion), because PEEK is much less rigid than Co-Cr, a PEEK RPD needs **bulkier major connectors and clasps** to achieve similar stiffness. Do not copy a Co-Cr framework design directly into PEEK. Removable prosthodontic design is covered in Chapter 18.
 
 ---
 
@@ -173,21 +173,21 @@ Co-Cr alloys remain widely used for metal-ceramic copings and FDP frameworks, im
 
 ### 15.5.2 Fit and surface
 
-The evidence on fit is mixed and depends on the process and alloy system:
+The in vitro evidence on fit is mixed and depends on the process and alloy system:
 
-- In a micro-CT study, **hard-milled** and **SLM** Co-Cr copings showed larger marginal discrepancies than cast controls (about 70 and 65 µm), whereas **milled-and-sintered** (soft-milled) copings showed smaller discrepancies. Results were sometimes specific to the alloy system [21].
-- In another study, **laser-sintered** Co-Cr copings were rougher but had **better marginal and internal fit** than milled or milled-wax/cast copings. Retention in pull-off tests did not differ [22].
-- In a study comparing five fabrication methods before and after porcelain firing, hard milling showed the largest discrepancy (about 90 µm). Casting (about 63 µm), selective laser sintering (about 62 µm) and soft milling (about 68 µm) were statistically similar. Porcelain firing *decreased* discrepancies, and all CAD/CAM techniques were judged suitable for clinical use [23].
+- In an in vitro micro-CT study, **hard-milled** and **SLM** Co-Cr copings showed significantly larger marginal discrepancies than cast controls, whereas **milled-and-sintered** (soft-milled) copings showed smaller discrepancies. Results were sometimes specific to the alloy system [21].
+- In another in vitro study, **laser-sintered** Co-Cr copings were rougher but had **better marginal and internal fit** than milled or milled-wax/cast copings. Retention in pull-off tests did not differ [22].
+- In an in vitro study comparing five fabrication methods before and after porcelain firing, hard milling showed the largest discrepancy (about 90 µm). Casting (about 63 µm), selective laser sintering (about 62 µm) and soft milling (about 68 µm) were statistically similar. Porcelain firing *decreased* discrepancies, and all CAD/CAM techniques were judged suitable for clinical use, with selective laser sintering and soft milling recommended over SLM and hard milling because of their lower discrepancies [23].
 
-The practical conclusion is that **all routes can produce clinically acceptable Co-Cr restorations**. Hard milling of dense alloy is slowest and wears tools, while soft milling and laser melting are efficient for most crowns, FDPs and RPD frameworks. Whichever route is used, results depend on the specific alloy and machine settings, so each laboratory or production centre must validate its process.
+The practical conclusion from these in vitro studies is that fit depends on the process and the alloy system, and the ranking of the routes differs between studies. One study judged all CAD/CAM techniques suitable for clinical use [23]; another judged only milled-and-sintered copings clinically acceptable [21]. In practice (expert opinion), hard milling of dense alloy is slower and wears tools, whereas soft milling and laser melting are efficient for most crowns, FDPs and RPD frameworks. Whichever route is used, results depend on the specific alloy and machine settings, so each laboratory or production centre must validate its process.
 
 ### 15.5.3 Titanium
 
-Titanium (commercially pure or Ti-6Al-4V alloy) is used for implant abutments, titanium bases (Chapter 9), bars and complete-arch frameworks. Because it is difficult to cast accurately, **milling** has become the standard route for titanium frameworks:
+Titanium (commercially pure or Ti-6Al-4V alloy) is used for implant abutments, titanium bases (Chapter 9), bars and complete-arch frameworks. Because titanium is difficult to cast with good fit, **milling** has become the standard route for titanium frameworks:
 
-- CAD/CAM milled implant frameworks fit better than one-piece cast or laser-welded frameworks (Chapter 9) [24].
-- A narrative review of implant framework design described how milled titanium frameworks became popular with CAD/CAM. It highlighted the improved accuracy of CAD/CAM framework fit compared with casting, the importance of cantilever length relative to anteroposterior implant spread, and I- and L-beam framework designs [25].
-- In a retrospective study of 125 implant-supported fixed prostheses with milled titanium frameworks and individual all-ceramic crowns, cumulative prosthesis survival was 96% overall. **Crown fractures** were the most common mechanical complication [26].
+- In a review of 14 studies, CAD/CAM implant frameworks, whatever the material, fitted better than one-piece cast or laser-welded frameworks, and similarly to frameworks bonded to prefabricated cylinders (Chapter 9) [24].
+- A narrative review of implant framework design described how milled titanium frameworks became popular with CAD/CAM. It highlighted the better fit of CAD/CAM frameworks compared with cast frameworks, the importance of cantilever length relative to anteroposterior implant spread, and I- and L-beam framework designs [25].
+- In a retrospective study of 125 implant-supported fixed prostheses with milled titanium frameworks and individual all-ceramic crowns, cumulative prosthesis survival was 92.4% at 10 years and 100% at 5 years in the two groups (96% overall). **Crown fractures** were the most common mechanical complication [26].
 
 Titanium is also printed by laser melting for some implant and maxillofacial applications (Chapters 11 and 19).
 
@@ -197,8 +197,8 @@ Titanium is also printed by laser melting for some implant and maxillofacial app
 |---|---|---|
 | Main uses | Metal-ceramic copings and FDPs; RPD frameworks; bars | Abutments; Ti-bases; bars; complete-arch frameworks |
 | Manufacturing routes | Casting (digital pattern); hard milling; soft milling + sintering; SLM / SLS | Milling (standard); laser melting |
-| Fit | All routes clinically acceptable; process- and alloy-dependent [21–23] | CAD/CAM milled better than cast [24] |
-| Rigidity | High | Lower than Co-Cr |
+| Fit | In vitro: process- and alloy-dependent; all CAD/CAM routes judged suitable for clinical use in one study [21–23] | CAD/CAM milled better than cast [24] |
+| Rigidity | High | Lower than Co-Cr [20] |
 | Clinical record | Long, especially for RPDs | Good for milled implant frameworks [26] |
 | Key complication | Veneer chipping (metal-ceramic) | Veneer or crown fracture on frameworks [26] |
 
@@ -211,24 +211,24 @@ Titanium is also printed by laser melting for some implant and maxillofacial app
 | Clinical need | First choice | Alternatives | Avoid |
 |---|---|---|---|
 | Posterior inlay / onlay | Glass-ceramic (Chapter 13) | CAD/CAM composite or PICN [3] | — |
-| Thin restorations for generalised tooth wear | PICN or CAD/CAM composite, ≥ 0.6 mm [7,8] | Lithium disilicate where space allows | Thin posterior spots < 0.6 mm |
+| Thin restorations for generalised tooth wear | PICN, ≥ 0.6 mm posteriorly [7,8] | Lithium disilicate where space allows; CAD/CAM composite (expert opinion) | Thin posterior spots < 0.6 mm |
 | Single crown on a tooth | Glass-ceramic or zirconia (Chapters 13–14) | PICN in selected cases [3,4] | — |
 | Single implant crown | Lithium disilicate, ZLS or zirconia on Ti-base [9,10,12] | — | PICN [9,10,12] |
 | Long-term provisional | Milled PMMA [13,14] | Printed interim resin (Chapter 11) | Chairside acrylic for long periods |
 | Metal-free RPD framework | — | PEEK with adapted design [19,20] | Copying Co-Cr designs into PEEK |
-| Conventional RPD framework | Co-Cr (SLM, soft-milled or cast) [21–23] | Titanium | — |
-| Complete-arch implant framework | Milled titanium or zirconia (Chapter 9) [24–26] | Co-Cr | PEEK as definitive framework without clinical evidence [18] |
+| Conventional RPD framework | Co-Cr (cast, soft-milled, or laser-melted or laser-sintered; Chapter 18); fit evidence comes from in vitro crown copings only [21–23] | Titanium | — |
+| Complete-arch implant framework | Milled titanium or zirconia (Chapter 9) [24–26] | Co-Cr | PEEK as definitive framework (no clinical evidence; in vitro, lower fracture strength than zirconia as an FDP framework [18]) |
 
 ---
 
 ## Key Points
 
-- Industrial polymerisation gives CAD/CAM composites a **higher degree of conversion, higher filler content and fewer flaws** than direct or laboratory composites. **PICN** has higher flexural strength and a more dentine-like modulus than dispersed-filler blocks [1].
-- Resin-based and hybrid materials perform well for **inlays, onlays and veneers** but have more complications as **crowns** [3]. They allow very thin, repairable restorations for **tooth wear**, provided posterior thickness is at least about **0.6 mm** [7,8].
+- Industrial polymerisation gives CAD/CAM composites a **higher degree of conversion, higher filler content and fewer flaws** than direct or laboratory composites. **PICN** has higher flexural strength and a more favourable elastic modulus than dispersed-filler blocks [1].
+- Resin-based and hybrid materials perform well for **inlays, onlays and veneers** but have more complications as **crowns** [3]. PICN allows very thin restorations for **tooth wear** [7,8], provided posterior thickness is at least about **0.6 mm** [7].
 - On **implants**, PICN crowns bonded to titanium bases have shown **poor survival** in randomised trials and are **not recommended** [9,10,12].
-- **Milled PMMA** is the strongest common provisional material in laboratory tests [13,14]. Bruxism increases complications of polymer and metal-acrylic complete-arch prostheses [15].
-- **PEEK and PEKK** need surface pretreatment for bonding [16]. They are less colour-stable than zirconia [17] and weaker than zirconia as FDP frameworks [18]. They are a metal-free option for RPDs, but with lower retention and fatigue resistance than Co-Cr and only sparse clinical data [19,20].
-- **Co-Cr** can be cast, hard-milled, soft-milled or laser-melted. All can achieve clinically acceptable fit, with results that depend on the process and alloy [21–23]. **Milled titanium** frameworks fit better than cast ones and perform well clinically [24–26].
+- In two in vitro studies, **milled PMMA** interim crowns had the highest fracture strength of the materials tested [13,14]. In fixed implant-supported prostheses, bruxism and not wearing a protective occlusal device were frequently associated with higher complication rates [15].
+- **PEKK** needs surface pretreatment before veneering [16]. In vitro, **PEEK** is less colour-stable than zirconia (PEKK more stable than PEEK) [17] and has lower fracture strength than zirconia as an FDP framework [18]. PEEK is a metal-free option for RPDs; reviews disagree on retention (similar [19] or lower [20] than Co-Cr), fatigue resistance was lower [20], and clinical studies are sparse [19].
+- **Co-Cr** can be cast, hard-milled, soft-milled or laser-melted or laser-sintered. In vitro, fit depends on the process and alloy, and the ranking of routes differs between studies [21–23]. CAD/CAM implant frameworks fit better than one-piece cast ones [24], and one retrospective study of **milled titanium** frameworks reported 96% cumulative prosthesis survival [26].
 - For all these materials, **indication-specific clinical evidence** should outweigh laboratory data.
 
 ---
@@ -236,7 +236,7 @@ Titanium is also printed by laser melting for some implant and maxillofacial app
 ## Review Questions
 
 1. How does high-temperature–high-pressure polymerisation change the properties of CAD/CAM composite blocks compared with light-cured composites?
-2. Describe the difference in microstructure between a dispersed-filler CAD/CAM composite and a polymer-infiltrated ceramic network. Which has the more dentine-like elastic modulus?
+2. Describe the difference in microstructure between a dispersed-filler CAD/CAM composite and a polymer-infiltrated ceramic network. Which has the more favourable elastic modulus?
 3. For which indications on natural teeth do resin-matrix ceramics perform comparably to lithium disilicate, and for which do they show more complications?
 4. A patient with generalised tooth wear is to be restored with thin PICN restorations. What minimum posterior thickness is recommended, and why?
 5. Summarise the randomised trial evidence on PICN implant crowns bonded to titanium bases. What does the German S3 guideline recommend?

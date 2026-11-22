@@ -27,7 +27,7 @@
   <path d="M300,244 H665.6 a4,4 0 0 1 4,4 V266 a4,4 0 0 1 -4,4 H300 Z" fill="#2a78d6"/>
   <path d="M300,274 H736 a4,4 0 0 1 4,4 V296 a4,4 0 0 1 -4,4 H300 Z" fill="#eb6834"/>
   <g font-size="13" fill="#0b0b0b">
-    <text x="288" y="60" text-anchor="end">PICN, tooth wear, up to 9 y [7]</text>
+    <text x="288" y="66" text-anchor="end">PICN, tooth wear, up to 9 y [7]</text>
     <text x="288" y="106" text-anchor="end">PICN, bruxism, 5 y [8]</text>
     <text x="288" y="180" text-anchor="end">PICN, 5 y [9]</text>
     <text x="288" y="210" text-anchor="end">Lithium disilicate, 5 y [9]</text>

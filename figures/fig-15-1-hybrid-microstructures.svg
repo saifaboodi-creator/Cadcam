@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" role="img" font-family="Inter, Carlito, 'DejaVu Sans', sans-serif">
   <title>Two microstructures of CAD/CAM resin-based materials</title>
   <desc>Left: dispersed-filler material, with separate ceramic or glass particles embedded in a continuous polymer matrix. Right: polymer-infiltrated ceramic network, in which a continuous porous ceramic network is infiltrated by polymer, giving two interpenetrating continuous phases.</desc>
-  <rect width="800" height="360" fill="#ffffff"/>
+  <rect width="800" height="380" fill="#ffffff"/>
   <text x="200" y="28" text-anchor="middle" font-size="15" font-weight="700" fill="#0b0b0b">Dispersed filler</text>
   <text x="200" y="46" text-anchor="middle" font-size="13" fill="#52514e">CAD/CAM composite, resin nanoceramic</text>
   <text x="600" y="28" text-anchor="middle" font-size="15" font-weight="700" fill="#0b0b0b">Polymer-infiltrated ceramic network</text>
@@ -32,6 +32,7 @@
     <rect x="0" y="-11" width="16" height="12" fill="#8fb8ec" stroke="#1a4f91"/><text x="22" y="0">ceramic / glass phase</text>
     <rect x="190" y="-11" width="16" height="12" fill="#fbe9c0" stroke="#52514e"/><text x="212" y="0">polymer phase</text>
     <text x="0" y="26" fill="#52514e">Left: separate particles in a continuous polymer. Right: a continuous ceramic network and a</text>
-    <text x="0" y="44" fill="#52514e">continuous polymer interpenetrate; PICN had higher strength and a more dentine-like modulus.</text>
+    <text x="0" y="44" fill="#52514e">continuous polymer interpenetrate. PICN had higher flexural strength and a more favourable</text>
+    <text x="0" y="62" fill="#52514e">elastic modulus than dispersed-filler materials.</text>
   </g>
 </svg>
