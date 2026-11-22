@@ -28,6 +28,7 @@ A 20-chapter, evidence-based English textbook, "CAD/CAM in Dentistry: From Scan 
 
 ## Commands (in `.claude/commands/`)
 - `/review-chapter NN` — independent fact-check of one chapter by parallel checkers plus a false-positive filter. Writes `reviews/NN-review.md`; edits nothing.
+- `/review-loop NN` — review in rounds: fixes only safe, source-confirmed errors, re-reviews until no critical/major findings remain (max 3 rounds); judgement calls are left for the author. Every fix is logged.
 - `/apply-review NN` — applies only the findings the author approved in `reviews/NN-review.md`.
 - `/build-book` — rebuilds the PDF, checks it, and saves the new version to the author's Google Drive.
 
