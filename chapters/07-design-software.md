@@ -43,7 +43,7 @@ The order varies between programs, but the logic is the same (Figure 7.1). The c
 
 ### 7.2.1 Why the margin is critical
 
-Every later step depends on the margin line. A margin set too short leaves an open margin. A margin set too long creates an overhang and a restoration that will not seat. On the screen, a margin error of one triangle can mean tens of micrometres in the mouth.
+Every later step depends on the margin line. A margin set too short leaves an open margin. A margin set too long creates an overhang and a restoration that will not seat. On the screen, a margin error of one triangle can mean tens of micrometres in the mouth (expert opinion).
 
 ### 7.2.2 Tools
 
@@ -53,7 +53,7 @@ Software offers:
 - **Manual placement** of points that the software joins along the surface;
 - **Editing tools** to drag the line, add points and smooth it.
 
-Colour information improves identification of the finish line on scans from some intraoral scanners [1]. AI is now used for margin detection. In one study, a deep-learning model trained on 1,113 prepared-tooth scans extracted the margin within **200 µm** of technician-defined margins in 70 of 78 test cases, and within **100 µm** in 62 [2]. That is promising, but 100–200 µm is too large a tolerance at a crown margin, so automated margins must always be checked.
+In an in vitro comparison of seven intraoral scanners, colour information improved identification of the finish line with some scanners [1]. AI is now used for margin detection. In one study, a deep-learning model trained on 1,035 prepared-tooth scans (1,113 in the whole dataset) extracted the margin within **200 µm** of technician-defined margins in 70 of 78 test cases, and within **100 µm** in 62 [2]. That is promising, but in our view 100–200 µm is too large a tolerance at a crown margin, so automated margins must always be checked.
 
 ### 7.2.3 Checking the margin
 
@@ -99,7 +99,7 @@ Where good anatomy already exists, copying is often the best option:
 AI design uses neural networks trained on large numbers of scans and technician-designed restorations to generate a restoration directly from the preparation and its surroundings.
 
 - A narrative review of generative deep-learning approaches found that most used **generative adversarial networks (GANs)** or **transformer** architectures, working on depth maps, point clouds or voxels. Reported reconstruction errors were roughly **half** those of conventional digital methods [4].
-- In one study, a 3D GAN designed premolar crowns that matched natural tooth morphology more closely than either a biogeneric or a technician design. The biogeneric crowns had steeper cusps (67°) than the natural teeth (54°) or the GAN crowns (49°). In finite-element simulation, the GAN crowns' stress distribution was closest to that of natural teeth [5].
+- In one study (12 test cases), a 3D GAN designed mandibular second premolar crowns that matched natural tooth morphology more closely than either a biogeneric or a technician design. The biogeneric crowns had steeper cusps (67°) than the natural teeth (54°) or the GAN crowns (49°). In in silico finite-element simulation, the GAN crowns' stress distribution was closest to that of natural teeth [5].
 
 Section 7.8 discusses the clinical evidence on AI design. Table 7.1 compares the four sources of a shape proposal.
 
@@ -108,9 +108,9 @@ Section 7.8 discusses the clinical evidence on AI design. Table 7.1 compares the
 | Source | How it works | Best suited to | Limitations |
 |---|---|---|---|
 | **Tooth library** | A digitised natural or idealised tooth is placed and adapted to the margin, neighbours and antagonist | Routine cases; choice of tooth style | Generic starting shape that usually needs editing |
-| **Biogeneric model** | A statistical model of tooth shape reconstructs the missing surface from the remaining tooth, neighbours and antagonists [3] | Posterior teeth with remaining structure | In one study, biogeneric crowns had steeper cusps (67°) than natural teeth (54°) [5] |
+| **Biogeneric model** | A statistical model of tooth shape (an average tooth plus a few principal components) [3], which the software fits to the remaining tooth, neighbours and antagonists | Posterior teeth with remaining structure | In one study, biogeneric crowns had steeper cusps (67°) than natural teeth (54°) [5] |
 | **Copy** | Pre-operative scan, provisional, approved wax-up or mock-up, or the mirrored contralateral tooth | Good existing anatomy or an approved design; mirroring for anterior teeth | Needs a usable source shape |
-| **AI generation** | Neural networks (GANs, transformers) trained on scans and technician designs [4] | Fast first drafts, especially single crowns (7.8) | Needs human checking; weaker for contacts, inlays and multi-unit FDPs (7.8) |
+| **AI generation** | Neural networks (GANs, transformers) trained on scans and technician designs [4] | Fast first drafts, especially single crowns (7.8) | Needs human checking; weaker for contacts, inlays and three-unit FDPs (7.8) |
 
 ---
 
@@ -141,7 +141,7 @@ Design parameters are the numbers that turn a shape into a restoration that can 
 
 | Parameter | What it controls | Key considerations |
 |---|---|---|
-| **Cement space (die spacer)** | Internal gap for the luting agent | Material- and machine-specific; the actual gap often differs from the set value [6–8] |
+| **Cement space (die spacer)** | Internal gap for the luting agent | Material- and machine-specific [6,7]; the actual gap often differs from the set value [6,8] |
 | **Distance from margin** to start of cement space | Fit at the margin | Too small risks binding; too large opens the margin |
 | **Minimum thickness** (occlusal, axial, marginal) | Strength and fracture resistance | Glass-ceramics need more thickness than zirconia; resin materials differ again |
 | **Margin thickness / edge reinforcement** | Chipping during milling; marginal integrity | Thin margins chip in brittle materials; some software adds a small reinforcement that is finished later |
@@ -154,9 +154,9 @@ Design parameters are the numbers that turn a shape into a restoration that can 
 
 Chapter 3 showed that:
 
-- the optimal cement-space setting differs between glass-ceramics and resin composites [6];
-- for printed resin crowns, a 70 µm setting gave the best overall fit in one study [7];
-- the actual internal gap matched an 80 µm target only at the margin, and occlusal gaps were consistently larger [8];
+- for CAD/CAM endocrowns in vitro, the optimal cement-space setting differed between ceramic and resin composite materials [6];
+- for printed resin crowns, a 70 µm setting gave the best overall fit in one in vitro study [7];
+- in a clinical study of CAD/CAM measurement copings, the internal gap almost matched an 80 µm target only at the margin, and occlusal gaps were consistently larger [8];
 - the cement-space setting is one of the four factors identified by systematic review as influencing marginal fit [9].
 
 **Calibrate** cement-space settings for each combination of material, machine and finishing protocol, and record them. Do not simply copy settings between systems.
@@ -175,7 +175,7 @@ Most software can show a colour-coded **thickness map** of the restoration. Use 
 
 ### 7.7.1 Static occlusion
 
-Static occlusion is designed against the opposing arch in the recorded maximum intercuspation (MIP). Its accuracy depends entirely on the bite record (Chapter 4). Penetration of the opposing teeth in the bite scan usually signals a record error [10].
+Static occlusion is designed against the opposing arch in the recorded maximum intercuspation (MIP). Its quality depends largely on the bite record and on how the arch scans are aligned (Chapter 4) [10]. The recorded maxillomandibular relationship is affected by the scanner, the scan extension, edentulous areas, the number, location and extension of the occlusal records, occlusal force, tooth mobility and the alignment method [10]. Penetration of the opposing teeth in the bite scan usually signals a record error (expert opinion; Chapter 4).
 
 Software tools let the operator:
 
@@ -191,13 +191,13 @@ Excursive contacts are designed in a **virtual articulator**. It can use:
 - **patient-specific settings** from a facebow, virtual facebow or protrusive and lateral records (Chapter 5);
 - **recorded jaw movements** from jaw tracking (Chapter 6).
 
-A virtual articulator is a valuable additional tool, especially in complex cases that involve a change in the vertical dimension of occlusion [11]. It is only as good as its input. With average values, it identifies obvious interferences but cannot reproduce an individual's chewing pattern.
+A review considers the virtual articulator an additional diagnostic and treatment-planning tool to the mechanical articulator, especially in complex cases that involve a change in the vertical dimension of occlusion [11]. It is only as good as its input. With average values, it identifies obvious interferences but cannot reproduce an individual's chewing pattern.
 
 ### 7.7.3 Does digital occlusal design work clinically?
 
-In a randomised clinical trial of single crowns and FDPs up to six units, restorations made from digital impressions had **better occlusal contacts** than those from conventional impressions [12]. Even so, occlusion designed on a screen is a plan. It still has to be checked and refined in the mouth.
+In a randomised clinical trial of 42 patients with single crowns and FDPs of up to six units, restorations made from digital impressions had **better occlusal contacts** than those from conventional impressions [12]. The trial compared impression techniques, not methods of occlusal design, so it supports on-screen occlusal design only indirectly. Occlusion designed on a screen is a plan. It still has to be checked and refined in the mouth.
 
-> **Clinical Tip.** Ask the laboratory to design single posterior crowns with **light or no occlusal contact** (for example, a target of 0 to 50 µm infra-occlusion), and adjust them to final contact in the mouth after cementation or bonding. Grinding a high glazed restoration removes the glaze and weakens some materials. Adding contacts later is much harder than removing them.
+> **Clinical Tip (expert opinion).** Ask the laboratory to design single posterior crowns with **light or no occlusal contact** (for example, a target of 0 to 50 µm infra-occlusion), and adjust them to final contact in the mouth after cementation or bonding. Grinding a high glazed restoration removes the glaze and weakens some materials. Adding contacts later is much harder than removing them.
 
 ---
 
@@ -207,18 +207,18 @@ AI design tools are now built into many CAD programs and offered as cloud servic
 
 ### 7.8.1 Tooth-supported crowns
 
-- Crowns designed by two deep-learning programs, compared with crowns designed by an experienced technician, showed **no significant differences in external or occlusal morphology**. Internal fit, occlusal contacts and proximal contacts did differ. Overall performance was judged clinically comparable to the technician's for internal fit and number of occlusal contacts [13].
-- Automatic crown designs varied with the occlusal scenario. A deep-learning program produced better clinical-quality posterior crowns than a conventional automated tool. Both performed less well for anterior crowns next to diastemas [14].
+- In a laboratory comparison on 30 scans of prepared posterior teeth, crowns designed by two deep-learning programs, compared with crowns designed by an experienced technician, showed **no significant differences in external or occlusal morphology**. Internal fit, occlusal contacts and proximal contacts did differ. Overall performance was judged clinically comparable to the technician's for internal fit and number of occlusal contacts [13].
+- In an in vitro study on typodonts, automatic crown designs varied with the occlusal scenario. A deep-learning program produced crowns of better clinical quality (FDI criteria) than a conventional automated tool, particularly posterior crowns, although its surface deviations from the pre-operative tooth were larger. The deep-learning program performed less well for anterior crowns next to diastemas [14].
 
 ### 7.8.2 Implant-supported crowns
 
-- Deep-learning-designed posterior implant crowns were far faster to produce and similar to technician designs in occlusal table, cusp angle, cusp height, proximal contacts and emergence profile. Technician refinement further improved contour and emergence angle [15].
-- A transformer-based AI model produced implant crowns closer to technician designs than two conventional software programs, with smaller overall contour deviations (about 439 µm versus 680–705 µm), fewer premature contacts and more natural concave emergence profiles. All automated methods produced less accurate **proximal contacts** than the technician [16].
+- In a study on 20 resin partially edentulous casts, deep-learning-designed posterior implant crowns were produced significantly more efficiently and were similar to technician designs in occlusal table area, cusp angle, cusp height, proximal contact intensity and emergence profile angle; the number and intensity of occlusal contacts differed. Technician refinement reduced contour deviations, and the authors suggest it could also improve the emergence profile angle [15].
+- In a proof-of-concept study (trained on 291 cases, validated on 20), a transformer-based AI model produced implant crowns closer to technician designs than two conventional software programs, with smaller overall contour deviations (about 439 µm versus 680–705 µm), fewer premature contacts and mostly concave emergence profiles similar to the technician's (the conventional programs often produced convex forms). All automated methods produced less accurate **proximal contacts** than the technician [16].
 
 ### 7.8.3 Systematic reviews
 
 - A systematic review of 15 studies found that AI-designed single anterior and posterior crowns were generally comparable to human designs. Proximal contacts, occlusion, incisal guidance and aesthetics still needed refinement by experienced operators. **Inlays and three-unit FDPs** were less clinically acceptable than human designs. AI consistently **saved design time**, especially for novice operators [17].
-- A systematic review and meta-analysis of 17 studies found clinically acceptable morphological accuracy, internal fit and occlusal-contact reproduction for AI crown design, with design time reduced by **25–50%**. The evidence was mainly in vitro and computational, with limited clinical validation and no long-term data [18].
+- A systematic review and meta-analysis of 17 studies found clinically acceptable morphological accuracy, internal fit and occlusal-contact reproduction for AI crown design, with design time reduced by **25–50%**. The evidence was mainly in vitro and computational, with limited prospective clinical validation and insufficient long-term follow-up [18].
 - A newer systematic review and meta-analysis (28 studies, 10 pooled) compared AI-assisted with conventional CAD software. Design time tended to be shorter with AI, but the pooled difference was **not statistically significant** (mean −258 s; 95% CI −543 to 26 s), and differences in morphology and fit were inconclusive. The evidence was almost entirely in vitro and highly heterogeneous. AI designs were generally clinically acceptable, but technician refinement still improved contour, emergence profile and occlusal contacts [19].
 - A systematic review of nine studies of **fully automated** single-crown design found consistently shorter working time than conventional digital or wax-up workflows and generally comparable marginal and internal fit. Results for morphology were mixed, and AI was not consistently superior [20].
 
@@ -230,13 +230,13 @@ The reviews agree that AI designs need human checking. They differ on time: thre
 
 | Restoration | Current evidence | Recommended use |
 |---|---|---|
-| Single posterior crown (tooth) | Comparable to technician; usually faster [13,17–20] | AI proposal plus human check of margin, contacts and occlusion |
+| Single posterior crown (tooth) | Comparable to technician [13,17–20]; usually faster [17,18,20], though not significantly in one meta-analysis [19] | AI proposal plus human check of margin, contacts and occlusion |
 | Single anterior crown | Generally comparable; weaker with diastemas and complex aesthetics [14,17] | AI proposal as a starting point; aesthetic refinement by an experienced operator |
-| Single implant crown (posterior) | Comparable morphology; proximal contacts weaker [15–17] | AI proposal plus refinement of contacts and emergence profile |
-| Inlays, multi-unit FDPs | Less acceptable than human design [17] | Human-led design; AI only for parts of the task |
+| Single implant crown (posterior) | Comparable morphology [15–17]; proximal contacts similar to the technician's in one study [15] but less accurate in another [16] | AI proposal plus refinement of contacts and emergence profile |
+| Inlays, three-unit FDPs | Less acceptable than human design [17] | Human-led design; AI only for parts of the task |
 | Complex rehabilitation | Little evidence | Human-led design |
 
-AI design is best seen as a **very fast first draft**. In line with broader guidance on AI in dentistry, it needs **continuous human oversight** and responsibility for the final design stays with the professional [21].
+AI design is best seen as a **very fast first draft**. In line with broader guidance on AI in dentistry, it needs **continuous human oversight** [21]. Responsibility for the final design stays with the professional (expert opinion).
 
 ---
 
@@ -259,12 +259,12 @@ Before sending a design to manufacture, check:
 
 ## Key Points
 
-- All dental CAD software follows the same logic: data, model preparation, **margin**, **insertion axis**, **proposal**, **editing**, **parameter checks**, output.
-- The **margin** is the most critical step. Check it in colour and geometry, and never design on an unclear margin [1,2].
+- Most dental CAD software follows the same logic: data, model preparation, **margin**, **insertion axis**, **proposal**, **editing**, **parameter checks**, output.
+- The **margin** is the most critical step. Check it in colour and geometry [1], verify automated margins [2], and never design on an unclear margin.
 - Shape proposals come from **libraries**, **biogeneric models** [3], **copying** (pre-operative scan, mock-up, mirroring) or **AI** [4,5].
 - **Design parameters** (cement space, thickness, connectors, contacts) must be matched to the material and machine and calibrated locally [6–9]. Use the thickness map every time.
 - Occlusion designed on screen is only as good as the bite record and articulator input [10,11]. Design posterior crowns slightly out of occlusion and adjust in the mouth.
-- **AI design** is comparable to technicians for single crowns and usually faster, but weaker for contacts, inlays and multi-unit FDPs; the evidence is mostly in vitro [13–20]. Use it as a first draft under human oversight [21].
+- **AI design** is comparable to technicians for single crowns and usually faster, but weaker for contacts, inlays and three-unit FDPs; the evidence is mostly in vitro [13–20]. Use it as a first draft under human oversight [21].
 
 ---
 
