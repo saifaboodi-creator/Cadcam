@@ -41,9 +41,9 @@
 <text x="500" y="322">build platform</text>
 </g>
 <g font-size="13" fill="#0b0b0b" text-anchor="middle">
-<text x="200" y="345">Homogeneous industrial material;</text>
-<text x="200" y="363">limited by bur size; high waste [5,10]</text>
-<text x="600" y="345">Low waste, complex shapes, batch builds;</text>
-<text x="600" y="363">layer lines and supports [10,11]</text>
+<text x="200" y="345">Homogeneous industrial material [5,12];</text>
+<text x="200" y="363">limited by bur size; high waste</text>
+<text x="600" y="345">Large, complex shapes, competitive accuracy [12];</text>
+<text x="600" y="363">low waste, batch builds; layer lines and supports</text>
 </g>
 </svg>
