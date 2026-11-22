@@ -29,7 +29,7 @@ Resume point for any new session. Update after every chapter.
 | 13 | Glass-Ceramics | `chapters/13-glass-ceramics.md` | Draft 1 | 25 | 0 | `chapters/13-glass-ceramics.notes.md` |
 | 14 | Zirconia | `chapters/14-zirconia.md` | Draft 1 | 28 | 0 | `chapters/14-zirconia.notes.md` |
 | 15 | Resin-Based and Hybrid Materials; Metals | `chapters/15-resins-hybrids-metals.md` | Draft 1 | 26 | 0 | `chapters/15-resins-hybrids-metals.notes.md` |
-| 16 | Chairside CAD/CAM in Restorative Dentistry | `chapters/16-chairside-cadcam.md` | Draft 1 | 21 | 1 | `chapters/16-chairside-cadcam.notes.md` |
+| 16 | Chairside CAD/CAM in Restorative Dentistry | `chapters/16-chairside-cadcam.md` | Draft 2 (reviewed) | 21 | 1 | `chapters/16-chairside-cadcam.notes.md` |
 | 17 | Digital Implant Dentistry | `chapters/17-digital-implant-dentistry.md` | Draft 1 | 25 | 0 | `chapters/17-digital-implant-dentistry.notes.md` |
 | 18 | Removable Prosthodontics | `chapters/18-removable-prosthodontics.md` | Draft 1 | 27 | 0 | `chapters/18-removable-prosthodontics.notes.md` |
 | 19 | Orthodontics and Other Specialties | `chapters/19-orthodontics-other-specialties.md` | Draft 1 | 26 | 0 | `chapters/19-orthodontics-other-specialties.notes.md` |
@@ -37,7 +37,7 @@ Resume point for any new session. Update after every chapter.
 
 ## Figures and tables
 - 57 original SVG figures in `figures/` (2–3 per chapter; style in `figures/FIGURE-STYLE.md`), 62 tables (at least 3 per chapter). Data charts reuse only numbers and citations already in the text. Each chapter's notes file lists its figures and tables under "Figures and tables added".
-- Preview a figure: `node tools/render_svg.js figures/<file>.svg`. Rebuild the PDF: `python3 -I tools/build_pdf.py` (220 pages after update 2026-11).
+- Preview a figure: `node tools/render_svg.js figures/<file>.svg`. Rebuild the PDF: `python3 -I tools/build_pdf.py` (221 pages after the Chapter 16 review, 2026-11-22).
 
 ## UNVERIFIED totals
 - Marked inline: Ch 10 (1), Ch 16 (1), Ch 20 (2) = 4.
@@ -45,10 +45,13 @@ Resume point for any new session. Update after every chapter.
 - **Book total: 8 UNVERIFIED items, all now marked inline.**
 - Chapter 8 survival data updated to Pjetursson 2026 (author request).
 
+## Independent reviews
+- **Ch 16** (2026-11-22): 30 confirmed findings (5 major, 25 minor), all approved and applied; refs 21 → 21; UNVERIFIED unchanged (1). Figure 16.3 labels updated.
+
 ## Quarterly literature updates
 - **Last update: 2026-11-17** (quarterly update 1; search window 2026-10-01 to 2026-11-17). Report: `updates/2026-11.md`. Next update due about 2027-02.
 - Update 1: 10 references added in 9 chapters (Ch 3, 4, 6, 7, 11, 14, 17, 18, 20); 3 reference entries completed (Ch 15 article numbers); 0 new UNVERIFIED items. Reference list entries across the book: 468 → 478.
 - Renumbering: where a new reference was added, `tools/renum.py` renumbered the chapter. Old → new maps are in each changed notes file under "Update 2026-11"; older notes sections use the old numbers.
 
 ## Blockers
-None. All 20 chapters at Draft 1 (Chapters 10–20 completed in one run; author review pending).
+None. All 20 chapters at Draft 1 except Chapter 16, now Draft 2 (reviewed): independent review `reviews/16-review.md`, all 30 findings applied 2026-11-22. Other chapters await independent review.
