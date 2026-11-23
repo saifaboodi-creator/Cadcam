@@ -24,13 +24,13 @@ Working manuscript for a comprehensive, evidence-based book on computer-aided de
 | Chapter | Status |
 |---|---|
 | Outline | Draft 1 |
-| 1. Introduction to CAD/CAM in Dentistry | Draft 1 |
-| 2. The Digital Workflow and Data Formats | Draft 1 |
-| 3. Accuracy in Digital Dentistry | Draft 1 |
-| 4. Intraoral Scanners | Draft 1 |
-| 5. Laboratory Scanners and Model Digitisation | Draft 1 |
-| 6. Three-Dimensional Imaging Beyond the Teeth | Draft 1 |
-| 7. Design Software: Principles and Tools | Draft 1 |
-| 8. Designing Tooth-Supported Restorations | Draft 1 |
-| 9. Designing Implant Restorations | Draft 1 |
-| 10–20 | Draft 1 (review notes: `chapters/NN-*.notes.md`; status in `PROGRESS.md`) |
+| 1. Introduction to CAD/CAM in Dentistry | Draft 2 (reviewed) |
+| 2. The Digital Workflow and Data Formats | Draft 2 (reviewed) |
+| 3. Accuracy in Digital Dentistry | Draft 2 (reviewed) |
+| 4. Intraoral Scanners | Draft 2 (reviewed) |
+| 5. Laboratory Scanners and Model Digitisation | Draft 2 (reviewed) |
+| 6. Three-Dimensional Imaging Beyond the Teeth | Draft 2 (reviewed) |
+| 7. Design Software: Principles and Tools | Draft 2 (reviewed) |
+| 8. Designing Tooth-Supported Restorations | Draft 2 (reviewed) |
+| 9. Designing Implant Restorations | Draft 2 (reviewed) |
+| 10–20 | Draft 2 (reviewed; review notes: `chapters/NN-*.notes.md`; status in `PROGRESS.md`) |
