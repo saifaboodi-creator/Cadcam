@@ -8,6 +8,7 @@ A 20-chapter, evidence-based English textbook, "CAD/CAM in Dentistry: From Scan 
 ## Files to read before working
 - `PROGRESS.md` — status, reference counts, UNVERIFIED totals, resume point.
 - `STYLE.md` — voice, chapter template, terminology, referencing.
+- `AUTHOR-VOICE.md` — how Saad writes; use it when drafting or polishing prose (STYLE.md wins on conflict).
 - `OUTLINE.md` — scope of each chapter.
 - `figures/FIGURE-STYLE.md` — before touching any figure.
 - `UPDATE-PROCEDURE.md` — only for quarterly literature updates.
