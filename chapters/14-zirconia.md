@@ -38,15 +38,33 @@ Pure zirconium dioxide (ZrO₂) exists in three crystal forms, depending on temp
 
 When pure zirconia cools from the tetragonal to the monoclinic phase, its volume increases by several percent **[UNVERIFIED]**, which cracks the material. To keep the tetragonal (or cubic) phase stable at room temperature, **stabilising oxides** are added. In dentistry this is almost always **yttria** (Y₂O₃); yttria-stabilised tetragonal zirconia polycrystal (Y-TZP) is the most widely used variant [2,3].
 
+**Verification note — Minor conflict.** The marked claim above could not be confirmed.
+
+| Claim not confirmed | Conflict | Reason | To resolve |
+|---|---|---|---|
+| Volume increase on t→m transformation | **Minor** | Uncited (the commonly cited value is about 3–5%) | A materials-science source |
+
 ### 14.2.2 Transformation toughening
 
 In yttria-stabilised tetragonal zirconia, the tetragonal phase is **metastable**: it is stable at room temperature but can still change to monoclinic under stress. When a crack approaches, the stress at its tip triggers the t → m transformation in the surrounding grains. The local volume expansion compresses the crack and slows its growth. This mechanism, **transformation toughening**, explains the high fracture toughness and strength of zirconia [3] **[UNVERIFIED]**.
+
+**Verification note — Minor conflict.** The marked claim above could not be confirmed.
+
+| Claim not confirmed | Conflict | Reason | To resolve |
+|---|---|---|---|
+| Transformation-toughening mechanism | **Minor** | Ref 3 (Kelly & Denry 2008) has a one-sentence abstract; full text not checked | Full text of ref 3, or cite Zhang & Lawn (ref 2) |
 
 The same metastability has a downside: under certain conditions the transformation can also happen **spontaneously** at the surface. This is **low-temperature degradation** (Section 14.5). Figure 14.1 contrasts the two.
 
 ![Grain-level schematic of transformation toughening and low-temperature degradation](../figures/fig-14-1-toughening-and-ageing.svg)
 
 **Figure 14.1** One transformation, two consequences. (A) Transformation toughening: tetragonal grains at a crack tip transform to the larger monoclinic phase, and the expansion compresses the crack [3] **[UNVERIFIED]**. (B) Low-temperature degradation: in the presence of water the same transformation starts spontaneously at the surface and spreads inward (Section 14.5). Schematic, not to scale.
+
+**Verification note — Minor conflict.** The marked claim above could not be confirmed.
+
+| Claim not confirmed | Conflict | Reason | To resolve |
+|---|---|---|---|
+| Transformation-toughening mechanism | **Minor** | Ref 3 (Kelly & Denry 2008) has a one-sentence abstract; full text not checked | Full text of ref 3, or cite Zhang & Lawn (ref 2) |
 
 ### 14.2.3 The strength–translucency trade-off
 
@@ -55,6 +73,13 @@ Light scattering in zirconia comes mainly from grain boundaries, pores, impuriti
 - reducing the **alumina** sintering aid [2];
 - reducing **porosity** **[UNVERIFIED]**;
 - adding **more yttria**, which introduces a proportion of optically isotropic **cubic** phase [2].
+
+**Verification note — Minor conflict.** The marked claims above could not be confirmed.
+
+| Claim not confirmed | Conflict | Reason | To resolve |
+|---|---|---|---|
+| Sources of light scattering | **Minor** | Uncited | Zhang & Lawn (ref 2) or a similar review |
+| Lower porosity increases translucency | **Minor** | Uncited | Zhang & Lawn (ref 2) or a similar review |
 
 Cubic grains scatter less light but do not undergo transformation toughening. More yttria therefore means **more translucency but less strength and toughness** [2,4,5]. In a laboratory study of additively manufactured partially stabilised zirconias, the material with more tetragonal phase and less yttria was stronger and tougher but less translucent, and more susceptible to ageing [5].
 
@@ -106,6 +131,12 @@ The layers do not have the same properties. In a laboratory study of four commer
 
 Most dental zirconia is milled in the **pre-sintered ("green" or "white") state**. In this state it is chalk-like and easy to machine. The restoration is milled oversized to allow for the roughly 20–25% linear shrinkage **[UNVERIFIED]** during sintering, which the CAM software calculates for each blank. **Hard machining** of fully sintered zirconia is also possible and avoids sintering shrinkage; the two routes differ in their possible clinical implications and consequences for long-term performance [1].
 
+**Verification note — Major conflict.** The marked claim above could not be confirmed.
+
+| Claim not confirmed | Conflict | Reason | To resolve |
+|---|---|---|---|
+| Same number as #20 | **Major** | No PubMed source found | Manufacturer data or a materials-science reference (fix both chapters together) |
+
 ### 14.4.2 Sintering programmes
 
 Sintering densifies the material and sets its final grain size, phase composition, translucency and strength. **Speed and high-speed sintering** programmes shorten firing from hours to minutes. They are essential for chairside zirconia (Chapter 16). Evidence on their effects is mixed:
@@ -132,6 +163,12 @@ Grinding zirconia after sintering can introduce surface flaws and residual stres
 ### 14.5.1 What it is
 
 **Low-temperature degradation (LTD)**, or ageing, is the slow, spontaneous t → m transformation at the surface of yttria-stabilised zirconia in the presence of water, at temperatures of interest for dentistry (room temperature to about 100 °C) [10,11]. It starts at the surface and progresses inwards (Figure 14.1B). It may also occur at the higher temperatures used in steam sterilisation, and can cause surface roughening, microcracking and, in severe cases, loss of strength **[UNVERIFIED]**.
+
+**Verification note — Major conflict.** The marked claim above could not be confirmed.
+
+| Claim not confirmed | Conflict | Reason | To resolve |
+|---|---|---|---|
+| Ageing during steam sterilisation and its damage | **Major** | Uncited general caution | An in vitro study of autoclaving zirconia |
 
 LTD came to wide attention after a series of fractures of zirconia hip prostheses (femoral heads) in 2001–2002. A review of the episode found that zirconia varies strongly in its susceptibility to in vivo degradation, because **processing has a strong influence on ageing**, and that zirconias from different vendors have different process-related microstructures [10].
 
@@ -215,6 +252,13 @@ Zirconia has no glass phase, so **hydrofluoric acid etching and silane do not wo
 
 During try-in, saliva contaminates the intaglio surface. Phosphate groups in saliva bind to zirconia and block later MDP bonding. Water rinsing alone does not remove them reliably **[UNVERIFIED]**. In one laboratory study of saliva-contaminated monolithic zirconia crowns that had not been air-abraded beforehand and were luted with self-adhesive resin cements, neither the cleaning method alone nor the cement alone made a significant difference. The combination of a zirconium-oxide-containing **universal cleaning agent** and a 10-MDP-containing cement gave significantly the highest bond strength, and air–water spray gave the lowest mean of the cleaning methods [28]. Re-abrasion with alumina is an alternative where the manufacturer allows it. **Phosphoric acid** should not be used to clean zirconia before MDP bonding, because it leaves phosphate on the surface **[UNVERIFIED]**.
 
+**Verification note — Major conflict.** The marked claims above could not be confirmed.
+
+| Claim not confirmed | Conflict | Reason | To resolve |
+|---|---|---|---|
+| Saliva phosphate blocks MDP bonding; rinsing is not enough | **Major** | Widely taught but uncited (Ozkan Ata 2025 was rejected because of an implausible bond strength of 1768 MPa) | A bond-strength study on saliva contamination |
+| Do not use phosphoric acid | **Major** | Widely taught but uncited (Ozkan Ata 2025 was rejected because of an implausible bond strength of 1768 MPa) | A bond-strength study on saliva contamination |
+
 ### 14.7.4 A practical protocol
 
 **Table 14.2** Cementation and bonding of zirconia restorations
@@ -226,6 +270,12 @@ During try-in, saliva contaminates the intaglio surface. Phosphate groups in sal
 | Resin-bonded FDP (single retainer) | APA (e.g., 50 µm alumina at low pressure) + MDP-containing luting resin [25–27]; rubber dam (expert opinion) |
 | After intraoral try-in | Clean with a zirconia-specific cleaning agent [28] or re-abrade; avoid phosphoric acid **[UNVERIFIED]** |
 | Ti-base bonding (implant) | Validated cement/primer system for zirconia and titanium (Chapter 9) |
+
+**Verification note — Major conflict.** The marked claim above could not be confirmed.
+
+| Claim not confirmed | Conflict | Reason | To resolve |
+|---|---|---|---|
+| Do not use phosphoric acid | **Major** | Widely taught but uncited (Ozkan Ata 2025 was rejected because of an implausible bond strength of 1768 MPa) | A bond-strength study on saliva contamination |
 
 > **Clinical Tip.** Air-abrade zirconia with **fine alumina at low pressure** (expert opinion; one long-term case report used 50 µm alumina at 0.25 MPa [27]). Aggressive abrasion with coarse particles or high pressure can introduce surface damage, particularly in translucent 4Y/5Y materials. Follow the material manufacturer's parameters.
 
@@ -251,12 +301,25 @@ During try-in, saliva contaminates the intaglio surface. Phosphate groups in sal
 ## Key Points
 
 - Zirconia gets its strength from **transformation toughening** of metastable tetragonal grains [3] **[UNVERIFIED]**. Higher yttria content adds **cubic** phase, which increases translucency but reduces strength and toughness [2,5].
+
+**Verification note — Minor conflict.** The marked claim above could not be confirmed.
+
+| Claim not confirmed | Conflict | Reason | To resolve |
+|---|---|---|---|
+| Transformation-toughening mechanism | **Minor** | Ref 3 (Kelly & Denry 2008) has a one-sentence abstract; full text not checked | Full text of ref 3, or cite Zhang & Lawn (ref 2) |
+
 - In laboratory studies, mean flexural strength is about **800 MPa for 4Y-PSZ** and **570 MPa for 5Y-PSZ**. On ISO 6872 criteria, 5Y-PSZ three-unit FDPs should be limited to the anterior region [4].
 - **Multilayer** blanks vary in strength between layers: in one laboratory study of four systems, dentine-layer means reached up to about 1,140 MPa and incisal layers fell to about 570 MPa, and only one system exceeded 800 MPa in all layers [6]. Nest restorations so that connectors sit in the strongest layers (expert recommendation).
 - Follow **validated sintering programmes**. Speed sintering can change properties, but the effects may not be clinically relevant [7,8]. **Polish** after any adjustment, and adjust high-yttria zirconia with caution [9].
 - **Low-temperature degradation** depends on stabiliser content, residual stress and grain size. It is strongly influenced by processing [10,11].
 - **Monolithic** zirconia crowns have 5-year survival similar to metal-ceramic crowns, with significantly less chipping than veneered designs [17]. Polished zirconia appears to cause little wear of opposing enamel [21,22].
 - Bond zirconia with **air-particle abrasion plus 10-MDP** [23–25]. After try-in, clean contaminated surfaces with a zirconia-specific cleaning agent [28]; avoid phosphoric acid **[UNVERIFIED]**.
+
+**Verification note — Major conflict.** The marked claim above could not be confirmed.
+
+| Claim not confirmed | Conflict | Reason | To resolve |
+|---|---|---|---|
+| Do not use phosphoric acid | **Major** | Widely taught but uncited (Ozkan Ata 2025 was rejected because of an implausible bond strength of 1768 MPa) | A bond-strength study on saliva contamination |
 
 ---
 

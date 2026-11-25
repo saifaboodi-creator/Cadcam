@@ -221,6 +221,12 @@ Evidence on chairside economics is limited. In vitro, chairside printing showed 
 
 In a randomised trial of 42 patients needing crowns or FDPs, digital impressions caused far less discomfort than conventional impressions and took less time [21]. Chairside treatment adds the benefit of a single visit. Controlled studies directly comparing single-visit chairside treatment with two-visit laboratory treatment for patient-reported outcomes are scarce **[UNVERIFIED — no such trial was located in this review]**.
 
+**Verification note — Minor conflict.** The marked claim above could not be confirmed.
+
+| Claim not confirmed | Conflict | Reason | To resolve |
+|---|---|---|---|
+| Such trials are scarce | **Minor** | Says evidence is absent; the search was not exhaustive | A systematic PubMed search |
+
 ### 16.6.4 Team training
 
 Chairside success depends on the whole team:

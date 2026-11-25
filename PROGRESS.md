@@ -37,10 +37,11 @@ Resume point for any new session. Update after every chapter.
 
 ## Figures and tables
 - 57 original SVG figures in `figures/` (2–3 per chapter; style in `figures/FIGURE-STYLE.md`), 62 tables (at least 3 per chapter). Data charts reuse only numbers and citations already in the text. Each chapter's notes file lists its figures and tables under "Figures and tables added".
-- Preview a figure: `node tools/render_svg.js figures/<file>.svg`. Rebuild the PDF: `python3 -I tools/build_pdf.py` (226 pages after the full independent review, 2026-11-22).
+- Preview a figure: `node tools/render_svg.js figures/<file>.svg`. Rebuild the PDF: `python3 -I tools/build_pdf.py` (226 pages after the full independent review, 2026-11-22; 234 pages after the verification notes were added, 2026-11-25).
 
 ## UNVERIFIED totals
 - After the independent review (2026-11-22), inline marks per chapter: Ch 1 (8), Ch 2 (2), Ch 3 (4), Ch 4 (3), Ch 5 (2), Ch 10 (1), Ch 11 (3), Ch 14 (12), Ch 16 (1), Ch 20 (3) = **39 inline marks**. Each is listed in the chapter's notes file (one item can carry several marks, e.g. the same claim in text, caption and Key Points).
+- **Verification notes (2026-11-25, author request):** 29 note tables, one under each paragraph, caption, table or Key Point that carries a mark, graded **10 major / 29 minor** marks (rule in `STYLE.md`; master list `reviews/UNVERIFIED-table.md`). Inline mark count unchanged (39). Draft PDF rebuilt (234 pages, `build/`); not yet saved to Drive.
 - New marks came from review fixes that the PubMed abstract could not confirm (e.g. Ch 14 phosphoric acid and shrinkage figures; Ch 1 Duret claims; Ch 2 GDPR/HIPAA; Ch 5 mounting methods).
 - Chapter 8 survival data updated to Pjetursson 2026 (author request).
 

@@ -200,6 +200,12 @@ Scanning, design and manufacturing are often delegated. Assistants and technicia
 
 Crowns, fixed dental prostheses (FDPs), dentures, splints, aligners and surgical guides are **medical devices**. Most are **custom-made**: made for one named patient to a written prescription from an authorised professional. In most jurisdictions this carries obligations for whoever designs and manufactures the device, including documentation, traceability, use of materials intended for that purpose, and a statement of conformity to the relevant requirements. The details depend on jurisdiction: in the European Union, the **Medical Device Regulation (EU MDR)** applies; in the United States, the **Food and Drug Administration (FDA)** regulates dental devices and materials. Specific classifications and obligations for each device type, and how they apply to in-house (chairside or hospital) manufacture, should be checked against current national guidance **[UNVERIFIED — regulatory specifics not confirmed against primary legal texts]**.
 
+**Verification note — Minor conflict.** The marked claim above could not be confirmed.
+
+| Claim not confirmed | Conflict | Reason | To resolve |
+|---|---|---|---|
+| Regulatory obligations for custom-made devices | **Minor** | General knowledge; primary legal texts not checked | Cite the EU MDR (Annex XIII) and FDA sources |
+
 ### 20.6.2 Point-of-care manufacturing
 
 When a practice or hospital mills or prints devices itself, it takes on part of the role of a manufacturer. An example of how this can be organised is an academic point-of-care manufacturing unit certified to ISO 13485 in a Spanish university hospital, which produced 442 3D-printed devices for oral and maxillofacial surgery over about eight years, mostly anatomical models (about 68%), surgical guides (20%) and patient-specific implants (7%) [18]. The authors presented it as a model for integrating additive manufacturing into clinical practice while maintaining regulatory compliance [18].
@@ -214,6 +220,12 @@ For a typical dental practice, the practical principles are:
 ### 20.6.3 Liability
 
 Responsibility does not disappear when a machine or an algorithm does part of the work. The prescribing clinician remains responsible for diagnosis, the treatment plan, the prescription and the final fitting of the device. Where AI proposes a design or a diagnosis, continuous human oversight should be expected [19]; how responsibility is shared for AI-assisted work is still an open question [19], so the general principle above applies. Contracts with laboratories and software providers should make clear who is responsible for what, including data protection (Chapter 2) **[UNVERIFIED — general principle; legal specifics vary by jurisdiction]**.
+
+**Verification note — Minor conflict.** The marked claim above could not be confirmed.
+
+| Claim not confirmed | Conflict | Reason | To resolve |
+|---|---|---|---|
+| Clinician stays responsible; how liability is shared | **Minor** | General principle; differs by jurisdiction | Leave as a general principle, or cite a legal source |
 
 ---
 
@@ -277,6 +289,13 @@ Used with these principles, CAD/CAM does not replace clinical judgement or craft
 - In a dental-school study, a **digital prescription platform** with mandatory fields produced more complete forms, and users reported better communication [11]. Agree design-approval procedures with the laboratory.
 - Digital impressions can be taught early [12,13]. **VR and haptics** are promising adjuncts with methodologically limited evidence [15–17].
 - Dental devices are **regulated medical devices**, and in-house manufacture brings documentation, traceability and quality obligations (Section 20.6) **[UNVERIFIED — regulatory specifics not confirmed against primary legal texts]**. An ISO 13485-certified hospital point-of-care unit shows one way to organise this [18]. AI-assisted work requires continuous human oversight [19]; responsibility stays with the professional (Section 20.6.3).
+
+**Verification note — Minor conflict.** The marked claim above could not be confirmed.
+
+| Claim not confirmed | Conflict | Reason | To resolve |
+|---|---|---|---|
+| Regulatory obligations for custom-made devices | **Minor** | General knowledge; primary legal texts not checked | Cite the EU MDR (Annex XIII) and FDA sources |
+
 - AI, the **digital twin**, sustainability and teledentistry are likely to shape the field's future [19–28], but each requires evidence, data security and human oversight.
 
 ---

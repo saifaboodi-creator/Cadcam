@@ -33,6 +33,7 @@ See `.claude/commands/` (`/review-chapter`, `/review-loop`, `/apply-review`, `/b
 ## Lessons from the author
 <!-- One line per correction, newest last. Format: YYYY-MM-DD — rule. -->
 - 2026-11-17 — Write reports and summaries for the author in English.
+- 2026-11-25 — Lists of open items (e.g. UNVERIFIED) go next to the paragraph they concern, on the same page, never in an appendix (see `STYLE.md`).
 
 ## Commit
 Commit in logical steps on `claude/cad-cam-dentistry-book-5d2foe`. Update `PROGRESS.md` after each chapter.

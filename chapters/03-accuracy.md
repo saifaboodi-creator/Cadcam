@@ -36,6 +36,12 @@ The international standard ISO 5725-1 defines **accuracy** as the combination of
 - **Trueness:** how closely the average of repeated measurements matches the true (reference) value. Poor trueness reflects **systematic** error, or bias.
 - **Precision:** how closely repeated measurements agree with each other. Poor precision reflects **random** error.
 
+**Verification note — Minor conflict.** The marked claim above could not be confirmed.
+
+| Claim not confirmed | Conflict | Reason | To resolve |
+|---|---|---|---|
+| ISO 5725-1 definition | **Minor** | ISO standards are not on PubMed; edition and wording not checked | Check the ISO catalogue entry |
+
 A target-shooting analogy is helpful (Table 3.1).
 
 **Table 3.1** Trueness and precision explained with a target
@@ -69,6 +75,12 @@ Studies often report repeatability alone and call it "precision". Clinically, re
 ### 3.2.4 Standards for dental digitisers
 
 ISO 12836 sets out test methods for assessing the accuracy of digitising devices used for CAD/CAM indirect restorations. It uses defined test objects (inlay, crown and multi-unit geometries) [2] **[UNVERIFIED]**. Manufacturers' accuracy claims are often based on such laboratory tests, which do not reproduce saliva, movement, limited access or soft tissue.
+
+**Verification note — Minor conflict.** The marked claim above could not be confirmed.
+
+| Claim not confirmed | Conflict | Reason | To resolve |
+|---|---|---|---|
+| Test objects in ISO 12836 | **Minor** | ISO standards are not on PubMed; edition and wording not checked | Check the ISO 12836 text |
 
 ---
 
@@ -171,6 +183,12 @@ Holmes and colleagues considered the **absolute marginal discrepancy** perhaps t
 
 No threshold for marginal fit is supported by strong clinical evidence. The figure most often cited is **120 µm**, which comes from McLean and von Fraunhofer's in vivo study of cement film thickness [19] **[UNVERIFIED]**. It is still used as the limit of acceptability in recent studies, for example [20]. Treat it as a convention, not a biological threshold.
 
+**Verification note — Major conflict.** The marked claim above could not be confirmed.
+
+| Claim not confirmed | Conflict | Reason | To resolve |
+|---|---|---|---|
+| 120 µm marginal-gap threshold comes from ref 19 | **Major** | Ref 19 (1971) has no abstract on PubMed | Full text of McLean & von Fraunhofer 1971 |
+
 Within that convention, ceramic and CAD/CAM restorations generally perform well:
 
 - A systematic review of 54 studies (48 in vitro, 6 in vivo) covering 17 ceramic crown systems found that 94.9% of all reported marginal gaps were clinically acceptable. The studies were too heterogeneous for meta-analysis. Four factors influenced marginal fit: finish-line design, the cement-space setting, veneering and cementation [21].
@@ -265,6 +283,13 @@ Before applying an accuracy study to your practice, ask:
 - **Best-fit alignment** can hide systematic distortion. Compare results only between studies that use the same alignment method and metric.
 - Intraoral scanning is accurate enough for single units and short spans. **Complete-arch and multi-implant scans** remain the weakest link [12]. Splinting scan bodies improves linear but not angular trueness [13]; photogrammetry is clinically acceptable [14] and more true and precise than intraoral scanning [15,16].
 - Fit should be described in standard terms [18]. The 120 µm threshold for marginal gaps [19] **[UNVERIFIED]** is a convention. Most ceramic restorations in fit studies fall within it [21], and digital and conventional impressions give similar marginal fit for single-unit ceramic restorations [23].
+
+**Verification note — Major conflict.** The marked claim above could not be confirmed.
+
+| Claim not confirmed | Conflict | Reason | To resolve |
+|---|---|---|---|
+| 120 µm marginal-gap threshold comes from ref 19 | **Major** | Ref 19 (1971) has no abstract on PubMed | Full text of McLean & von Fraunhofer 1971 |
+
 - Measured fit depends heavily on the **measurement method** [24,26].
 - **Cement-space settings are material- and machine-specific** and must be calibrated locally [20,25,27,28].
 - In vitro, milled zirconia fits slightly better at the margin than printed zirconia, and both are within clinically acceptable limits [29,31]. Always check fit **after** final heat treatment [30].

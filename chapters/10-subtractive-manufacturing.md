@@ -170,6 +170,12 @@ Many CAD/CAM materials are machined in a softer intermediate state and then heat
 
 Most zirconia is milled in the **pre-sintered ("green" or "white") state**. It is chalky and easy to machine, and is then sintered at high temperature to full density. During sintering it **shrinks** substantially (in the order of 20–25% linearly, depending on the product **[UNVERIFIED: typical value; check manufacturer data]**). The CAM software enlarges the design by a batch-specific factor to compensate, which is why zirconia blanks typically carry a batch-specific enlargement code.
 
+**Verification note — Major conflict.** The marked claim above could not be confirmed.
+
+| Claim not confirmed | Conflict | Reason | To resolve |
+|---|---|---|---|
+| 20–25% linear sintering shrinkage | **Major** | No PubMed source found | Manufacturer data or a materials-science reference |
+
 Errors in shrinkage compensation or in the sintering programme affect fit. Several in vitro studies have compared conventional and speed-sintering programmes:
 
 - Zirconia crowns from a fast-sintering programme had **larger marginal gaps** than conventionally sintered crowns. Both groups were below the clinically acceptable limit used in that study (90 µm) [15].

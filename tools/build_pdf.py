@@ -67,6 +67,14 @@ p.cap { break-after: avoid; page-break-after: avoid; margin-bottom: 3pt; text-al
 p.cap + table tr:first-child, p.cap + table thead { break-before: avoid; }
 .chapter h2#references + ol, .refs { font-size: 8.8pt; }
 .refs p, .refs li { text-align: left; hyphens: none; word-break: break-word; }
+.vnote { margin: 4pt 0 10pt; padding: 5pt 7pt 1pt; border: 0.8pt solid #d9a400; border-left: 3pt solid #d9a400;
+         background: #fffaf0; break-inside: avoid; }
+.keep { break-inside: avoid; }
+.vnote.major { border-color: #b3261e; background: #fdf1f0; }
+.vnote p { margin: 0 0 3pt; font-size: 8.8pt; text-align: left; font-family: 'Inter','Carlito','DejaVu Sans',sans-serif; }
+.vnote table { margin: 0 0 4pt; font-size: 8pt; background: #fff; }
+.vnote.major p strong, .vnote.major td strong { color: #b3261e; }
+.vnote.minor p strong, .vnote.minor td strong { color: #7a4b00; }
 .unv { background: #fff1c7; color: #7a4b00; font-weight: 700; padding: 0 2pt; border-radius: 2pt; white-space: nowrap; }
 /* title page */
 .titlepage { height: 245mm; display: flex; flex-direction: column; justify-content: center; break-after: page; }
@@ -92,6 +100,31 @@ p.cap + table tr:first-child, p.cap + table thead { break-before: avoid; }
 """
 
 
+def keep_with_previous(out):
+    """Wrap each verification note with the block just before it (paragraph, list, table or figure),
+    so the note is printed on the same page as the text it refers to."""
+    pieces, pos = [], 0
+    for m in re.finditer(r'<div class="vnote [a-z]+">.*?</table></div>', out, flags=re.S):
+        before = out[pos:m.start()].rstrip()
+        tag = re.search(r'</(p|ul|ol|table|figure)>$', before)
+        if not tag:
+            pieces.append(out[pos:m.end()]); pos = m.end(); continue
+        name = tag.group(1)
+        start = max(before.rfind(f'<{name}>'), before.rfind(f'<{name} '))
+        if name in ('ul', 'ol'):  # include a lead-in paragraph that ends with a colon
+            lead = re.search(r'<p>(?:(?!<p[ >]).)*?:(?:</strong>)?(?:\s*<span class="unv">\[UNVERIFIED\]</span>)?:?</p>\s*$',
+                             before[:start], flags=re.S)
+            if lead: start = lead.start()
+        if name == 'table':
+            cap = re.search(r'<p class="cap">(?:(?!<p[ >]).)*?</p>\s*$', before[:start], flags=re.S)
+            if cap: start = cap.start()
+        pieces.append(before[:start])
+        pieces.append(f'<div class="keep">{before[start:]}\n{m.group(0)}</div>')
+        pos = m.end()
+    pieces.append(out[pos:])
+    return ''.join(pieces)
+
+
 def chapter_html(path):
     out = subprocess.run(
         ["pandoc", "-f", "gfm", "-t", "html5", "--wrap=none", str(path)],
@@ -105,6 +138,11 @@ def chapter_html(path):
     # Keep table captions ("Table N.N ...") on the same page as their table.
     out = re.sub(r'<p>(<strong>Table \d+\.\d+</strong>.*?)</p>\s*(<table>)',
                  r'<p class="cap">\1</p>\n\2', out, flags=re.S)
+    # Verification notes (author request 2026-11-25): keep each note box with its table, on the same page.
+    out = re.sub(r'<p>(<strong>Verification note — (Major|Minor) conflict\.</strong>.*?)</p>\s*(<table>.*?</table>)',
+                 lambda m: f'<div class="vnote {m.group(2).lower()}"><p>{m.group(1)}</p>{m.group(3)}</div>',
+                 out, flags=re.S)
+    out = keep_with_previous(out)
     # Wrap the reference list for smaller type.
     out = re.sub(r'(<h2 id="references">References</h2>\s*)(<ol>.*?</ol>)',
                  r'\1<div class="refs">\2</div>', out, flags=re.S)

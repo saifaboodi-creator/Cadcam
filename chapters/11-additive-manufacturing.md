@@ -41,6 +41,13 @@ Process families after [2,3]; the LCD/MSLA, ceramic-slurry and binder-jetting en
 
 Vat photopolymerisation (SLA, DLP and LCD) dominates in practices and laboratories because it is affordable and accurate, and because a wide range of dental resins is available **[UNVERIFIED]**. Powder bed fusion dominates metal printing, usually in production centres **[UNVERIFIED]**.
 
+**Verification note — Minor conflict.** The marked claims above could not be confirmed.
+
+| Claim not confirmed | Conflict | Reason | To resolve |
+|---|---|---|---|
+| Vat photopolymerisation dominates resin printing | **Minor** | Not in any cited abstract | A market or survey source, or soften the wording |
+| Powder bed fusion dominates metal printing | **Minor** | Not in any cited abstract | A market or survey source, or soften the wording |
+
 The three vat photopolymerisation technologies differ in how they deliver light to each layer (Figure 11.1).
 
 ![Schematic of SLA, DLP and LCD vat photopolymerisation printers](../figures/fig-11-1-vat-photopolymerisation.svg)
@@ -222,6 +229,13 @@ A printed device made with an approved resin but the wrong post-processing is ef
 ## Key Points
 
 - **Vat photopolymerisation** (SLA, DLP, LCD) is the main technology for resin printing in dentistry, and **selective laser melting** for metal printing **[UNVERIFIED]**.
+
+**Verification note — Minor conflict.** The marked claim above could not be confirmed.
+
+| Claim not confirmed | Conflict | Reason | To resolve |
+|---|---|---|---|
+| Vat photopolymerisation dominates resin printing; Powder bed fusion dominates metal printing | **Minor** | Not in any cited abstract | A market or survey source, or soften the wording |
+
 - Build orientation and layer thickness can affect trueness, fit and properties, but the effects depend on device, resin and printer, and one full-arch model study found no significant effect of orientation [5–11]. There is no universal best setting. Washing and post-curing must follow validated protocols (Section 11.6).
 - In vitro, printed full-arch **models** were clinically acceptable [8,12], and printer type did not significantly affect implant position with printed **guides** [13].
 - In vitro, printed **definitive resin** crowns had lower fracture resistance than milled ones, especially after ageing (low to very low certainty) [15]. Clinical data are scarce; a 1-year trial found more wear and numerically more fractures than zirconia [17].

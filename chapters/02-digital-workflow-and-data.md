@@ -171,6 +171,13 @@ Retention periods for dental records vary by country. Intraoral scans, like plas
 
 It is easy to think of an intraoral scan as "just a shape". Legally, it is not. An analysis of the European **General Data Protection Regulation (GDPR)** concluded that a 3D intraoral scan is **biometric data**. Features such as the palatal rugae pattern are stable enough to identify a person regardless of age or dental treatment. A plaster model is not itself personal data, but both the model and the scan are part of the medical record [11]. Biometric data must be processed in line with GDPR [11]; under the Regulation, biometric and health data are special categories with stricter processing rules **[UNVERIFIED]**. In the United States, the HIPAA Privacy and Security Rules govern health information held by dental practices and by their business associates, which can include cloud providers **[UNVERIFIED]**.
 
+**Verification note — Minor conflict.** The marked claims above could not be confirmed.
+
+| Claim not confirmed | Conflict | Reason | To resolve |
+|---|---|---|---|
+| GDPR special categories | **Minor** | Not in the abstract of ref 11; legal point | Cite GDPR Article 9 |
+| HIPAA scope | **Minor** | Uncited | Cite an HHS source |
+
 ### 2.7.2 Practical safeguards
 
 GDPR sets the goals but does not dictate the technical means. ISO or NIST standards can help a practice or laboratory build an appropriate data-security system [11]. A minimum set of safeguards includes:

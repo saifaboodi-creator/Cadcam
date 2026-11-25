@@ -35,6 +35,12 @@ Every scanner does three things [1]:
 
 The main principles in use are summarised in Table 4.1 [1,4] **[UNVERIFIED]**. Many current devices combine more than one principle and rely heavily on software processing.
 
+**Verification note — Minor conflict.** The marked claim above could not be confirmed.
+
+| Claim not confirmed | Conflict | Reason | To resolve |
+|---|---|---|---|
+| How each optical principle measures depth (Table 4.1) | **Minor** | Taken from general technical knowledge; the abstracts of refs 1 and 4 do not describe it | Full texts of refs 1 and 4, or a check by an optics reviewer |
+
 **Table 4.1** Optical principles used in intraoral scanners
 
 | Principle | How depth is measured | Practical notes |
@@ -191,6 +197,12 @@ Figure 4.3 shows the recommended record locations.
 
 **Figure 4.3** Recommended locations for digital bite records, following the systematic review in [18]. Schematic occlusal views; the shaded teeth are covered by the buccal bite scans. The number of teeth drawn in each record is one reading of the review's wording, which does not say whether the counts apply per record or in total **[UNVERIFIED]**.
 
+**Verification note — Major conflict.** The marked claim above could not be confirmed.
+
+| Claim not confirmed | Conflict | Reason | To resolve |
+|---|---|---|---|
+| Tooth counts for digital bite records | **Major** | The abstract of ref 18 is ambiguous (per record or in total); no PMC full text | Full text of Revilla-León 2023 |
+
 > **Lab Note.** If the bite alignment looks wrong, for example with heavy penetration of the opposing teeth into each other or no contacts at all, ask for a new bite scan rather than adjusting the occlusion in the design software. Penetrations in a digital bite are usually record errors, not real contacts.
 
 ### 4.7.3 Beyond static occlusion
@@ -279,6 +291,13 @@ The guidance manufacturers provide on tip reprocessing is often limited [10]. Pr
 ## Key Points
 
 - Intraoral scanners project light, measure distance using one or more optical principles (Table 4.1) [1,4] **[UNVERIFIED]**, and **stitch** many images into a 3D model. Stitching error grows with scan length.
+
+**Verification note — Minor conflict.** The marked claim above could not be confirmed.
+
+| Claim not confirmed | Conflict | Reason | To resolve |
+|---|---|---|---|
+| How each optical principle measures depth (Table 4.1) | **Minor** | Taken from general technical knowledge; the abstracts of refs 1 and 4 do not describe it | Full texts of refs 1 and 4, or a check by an optics reviewer |
+
 - Devices differ in complete-arch accuracy [9] and especially in how clearly they capture the **finish line** [6]. Choose a device using independent evidence and your own indications.
 - Do not scan in darkness, which gave the lowest mesh quality [12]. In vitro, trueness was best at 500 lux and 3,900 K, and very bright light (2,500 lux) lengthened scanning time [11]. Keep the field dry: in vitro, saliva reduced scanning trueness, especially at subgingival margins [13].
 - Follow a **consistent, manufacturer-recommended scanning strategy**. Scanning occlusal-palatal first and buccal on the return improved precision for one scanner in vitro [15]; in another study, most scanners tolerated different strategies [16].

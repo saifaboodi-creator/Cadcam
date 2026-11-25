@@ -1,6 +1,6 @@
 # UNVERIFIED items in the book, with their paragraphs and conflict level
 
-Prepared for the author on 2026-11-25. Source: the 39 inline **[UNVERIFIED]** marks in `chapters/*.md` (count matches `PROGRESS.md`) and the "UNVERIFIED items" lists in each chapter's `.notes.md` file. **No chapter text was changed.**
+Prepared for the author on 2026-11-25. Source: the 39 inline **[UNVERIFIED]** marks in `chapters/*.md` (count matches `PROGRESS.md`) and the "UNVERIFIED items" lists in each chapter's `.notes.md` file. Since 2026-11-25 each item also appears in the book as a "Verification note" table directly under its paragraph (29 notes in 10 chapters). This file is the master list.
 
 ## How the conflict level was assigned
 

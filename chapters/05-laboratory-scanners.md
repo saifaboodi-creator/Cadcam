@@ -185,6 +185,13 @@ Approaches include:
 - **Virtual facebow.** The relationship of the maxillary arch to the face or skull is recorded digitally, by scanning a facebow fork or using a facial scan or CBCT, and the arch is mounted in the virtual articulator [12].
 - **Average-value mounting.** The casts are placed in a standard (Bonwill or Balkwill) position. This is fast but ignores the individual patient's anatomy. **[UNVERIFIED]**
 
+**Verification note — Minor conflict.** The marked claims above could not be confirmed.
+
+| Claim not confirmed | Conflict | Reason | To resolve |
+|---|---|---|---|
+| Mounting-plate scanning method | **Minor** | Not in the abstract of ref 12; no PMC full text | A laboratory-technique source |
+| Average-value mounting | **Minor** | Not in the abstract of ref 12; no PMC full text | A laboratory-technique source |
+
 ### 5.7.3 Evidence
 
 - In a clinical study of 15 participants, a **CBCT-based virtual mounting** was more precise across repeated mountings than **conventional facebow mounting**. Conventional mounting also produced a steeper occlusal plane angle (8.1° versus 2.1°) [13].
